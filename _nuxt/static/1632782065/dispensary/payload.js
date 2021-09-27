@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dispensary", {data:[{}],fetch:{},mutations:[]});
