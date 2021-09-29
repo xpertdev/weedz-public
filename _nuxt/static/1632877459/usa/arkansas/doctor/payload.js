@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/doctor", {data:[{}],fetch:{},mutations:[]});

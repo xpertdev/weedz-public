@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/west-virginia/dispensary", {data:[{}],fetch:{},mutations:[]});

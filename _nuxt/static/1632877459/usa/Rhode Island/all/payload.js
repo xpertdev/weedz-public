@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/Rhode%20Island/all", {data:[{}],fetch:{},mutations:[]});

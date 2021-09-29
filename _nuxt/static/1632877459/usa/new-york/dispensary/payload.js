@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/dispensary", {data:[{}],fetch:{},mutations:[]});
