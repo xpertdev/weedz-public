@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/doctor/delta-9-herbal-evaluations", {data:[{}],fetch:{},mutations:[]});

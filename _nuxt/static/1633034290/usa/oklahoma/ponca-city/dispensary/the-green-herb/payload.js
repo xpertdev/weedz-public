@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ponca-city/dispensary/the-green-herb", {data:[{}],fetch:{},mutations:[]});

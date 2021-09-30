@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/doctor/relaxed-clarity-pueblo", {data:[{}],fetch:{},mutations:[]});

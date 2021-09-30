@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sunnyvale/delivery/hip-hop-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/champaign/dispensary/sunnyside-champaign", {data:[{}],fetch:{},mutations:[]});

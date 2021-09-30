@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/daytona-beach/doctor/angelic-lift-marijuana-doctor-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/woodbury/dispensary/green-goods-woodbury", {data:[{}],fetch:{},mutations:[]});

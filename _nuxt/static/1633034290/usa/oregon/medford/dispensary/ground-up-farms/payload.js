@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/dispensary/ground-up-farms", {data:[{}],fetch:{},mutations:[]});

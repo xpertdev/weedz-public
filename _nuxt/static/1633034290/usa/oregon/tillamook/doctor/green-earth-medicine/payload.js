@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/tillamook/doctor/green-earth-medicine", {data:[{}],fetch:{},mutations:[]});

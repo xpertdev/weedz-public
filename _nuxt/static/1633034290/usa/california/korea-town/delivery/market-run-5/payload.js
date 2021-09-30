@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town/delivery/market-run-5", {data:[{}],fetch:{},mutations:[]});

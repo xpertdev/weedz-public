@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bakersfield/delivery/casa-cannabis-delivery-5", {data:[{}],fetch:{},mutations:[]});

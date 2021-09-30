@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/gambrills/dispensary/greenlight-therapeutics", {data:[{}],fetch:{},mutations:[]});

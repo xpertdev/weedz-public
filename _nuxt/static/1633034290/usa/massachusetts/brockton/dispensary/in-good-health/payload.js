@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/brockton/dispensary/in-good-health", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/central-los-angeles/delivery/golden-leaf-scientific-1", {data:[{}],fetch:{},mutations:[]});

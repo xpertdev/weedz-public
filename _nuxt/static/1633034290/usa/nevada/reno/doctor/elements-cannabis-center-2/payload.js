@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/reno/doctor/elements-cannabis-center-2", {data:[{}],fetch:{},mutations:[]});

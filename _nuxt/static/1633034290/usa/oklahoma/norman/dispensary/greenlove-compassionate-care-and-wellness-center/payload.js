@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/greenlove-compassionate-care-and-wellness-center", {data:[{}],fetch:{},mutations:[]});

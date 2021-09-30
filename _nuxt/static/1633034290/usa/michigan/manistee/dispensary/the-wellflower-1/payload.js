@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/manistee/dispensary/the-wellflower-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-santa-margarita/delivery/green-cross-delivery-1221", {data:[{}],fetch:{},mutations:[]});

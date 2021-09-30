@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/green-earth-delivery", {data:[{}],fetch:{},mutations:[]});

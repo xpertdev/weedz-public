@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-hollywood/store/kanep", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/revitalize-wellness", {data:[{}],fetch:{},mutations:[]});

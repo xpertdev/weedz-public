@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lansing/dispensary/altum-llc", {data:[{}],fetch:{},mutations:[]});

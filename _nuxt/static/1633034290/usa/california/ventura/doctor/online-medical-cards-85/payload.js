@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ventura/doctor/online-medical-cards-85", {data:[{}],fetch:{},mutations:[]});

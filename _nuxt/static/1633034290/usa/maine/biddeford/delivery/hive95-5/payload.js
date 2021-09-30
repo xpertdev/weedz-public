@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/biddeford/delivery/hive95-5", {data:[{}],fetch:{},mutations:[]});

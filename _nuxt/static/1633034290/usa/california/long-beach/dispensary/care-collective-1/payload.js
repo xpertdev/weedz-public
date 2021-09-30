@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/dispensary/care-collective-1", {data:[{}],fetch:{},mutations:[]});

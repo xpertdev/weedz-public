@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/delivery/pac-la-burbank", {data:[{}],fetch:{},mutations:[]});

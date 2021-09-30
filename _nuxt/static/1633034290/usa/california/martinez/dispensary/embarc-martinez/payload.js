@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/martinez/dispensary/embarc-martinez", {data:[{}],fetch:{},mutations:[]});

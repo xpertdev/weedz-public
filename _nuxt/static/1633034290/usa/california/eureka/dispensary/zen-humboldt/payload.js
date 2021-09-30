@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/eureka/dispensary/zen-humboldt", {data:[{}],fetch:{},mutations:[]});

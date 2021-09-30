@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/hhc-plus", {data:[{}],fetch:{},mutations:[]});

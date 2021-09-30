@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/delivery/sticky-ypsi-delivery", {data:[{}],fetch:{},mutations:[]});

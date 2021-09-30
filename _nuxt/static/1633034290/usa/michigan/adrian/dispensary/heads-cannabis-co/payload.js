@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/adrian/dispensary/heads-cannabis-co", {data:[{}],fetch:{},mutations:[]});

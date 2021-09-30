@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/mechanicsburg/doctor/dr-john-neely", {data:[{}],fetch:{},mutations:[]});

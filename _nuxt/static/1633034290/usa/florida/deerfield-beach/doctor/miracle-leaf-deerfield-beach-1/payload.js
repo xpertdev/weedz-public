@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/deerfield-beach/doctor/miracle-leaf-deerfield-beach-1", {data:[{}],fetch:{},mutations:[]});

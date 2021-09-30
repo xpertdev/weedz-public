@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/east-peoria/dispensary/numed-east-peoria", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/acton/dispensary/mass-wellspring-acton", {data:[{}],fetch:{},mutations:[]});

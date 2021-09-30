@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/kingston/doctor/dr-vincent-digiovanni-m-d", {data:[{}],fetch:{},mutations:[]});

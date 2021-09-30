@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/woodward/dispensary/alternative-cures-2", {data:[{}],fetch:{},mutations:[]});

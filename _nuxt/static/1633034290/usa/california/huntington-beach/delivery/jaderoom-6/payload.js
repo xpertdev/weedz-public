@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/jaderoom-6", {data:[{}],fetch:{},mutations:[]});

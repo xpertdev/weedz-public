@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/fresh-mint-collective-2", {data:[{}],fetch:{},mutations:[]});

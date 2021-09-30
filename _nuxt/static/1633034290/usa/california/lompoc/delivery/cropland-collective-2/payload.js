@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lompoc/delivery/cropland-collective-2", {data:[{}],fetch:{},mutations:[]});

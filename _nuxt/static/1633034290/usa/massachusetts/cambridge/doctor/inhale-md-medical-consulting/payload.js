@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/cambridge/doctor/inhale-md-medical-consulting", {data:[{}],fetch:{},mutations:[]});

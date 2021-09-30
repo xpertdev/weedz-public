@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/newcastle/dispensary/ground-zero-dispensary", {data:[{}],fetch:{},mutations:[]});

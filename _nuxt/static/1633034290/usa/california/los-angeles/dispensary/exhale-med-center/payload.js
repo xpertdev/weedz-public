@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/exhale-med-center", {data:[{}],fetch:{},mutations:[]});

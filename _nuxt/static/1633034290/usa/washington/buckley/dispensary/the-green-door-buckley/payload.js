@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/buckley/dispensary/the-green-door-buckley", {data:[{}],fetch:{},mutations:[]});

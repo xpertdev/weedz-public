@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/visalia/delivery/central-valley-alternative-2", {data:[{}],fetch:{},mutations:[]});

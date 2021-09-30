@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pawhuska/dispensary/big-buds-natural-releaf-pawhuska", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yuba-city/delivery/off-the-ridge", {data:[{}],fetch:{},mutations:[]});

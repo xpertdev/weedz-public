@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/corpus-christi/store/cbd-american-shaman-corpus-christi", {data:[{}],fetch:{},mutations:[]});

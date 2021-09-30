@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/goleta/delivery/coastal-delivery-goleta-isla-vista", {data:[{}],fetch:{},mutations:[]});

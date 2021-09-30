@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/daytona-beach/delivery/the-flowery-11", {data:[{}],fetch:{},mutations:[]});

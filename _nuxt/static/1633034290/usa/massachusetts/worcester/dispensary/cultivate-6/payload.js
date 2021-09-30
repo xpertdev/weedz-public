@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/worcester/dispensary/cultivate-6", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/gates/dispensary/canyon-cannabis", {data:[{}],fetch:{},mutations:[]});

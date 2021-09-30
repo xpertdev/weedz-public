@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/gainesville/doctor/rxpo-com-2", {data:[{}],fetch:{},mutations:[]});

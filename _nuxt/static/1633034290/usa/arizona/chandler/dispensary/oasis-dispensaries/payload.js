@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/chandler/dispensary/oasis-dispensaries", {data:[{}],fetch:{},mutations:[]});

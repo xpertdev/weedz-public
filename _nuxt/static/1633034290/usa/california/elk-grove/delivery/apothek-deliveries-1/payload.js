@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/apothek-deliveries-1", {data:[{}],fetch:{},mutations:[]});

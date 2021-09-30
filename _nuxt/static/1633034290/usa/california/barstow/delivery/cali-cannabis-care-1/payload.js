@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/barstow/delivery/cali-cannabis-care-1", {data:[{}],fetch:{},mutations:[]});

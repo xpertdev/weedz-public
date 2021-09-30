@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/piedmont/delivery/10-collective", {data:[{}],fetch:{},mutations:[]});

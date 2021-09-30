@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bakersfield/doctor/dr-weedy-4", {data:[{}],fetch:{},mutations:[]});

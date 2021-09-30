@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/douglas/dispensary/koi-holdings-llc-dba-green-koi-douglas", {data:[{}],fetch:{},mutations:[]});

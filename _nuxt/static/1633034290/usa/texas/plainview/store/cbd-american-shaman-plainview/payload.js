@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/plainview/store/cbd-american-shaman-plainview", {data:[{}],fetch:{},mutations:[]});

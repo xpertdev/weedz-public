@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/somerville/dispensary/sage-naturals", {data:[{}],fetch:{},mutations:[]});

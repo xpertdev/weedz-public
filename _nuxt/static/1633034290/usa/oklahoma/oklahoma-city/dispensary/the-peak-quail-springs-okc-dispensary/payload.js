@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/the-peak-quail-springs-okc-dispensary", {data:[{}],fetch:{},mutations:[]});

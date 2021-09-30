@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/doral/doctor/miami-kind-dr", {data:[{}],fetch:{},mutations:[]});

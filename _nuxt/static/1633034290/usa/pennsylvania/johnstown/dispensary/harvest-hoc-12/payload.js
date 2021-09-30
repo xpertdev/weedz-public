@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/johnstown/dispensary/harvest-hoc-12", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/woodland-hills/dispensary/so-cal-co-op-2", {data:[{}],fetch:{},mutations:[]});

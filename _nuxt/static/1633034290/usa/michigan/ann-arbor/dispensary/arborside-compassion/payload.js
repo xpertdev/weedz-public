@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/dispensary/arborside-compassion", {data:[{}],fetch:{},mutations:[]});

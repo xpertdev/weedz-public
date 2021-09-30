@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/biddeford/delivery/spicy-salad-company-1", {data:[{}],fetch:{},mutations:[]});

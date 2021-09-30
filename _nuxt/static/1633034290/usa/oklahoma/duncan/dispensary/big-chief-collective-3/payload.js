@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/duncan/dispensary/big-chief-collective-3", {data:[{}],fetch:{},mutations:[]});

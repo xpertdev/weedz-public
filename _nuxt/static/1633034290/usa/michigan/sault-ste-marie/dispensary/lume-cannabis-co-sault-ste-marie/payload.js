@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/sault-ste-marie/dispensary/lume-cannabis-co-sault-ste-marie", {data:[{}],fetch:{},mutations:[]});

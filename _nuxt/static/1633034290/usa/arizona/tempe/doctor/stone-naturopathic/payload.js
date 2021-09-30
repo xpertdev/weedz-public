@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tempe/doctor/stone-naturopathic", {data:[{}],fetch:{},mutations:[]});

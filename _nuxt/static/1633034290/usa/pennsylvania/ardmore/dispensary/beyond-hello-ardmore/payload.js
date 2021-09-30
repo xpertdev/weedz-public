@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/ardmore/dispensary/beyond-hello-ardmore", {data:[{}],fetch:{},mutations:[]});

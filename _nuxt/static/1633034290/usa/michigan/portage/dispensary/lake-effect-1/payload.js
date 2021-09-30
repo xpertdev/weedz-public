@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/portage/dispensary/lake-effect-1", {data:[{}],fetch:{},mutations:[]});

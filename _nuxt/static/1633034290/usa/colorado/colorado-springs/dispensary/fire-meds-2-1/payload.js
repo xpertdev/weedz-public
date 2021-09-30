@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/fire-meds-2-1", {data:[{}],fetch:{},mutations:[]});

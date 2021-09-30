@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tallahassee/doctor/medical-marijuana-treatment-centers-of-florida-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/warr-acres/dispensary/chronic-relief-medical-dispensary-1", {data:[{}],fetch:{},mutations:[]});

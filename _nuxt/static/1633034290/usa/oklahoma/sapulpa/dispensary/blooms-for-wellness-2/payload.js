@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sapulpa/dispensary/blooms-for-wellness-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/dracut/dispensary/lazy-river-products", {data:[{}],fetch:{},mutations:[]});

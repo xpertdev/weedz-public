@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/budee-311", {data:[{}],fetch:{},mutations:[]});

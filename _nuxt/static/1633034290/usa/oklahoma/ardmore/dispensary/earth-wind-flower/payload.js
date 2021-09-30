@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ardmore/dispensary/earth-wind-flower", {data:[{}],fetch:{},mutations:[]});

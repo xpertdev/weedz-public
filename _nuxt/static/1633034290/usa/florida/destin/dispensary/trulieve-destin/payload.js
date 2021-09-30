@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/destin/dispensary/trulieve-destin", {data:[{}],fetch:{},mutations:[]});

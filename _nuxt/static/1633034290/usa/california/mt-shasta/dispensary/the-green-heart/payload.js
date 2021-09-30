@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mt-shasta/dispensary/the-green-heart", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/sheridan/dispensary/canna-bros-sheridan", {data:[{}],fetch:{},mutations:[]});

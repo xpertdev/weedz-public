@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/east-stroudsburg/doctor/dr-mikhail-altamonov", {data:[{}],fetch:{},mutations:[]});

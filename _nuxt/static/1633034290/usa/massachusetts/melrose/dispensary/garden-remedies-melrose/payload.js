@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/melrose/dispensary/garden-remedies-melrose", {data:[{}],fetch:{},mutations:[]});

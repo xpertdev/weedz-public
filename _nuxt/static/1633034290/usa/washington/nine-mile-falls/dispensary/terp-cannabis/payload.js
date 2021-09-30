@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/nine-mile-falls/dispensary/terp-cannabis", {data:[{}],fetch:{},mutations:[]});

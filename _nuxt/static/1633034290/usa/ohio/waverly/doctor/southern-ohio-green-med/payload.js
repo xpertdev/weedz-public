@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/waverly/doctor/southern-ohio-green-med", {data:[{}],fetch:{},mutations:[]});

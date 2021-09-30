@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/newaygo/dispensary/skymint-newaygo", {data:[{}],fetch:{},mutations:[]});

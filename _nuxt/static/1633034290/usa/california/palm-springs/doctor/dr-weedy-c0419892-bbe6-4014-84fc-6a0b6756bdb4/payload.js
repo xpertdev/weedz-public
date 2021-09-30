@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/doctor/dr-weedy-c0419892-bbe6-4014-84fc-6a0b6756bdb4", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/abington/dispensary/terravida-holistic-centers-abington", {data:[{}],fetch:{},mutations:[]});

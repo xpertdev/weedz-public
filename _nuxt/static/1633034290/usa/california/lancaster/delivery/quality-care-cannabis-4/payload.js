@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lancaster/delivery/quality-care-cannabis-4", {data:[{}],fetch:{},mutations:[]});

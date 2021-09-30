@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/penrose/dispensary/alternative-medical-remedies", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/columbia/dispensary/3fifteen-primo", {data:[{}],fetch:{},mutations:[]});

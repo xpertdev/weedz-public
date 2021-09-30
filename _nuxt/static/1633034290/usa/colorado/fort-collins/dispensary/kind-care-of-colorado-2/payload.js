@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fort-collins/dispensary/kind-care-of-colorado-2", {data:[{}],fetch:{},mutations:[]});

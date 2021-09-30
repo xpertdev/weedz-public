@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/berthoud/dispensary/livwell-berthoud", {data:[{}],fetch:{},mutations:[]});

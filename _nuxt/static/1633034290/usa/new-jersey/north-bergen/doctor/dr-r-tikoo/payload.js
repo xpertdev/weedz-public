@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/north-bergen/doctor/dr-r-tikoo", {data:[{}],fetch:{},mutations:[]});

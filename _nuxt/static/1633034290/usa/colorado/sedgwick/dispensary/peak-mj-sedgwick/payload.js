@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/sedgwick/dispensary/peak-mj-sedgwick", {data:[{}],fetch:{},mutations:[]});

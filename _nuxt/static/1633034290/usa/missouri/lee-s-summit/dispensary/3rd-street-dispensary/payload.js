@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/lee-s-summit/dispensary/3rd-street-dispensary", {data:[{}],fetch:{},mutations:[]});

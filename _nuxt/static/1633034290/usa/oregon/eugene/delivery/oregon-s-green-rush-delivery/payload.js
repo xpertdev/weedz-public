@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/delivery/oregon-s-green-rush-delivery", {data:[{}],fetch:{},mutations:[]});

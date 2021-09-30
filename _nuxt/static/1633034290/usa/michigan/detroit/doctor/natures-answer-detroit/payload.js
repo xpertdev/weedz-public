@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/doctor/natures-answer-detroit", {data:[{}],fetch:{},mutations:[]});

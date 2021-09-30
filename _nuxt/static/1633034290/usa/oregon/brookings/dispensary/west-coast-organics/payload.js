@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/brookings/dispensary/west-coast-organics", {data:[{}],fetch:{},mutations:[]});

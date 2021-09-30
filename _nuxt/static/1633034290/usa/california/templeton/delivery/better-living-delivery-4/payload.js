@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/templeton/delivery/better-living-delivery-4", {data:[{}],fetch:{},mutations:[]});

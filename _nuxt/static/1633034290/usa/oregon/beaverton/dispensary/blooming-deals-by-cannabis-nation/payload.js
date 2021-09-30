@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/beaverton/dispensary/blooming-deals-by-cannabis-nation", {data:[{}],fetch:{},mutations:[]});

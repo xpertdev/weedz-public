@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/niles/dispensary/rise-dispensaries-niles", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/west-haverstraw/doctor/dr-graig-scott-straus", {data:[{}],fetch:{},mutations:[]});

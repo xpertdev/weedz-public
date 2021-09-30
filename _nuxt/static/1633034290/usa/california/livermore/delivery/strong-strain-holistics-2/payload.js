@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/livermore/delivery/strong-strain-holistics-2", {data:[{}],fetch:{},mutations:[]});

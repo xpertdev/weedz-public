@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/dispensary/verilife-philidelphia", {data:[{}],fetch:{},mutations:[]});

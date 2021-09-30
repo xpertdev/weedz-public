@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/scottsdale/doctor/community-of-higher-learning", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fairfield/delivery/high-times-delivery-fairfield-1", {data:[{}],fetch:{},mutations:[]});

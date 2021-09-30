@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ferndale/delivery/green-buddha-cannabis-co-delivery-1", {data:[{}],fetch:{},mutations:[]});

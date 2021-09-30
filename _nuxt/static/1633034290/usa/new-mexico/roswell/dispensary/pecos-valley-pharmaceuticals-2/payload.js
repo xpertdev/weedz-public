@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/roswell/dispensary/pecos-valley-pharmaceuticals-2", {data:[{}],fetch:{},mutations:[]});

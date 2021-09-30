@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma/dispensary/rich-hippie-wellness", {data:[{}],fetch:{},mutations:[]});

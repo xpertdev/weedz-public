@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/soldotna/dispensary/alaska-harvest-company", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/scarborough/dispensary/port-city-relief", {data:[{}],fetch:{},mutations:[]});

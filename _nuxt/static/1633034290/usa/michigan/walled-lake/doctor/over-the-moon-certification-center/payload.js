@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/walled-lake/doctor/over-the-moon-certification-center", {data:[{}],fetch:{},mutations:[]});

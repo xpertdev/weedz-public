@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tulare/dispensary/tulare-alternative-relief-assocition", {data:[{}],fetch:{},mutations:[]});

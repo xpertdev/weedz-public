@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/padre-mu-6", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/king-of-prussia/dispensary/herbology-king-of-prussia", {data:[{}],fetch:{},mutations:[]});

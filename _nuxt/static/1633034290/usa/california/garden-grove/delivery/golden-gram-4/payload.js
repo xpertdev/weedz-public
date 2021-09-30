@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/garden-grove/delivery/golden-gram-4", {data:[{}],fetch:{},mutations:[]});

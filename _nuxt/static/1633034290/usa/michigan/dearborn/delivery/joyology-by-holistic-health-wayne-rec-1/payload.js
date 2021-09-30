@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/dearborn/delivery/joyology-by-holistic-health-wayne-rec-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/north-eastham/dispensary/salty-farmers", {data:[{}],fetch:{},mutations:[]});

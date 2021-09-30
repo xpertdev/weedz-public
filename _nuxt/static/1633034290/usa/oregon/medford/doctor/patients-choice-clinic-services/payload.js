@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/doctor/patients-choice-clinic-services", {data:[{}],fetch:{},mutations:[]});

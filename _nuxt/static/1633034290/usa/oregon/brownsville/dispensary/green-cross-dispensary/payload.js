@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/brownsville/dispensary/green-cross-dispensary", {data:[{}],fetch:{},mutations:[]});

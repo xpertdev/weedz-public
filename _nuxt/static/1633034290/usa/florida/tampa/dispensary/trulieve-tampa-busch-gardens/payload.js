@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/dispensary/trulieve-tampa-busch-gardens", {data:[{}],fetch:{},mutations:[]});

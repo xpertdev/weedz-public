@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/palmer/dispensary/matanuska-cannabis-company", {data:[{}],fetch:{},mutations:[]});

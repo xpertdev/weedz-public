@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palmdale/delivery/budee-inc-2", {data:[{}],fetch:{},mutations:[]});

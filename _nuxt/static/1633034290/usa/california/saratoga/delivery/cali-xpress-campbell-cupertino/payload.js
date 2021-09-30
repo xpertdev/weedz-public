@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/saratoga/delivery/cali-xpress-campbell-cupertino", {data:[{}],fetch:{},mutations:[]});

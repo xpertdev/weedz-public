@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-bay/delivery/hyperwolf-south-bay", {data:[{}],fetch:{},mutations:[]});

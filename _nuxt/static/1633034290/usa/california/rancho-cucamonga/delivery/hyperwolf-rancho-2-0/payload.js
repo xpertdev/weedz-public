@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/hyperwolf-rancho-2-0", {data:[{}],fetch:{},mutations:[]});

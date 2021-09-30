@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/the-villages/doctor/docmj-dd7c8d58-1a60-44b7-9367-b5c31fdc62ba", {data:[{}],fetch:{},mutations:[]});

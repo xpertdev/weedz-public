@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fairfield/delivery/cali-xpress-9041", {data:[{}],fetch:{},mutations:[]});

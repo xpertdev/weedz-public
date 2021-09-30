@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/miami/dispensary/frapp-house-dispensary", {data:[{}],fetch:{},mutations:[]});

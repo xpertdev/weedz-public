@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/5-cities/delivery/the-source-4", {data:[{}],fetch:{},mutations:[]});

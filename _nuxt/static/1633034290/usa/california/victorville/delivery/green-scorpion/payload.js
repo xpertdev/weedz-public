@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/victorville/delivery/green-scorpion", {data:[{}],fetch:{},mutations:[]});

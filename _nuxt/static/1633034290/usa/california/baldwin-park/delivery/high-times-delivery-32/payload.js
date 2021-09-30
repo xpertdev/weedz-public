@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/baldwin-park/delivery/high-times-delivery-32", {data:[{}],fetch:{},mutations:[]});

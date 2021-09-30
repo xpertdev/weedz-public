@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-leandro/dispensary/blum-san-leandro", {data:[{}],fetch:{},mutations:[]});

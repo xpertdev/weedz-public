@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/bronx/doctor/semaj-health-and-wellness-bronx", {data:[{}],fetch:{},mutations:[]});

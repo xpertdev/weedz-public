@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/vero-beach/dispensary/trulieve-vero-beach", {data:[{}],fetch:{},mutations:[]});

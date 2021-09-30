@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lansing/dispensary/bazonzoes-4", {data:[{}],fetch:{},mutations:[]});

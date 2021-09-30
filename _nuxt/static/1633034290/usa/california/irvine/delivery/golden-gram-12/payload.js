@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/irvine/delivery/golden-gram-12", {data:[{}],fetch:{},mutations:[]});

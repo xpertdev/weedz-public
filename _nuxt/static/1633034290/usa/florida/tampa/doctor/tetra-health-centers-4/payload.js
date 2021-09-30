@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/doctor/tetra-health-centers-4", {data:[{}],fetch:{},mutations:[]});

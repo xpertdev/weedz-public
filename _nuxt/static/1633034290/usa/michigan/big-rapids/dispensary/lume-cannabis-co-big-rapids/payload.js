@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/big-rapids/dispensary/lume-cannabis-co-big-rapids", {data:[{}],fetch:{},mutations:[]});

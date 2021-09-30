@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/beverly-hills/doctor/420recs-com-beverly-hills", {data:[{}],fetch:{},mutations:[]});

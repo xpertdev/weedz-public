@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/gardner/delivery/patriot-care-gardner", {data:[{}],fetch:{},mutations:[]});

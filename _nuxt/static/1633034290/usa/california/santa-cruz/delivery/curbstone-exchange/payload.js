@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-cruz/delivery/curbstone-exchange", {data:[{}],fetch:{},mutations:[]});

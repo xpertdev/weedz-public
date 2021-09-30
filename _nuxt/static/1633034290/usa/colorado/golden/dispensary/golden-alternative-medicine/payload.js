@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/golden/dispensary/golden-alternative-medicine", {data:[{}],fetch:{},mutations:[]});

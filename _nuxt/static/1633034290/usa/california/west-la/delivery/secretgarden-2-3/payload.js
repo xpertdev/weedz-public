@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-la/delivery/secretgarden-2-3", {data:[{}],fetch:{},mutations:[]});

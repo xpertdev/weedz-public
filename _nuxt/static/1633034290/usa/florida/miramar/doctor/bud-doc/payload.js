@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miramar/doctor/bud-doc", {data:[{}],fetch:{},mutations:[]});

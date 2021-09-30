@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/green-doctor-420-2", {data:[{}],fetch:{},mutations:[]});

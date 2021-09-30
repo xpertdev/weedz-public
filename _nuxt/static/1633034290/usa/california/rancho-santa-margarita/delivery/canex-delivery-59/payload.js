@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-santa-margarita/delivery/canex-delivery-59", {data:[{}],fetch:{},mutations:[]});

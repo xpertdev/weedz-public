@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/chicopee/dispensary/mass-alternative-care-chicopee", {data:[{}],fetch:{},mutations:[]});

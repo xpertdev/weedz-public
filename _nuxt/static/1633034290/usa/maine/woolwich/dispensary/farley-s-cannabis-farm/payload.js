@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/woolwich/dispensary/farley-s-cannabis-farm", {data:[{}],fetch:{},mutations:[]});

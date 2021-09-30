@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tustin/delivery/kushagram-north-tustin", {data:[{}],fetch:{},mutations:[]});

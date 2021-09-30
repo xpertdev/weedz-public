@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/doctor/420recs-com-riverside", {data:[{}],fetch:{},mutations:[]});

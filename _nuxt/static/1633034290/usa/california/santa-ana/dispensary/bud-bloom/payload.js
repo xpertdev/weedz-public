@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-ana/dispensary/bud-bloom", {data:[{}],fetch:{},mutations:[]});

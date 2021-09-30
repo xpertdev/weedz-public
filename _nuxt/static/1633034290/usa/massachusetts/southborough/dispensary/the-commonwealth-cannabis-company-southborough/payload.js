@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/southborough/dispensary/the-commonwealth-cannabis-company-southborough", {data:[{}],fetch:{},mutations:[]});

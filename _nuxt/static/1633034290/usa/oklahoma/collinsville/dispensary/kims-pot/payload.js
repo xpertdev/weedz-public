@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/collinsville/dispensary/kims-pot", {data:[{}],fetch:{},mutations:[]});

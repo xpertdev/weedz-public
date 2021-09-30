@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/atwater/dispensary/one-plant-atwater", {data:[{}],fetch:{},mutations:[]});

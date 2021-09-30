@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/college-park/doctor/mercy-medical-cannabis-clinic-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/little-green-pharmacy-8", {data:[{}],fetch:{},mutations:[]});

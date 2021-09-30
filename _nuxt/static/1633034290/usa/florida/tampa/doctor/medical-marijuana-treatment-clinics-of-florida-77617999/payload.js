@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/doctor/medical-marijuana-treatment-clinics-of-florida-77617999", {data:[{}],fetch:{},mutations:[]});

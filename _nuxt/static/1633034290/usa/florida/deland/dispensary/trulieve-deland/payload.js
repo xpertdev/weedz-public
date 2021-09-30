@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/deland/dispensary/trulieve-deland", {data:[{}],fetch:{},mutations:[]});

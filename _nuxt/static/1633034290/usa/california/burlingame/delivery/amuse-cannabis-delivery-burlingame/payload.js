@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burlingame/delivery/amuse-cannabis-delivery-burlingame", {data:[{}],fetch:{},mutations:[]});

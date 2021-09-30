@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/grassroots-rx-bosque-plaza-lane", {data:[{}],fetch:{},mutations:[]});

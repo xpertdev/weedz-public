@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/altoona/doctor/green-care-medical-12", {data:[{}],fetch:{},mutations:[]});

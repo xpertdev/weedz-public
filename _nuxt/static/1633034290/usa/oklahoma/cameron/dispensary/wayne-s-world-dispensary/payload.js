@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/cameron/dispensary/wayne-s-world-dispensary", {data:[{}],fetch:{},mutations:[]});

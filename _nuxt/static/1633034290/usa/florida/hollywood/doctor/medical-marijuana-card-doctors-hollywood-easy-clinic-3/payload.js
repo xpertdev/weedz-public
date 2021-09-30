@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/hollywood/doctor/medical-marijuana-card-doctors-hollywood-easy-clinic-3", {data:[{}],fetch:{},mutations:[]});

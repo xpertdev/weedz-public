@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ukiah/doctor/olga-segal-md-2", {data:[{}],fetch:{},mutations:[]});

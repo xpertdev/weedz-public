@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/claremore/dispensary/evo-cannabis-company-2", {data:[{}],fetch:{},mutations:[]});

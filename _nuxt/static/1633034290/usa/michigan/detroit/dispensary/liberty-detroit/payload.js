@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/liberty-detroit", {data:[{}],fetch:{},mutations:[]});

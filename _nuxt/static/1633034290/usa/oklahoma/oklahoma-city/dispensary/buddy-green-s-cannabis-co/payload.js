@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/buddy-green-s-cannabis-co", {data:[{}],fetch:{},mutations:[]});

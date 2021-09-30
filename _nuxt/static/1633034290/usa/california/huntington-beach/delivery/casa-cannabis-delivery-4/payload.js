@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/casa-cannabis-delivery-4", {data:[{}],fetch:{},mutations:[]});

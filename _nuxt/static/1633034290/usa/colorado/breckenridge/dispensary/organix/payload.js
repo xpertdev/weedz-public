@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/breckenridge/dispensary/organix", {data:[{}],fetch:{},mutations:[]});

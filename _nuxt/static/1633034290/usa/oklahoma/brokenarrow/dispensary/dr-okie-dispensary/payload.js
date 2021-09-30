@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/brokenarrow/dispensary/dr-okie-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/denver-recreational-dispensary-summit-wellness-2", {data:[{}],fetch:{},mutations:[]});

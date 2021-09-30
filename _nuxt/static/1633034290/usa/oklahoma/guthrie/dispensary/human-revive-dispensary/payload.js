@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/guthrie/dispensary/human-revive-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angele/delivery/mmd-11", {data:[{}],fetch:{},mutations:[]});

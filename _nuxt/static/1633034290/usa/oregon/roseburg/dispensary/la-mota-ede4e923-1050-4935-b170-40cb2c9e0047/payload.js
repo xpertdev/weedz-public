@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/roseburg/dispensary/la-mota-ede4e923-1050-4935-b170-40cb2c9e0047", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/kalkaska/dispensary/pincanna", {data:[{}],fetch:{},mutations:[]});

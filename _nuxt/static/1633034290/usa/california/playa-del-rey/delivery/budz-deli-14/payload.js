@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/playa-del-rey/delivery/budz-deli-14", {data:[{}],fetch:{},mutations:[]});

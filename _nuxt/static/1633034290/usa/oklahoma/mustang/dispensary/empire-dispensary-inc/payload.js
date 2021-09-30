@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mustang/dispensary/empire-dispensary-inc", {data:[{}],fetch:{},mutations:[]});

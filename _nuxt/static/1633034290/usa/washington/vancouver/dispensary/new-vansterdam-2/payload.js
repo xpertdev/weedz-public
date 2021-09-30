@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/vancouver/dispensary/new-vansterdam-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/millwood/dispensary/green-light", {data:[{}],fetch:{},mutations:[]});

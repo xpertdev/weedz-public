@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/river-rouge/dispensary/greencare-medical", {data:[{}],fetch:{},mutations:[]});

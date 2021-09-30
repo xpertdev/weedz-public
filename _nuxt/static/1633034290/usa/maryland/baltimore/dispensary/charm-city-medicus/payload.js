@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/baltimore/dispensary/charm-city-medicus", {data:[{}],fetch:{},mutations:[]});

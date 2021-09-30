@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/owasso/dispensary/broadleaf-dispensary", {data:[{}],fetch:{},mutations:[]});

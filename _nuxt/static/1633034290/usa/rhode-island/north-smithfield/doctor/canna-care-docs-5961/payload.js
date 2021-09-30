@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/north-smithfield/doctor/canna-care-docs-5961", {data:[{}],fetch:{},mutations:[]});

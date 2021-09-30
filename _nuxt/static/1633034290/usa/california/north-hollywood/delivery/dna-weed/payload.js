@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-hollywood/delivery/dna-weed", {data:[{}],fetch:{},mutations:[]});

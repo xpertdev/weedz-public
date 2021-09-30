@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-hollywood/delivery/orangeleaf-2", {data:[{}],fetch:{},mutations:[]});

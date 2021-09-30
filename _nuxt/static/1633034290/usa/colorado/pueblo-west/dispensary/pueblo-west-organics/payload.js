@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo-west/dispensary/pueblo-west-organics", {data:[{}],fetch:{},mutations:[]});

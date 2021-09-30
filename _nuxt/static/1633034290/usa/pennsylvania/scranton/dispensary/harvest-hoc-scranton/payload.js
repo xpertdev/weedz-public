@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/scranton/dispensary/harvest-hoc-scranton", {data:[{}],fetch:{},mutations:[]});

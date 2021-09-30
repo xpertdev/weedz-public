@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/newport-beach/store/newport-cbd", {data:[{}],fetch:{},mutations:[]});

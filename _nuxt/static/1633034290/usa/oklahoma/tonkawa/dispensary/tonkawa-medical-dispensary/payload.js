@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tonkawa/dispensary/tonkawa-medical-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chico/delivery/norcanna-inc-1", {data:[{}],fetch:{},mutations:[]});

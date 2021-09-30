@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/center-line/dispensary/house-of-dank-center-line-med", {data:[{}],fetch:{},mutations:[]});

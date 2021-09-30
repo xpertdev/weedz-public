@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/hawaii/hilo/dispensary/hawaiian-ethos-2", {data:[{}],fetch:{},mutations:[]});

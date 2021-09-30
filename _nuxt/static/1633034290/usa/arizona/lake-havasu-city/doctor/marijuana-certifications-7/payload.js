@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/lake-havasu-city/doctor/marijuana-certifications-7", {data:[{}],fetch:{},mutations:[]});

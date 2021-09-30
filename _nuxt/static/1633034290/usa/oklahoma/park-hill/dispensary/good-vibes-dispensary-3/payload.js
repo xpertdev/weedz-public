@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/park-hill/dispensary/good-vibes-dispensary-3", {data:[{}],fetch:{},mutations:[]});

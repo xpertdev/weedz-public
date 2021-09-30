@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane/dispensary/cinder", {data:[{}],fetch:{},mutations:[]});

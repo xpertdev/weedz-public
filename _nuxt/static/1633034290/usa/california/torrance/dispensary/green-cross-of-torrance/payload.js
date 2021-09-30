@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/torrance/dispensary/green-cross-of-torrance", {data:[{}],fetch:{},mutations:[]});

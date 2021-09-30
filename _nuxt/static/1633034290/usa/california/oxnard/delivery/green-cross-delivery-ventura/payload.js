@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oxnard/delivery/green-cross-delivery-ventura", {data:[{}],fetch:{},mutations:[]});

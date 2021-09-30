@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/high-times-delivery-39", {data:[{}],fetch:{},mutations:[]});

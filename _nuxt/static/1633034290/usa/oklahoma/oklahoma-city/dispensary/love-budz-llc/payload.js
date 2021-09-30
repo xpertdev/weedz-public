@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/love-budz-llc", {data:[{}],fetch:{},mutations:[]});

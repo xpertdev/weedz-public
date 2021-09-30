@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/billings/dispensary/elevated-billings", {data:[{}],fetch:{},mutations:[]});

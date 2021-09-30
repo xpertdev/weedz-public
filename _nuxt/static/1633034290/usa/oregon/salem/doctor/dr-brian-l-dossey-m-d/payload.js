@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/doctor/dr-brian-l-dossey-m-d", {data:[{}],fetch:{},mutations:[]});

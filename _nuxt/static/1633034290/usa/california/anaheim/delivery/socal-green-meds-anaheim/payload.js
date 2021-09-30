@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/socal-green-meds-anaheim", {data:[{}],fetch:{},mutations:[]});

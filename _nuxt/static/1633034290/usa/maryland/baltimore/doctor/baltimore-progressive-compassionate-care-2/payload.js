@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/baltimore/doctor/baltimore-progressive-compassionate-care-2", {data:[{}],fetch:{},mutations:[]});

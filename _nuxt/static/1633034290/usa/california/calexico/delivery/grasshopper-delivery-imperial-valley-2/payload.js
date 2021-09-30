@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/calexico/delivery/grasshopper-delivery-imperial-valley-2", {data:[{}],fetch:{},mutations:[]});

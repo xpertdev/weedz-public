@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/corona/delivery/kushagram-197", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/kushagram-168", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/blanchard/dispensary/danks-wellness-emporium", {data:[{}],fetch:{},mutations:[]});

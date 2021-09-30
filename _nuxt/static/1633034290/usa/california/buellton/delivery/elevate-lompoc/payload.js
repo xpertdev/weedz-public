@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/buellton/delivery/elevate-lompoc", {data:[{}],fetch:{},mutations:[]});

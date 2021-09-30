@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redding/dispensary/synergy-1", {data:[{}],fetch:{},mutations:[]});

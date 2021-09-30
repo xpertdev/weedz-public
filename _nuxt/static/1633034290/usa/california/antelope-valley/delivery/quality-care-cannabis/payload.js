@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antelope-valley/delivery/quality-care-cannabis", {data:[{}],fetch:{},mutations:[]});

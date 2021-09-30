@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-bow/dispensary/wild-herb-wellness-1", {data:[{}],fetch:{},mutations:[]});

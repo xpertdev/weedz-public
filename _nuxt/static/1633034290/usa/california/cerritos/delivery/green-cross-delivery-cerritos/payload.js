@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cerritos/delivery/green-cross-delivery-cerritos", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/fryeburg/dispensary/theglasscook-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alameda/delivery/west-coast-premium-medz-1", {data:[{}],fetch:{},mutations:[]});

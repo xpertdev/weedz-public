@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-bay/doctor/online-medical-cards-38", {data:[{}],fetch:{},mutations:[]});

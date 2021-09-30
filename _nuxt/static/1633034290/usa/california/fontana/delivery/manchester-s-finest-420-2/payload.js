@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fontana/delivery/manchester-s-finest-420-2", {data:[{}],fetch:{},mutations:[]});

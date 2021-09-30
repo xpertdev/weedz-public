@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/eliot/dispensary/east-coast-cannabis-1", {data:[{}],fetch:{},mutations:[]});

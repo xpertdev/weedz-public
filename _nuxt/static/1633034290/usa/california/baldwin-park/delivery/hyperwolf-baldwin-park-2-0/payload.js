@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/baldwin-park/delivery/hyperwolf-baldwin-park-2-0", {data:[{}],fetch:{},mutations:[]});

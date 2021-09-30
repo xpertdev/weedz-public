@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista/dispensary/grasshopper-42", {data:[{}],fetch:{},mutations:[]});

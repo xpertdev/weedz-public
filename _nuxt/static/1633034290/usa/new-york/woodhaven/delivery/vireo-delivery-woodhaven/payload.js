@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/woodhaven/delivery/vireo-delivery-woodhaven", {data:[{}],fetch:{},mutations:[]});

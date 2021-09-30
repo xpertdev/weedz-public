@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/biddeford/delivery/holistic-wellness-consultants-2", {data:[{}],fetch:{},mutations:[]});

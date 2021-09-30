@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/sheffield/dispensary/the-pass", {data:[{}],fetch:{},mutations:[]});

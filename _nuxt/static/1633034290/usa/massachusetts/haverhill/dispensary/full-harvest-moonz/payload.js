@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/haverhill/dispensary/full-harvest-moonz", {data:[{}],fetch:{},mutations:[]});

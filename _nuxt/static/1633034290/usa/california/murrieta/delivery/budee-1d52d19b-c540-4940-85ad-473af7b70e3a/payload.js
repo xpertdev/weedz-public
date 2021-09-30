@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/murrieta/delivery/budee-1d52d19b-c540-4940-85ad-473af7b70e3a", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/doctor/get-legal-vegas-vegas-reefer-lawyer", {data:[{}],fetch:{},mutations:[]});

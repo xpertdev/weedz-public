@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/citrus-heights/delivery/budcars-15", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/west-siloam-springs/dispensary/state-line-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/marquette/dispensary/higher-love-corporation", {data:[{}],fetch:{},mutations:[]});

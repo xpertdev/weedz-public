@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-francisco/dispensary/the-green-cross-3-2", {data:[{}],fetch:{},mutations:[]});

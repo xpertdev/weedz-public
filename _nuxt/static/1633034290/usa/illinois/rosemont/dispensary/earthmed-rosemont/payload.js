@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/rosemont/dispensary/earthmed-rosemont", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/citrus-heights/delivery/fresh-mint-4", {data:[{}],fetch:{},mutations:[]});

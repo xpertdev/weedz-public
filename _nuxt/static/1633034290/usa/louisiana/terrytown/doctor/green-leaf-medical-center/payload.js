@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/terrytown/doctor/green-leaf-medical-center", {data:[{}],fetch:{},mutations:[]});

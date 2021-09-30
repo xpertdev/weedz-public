@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacremento/doctor/420recs-com-sacremento", {data:[{}],fetch:{},mutations:[]});

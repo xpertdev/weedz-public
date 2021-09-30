@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/moses-lake/dispensary/the-green-seed", {data:[{}],fetch:{},mutations:[]});

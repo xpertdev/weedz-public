@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/glenwood-springs/doctor/healthy-choices-unlimited-glenwood-springs", {data:[{}],fetch:{},mutations:[]});

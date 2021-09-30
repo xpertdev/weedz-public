@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/turlock/delivery/supply-co-2-5", {data:[{}],fetch:{},mutations:[]});

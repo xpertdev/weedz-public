@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redlands/delivery/wings-of-wellness-county-line", {data:[{}],fetch:{},mutations:[]});

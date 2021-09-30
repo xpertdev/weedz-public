@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakdale/dispensary/empire-oakdale", {data:[{}],fetch:{},mutations:[]});

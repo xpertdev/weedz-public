@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-jolla/delivery/torrey-holistics-8", {data:[{}],fetch:{},mutations:[]});

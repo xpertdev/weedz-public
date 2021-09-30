@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/native-roots-2-2", {data:[{}],fetch:{},mutations:[]});

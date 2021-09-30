@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rocky-point/doctor/oasis-integrative-medicine", {data:[{}],fetch:{},mutations:[]});

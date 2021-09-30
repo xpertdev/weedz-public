@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/dispensary/green-square-inc", {data:[{}],fetch:{},mutations:[]});

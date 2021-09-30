@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/columbus/dispensary/bloom-medicinals-cannabis-dispensary-columbus", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/mesa/dispensary/kind-meds-inc", {data:[{}],fetch:{},mutations:[]});

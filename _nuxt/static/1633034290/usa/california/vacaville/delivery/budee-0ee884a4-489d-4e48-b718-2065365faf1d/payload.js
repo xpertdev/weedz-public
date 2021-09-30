@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vacaville/delivery/budee-0ee884a4-489d-4e48-b718-2065365faf1d", {data:[{}],fetch:{},mutations:[]});

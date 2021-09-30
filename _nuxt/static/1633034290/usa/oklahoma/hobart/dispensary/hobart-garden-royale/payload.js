@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hobart/dispensary/hobart-garden-royale", {data:[{}],fetch:{},mutations:[]});

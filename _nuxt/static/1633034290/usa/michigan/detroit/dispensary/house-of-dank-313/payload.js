@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/house-of-dank-313", {data:[{}],fetch:{},mutations:[]});

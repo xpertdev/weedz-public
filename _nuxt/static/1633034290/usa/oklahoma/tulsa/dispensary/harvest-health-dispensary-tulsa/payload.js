@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/harvest-health-dispensary-tulsa", {data:[{}],fetch:{},mutations:[]});

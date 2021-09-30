@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/sweet-flower-arts-district", {data:[{}],fetch:{},mutations:[]});

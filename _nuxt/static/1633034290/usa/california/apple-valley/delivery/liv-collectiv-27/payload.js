@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/apple-valley/delivery/liv-collectiv-27", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/pendleton/dispensary/kind-leaf-pendleton-1", {data:[{}],fetch:{},mutations:[]});

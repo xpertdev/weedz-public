@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/patterson/dispensary/the-higher-conscious", {data:[{}],fetch:{},mutations:[]});

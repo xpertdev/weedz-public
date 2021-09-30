@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/delivery/420-oasis-2", {data:[{}],fetch:{},mutations:[]});

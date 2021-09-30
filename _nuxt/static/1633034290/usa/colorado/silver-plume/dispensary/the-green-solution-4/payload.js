@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/silver-plume/dispensary/the-green-solution-4", {data:[{}],fetch:{},mutations:[]});

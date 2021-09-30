@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/main-street-cannabis", {data:[{}],fetch:{},mutations:[]});

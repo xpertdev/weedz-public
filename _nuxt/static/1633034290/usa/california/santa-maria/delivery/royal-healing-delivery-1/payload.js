@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-maria/delivery/royal-healing-delivery-1", {data:[{}],fetch:{},mutations:[]});

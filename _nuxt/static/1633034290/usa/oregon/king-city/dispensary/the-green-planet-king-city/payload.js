@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/king-city/dispensary/the-green-planet-king-city", {data:[{}],fetch:{},mutations:[]});

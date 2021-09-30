@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/union-city/delivery/cannabud-express-5", {data:[{}],fetch:{},mutations:[]});

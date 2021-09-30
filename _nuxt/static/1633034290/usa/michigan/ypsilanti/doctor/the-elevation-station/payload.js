@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/doctor/the-elevation-station", {data:[{}],fetch:{},mutations:[]});

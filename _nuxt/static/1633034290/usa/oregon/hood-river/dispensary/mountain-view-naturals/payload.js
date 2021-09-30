@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/hood-river/dispensary/mountain-view-naturals", {data:[{}],fetch:{},mutations:[]});

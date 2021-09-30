@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/koreatown-echopark/delivery/kushagram-131", {data:[{}],fetch:{},mutations:[]});

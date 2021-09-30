@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/mt-morris/dispensary/the-fire-station-wellness-center", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/hawaii/honolulu/doctor/malie-cannabis-clinic", {data:[{}],fetch:{},mutations:[]});

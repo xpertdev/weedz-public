@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/weatherford/dispensary/dank-tank-2", {data:[{}],fetch:{},mutations:[]});

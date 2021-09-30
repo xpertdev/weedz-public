@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/california-city/delivery/casa-cannabis-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-hollywood/delivery/high-times-delivery-19", {data:[{}],fetch:{},mutations:[]});

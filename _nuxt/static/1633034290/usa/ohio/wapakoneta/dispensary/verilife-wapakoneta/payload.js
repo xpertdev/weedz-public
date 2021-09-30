@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/wapakoneta/dispensary/verilife-wapakoneta", {data:[{}],fetch:{},mutations:[]});

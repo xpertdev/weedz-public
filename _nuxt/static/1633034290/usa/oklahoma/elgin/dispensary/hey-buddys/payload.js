@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/elgin/dispensary/hey-buddys", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oxnard/delivery/coastal-delivery-oxnard", {data:[{}],fetch:{},mutations:[]});

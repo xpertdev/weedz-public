@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/kanopya-springs-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/herbnjoy-1", {data:[{}],fetch:{},mutations:[]});

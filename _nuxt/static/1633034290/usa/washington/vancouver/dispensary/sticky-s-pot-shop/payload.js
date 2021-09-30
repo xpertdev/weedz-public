@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/vancouver/dispensary/sticky-s-pot-shop", {data:[{}],fetch:{},mutations:[]});

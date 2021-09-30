@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/watervliet/dispensary/compassionate-care-by-design-1", {data:[{}],fetch:{},mutations:[]});

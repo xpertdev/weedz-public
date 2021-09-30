@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/mckinney/store/artisan-vapor-cbd-mckinney", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/auburn/delivery/weedco-delivery-2", {data:[{}],fetch:{},mutations:[]});

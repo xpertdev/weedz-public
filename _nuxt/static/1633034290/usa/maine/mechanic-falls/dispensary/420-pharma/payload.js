@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/mechanic-falls/dispensary/420-pharma", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/weatherford/store/purely-cbd-weatherford", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cupertino/delivery/green-on-the-go-9", {data:[{}],fetch:{},mutations:[]});

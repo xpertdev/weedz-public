@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/roseville/delivery/sacramento-cds-2", {data:[{}],fetch:{},mutations:[]});

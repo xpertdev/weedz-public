@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/parachute/dispensary/high-q-parachute", {data:[{}],fetch:{},mutations:[]});

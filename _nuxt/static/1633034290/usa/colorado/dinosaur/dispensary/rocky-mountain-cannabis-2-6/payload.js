@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/dinosaur/dispensary/rocky-mountain-cannabis-2-6", {data:[{}],fetch:{},mutations:[]});

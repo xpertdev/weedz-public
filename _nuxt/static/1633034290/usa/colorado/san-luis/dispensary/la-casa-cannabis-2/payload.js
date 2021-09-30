@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/san-luis/dispensary/la-casa-cannabis-2", {data:[{}],fetch:{},mutations:[]});

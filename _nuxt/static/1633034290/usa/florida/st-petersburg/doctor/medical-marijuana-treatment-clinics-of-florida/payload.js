@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/st-petersburg/doctor/medical-marijuana-treatment-clinics-of-florida", {data:[{}],fetch:{},mutations:[]});

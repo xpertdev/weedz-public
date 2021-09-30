@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/delivery/herban-delivery-42", {data:[{}],fetch:{},mutations:[]});

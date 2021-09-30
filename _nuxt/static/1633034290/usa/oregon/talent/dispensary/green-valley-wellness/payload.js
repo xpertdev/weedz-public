@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/talent/dispensary/green-valley-wellness", {data:[{}],fetch:{},mutations:[]});

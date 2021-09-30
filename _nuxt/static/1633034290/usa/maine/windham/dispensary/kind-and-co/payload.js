@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/windham/dispensary/kind-and-co", {data:[{}],fetch:{},mutations:[]});

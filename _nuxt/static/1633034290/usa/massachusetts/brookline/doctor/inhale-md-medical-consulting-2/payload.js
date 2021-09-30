@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/brookline/doctor/inhale-md-medical-consulting-2", {data:[{}],fetch:{},mutations:[]});

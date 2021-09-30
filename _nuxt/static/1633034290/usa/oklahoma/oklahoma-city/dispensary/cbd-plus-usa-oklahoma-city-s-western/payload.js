@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/cbd-plus-usa-oklahoma-city-s-western", {data:[{}],fetch:{},mutations:[]});

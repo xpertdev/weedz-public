@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/hawaii/kaunakakai/doctor/effective-change-llc-4", {data:[{}],fetch:{},mutations:[]});

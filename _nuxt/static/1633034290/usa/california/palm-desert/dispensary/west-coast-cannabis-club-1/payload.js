@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/dispensary/west-coast-cannabis-club-1", {data:[{}],fetch:{},mutations:[]});

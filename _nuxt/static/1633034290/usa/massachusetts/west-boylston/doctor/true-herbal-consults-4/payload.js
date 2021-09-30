@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/west-boylston/doctor/true-herbal-consults-4", {data:[{}],fetch:{},mutations:[]});

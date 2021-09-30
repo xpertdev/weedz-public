@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/wellington/dispensary/muv-wellington", {data:[{}],fetch:{},mutations:[]});

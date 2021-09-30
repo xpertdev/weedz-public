@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/milford/dispensary/southern-ct-wellness-and-healing", {data:[{}],fetch:{},mutations:[]});

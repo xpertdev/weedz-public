@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/northglenn/dispensary/green-tree-medicinals-of-northglenn-med", {data:[{}],fetch:{},mutations:[]});

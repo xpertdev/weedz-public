@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/enid/dispensary/mother-s-joy-dispensary", {data:[{}],fetch:{},mutations:[]});

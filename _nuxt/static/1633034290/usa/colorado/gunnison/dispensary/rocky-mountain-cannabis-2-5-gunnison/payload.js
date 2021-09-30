@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/gunnison/dispensary/rocky-mountain-cannabis-2-5-gunnison", {data:[{}],fetch:{},mutations:[]});

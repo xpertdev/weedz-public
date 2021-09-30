@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/doctor/green-cross-partners-medical-marijuana-doctor-clinic", {data:[{}],fetch:{},mutations:[]});

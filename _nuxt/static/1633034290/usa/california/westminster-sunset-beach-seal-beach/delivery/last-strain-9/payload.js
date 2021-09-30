@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/westminster-sunset-beach-seal-beach/delivery/last-strain-9", {data:[{}],fetch:{},mutations:[]});

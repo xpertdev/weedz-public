@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/queens/delivery/vireo-queens-delivery-3", {data:[{}],fetch:{},mutations:[]});

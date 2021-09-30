@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/west-memphis/doctor/james-miller-md", {data:[{}],fetch:{},mutations:[]});

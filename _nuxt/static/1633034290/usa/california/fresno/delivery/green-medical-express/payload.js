@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/delivery/green-medical-express", {data:[{}],fetch:{},mutations:[]});

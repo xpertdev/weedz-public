@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/roswell/dispensary/ultra-health-roswell", {data:[{}],fetch:{},mutations:[]});

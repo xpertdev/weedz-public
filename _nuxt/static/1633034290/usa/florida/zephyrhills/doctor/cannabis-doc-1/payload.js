@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/zephyrhills/doctor/cannabis-doc-1", {data:[{}],fetch:{},mutations:[]});

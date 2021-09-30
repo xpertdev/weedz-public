@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/dispensary/all-kind", {data:[{}],fetch:{},mutations:[]});

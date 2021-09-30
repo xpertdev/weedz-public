@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/brentwood/delivery/glm-deliveries", {data:[{}],fetch:{},mutations:[]});

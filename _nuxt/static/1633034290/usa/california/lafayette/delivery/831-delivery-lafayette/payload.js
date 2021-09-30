@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lafayette/delivery/831-delivery-lafayette", {data:[{}],fetch:{},mutations:[]});

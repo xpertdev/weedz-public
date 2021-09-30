@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/mapleton/dispensary/buds4u", {data:[{}],fetch:{},mutations:[]});

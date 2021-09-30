@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/brawley/delivery/march-and-ash-delivery-54", {data:[{}],fetch:{},mutations:[]});

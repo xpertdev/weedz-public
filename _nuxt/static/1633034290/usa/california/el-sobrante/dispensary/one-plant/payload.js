@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-sobrante/dispensary/one-plant", {data:[{}],fetch:{},mutations:[]});

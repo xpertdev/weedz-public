@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/forest-hills/doctor/dr-mitchell-s-rubinstein", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/reading/doctor/dr-sotomayor", {data:[{}],fetch:{},mutations:[]});

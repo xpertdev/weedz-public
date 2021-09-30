@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/salem/doctor/ryan-zaklin-md-ma-pc", {data:[{}],fetch:{},mutations:[]});

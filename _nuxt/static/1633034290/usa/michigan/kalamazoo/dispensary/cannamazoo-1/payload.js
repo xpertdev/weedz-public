@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/kalamazoo/dispensary/cannamazoo-1", {data:[{}],fetch:{},mutations:[]});

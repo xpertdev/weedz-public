@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/poland/dispensary/hi-lo-dispensary", {data:[{}],fetch:{},mutations:[]});

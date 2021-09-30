@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/t-town-medical-marijuana-dispensary", {data:[{}],fetch:{},mutations:[]});

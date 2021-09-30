@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/monticello/dispensary/monticello-dispensary", {data:[{}],fetch:{},mutations:[]});

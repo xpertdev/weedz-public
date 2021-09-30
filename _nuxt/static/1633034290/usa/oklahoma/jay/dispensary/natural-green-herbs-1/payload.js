@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/jay/dispensary/natural-green-herbs-1", {data:[{}],fetch:{},mutations:[]});

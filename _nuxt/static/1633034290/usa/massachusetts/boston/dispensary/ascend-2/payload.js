@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/boston/dispensary/ascend-2", {data:[{}],fetch:{},mutations:[]});

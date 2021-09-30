@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ukiah/delivery/revolution-emporium", {data:[{}],fetch:{},mutations:[]});

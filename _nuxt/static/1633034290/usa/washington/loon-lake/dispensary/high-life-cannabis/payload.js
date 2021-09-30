@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/loon-lake/dispensary/high-life-cannabis", {data:[{}],fetch:{},mutations:[]});

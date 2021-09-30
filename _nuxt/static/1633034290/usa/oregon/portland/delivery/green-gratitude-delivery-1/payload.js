@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/delivery/green-gratitude-delivery-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/north-port/doctor/medicann-clinic", {data:[{}],fetch:{},mutations:[]});

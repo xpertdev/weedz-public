@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/delivery/urban-farmacy-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-ana/doctor/420recs-com-santa-ana", {data:[{}],fetch:{},mutations:[]});

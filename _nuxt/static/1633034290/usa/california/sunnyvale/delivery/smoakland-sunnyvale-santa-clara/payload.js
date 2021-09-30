@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sunnyvale/delivery/smoakland-sunnyvale-santa-clara", {data:[{}],fetch:{},mutations:[]});

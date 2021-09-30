@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/coshocton/dispensary/ohio-cannabis-clinic-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/turley-pot-shop-1", {data:[{}],fetch:{},mutations:[]});

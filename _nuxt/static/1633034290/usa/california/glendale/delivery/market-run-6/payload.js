@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/glendale/delivery/market-run-6", {data:[{}],fetch:{},mutations:[]});

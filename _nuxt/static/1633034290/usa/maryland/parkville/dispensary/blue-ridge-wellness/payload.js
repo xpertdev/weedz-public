@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/parkville/dispensary/blue-ridge-wellness", {data:[{}],fetch:{},mutations:[]});

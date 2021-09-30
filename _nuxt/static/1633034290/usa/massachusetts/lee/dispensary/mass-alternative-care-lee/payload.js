@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/lee/dispensary/mass-alternative-care-lee", {data:[{}],fetch:{},mutations:[]});

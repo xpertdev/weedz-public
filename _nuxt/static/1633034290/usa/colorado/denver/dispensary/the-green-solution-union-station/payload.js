@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/the-green-solution-union-station", {data:[{}],fetch:{},mutations:[]});

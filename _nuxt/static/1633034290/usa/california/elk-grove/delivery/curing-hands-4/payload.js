@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/curing-hands-4", {data:[{}],fetch:{},mutations:[]});

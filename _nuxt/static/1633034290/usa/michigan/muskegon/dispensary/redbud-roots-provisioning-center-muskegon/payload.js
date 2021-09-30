@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/muskegon/dispensary/redbud-roots-provisioning-center-muskegon", {data:[{}],fetch:{},mutations:[]});

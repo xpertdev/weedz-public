@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/yale/dispensary/country-cannabis-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/huntington-woods/doctor/greenpath-holistic-medicine-3", {data:[{}],fetch:{},mutations:[]});

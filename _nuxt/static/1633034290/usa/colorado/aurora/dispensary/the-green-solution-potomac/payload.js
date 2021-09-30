@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aurora/dispensary/the-green-solution-potomac", {data:[{}],fetch:{},mutations:[]});

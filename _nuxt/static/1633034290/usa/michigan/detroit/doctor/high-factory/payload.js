@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/doctor/high-factory", {data:[{}],fetch:{},mutations:[]});

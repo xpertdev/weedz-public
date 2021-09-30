@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/fairborn/doctor/intecare-medical-clinic", {data:[{}],fetch:{},mutations:[]});

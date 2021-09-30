@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/parsonsfield/delivery/york-county-cannabis-care", {data:[{}],fetch:{},mutations:[]});

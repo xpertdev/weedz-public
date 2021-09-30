@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/dispensary/restore-integrative-wellness-center-philadelphia", {data:[{}],fetch:{},mutations:[]});

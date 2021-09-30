@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sapulpa/dispensary/the-good-stuff-dispensary-2", {data:[{}],fetch:{},mutations:[]});

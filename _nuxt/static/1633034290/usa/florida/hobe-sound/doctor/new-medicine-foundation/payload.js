@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/hobe-sound/doctor/new-medicine-foundation", {data:[{}],fetch:{},mutations:[]});

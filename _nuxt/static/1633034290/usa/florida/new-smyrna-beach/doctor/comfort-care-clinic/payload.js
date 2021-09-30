@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/new-smyrna-beach/doctor/comfort-care-clinic", {data:[{}],fetch:{},mutations:[]});

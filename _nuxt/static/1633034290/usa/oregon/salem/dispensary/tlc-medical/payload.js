@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/tlc-medical", {data:[{}],fetch:{},mutations:[]});

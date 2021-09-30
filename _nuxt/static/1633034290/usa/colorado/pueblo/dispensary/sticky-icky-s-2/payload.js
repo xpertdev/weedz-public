@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/sticky-icky-s-2", {data:[{}],fetch:{},mutations:[]});

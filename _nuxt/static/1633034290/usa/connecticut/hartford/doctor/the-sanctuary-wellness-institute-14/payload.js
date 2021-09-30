@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/hartford/doctor/the-sanctuary-wellness-institute-14", {data:[{}],fetch:{},mutations:[]});

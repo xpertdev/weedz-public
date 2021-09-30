@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/buffalo/doctor/buffalo-420-marijuana-doctor", {data:[{}],fetch:{},mutations:[]});

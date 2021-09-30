@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/forest-hills/doctor/mydoc-urgent-care", {data:[{}],fetch:{},mutations:[]});

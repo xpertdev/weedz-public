@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/doctor/dr-benjamin-kaplan-m-d", {data:[{}],fetch:{},mutations:[]});

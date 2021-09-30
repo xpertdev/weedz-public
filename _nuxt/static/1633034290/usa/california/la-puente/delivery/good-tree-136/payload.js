@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/delivery/good-tree-136", {data:[{}],fetch:{},mutations:[]});

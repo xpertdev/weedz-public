@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/city-greens-5", {data:[{}],fetch:{},mutations:[]});

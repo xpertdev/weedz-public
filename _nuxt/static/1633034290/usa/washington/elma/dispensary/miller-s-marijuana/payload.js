@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/elma/dispensary/miller-s-marijuana", {data:[{}],fetch:{},mutations:[]});

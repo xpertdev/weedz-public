@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/delivery/the-re-up-14", {data:[{}],fetch:{},mutations:[]});

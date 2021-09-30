@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sand-springs/dispensary/westside-wellness-3", {data:[{}],fetch:{},mutations:[]});

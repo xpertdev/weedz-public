@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/garden-grove/delivery/hyperwolf-west-la", {data:[{}],fetch:{},mutations:[]});

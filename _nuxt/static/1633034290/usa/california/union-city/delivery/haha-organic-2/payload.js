@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/union-city/delivery/haha-organic-2", {data:[{}],fetch:{},mutations:[]});

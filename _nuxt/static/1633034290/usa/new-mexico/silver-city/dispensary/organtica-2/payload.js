@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/silver-city/dispensary/organtica-2", {data:[{}],fetch:{},mutations:[]});

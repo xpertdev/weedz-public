@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/malibu/delivery/secret-garden-hollywood-delivery", {data:[{}],fetch:{},mutations:[]});

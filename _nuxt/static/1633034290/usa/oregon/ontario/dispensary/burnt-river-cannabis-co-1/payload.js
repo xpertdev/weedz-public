@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/ontario/dispensary/burnt-river-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

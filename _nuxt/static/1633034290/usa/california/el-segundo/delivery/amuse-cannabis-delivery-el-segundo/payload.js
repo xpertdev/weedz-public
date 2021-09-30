@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-segundo/delivery/amuse-cannabis-delivery-el-segundo", {data:[{}],fetch:{},mutations:[]});

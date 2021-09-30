@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vacaville/delivery/kushagram-100", {data:[{}],fetch:{},mutations:[]});

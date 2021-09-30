@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/visalia/delivery/token-farms-delivery", {data:[{}],fetch:{},mutations:[]});

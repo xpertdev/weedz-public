@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/woodward/dispensary/healing-hope", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/erving/delivery/patriot-care-erving", {data:[{}],fetch:{},mutations:[]});

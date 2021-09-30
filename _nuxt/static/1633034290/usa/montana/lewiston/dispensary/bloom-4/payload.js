@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/lewiston/dispensary/bloom-4", {data:[{}],fetch:{},mutations:[]});

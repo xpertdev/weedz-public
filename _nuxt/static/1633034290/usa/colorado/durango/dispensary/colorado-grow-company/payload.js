@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/durango/dispensary/colorado-grow-company", {data:[{}],fetch:{},mutations:[]});

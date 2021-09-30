@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/belleville/doctor/dr-h-khattak", {data:[{}],fetch:{},mutations:[]});

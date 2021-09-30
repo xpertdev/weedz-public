@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/delivery/empire-health-and-wellness", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/southern-maine/delivery/caniba-naturals", {data:[{}],fetch:{},mutations:[]});

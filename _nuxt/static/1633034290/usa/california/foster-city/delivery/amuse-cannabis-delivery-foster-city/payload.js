@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/foster-city/delivery/amuse-cannabis-delivery-foster-city", {data:[{}],fetch:{},mutations:[]});

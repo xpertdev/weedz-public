@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/winter-park/dispensary/serene-wellness-winter-park", {data:[{}],fetch:{},mutations:[]});

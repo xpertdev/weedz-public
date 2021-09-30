@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bartlesville/dispensary/re-up-cannabis-dispensary-2-1", {data:[{}],fetch:{},mutations:[]});

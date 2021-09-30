@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/yachats/dispensary/yachats-cannabis-company", {data:[{}],fetch:{},mutations:[]});

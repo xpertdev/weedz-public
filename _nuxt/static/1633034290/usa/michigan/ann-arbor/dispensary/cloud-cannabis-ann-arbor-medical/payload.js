@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/dispensary/cloud-cannabis-ann-arbor-medical", {data:[{}],fetch:{},mutations:[]});

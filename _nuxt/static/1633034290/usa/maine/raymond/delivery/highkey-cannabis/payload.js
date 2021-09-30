@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/raymond/delivery/highkey-cannabis", {data:[{}],fetch:{},mutations:[]});

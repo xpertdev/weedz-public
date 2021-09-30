@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/stash-cannabis-company-1", {data:[{}],fetch:{},mutations:[]});

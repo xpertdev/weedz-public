@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/delivery/royal-highness-cannabis-delivery", {data:[{}],fetch:{},mutations:[]});

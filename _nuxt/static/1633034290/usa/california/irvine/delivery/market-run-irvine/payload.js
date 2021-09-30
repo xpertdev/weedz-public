@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/irvine/delivery/market-run-irvine", {data:[{}],fetch:{},mutations:[]});

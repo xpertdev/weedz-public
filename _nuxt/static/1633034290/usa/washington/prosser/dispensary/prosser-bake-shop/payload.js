@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/prosser/dispensary/prosser-bake-shop", {data:[{}],fetch:{},mutations:[]});

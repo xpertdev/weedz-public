@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/rockville/dispensary/potomac-holistics", {data:[{}],fetch:{},mutations:[]});

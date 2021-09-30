@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/wheeling/dispensary/hatch-1", {data:[{}],fetch:{},mutations:[]});

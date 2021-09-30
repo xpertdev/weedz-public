@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/studio-city/delivery/sunset-delivery-studio-city", {data:[{}],fetch:{},mutations:[]});

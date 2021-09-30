@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/grand-prairie/store/purely-grand-prairie", {data:[{}],fetch:{},mutations:[]});

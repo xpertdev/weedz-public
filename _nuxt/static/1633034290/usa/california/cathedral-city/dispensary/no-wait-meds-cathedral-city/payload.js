@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cathedral-city/dispensary/no-wait-meds-cathedral-city", {data:[{}],fetch:{},mutations:[]});

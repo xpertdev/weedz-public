@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/murrieta/delivery/off-the-charts-7", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/irving/store/artisan-vapor-cbd-irving", {data:[{}],fetch:{},mutations:[]});

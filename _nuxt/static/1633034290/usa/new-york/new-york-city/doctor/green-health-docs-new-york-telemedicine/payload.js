@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york-city/doctor/green-health-docs-new-york-telemedicine", {data:[{}],fetch:{},mutations:[]});

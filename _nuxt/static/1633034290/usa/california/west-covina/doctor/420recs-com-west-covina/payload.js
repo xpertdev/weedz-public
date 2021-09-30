@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-covina/doctor/420recs-com-west-covina", {data:[{}],fetch:{},mutations:[]});

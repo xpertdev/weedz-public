@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palo-alto/delivery/green-on-the-go-8", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/parachute/dispensary/the-kind-castle", {data:[{}],fetch:{},mutations:[]});

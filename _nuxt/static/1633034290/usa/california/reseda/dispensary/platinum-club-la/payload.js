@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/reseda/dispensary/platinum-club-la", {data:[{}],fetch:{},mutations:[]});

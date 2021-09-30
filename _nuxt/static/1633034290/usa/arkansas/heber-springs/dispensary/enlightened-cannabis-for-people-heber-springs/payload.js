@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/heber-springs/dispensary/enlightened-cannabis-for-people-heber-springs", {data:[{}],fetch:{},mutations:[]});

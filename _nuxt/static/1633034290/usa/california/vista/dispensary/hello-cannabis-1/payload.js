@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/dispensary/hello-cannabis-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/branford/doctor/relief-medical-center-3", {data:[{}],fetch:{},mutations:[]});

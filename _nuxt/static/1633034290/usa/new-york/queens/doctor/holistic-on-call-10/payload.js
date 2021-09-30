@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/queens/doctor/holistic-on-call-10", {data:[{}],fetch:{},mutations:[]});

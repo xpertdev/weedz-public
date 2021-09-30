@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/5-cities/delivery/bleu-diamond-2", {data:[{}],fetch:{},mutations:[]});

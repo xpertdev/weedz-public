@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/mesquite/dispensary/deep-roots-harvest", {data:[{}],fetch:{},mutations:[]});

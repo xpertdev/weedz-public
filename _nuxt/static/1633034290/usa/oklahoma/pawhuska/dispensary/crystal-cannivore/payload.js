@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pawhuska/dispensary/crystal-cannivore", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/south-windsor/dispensary/prime-wellness-of-connecticut-2", {data:[{}],fetch:{},mutations:[]});

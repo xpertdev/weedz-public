@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/the-herb-shoppe-2", {data:[{}],fetch:{},mutations:[]});

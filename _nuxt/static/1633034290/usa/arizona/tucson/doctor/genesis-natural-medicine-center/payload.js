@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tucson/doctor/genesis-natural-medicine-center", {data:[{}],fetch:{},mutations:[]});

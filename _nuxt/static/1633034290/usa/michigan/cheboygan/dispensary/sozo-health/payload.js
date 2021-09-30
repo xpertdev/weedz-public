@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/cheboygan/dispensary/sozo-health", {data:[{}],fetch:{},mutations:[]});

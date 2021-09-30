@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/botanico", {data:[{}],fetch:{},mutations:[]});

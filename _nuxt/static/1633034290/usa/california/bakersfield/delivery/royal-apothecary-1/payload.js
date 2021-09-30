@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bakersfield/delivery/royal-apothecary-1", {data:[{}],fetch:{},mutations:[]});

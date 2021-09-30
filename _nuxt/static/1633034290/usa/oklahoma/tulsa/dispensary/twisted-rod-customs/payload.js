@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/twisted-rod-customs", {data:[{}],fetch:{},mutations:[]});

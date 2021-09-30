@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/lynbrook/doctor/broadway-medical-pc", {data:[{}],fetch:{},mutations:[]});

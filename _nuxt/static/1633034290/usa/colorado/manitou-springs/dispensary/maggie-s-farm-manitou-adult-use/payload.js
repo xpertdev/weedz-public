@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/manitou-springs/dispensary/maggie-s-farm-manitou-adult-use", {data:[{}],fetch:{},mutations:[]});

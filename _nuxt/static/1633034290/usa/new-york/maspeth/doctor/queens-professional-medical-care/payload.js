@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/maspeth/doctor/queens-professional-medical-care", {data:[{}],fetch:{},mutations:[]});

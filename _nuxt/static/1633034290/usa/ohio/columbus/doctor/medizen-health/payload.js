@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/columbus/doctor/medizen-health", {data:[{}],fetch:{},mutations:[]});

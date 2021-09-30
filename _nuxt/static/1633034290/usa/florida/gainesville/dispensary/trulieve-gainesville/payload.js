@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/gainesville/dispensary/trulieve-gainesville", {data:[{}],fetch:{},mutations:[]});

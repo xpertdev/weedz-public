@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/del-mar/delivery/golden-state-greens-point-loma-del-mar", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/akron/doctor/ohio-marijuana-card-6", {data:[{}],fetch:{},mutations:[]});

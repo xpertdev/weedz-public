@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ojai/dispensary/ojai-greens", {data:[{}],fetch:{},mutations:[]});

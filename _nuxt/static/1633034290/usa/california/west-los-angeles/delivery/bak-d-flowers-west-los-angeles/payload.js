@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-los-angeles/delivery/bak-d-flowers-west-los-angeles", {data:[{}],fetch:{},mutations:[]});

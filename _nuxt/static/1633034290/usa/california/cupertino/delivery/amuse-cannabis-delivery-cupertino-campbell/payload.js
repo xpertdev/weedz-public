@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cupertino/delivery/amuse-cannabis-delivery-cupertino-campbell", {data:[{}],fetch:{},mutations:[]});

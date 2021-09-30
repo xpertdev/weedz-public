@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ridgecrest/delivery/quality-care-cannabis-1", {data:[{}],fetch:{},mutations:[]});

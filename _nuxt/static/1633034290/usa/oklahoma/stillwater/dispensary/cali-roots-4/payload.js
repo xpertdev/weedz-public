@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/cali-roots-4", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/new-port-richey/doctor/docmj-new-port-richey", {data:[{}],fetch:{},mutations:[]});

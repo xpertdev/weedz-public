@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/mmd-marina-del-rey", {data:[{}],fetch:{},mutations:[]});

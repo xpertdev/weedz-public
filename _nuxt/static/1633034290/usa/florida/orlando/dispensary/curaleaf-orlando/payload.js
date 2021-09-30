@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orlando/dispensary/curaleaf-orlando", {data:[{}],fetch:{},mutations:[]});

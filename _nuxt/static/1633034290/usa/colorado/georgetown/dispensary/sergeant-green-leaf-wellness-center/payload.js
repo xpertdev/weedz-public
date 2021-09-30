@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/georgetown/dispensary/sergeant-green-leaf-wellness-center", {data:[{}],fetch:{},mutations:[]});

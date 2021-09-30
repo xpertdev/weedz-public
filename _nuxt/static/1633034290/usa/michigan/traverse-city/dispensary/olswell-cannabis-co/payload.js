@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/traverse-city/dispensary/olswell-cannabis-co", {data:[{}],fetch:{},mutations:[]});

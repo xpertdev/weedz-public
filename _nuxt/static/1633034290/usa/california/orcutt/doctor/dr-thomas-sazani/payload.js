@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/orcutt/doctor/dr-thomas-sazani", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/east-detroit/delivery/oz-cannabis-detroit", {data:[{}],fetch:{},mutations:[]});

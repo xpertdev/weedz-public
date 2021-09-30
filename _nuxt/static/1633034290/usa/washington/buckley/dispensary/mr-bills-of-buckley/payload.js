@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/buckley/dispensary/mr-bills-of-buckley", {data:[{}],fetch:{},mutations:[]});

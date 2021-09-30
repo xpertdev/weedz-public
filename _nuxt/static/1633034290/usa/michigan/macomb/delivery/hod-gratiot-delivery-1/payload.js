@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/macomb/delivery/hod-gratiot-delivery-1", {data:[{}],fetch:{},mutations:[]});

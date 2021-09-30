@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/casselberry/dispensary/fluent-casselberry", {data:[{}],fetch:{},mutations:[]});

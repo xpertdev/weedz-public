@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tujunga/dispensary/st-andrews-green-tujunga", {data:[{}],fetch:{},mutations:[]});

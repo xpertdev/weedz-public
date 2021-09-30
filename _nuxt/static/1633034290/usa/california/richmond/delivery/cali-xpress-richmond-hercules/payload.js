@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/richmond/delivery/cali-xpress-richmond-hercules", {data:[{}],fetch:{},mutations:[]});

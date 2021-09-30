@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-jose/doctor/420recs-com-san-jose", {data:[{}],fetch:{},mutations:[]});

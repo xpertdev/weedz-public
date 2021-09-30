@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/woodward/dispensary/lady-janes-dispensary", {data:[{}],fetch:{},mutations:[]});

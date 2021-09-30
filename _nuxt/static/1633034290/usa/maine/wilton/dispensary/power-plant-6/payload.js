@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/wilton/dispensary/power-plant-6", {data:[{}],fetch:{},mutations:[]});

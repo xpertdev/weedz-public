@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/skiatook/dispensary/the-flower-shop-2", {data:[{}],fetch:{},mutations:[]});

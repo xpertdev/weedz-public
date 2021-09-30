@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/north-bend/dispensary/coastal-high-ways", {data:[{}],fetch:{},mutations:[]});

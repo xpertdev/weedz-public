@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/canal-winchester/doctor/medical-marijuana-doctors-1", {data:[{}],fetch:{},mutations:[]});

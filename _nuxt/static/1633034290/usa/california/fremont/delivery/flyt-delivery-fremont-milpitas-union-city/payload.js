@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/flyt-delivery-fremont-milpitas-union-city", {data:[{}],fetch:{},mutations:[]});

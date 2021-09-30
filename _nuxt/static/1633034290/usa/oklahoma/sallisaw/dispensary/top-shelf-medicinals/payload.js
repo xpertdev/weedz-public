@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sallisaw/dispensary/top-shelf-medicinals", {data:[{}],fetch:{},mutations:[]});

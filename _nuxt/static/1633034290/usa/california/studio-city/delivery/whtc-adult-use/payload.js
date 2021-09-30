@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/studio-city/delivery/whtc-adult-use", {data:[{}],fetch:{},mutations:[]});

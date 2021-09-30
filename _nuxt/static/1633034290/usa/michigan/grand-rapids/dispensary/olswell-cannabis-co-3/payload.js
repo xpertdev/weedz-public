@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/dispensary/olswell-cannabis-co-3", {data:[{}],fetch:{},mutations:[]});

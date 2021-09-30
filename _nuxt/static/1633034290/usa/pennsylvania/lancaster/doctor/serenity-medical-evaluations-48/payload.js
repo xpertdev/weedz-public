@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/lancaster/doctor/serenity-medical-evaluations-48", {data:[{}],fetch:{},mutations:[]});

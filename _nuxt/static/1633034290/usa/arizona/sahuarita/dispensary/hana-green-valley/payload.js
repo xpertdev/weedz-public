@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/sahuarita/dispensary/hana-green-valley", {data:[{}],fetch:{},mutations:[]});

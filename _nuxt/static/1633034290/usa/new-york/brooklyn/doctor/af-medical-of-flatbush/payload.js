@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/doctor/af-medical-of-flatbush", {data:[{}],fetch:{},mutations:[]});

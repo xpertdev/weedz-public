@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/chiloquin/dispensary/green-knottz-chiloquin", {data:[{}],fetch:{},mutations:[]});

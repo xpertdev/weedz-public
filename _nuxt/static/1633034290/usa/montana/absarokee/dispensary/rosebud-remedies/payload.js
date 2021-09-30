@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/absarokee/dispensary/rosebud-remedies", {data:[{}],fetch:{},mutations:[]});

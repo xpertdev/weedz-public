@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/cumberland/doctor/more-with-doc-c", {data:[{}],fetch:{},mutations:[]});

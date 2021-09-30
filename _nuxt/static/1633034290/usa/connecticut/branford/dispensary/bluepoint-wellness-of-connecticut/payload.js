@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/branford/dispensary/bluepoint-wellness-of-connecticut", {data:[{}],fetch:{},mutations:[]});

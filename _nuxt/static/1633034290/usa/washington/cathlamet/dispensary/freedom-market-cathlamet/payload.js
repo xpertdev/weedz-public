@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/cathlamet/dispensary/freedom-market-cathlamet", {data:[{}],fetch:{},mutations:[]});

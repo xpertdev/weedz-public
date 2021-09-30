@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/lynn/dispensary/apothca-lynn", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/natural-leaf", {data:[{}],fetch:{},mutations:[]});

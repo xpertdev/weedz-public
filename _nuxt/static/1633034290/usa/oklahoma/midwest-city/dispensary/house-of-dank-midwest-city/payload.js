@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/house-of-dank-midwest-city", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/5280-weedery", {data:[{}],fetch:{},mutations:[]});

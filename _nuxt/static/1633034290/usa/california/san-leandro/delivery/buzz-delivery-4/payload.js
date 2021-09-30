@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-leandro/delivery/buzz-delivery-4", {data:[{}],fetch:{},mutations:[]});

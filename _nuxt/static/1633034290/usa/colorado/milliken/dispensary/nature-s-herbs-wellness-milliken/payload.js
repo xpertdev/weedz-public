@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/milliken/dispensary/nature-s-herbs-wellness-milliken", {data:[{}],fetch:{},mutations:[]});

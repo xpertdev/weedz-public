@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/upper-darby/doctor/mmjrecs-online-clinic-17", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/minerva-canna-of-broken-arrow", {data:[{}],fetch:{},mutations:[]});

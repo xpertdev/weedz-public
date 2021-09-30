@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/twentynine-palms/delivery/desert-organic-solutions", {data:[{}],fetch:{},mutations:[]});

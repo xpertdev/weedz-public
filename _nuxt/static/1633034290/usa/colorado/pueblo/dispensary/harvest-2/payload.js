@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/harvest-2", {data:[{}],fetch:{},mutations:[]});

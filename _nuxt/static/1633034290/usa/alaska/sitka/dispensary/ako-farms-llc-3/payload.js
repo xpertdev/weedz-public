@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/sitka/dispensary/ako-farms-llc-3", {data:[{}],fetch:{},mutations:[]});

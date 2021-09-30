@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/napa/delivery/budee-a96c1645-3519-4341-8dcd-e1dbda6f6853", {data:[{}],fetch:{},mutations:[]});

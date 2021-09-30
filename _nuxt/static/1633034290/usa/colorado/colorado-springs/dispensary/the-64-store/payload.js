@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/the-64-store", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/baton-rouge/doctor/dr-leone-f-elliott-jr-md", {data:[{}],fetch:{},mutations:[]});

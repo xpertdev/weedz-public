@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/niles/doctor/michigan-holistic-health-of-niles", {data:[{}],fetch:{},mutations:[]});

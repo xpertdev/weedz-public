@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/green-roots-wellness", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/germantown/dispensary/zen-leaf-germantown", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lemoore/dispensary/natural-healing-center-lemoore", {data:[{}],fetch:{},mutations:[]});

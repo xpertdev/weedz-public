@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/wilmington/doctor/nature-s-way-medicine-2", {data:[{}],fetch:{},mutations:[]});

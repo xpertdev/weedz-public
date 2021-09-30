@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cotati/delivery/budee-18", {data:[{}],fetch:{},mutations:[]});

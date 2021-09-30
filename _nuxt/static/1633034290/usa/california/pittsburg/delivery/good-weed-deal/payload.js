@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pittsburg/delivery/good-weed-deal", {data:[{}],fetch:{},mutations:[]});

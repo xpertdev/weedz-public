@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/haverhill/dispensary/stem-haverhill", {data:[{}],fetch:{},mutations:[]});

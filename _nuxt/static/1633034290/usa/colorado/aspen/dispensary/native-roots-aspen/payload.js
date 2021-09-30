@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aspen/dispensary/native-roots-aspen", {data:[{}],fetch:{},mutations:[]});

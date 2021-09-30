@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-jolla/delivery/canex-delivery-82", {data:[{}],fetch:{},mutations:[]});

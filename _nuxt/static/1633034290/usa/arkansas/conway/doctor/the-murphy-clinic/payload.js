@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/conway/doctor/the-murphy-clinic", {data:[{}],fetch:{},mutations:[]});

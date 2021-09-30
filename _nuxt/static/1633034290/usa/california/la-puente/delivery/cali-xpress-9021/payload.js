@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/delivery/cali-xpress-9021", {data:[{}],fetch:{},mutations:[]});

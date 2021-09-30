@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/doctor/miracle-leaf-health-centers", {data:[{}],fetch:{},mutations:[]});

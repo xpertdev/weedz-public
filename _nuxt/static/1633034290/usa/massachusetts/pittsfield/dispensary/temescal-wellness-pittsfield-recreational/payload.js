@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/pittsfield/dispensary/temescal-wellness-pittsfield-recreational", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/central-la/delivery/lyt-delivery-2", {data:[{}],fetch:{},mutations:[]});

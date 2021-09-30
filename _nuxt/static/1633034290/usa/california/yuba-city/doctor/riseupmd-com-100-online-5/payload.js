@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yuba-city/doctor/riseupmd-com-100-online-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/delivery/dna-weed-10", {data:[{}],fetch:{},mutations:[]});

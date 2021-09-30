@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/middletown/delivery/curaleaf-middletown", {data:[{}],fetch:{},mutations:[]});

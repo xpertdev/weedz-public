@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/carson-city/dispensary/rise", {data:[{}],fetch:{},mutations:[]});

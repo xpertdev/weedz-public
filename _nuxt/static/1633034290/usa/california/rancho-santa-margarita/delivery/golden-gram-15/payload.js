@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-santa-margarita/delivery/golden-gram-15", {data:[{}],fetch:{},mutations:[]});

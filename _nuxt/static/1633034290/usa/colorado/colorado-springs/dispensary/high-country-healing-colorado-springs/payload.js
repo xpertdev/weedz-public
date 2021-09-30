@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/high-country-healing-colorado-springs", {data:[{}],fetch:{},mutations:[]});

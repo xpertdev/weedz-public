@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/framingham/dispensary/nova-farms-framingham", {data:[{}],fetch:{},mutations:[]});

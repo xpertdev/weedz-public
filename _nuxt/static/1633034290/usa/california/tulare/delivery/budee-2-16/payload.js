@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tulare/delivery/budee-2-16", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fullerton/delivery/kushagram-csuf", {data:[{}],fetch:{},mutations:[]});

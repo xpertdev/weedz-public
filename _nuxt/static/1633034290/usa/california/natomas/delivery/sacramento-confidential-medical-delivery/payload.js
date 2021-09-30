@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/natomas/delivery/sacramento-confidential-medical-delivery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/burton/dispensary/bloom-city-club-burton-1", {data:[{}],fetch:{},mutations:[]});

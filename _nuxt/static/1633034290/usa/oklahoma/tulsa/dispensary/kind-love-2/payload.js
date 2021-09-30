@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/kind-love-2", {data:[{}],fetch:{},mutations:[]});

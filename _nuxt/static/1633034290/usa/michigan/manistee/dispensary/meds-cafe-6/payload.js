@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/manistee/dispensary/meds-cafe-6", {data:[{}],fetch:{},mutations:[]});

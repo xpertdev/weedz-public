@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/delivery/hyperwolf-2", {data:[{}],fetch:{},mutations:[]});

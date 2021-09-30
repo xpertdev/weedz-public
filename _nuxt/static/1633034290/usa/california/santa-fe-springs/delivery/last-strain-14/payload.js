@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-fe-springs/delivery/last-strain-14", {data:[{}],fetch:{},mutations:[]});

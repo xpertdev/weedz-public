@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/united-health-and-care-center-uhcc", {data:[{}],fetch:{},mutations:[]});

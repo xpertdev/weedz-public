@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/florence/dispensary/the-arboretum-florence", {data:[{}],fetch:{},mutations:[]});

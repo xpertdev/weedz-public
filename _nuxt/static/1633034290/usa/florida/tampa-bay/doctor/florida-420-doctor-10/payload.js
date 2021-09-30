@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa-bay/doctor/florida-420-doctor-10", {data:[{}],fetch:{},mutations:[]});

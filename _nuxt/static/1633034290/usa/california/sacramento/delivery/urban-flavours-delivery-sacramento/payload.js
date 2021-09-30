@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/urban-flavours-delivery-sacramento", {data:[{}],fetch:{},mutations:[]});

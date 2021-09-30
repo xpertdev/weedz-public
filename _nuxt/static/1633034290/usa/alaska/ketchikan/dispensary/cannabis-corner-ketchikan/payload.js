@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/ketchikan/dispensary/cannabis-corner-ketchikan", {data:[{}],fetch:{},mutations:[]});

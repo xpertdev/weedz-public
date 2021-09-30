@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/crescent/dispensary/natural-green-health-solutions", {data:[{}],fetch:{},mutations:[]});

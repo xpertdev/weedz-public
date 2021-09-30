@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/wheeler/dispensary/green-man-collective", {data:[{}],fetch:{},mutations:[]});

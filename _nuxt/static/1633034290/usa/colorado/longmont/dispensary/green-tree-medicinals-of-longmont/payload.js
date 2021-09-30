@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/longmont/dispensary/green-tree-medicinals-of-longmont", {data:[{}],fetch:{},mutations:[]});

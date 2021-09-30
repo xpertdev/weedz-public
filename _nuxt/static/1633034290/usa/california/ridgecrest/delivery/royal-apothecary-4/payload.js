@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ridgecrest/delivery/royal-apothecary-4", {data:[{}],fetch:{},mutations:[]});

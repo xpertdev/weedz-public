@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/nichols-hills/dispensary/green-doctor-420-nichols-hills", {data:[{}],fetch:{},mutations:[]});

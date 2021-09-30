@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/brandywine/dispensary/haven", {data:[{}],fetch:{},mutations:[]});

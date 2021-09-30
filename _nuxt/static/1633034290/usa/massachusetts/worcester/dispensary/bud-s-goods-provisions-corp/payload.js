@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/worcester/dispensary/bud-s-goods-provisions-corp", {data:[{}],fetch:{},mutations:[]});

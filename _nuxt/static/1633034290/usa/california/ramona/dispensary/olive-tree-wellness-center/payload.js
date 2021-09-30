@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ramona/dispensary/olive-tree-wellness-center", {data:[{}],fetch:{},mutations:[]});

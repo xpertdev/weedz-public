@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/delivery/the-good-leaf-llc", {data:[{}],fetch:{},mutations:[]});

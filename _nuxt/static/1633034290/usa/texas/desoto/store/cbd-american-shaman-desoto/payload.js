@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/desoto/store/cbd-american-shaman-desoto", {data:[{}],fetch:{},mutations:[]});

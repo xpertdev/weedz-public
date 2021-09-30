@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/delivery/harbor-collective", {data:[{}],fetch:{},mutations:[]});

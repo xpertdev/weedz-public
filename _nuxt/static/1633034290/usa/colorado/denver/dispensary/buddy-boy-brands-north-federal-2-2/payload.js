@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/buddy-boy-brands-north-federal-2-2", {data:[{}],fetch:{},mutations:[]});

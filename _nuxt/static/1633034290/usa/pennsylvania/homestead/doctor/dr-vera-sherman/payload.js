@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/homestead/doctor/dr-vera-sherman", {data:[{}],fetch:{},mutations:[]});

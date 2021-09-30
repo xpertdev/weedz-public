@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakewood/delivery/nug-avenue-10", {data:[{}],fetch:{},mutations:[]});

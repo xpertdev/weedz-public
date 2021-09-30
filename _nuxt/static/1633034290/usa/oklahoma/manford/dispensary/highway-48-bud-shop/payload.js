@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/manford/dispensary/highway-48-bud-shop", {data:[{}],fetch:{},mutations:[]});

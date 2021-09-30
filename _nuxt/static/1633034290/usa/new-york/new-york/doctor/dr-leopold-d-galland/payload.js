@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/doctor/dr-leopold-d-galland", {data:[{}],fetch:{},mutations:[]});

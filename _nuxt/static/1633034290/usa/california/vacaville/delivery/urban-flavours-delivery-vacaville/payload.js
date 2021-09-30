@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vacaville/delivery/urban-flavours-delivery-vacaville", {data:[{}],fetch:{},mutations:[]});

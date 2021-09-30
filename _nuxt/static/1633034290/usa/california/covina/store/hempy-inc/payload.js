@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/covina/store/hempy-inc", {data:[{}],fetch:{},mutations:[]});

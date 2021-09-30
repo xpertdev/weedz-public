@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-cruz/dispensary/kindpeoples-ocean-street", {data:[{}],fetch:{},mutations:[]});

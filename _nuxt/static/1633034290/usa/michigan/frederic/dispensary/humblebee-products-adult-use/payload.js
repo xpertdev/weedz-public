@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/frederic/dispensary/humblebee-products-adult-use", {data:[{}],fetch:{},mutations:[]});

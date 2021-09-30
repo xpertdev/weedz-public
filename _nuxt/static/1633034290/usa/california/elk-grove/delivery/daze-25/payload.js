@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/daze-25", {data:[{}],fetch:{},mutations:[]});

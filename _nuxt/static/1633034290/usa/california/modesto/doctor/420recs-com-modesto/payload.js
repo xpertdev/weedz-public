@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/modesto/doctor/420recs-com-modesto", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/doctor/chronic-docs-1", {data:[{}],fetch:{},mutations:[]});

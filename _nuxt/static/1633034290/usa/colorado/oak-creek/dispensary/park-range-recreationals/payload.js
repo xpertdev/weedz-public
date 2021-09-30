@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/oak-creek/dispensary/park-range-recreationals", {data:[{}],fetch:{},mutations:[]});

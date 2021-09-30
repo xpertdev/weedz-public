@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/marina-del-rey/dispensary/marina-caregivers-inc", {data:[{}],fetch:{},mutations:[]});

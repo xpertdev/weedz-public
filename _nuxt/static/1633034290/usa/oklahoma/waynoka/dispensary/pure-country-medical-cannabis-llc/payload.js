@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/waynoka/dispensary/pure-country-medical-cannabis-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/midwest-cures-3", {data:[{}],fetch:{},mutations:[]});

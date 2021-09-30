@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ocala/dispensary/one-plant-ocala-1", {data:[{}],fetch:{},mutations:[]});

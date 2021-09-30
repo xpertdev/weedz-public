@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/walsenburg/dispensary/bud-hut-inc-81089-walsenburg-trinidad", {data:[{}],fetch:{},mutations:[]});

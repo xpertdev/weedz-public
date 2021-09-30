@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/faragosi-farms", {data:[{}],fetch:{},mutations:[]});

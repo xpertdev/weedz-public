@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/sandusky/doctor/alternative-medicine-centers-of-america-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/sacramento-confidential-delivery", {data:[{}],fetch:{},mutations:[]});

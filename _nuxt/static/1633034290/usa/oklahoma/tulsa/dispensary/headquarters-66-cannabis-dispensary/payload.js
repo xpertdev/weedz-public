@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/headquarters-66-cannabis-dispensary", {data:[{}],fetch:{},mutations:[]});

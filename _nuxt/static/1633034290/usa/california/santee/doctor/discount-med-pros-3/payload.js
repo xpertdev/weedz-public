@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santee/doctor/discount-med-pros-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/nature-s-medicines-phoenix-recreational", {data:[{}],fetch:{},mutations:[]});

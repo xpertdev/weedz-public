@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/columbia/dispensary/shangri-la-dispensaries", {data:[{}],fetch:{},mutations:[]});

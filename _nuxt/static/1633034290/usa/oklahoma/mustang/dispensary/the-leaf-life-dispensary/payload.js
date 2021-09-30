@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mustang/dispensary/the-leaf-life-dispensary", {data:[{}],fetch:{},mutations:[]});

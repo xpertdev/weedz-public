@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/towson/doctor/dr-c-weng", {data:[{}],fetch:{},mutations:[]});

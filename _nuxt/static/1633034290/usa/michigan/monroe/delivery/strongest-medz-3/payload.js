@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/monroe/delivery/strongest-medz-3", {data:[{}],fetch:{},mutations:[]});

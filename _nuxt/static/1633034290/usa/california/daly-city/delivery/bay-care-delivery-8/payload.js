@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/daly-city/delivery/bay-care-delivery-8", {data:[{}],fetch:{},mutations:[]});

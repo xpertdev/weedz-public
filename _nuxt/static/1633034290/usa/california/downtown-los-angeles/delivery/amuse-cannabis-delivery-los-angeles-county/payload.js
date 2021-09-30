@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-los-angeles/delivery/amuse-cannabis-delivery-los-angeles-county", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/doctor/american-cannabinoid-clinics-2", {data:[{}],fetch:{},mutations:[]});

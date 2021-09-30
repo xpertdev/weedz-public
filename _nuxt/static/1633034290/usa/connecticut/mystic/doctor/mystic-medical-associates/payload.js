@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/mystic/doctor/mystic-medical-associates", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/doctor/420recs-com-long-beach", {data:[{}],fetch:{},mutations:[]});

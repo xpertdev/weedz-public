@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/lemonnade-tulsa", {data:[{}],fetch:{},mutations:[]});

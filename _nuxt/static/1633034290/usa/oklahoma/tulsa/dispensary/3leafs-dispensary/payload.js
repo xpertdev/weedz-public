@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/3leafs-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/corvallis/dispensary/mr-nice-guy-15th-st", {data:[{}],fetch:{},mutations:[]});

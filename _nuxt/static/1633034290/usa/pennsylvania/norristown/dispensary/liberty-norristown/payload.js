@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/norristown/dispensary/liberty-norristown", {data:[{}],fetch:{},mutations:[]});

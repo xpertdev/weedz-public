@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/clovis/delivery/empire-delivery-clovis", {data:[{}],fetch:{},mutations:[]});

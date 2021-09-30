@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redondo-beach/delivery/kushagram-redondo-beach", {data:[{}],fetch:{},mutations:[]});

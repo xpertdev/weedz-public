@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/longview/store/artisan-vapor-cbd-longview", {data:[{}],fetch:{},mutations:[]});

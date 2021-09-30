@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/eliot/dispensary/sweetdirt-medicinals", {data:[{}],fetch:{},mutations:[]});

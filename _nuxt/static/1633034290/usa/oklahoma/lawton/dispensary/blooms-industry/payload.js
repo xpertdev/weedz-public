@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/blooms-industry", {data:[{}],fetch:{},mutations:[]});

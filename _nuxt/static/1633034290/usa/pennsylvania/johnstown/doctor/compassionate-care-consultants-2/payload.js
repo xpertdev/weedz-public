@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/johnstown/doctor/compassionate-care-consultants-2", {data:[{}],fetch:{},mutations:[]});

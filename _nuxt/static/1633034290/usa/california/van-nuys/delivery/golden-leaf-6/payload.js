@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/delivery/golden-leaf-6", {data:[{}],fetch:{},mutations:[]});

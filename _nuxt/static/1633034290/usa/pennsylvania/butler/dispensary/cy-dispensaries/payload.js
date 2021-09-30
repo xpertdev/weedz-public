@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/butler/dispensary/cy-dispensaries", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/surfside/delivery/shannon-s-best-buds-2", {data:[{}],fetch:{},mutations:[]});

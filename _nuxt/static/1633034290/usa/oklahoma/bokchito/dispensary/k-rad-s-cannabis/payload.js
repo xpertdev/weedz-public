@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bokchito/dispensary/k-rad-s-cannabis", {data:[{}],fetch:{},mutations:[]});

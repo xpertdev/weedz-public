@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/daly-city/delivery/amuse-cannabis-delivery-daly-city", {data:[{}],fetch:{},mutations:[]});

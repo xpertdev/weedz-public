@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mountain-view/delivery/juva-delivery-mountain-view", {data:[{}],fetch:{},mutations:[]});

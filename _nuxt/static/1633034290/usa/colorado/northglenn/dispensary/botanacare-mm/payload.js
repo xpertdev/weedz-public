@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/northglenn/dispensary/botanacare-mm", {data:[{}],fetch:{},mutations:[]});

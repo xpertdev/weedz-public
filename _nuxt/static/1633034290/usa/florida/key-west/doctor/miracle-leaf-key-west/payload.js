@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/key-west/doctor/miracle-leaf-key-west", {data:[{}],fetch:{},mutations:[]});

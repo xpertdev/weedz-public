@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/warr-acres/dispensary/the-pot-hole-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/delivery/flora-verde", {data:[{}],fetch:{},mutations:[]});

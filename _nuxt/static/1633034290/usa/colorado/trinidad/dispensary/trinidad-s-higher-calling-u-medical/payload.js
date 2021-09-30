@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/trinidad-s-higher-calling-u-medical", {data:[{}],fetch:{},mutations:[]});

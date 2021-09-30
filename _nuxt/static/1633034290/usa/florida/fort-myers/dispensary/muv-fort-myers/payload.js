@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-myers/dispensary/muv-fort-myers", {data:[{}],fetch:{},mutations:[]});

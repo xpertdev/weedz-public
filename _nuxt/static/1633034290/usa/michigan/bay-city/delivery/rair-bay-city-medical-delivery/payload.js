@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bay-city/delivery/rair-bay-city-medical-delivery", {data:[{}],fetch:{},mutations:[]});

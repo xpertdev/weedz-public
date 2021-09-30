@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/eugene-og", {data:[{}],fetch:{},mutations:[]});

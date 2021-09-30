@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/cortez/dispensary/chronic-therapy-cortez", {data:[{}],fetch:{},mutations:[]});

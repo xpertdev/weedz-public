@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sunrise/doctor/certifiedmarijuanadoctors-com", {data:[{}],fetch:{},mutations:[]});

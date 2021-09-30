@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/texarkana/dispensary/bloom-medicinals-cannabis-dispensary-texarkana-1", {data:[{}],fetch:{},mutations:[]});

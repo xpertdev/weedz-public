@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chino/delivery/budee-a4a2c319-e882-423a-ba98-11a55f021b6e", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lake-arrrowhead/delivery/liv-collectiv-17", {data:[{}],fetch:{},mutations:[]});

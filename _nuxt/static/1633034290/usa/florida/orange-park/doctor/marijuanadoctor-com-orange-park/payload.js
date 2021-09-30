@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orange-park/doctor/marijuanadoctor-com-orange-park", {data:[{}],fetch:{},mutations:[]});

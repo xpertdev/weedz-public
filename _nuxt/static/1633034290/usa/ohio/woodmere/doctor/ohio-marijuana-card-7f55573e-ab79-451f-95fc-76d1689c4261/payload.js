@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/woodmere/doctor/ohio-marijuana-card-7f55573e-ab79-451f-95fc-76d1689c4261", {data:[{}],fetch:{},mutations:[]});

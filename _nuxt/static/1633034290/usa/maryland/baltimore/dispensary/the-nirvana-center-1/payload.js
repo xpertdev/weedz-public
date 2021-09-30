@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/baltimore/dispensary/the-nirvana-center-1", {data:[{}],fetch:{},mutations:[]});

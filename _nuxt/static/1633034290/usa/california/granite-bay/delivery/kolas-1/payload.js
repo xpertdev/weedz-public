@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/granite-bay/delivery/kolas-1", {data:[{}],fetch:{},mutations:[]});

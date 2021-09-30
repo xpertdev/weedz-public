@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/roslyn-heights/doctor/dr-peter-r-neumann-md", {data:[{}],fetch:{},mutations:[]});

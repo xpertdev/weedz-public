@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muskogee/dispensary/columbus-powell", {data:[{}],fetch:{},mutations:[]});

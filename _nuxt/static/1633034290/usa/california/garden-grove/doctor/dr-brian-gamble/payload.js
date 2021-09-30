@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/garden-grove/doctor/dr-brian-gamble", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sallisaw/dispensary/natural-meds-farm", {data:[{}],fetch:{},mutations:[]});

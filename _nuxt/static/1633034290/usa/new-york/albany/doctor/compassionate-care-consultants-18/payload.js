@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/albany/doctor/compassionate-care-consultants-18", {data:[{}],fetch:{},mutations:[]});

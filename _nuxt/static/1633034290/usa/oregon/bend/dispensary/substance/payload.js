@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bend/dispensary/substance", {data:[{}],fetch:{},mutations:[]});

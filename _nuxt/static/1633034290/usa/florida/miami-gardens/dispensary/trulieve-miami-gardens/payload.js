@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami-gardens/dispensary/trulieve-miami-gardens", {data:[{}],fetch:{},mutations:[]});

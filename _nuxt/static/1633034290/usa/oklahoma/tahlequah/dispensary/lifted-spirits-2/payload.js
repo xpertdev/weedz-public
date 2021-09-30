@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/lifted-spirits-2", {data:[{}],fetch:{},mutations:[]});

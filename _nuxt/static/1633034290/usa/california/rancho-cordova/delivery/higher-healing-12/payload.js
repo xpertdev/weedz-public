@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cordova/delivery/higher-healing-12", {data:[{}],fetch:{},mutations:[]});

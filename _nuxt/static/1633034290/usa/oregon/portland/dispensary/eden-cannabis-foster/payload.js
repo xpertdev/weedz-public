@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/eden-cannabis-foster", {data:[{}],fetch:{},mutations:[]});

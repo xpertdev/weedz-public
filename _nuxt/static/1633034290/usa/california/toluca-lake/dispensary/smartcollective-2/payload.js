@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/toluca-lake/dispensary/smartcollective-2", {data:[{}],fetch:{},mutations:[]});

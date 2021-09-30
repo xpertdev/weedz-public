@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muldrow/dispensary/greens-things", {data:[{}],fetch:{},mutations:[]});

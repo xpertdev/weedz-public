@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/cookies-okc-south", {data:[{}],fetch:{},mutations:[]});

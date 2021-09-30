@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/dispensary/green-vitality-adult-use", {data:[{}],fetch:{},mutations:[]});

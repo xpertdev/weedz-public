@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/north-dakota/grand-forks/dispensary/strive-life", {data:[{}],fetch:{},mutations:[]});

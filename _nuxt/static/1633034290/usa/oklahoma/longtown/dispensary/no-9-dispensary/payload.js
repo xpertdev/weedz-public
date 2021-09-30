@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/longtown/dispensary/no-9-dispensary", {data:[{}],fetch:{},mutations:[]});

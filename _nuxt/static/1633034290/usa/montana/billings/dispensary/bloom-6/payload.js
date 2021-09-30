@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/billings/dispensary/bloom-6", {data:[{}],fetch:{},mutations:[]});

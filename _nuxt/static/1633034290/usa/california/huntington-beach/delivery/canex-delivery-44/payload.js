@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/canex-delivery-44", {data:[{}],fetch:{},mutations:[]});

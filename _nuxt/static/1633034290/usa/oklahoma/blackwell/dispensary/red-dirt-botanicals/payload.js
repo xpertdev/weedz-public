@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/blackwell/dispensary/red-dirt-botanicals", {data:[{}],fetch:{},mutations:[]});

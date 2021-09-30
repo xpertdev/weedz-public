@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-barbara/delivery/coastal-delivery-8", {data:[{}],fetch:{},mutations:[]});

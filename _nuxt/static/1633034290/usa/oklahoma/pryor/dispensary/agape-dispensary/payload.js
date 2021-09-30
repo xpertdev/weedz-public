@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pryor/dispensary/agape-dispensary", {data:[{}],fetch:{},mutations:[]});

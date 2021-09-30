@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-park/delivery/march-and-ash-delivery-north-park", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/summerfield/dispensary/liberty-health-sciences-cannabis-education-centers-the-villages", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/eufaula/dispensary/soulage-of-eufaula", {data:[{}],fetch:{},mutations:[]});

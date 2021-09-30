@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/delivery/joyology-grand-rapids", {data:[{}],fetch:{},mutations:[]});

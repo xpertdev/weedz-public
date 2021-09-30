@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/perris/delivery/kind-delivery-co-6", {data:[{}],fetch:{},mutations:[]});

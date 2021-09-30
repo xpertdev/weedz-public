@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/10-collective-fremont", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/delivery/high-times-delivery-vallejo", {data:[{}],fetch:{},mutations:[]});

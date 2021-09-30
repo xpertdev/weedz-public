@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/new-river/dispensary/zen-dispensary", {data:[{}],fetch:{},mutations:[]});

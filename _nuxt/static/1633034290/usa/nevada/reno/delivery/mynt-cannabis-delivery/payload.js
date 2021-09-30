@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/reno/delivery/mynt-cannabis-delivery", {data:[{}],fetch:{},mutations:[]});

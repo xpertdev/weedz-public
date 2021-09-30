@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/the-greens-of-central-oklahoma", {data:[{}],fetch:{},mutations:[]});

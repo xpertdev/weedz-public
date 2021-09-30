@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downey/delivery/cali-xpress-8966", {data:[{}],fetch:{},mutations:[]});

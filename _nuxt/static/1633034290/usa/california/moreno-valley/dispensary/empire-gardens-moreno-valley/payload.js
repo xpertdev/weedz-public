@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moreno-valley/dispensary/empire-gardens-moreno-valley", {data:[{}],fetch:{},mutations:[]});

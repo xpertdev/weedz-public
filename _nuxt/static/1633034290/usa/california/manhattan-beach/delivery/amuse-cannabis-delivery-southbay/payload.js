@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manhattan-beach/delivery/amuse-cannabis-delivery-southbay", {data:[{}],fetch:{},mutations:[]});

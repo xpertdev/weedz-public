@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/along-came-mary-1", {data:[{}],fetch:{},mutations:[]});

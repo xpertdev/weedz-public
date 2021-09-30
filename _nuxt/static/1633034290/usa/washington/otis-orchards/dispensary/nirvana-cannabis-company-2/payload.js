@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/otis-orchards/dispensary/nirvana-cannabis-company-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/delivery/five-dime-detroit-delivery", {data:[{}],fetch:{},mutations:[]});

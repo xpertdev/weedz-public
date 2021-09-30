@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/high-5-cannabis-eugene", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/fire-ranch-farmacy", {data:[{}],fetch:{},mutations:[]});

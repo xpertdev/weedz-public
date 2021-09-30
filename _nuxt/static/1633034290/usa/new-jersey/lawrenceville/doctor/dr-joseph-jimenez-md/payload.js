@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/lawrenceville/doctor/dr-joseph-jimenez-md", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/lacontes-clone-bar-dispensary-central-recreational", {data:[{}],fetch:{},mutations:[]});

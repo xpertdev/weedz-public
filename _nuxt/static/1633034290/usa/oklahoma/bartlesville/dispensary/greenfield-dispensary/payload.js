@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bartlesville/dispensary/greenfield-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-cruz/delivery/haha-s-organic-2", {data:[{}],fetch:{},mutations:[]});

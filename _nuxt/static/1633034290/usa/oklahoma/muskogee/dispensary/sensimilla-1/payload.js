@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muskogee/dispensary/sensimilla-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/delivery/irie-clouds-holistics-2-3", {data:[{}],fetch:{},mutations:[]});

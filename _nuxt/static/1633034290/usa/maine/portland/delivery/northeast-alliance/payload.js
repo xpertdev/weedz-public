@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/delivery/northeast-alliance", {data:[{}],fetch:{},mutations:[]});

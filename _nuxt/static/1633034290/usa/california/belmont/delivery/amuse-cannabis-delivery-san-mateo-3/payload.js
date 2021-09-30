@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/belmont/delivery/amuse-cannabis-delivery-san-mateo-3", {data:[{}],fetch:{},mutations:[]});

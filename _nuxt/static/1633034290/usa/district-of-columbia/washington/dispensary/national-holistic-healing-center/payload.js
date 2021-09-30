@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/district-of-columbia/washington/dispensary/national-holistic-healing-center", {data:[{}],fetch:{},mutations:[]});

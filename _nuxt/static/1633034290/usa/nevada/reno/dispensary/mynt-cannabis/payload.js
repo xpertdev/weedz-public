@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/reno/dispensary/mynt-cannabis", {data:[{}],fetch:{},mutations:[]});

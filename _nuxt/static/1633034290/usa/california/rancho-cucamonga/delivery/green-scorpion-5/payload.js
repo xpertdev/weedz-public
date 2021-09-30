@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/green-scorpion-5", {data:[{}],fetch:{},mutations:[]});

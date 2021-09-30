@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/martinez/delivery/bento-martinez", {data:[{}],fetch:{},mutations:[]});

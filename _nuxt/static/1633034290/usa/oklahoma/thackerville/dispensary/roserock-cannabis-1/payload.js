@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/thackerville/dispensary/roserock-cannabis-1", {data:[{}],fetch:{},mutations:[]});

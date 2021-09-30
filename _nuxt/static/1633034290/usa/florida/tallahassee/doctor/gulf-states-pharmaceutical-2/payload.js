@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tallahassee/doctor/gulf-states-pharmaceutical-2", {data:[{}],fetch:{},mutations:[]});

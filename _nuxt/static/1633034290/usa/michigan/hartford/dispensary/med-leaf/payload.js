@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/hartford/dispensary/med-leaf", {data:[{}],fetch:{},mutations:[]});

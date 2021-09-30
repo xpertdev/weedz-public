@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/seal-beach/delivery/long-beach-wellness-center-delivery-4", {data:[{}],fetch:{},mutations:[]});

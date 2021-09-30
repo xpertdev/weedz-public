@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/abingdon/dispensary/revcanna", {data:[{}],fetch:{},mutations:[]});

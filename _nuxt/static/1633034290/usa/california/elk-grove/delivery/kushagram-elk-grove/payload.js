@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/kushagram-elk-grove", {data:[{}],fetch:{},mutations:[]});

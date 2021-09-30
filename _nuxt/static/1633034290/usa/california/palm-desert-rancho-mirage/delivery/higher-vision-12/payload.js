@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert-rancho-mirage/delivery/higher-vision-12", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/ruidoso/dispensary/pecos-valley-production-ruidoso", {data:[{}],fetch:{},mutations:[]});

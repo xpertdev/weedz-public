@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/doctor/leafwell-1", {data:[{}],fetch:{},mutations:[]});

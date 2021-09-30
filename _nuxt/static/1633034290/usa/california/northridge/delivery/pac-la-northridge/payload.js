@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/delivery/pac-la-northridge", {data:[{}],fetch:{},mutations:[]});

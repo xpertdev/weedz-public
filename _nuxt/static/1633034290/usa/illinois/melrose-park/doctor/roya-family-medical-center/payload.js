@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/melrose-park/doctor/roya-family-medical-center", {data:[{}],fetch:{},mutations:[]});

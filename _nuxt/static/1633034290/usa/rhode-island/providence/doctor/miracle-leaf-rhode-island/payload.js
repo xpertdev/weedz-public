@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/providence/doctor/miracle-leaf-rhode-island", {data:[{}],fetch:{},mutations:[]});

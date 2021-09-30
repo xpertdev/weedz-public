@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mira-mesa/doctor/dr-weedy-5", {data:[{}],fetch:{},mutations:[]});

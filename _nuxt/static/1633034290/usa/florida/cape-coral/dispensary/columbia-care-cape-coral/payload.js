@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/cape-coral/dispensary/columbia-care-cape-coral", {data:[{}],fetch:{},mutations:[]});

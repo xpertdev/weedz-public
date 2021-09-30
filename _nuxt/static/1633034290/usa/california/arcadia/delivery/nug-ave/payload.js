@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arcadia/delivery/nug-ave", {data:[{}],fetch:{},mutations:[]});

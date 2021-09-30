@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/valdez/dispensary/herbal-outfitters", {data:[{}],fetch:{},mutations:[]});

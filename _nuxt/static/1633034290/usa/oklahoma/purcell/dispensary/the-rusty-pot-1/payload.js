@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/purcell/dispensary/the-rusty-pot-1", {data:[{}],fetch:{},mutations:[]});

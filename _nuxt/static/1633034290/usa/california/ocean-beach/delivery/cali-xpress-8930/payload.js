@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ocean-beach/delivery/cali-xpress-8930", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/all-about-wellness-2", {data:[{}],fetch:{},mutations:[]});

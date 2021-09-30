@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/newburgh/dispensary/curaleaf-ny-newburgh", {data:[{}],fetch:{},mutations:[]});

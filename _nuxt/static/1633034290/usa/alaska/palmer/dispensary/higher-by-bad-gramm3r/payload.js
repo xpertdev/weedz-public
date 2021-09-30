@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/palmer/dispensary/higher-by-bad-gramm3r", {data:[{}],fetch:{},mutations:[]});

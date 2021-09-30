@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pleasonton/delivery/canna-car-2", {data:[{}],fetch:{},mutations:[]});

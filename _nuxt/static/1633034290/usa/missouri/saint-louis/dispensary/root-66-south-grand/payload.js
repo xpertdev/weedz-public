@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/saint-louis/dispensary/root-66-south-grand", {data:[{}],fetch:{},mutations:[]});

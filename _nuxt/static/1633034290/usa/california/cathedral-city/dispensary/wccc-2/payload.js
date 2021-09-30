@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cathedral-city/dispensary/wccc-2", {data:[{}],fetch:{},mutations:[]});

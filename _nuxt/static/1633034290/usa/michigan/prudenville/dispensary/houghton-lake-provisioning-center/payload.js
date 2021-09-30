@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/prudenville/dispensary/houghton-lake-provisioning-center", {data:[{}],fetch:{},mutations:[]});

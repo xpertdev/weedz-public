@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/crystal-river/doctor/better-health-compassion-clinic", {data:[{}],fetch:{},mutations:[]});

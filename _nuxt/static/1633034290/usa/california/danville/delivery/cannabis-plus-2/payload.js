@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/danville/delivery/cannabis-plus-2", {data:[{}],fetch:{},mutations:[]});

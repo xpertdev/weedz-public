@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bend/dispensary/the-herb-center", {data:[{}],fetch:{},mutations:[]});

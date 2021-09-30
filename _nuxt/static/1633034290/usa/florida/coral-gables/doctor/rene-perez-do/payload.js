@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/coral-gables/doctor/rene-perez-do", {data:[{}],fetch:{},mutations:[]});

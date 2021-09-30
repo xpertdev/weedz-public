@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/doctor/hod-medical-marijuana-certification-center", {data:[{}],fetch:{},mutations:[]});

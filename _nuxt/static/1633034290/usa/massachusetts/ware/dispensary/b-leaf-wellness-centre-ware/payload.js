@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/ware/dispensary/b-leaf-wellness-centre-ware", {data:[{}],fetch:{},mutations:[]});

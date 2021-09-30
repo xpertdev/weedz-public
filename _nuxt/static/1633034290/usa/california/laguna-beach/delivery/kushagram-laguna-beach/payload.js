@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/laguna-beach/delivery/kushagram-laguna-beach", {data:[{}],fetch:{},mutations:[]});

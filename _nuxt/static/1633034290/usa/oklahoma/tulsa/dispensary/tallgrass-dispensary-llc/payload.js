@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/tallgrass-dispensary-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yorba-linda/delivery/canex-delivery-52", {data:[{}],fetch:{},mutations:[]});

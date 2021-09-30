@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/fulton/doctor/star-flower-clinic-and-wellness", {data:[{}],fetch:{},mutations:[]});

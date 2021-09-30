@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/morongo-valley/delivery/atomic-budz-dispensary", {data:[{}],fetch:{},mutations:[]});

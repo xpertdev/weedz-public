@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/alma/dispensary/consume-alma", {data:[{}],fetch:{},mutations:[]});

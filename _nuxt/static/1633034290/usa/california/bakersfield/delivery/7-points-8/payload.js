@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bakersfield/delivery/7-points-8", {data:[{}],fetch:{},mutations:[]});

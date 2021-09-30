@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/covina/delivery/hyperwolf-west-covina-2-0", {data:[{}],fetch:{},mutations:[]});

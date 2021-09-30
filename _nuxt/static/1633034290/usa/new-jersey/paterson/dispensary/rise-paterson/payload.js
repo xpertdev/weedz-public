@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/paterson/dispensary/rise-paterson", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/boston/dispensary/affinity-1", {data:[{}],fetch:{},mutations:[]});

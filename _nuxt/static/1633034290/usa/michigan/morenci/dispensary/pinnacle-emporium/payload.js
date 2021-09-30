@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/morenci/dispensary/pinnacle-emporium", {data:[{}],fetch:{},mutations:[]});

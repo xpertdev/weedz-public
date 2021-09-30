@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/thousand-oaks/delivery/golden-state-canna-32", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lone-grove/dispensary/kronic-kures-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/claremore/dispensary/big-b-s-farmacy", {data:[{}],fetch:{},mutations:[]});

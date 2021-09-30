@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pleasanton/delivery/higher-elevation", {data:[{}],fetch:{},mutations:[]});

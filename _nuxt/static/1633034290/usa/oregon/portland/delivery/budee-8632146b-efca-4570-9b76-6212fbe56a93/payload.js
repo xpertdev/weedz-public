@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/delivery/budee-8632146b-efca-4570-9b76-6212fbe56a93", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/terlton/dispensary/dank-vault", {data:[{}],fetch:{},mutations:[]});

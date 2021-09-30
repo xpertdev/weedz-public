@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fort-collins/dispensary/verts-medical-marijuana-dispensary", {data:[{}],fetch:{},mutations:[]});

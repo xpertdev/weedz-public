@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/delivery/cali-xpress-8949", {data:[{}],fetch:{},mutations:[]});

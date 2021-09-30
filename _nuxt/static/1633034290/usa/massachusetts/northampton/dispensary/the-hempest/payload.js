@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/northampton/dispensary/the-hempest", {data:[{}],fetch:{},mutations:[]});

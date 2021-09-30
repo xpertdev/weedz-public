@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/delivery/3fifteen-delivery-ypsilanti", {data:[{}],fetch:{},mutations:[]});

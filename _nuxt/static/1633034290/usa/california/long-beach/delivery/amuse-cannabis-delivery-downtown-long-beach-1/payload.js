@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/delivery/amuse-cannabis-delivery-downtown-long-beach-1", {data:[{}],fetch:{},mutations:[]});

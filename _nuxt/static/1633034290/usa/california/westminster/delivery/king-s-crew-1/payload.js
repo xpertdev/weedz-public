@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/westminster/delivery/king-s-crew-1", {data:[{}],fetch:{},mutations:[]});

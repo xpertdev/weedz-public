@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/cornish/delivery/green-xpress-3", {data:[{}],fetch:{},mutations:[]});

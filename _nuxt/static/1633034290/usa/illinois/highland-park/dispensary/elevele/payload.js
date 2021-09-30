@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/highland-park/dispensary/elevele", {data:[{}],fetch:{},mutations:[]});

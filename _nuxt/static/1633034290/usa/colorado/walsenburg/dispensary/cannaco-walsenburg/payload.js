@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/walsenburg/dispensary/cannaco-walsenburg", {data:[{}],fetch:{},mutations:[]});

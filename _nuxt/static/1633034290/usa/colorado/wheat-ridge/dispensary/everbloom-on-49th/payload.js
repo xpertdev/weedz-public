@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/wheat-ridge/dispensary/everbloom-on-49th", {data:[{}],fetch:{},mutations:[]});

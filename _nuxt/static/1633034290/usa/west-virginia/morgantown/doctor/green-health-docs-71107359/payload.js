@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/west-virginia/morgantown/doctor/green-health-docs-71107359", {data:[{}],fetch:{},mutations:[]});

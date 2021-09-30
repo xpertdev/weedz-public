@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-cruz/doctor/cannabis-plus", {data:[{}],fetch:{},mutations:[]});

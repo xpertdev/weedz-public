@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/lincoln-city/dispensary/lincoln-city-collective", {data:[{}],fetch:{},mutations:[]});

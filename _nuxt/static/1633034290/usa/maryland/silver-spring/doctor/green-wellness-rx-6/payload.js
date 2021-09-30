@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/silver-spring/doctor/green-wellness-rx-6", {data:[{}],fetch:{},mutations:[]});

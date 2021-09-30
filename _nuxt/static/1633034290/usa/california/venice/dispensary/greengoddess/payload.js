@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/venice/dispensary/greengoddess", {data:[{}],fetch:{},mutations:[]});

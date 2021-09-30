@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/henderson/dispensary/nevada-medical-marijuana", {data:[{}],fetch:{},mutations:[]});

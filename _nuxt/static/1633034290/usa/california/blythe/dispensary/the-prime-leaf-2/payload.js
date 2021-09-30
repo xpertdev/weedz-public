@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/blythe/dispensary/the-prime-leaf-2", {data:[{}],fetch:{},mutations:[]});

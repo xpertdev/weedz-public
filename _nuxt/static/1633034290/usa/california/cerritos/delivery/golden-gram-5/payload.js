@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cerritos/delivery/golden-gram-5", {data:[{}],fetch:{},mutations:[]});

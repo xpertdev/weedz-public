@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/del-city/dispensary/cbd-plus-usa-del-city", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/quakertown/doctor/dwh-medical-center-2", {data:[{}],fetch:{},mutations:[]});

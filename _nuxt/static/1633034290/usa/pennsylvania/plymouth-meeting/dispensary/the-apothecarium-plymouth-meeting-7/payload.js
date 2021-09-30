@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/plymouth-meeting/dispensary/the-apothecarium-plymouth-meeting-7", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/delivery/golden-state-canna-28", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/dispensary/authentic-palm-desert", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/west-detroit/delivery/green-cross-3", {data:[{}],fetch:{},mutations:[]});

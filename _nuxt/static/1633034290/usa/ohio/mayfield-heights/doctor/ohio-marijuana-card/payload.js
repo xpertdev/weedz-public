@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/mayfield-heights/doctor/ohio-marijuana-card", {data:[{}],fetch:{},mutations:[]});

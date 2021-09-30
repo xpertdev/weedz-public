@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/limerick/dispensary/the-gas-station-limerick", {data:[{}],fetch:{},mutations:[]});

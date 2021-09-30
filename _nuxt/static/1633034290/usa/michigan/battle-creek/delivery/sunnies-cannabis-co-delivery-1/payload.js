@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/battle-creek/delivery/sunnies-cannabis-co-delivery-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/deerfield/dispensary/greenhouse-deerfield", {data:[{}],fetch:{},mutations:[]});

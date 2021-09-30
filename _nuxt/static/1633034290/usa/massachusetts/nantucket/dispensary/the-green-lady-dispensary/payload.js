@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/nantucket/dispensary/the-green-lady-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/delivery/olswell-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

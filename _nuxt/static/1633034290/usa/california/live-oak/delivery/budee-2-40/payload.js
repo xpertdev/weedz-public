@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/live-oak/delivery/budee-2-40", {data:[{}],fetch:{},mutations:[]});

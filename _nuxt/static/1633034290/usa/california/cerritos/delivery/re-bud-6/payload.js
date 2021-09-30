@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cerritos/delivery/re-bud-6", {data:[{}],fetch:{},mutations:[]});

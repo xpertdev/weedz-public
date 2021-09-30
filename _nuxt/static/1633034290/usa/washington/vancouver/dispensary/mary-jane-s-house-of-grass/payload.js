@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/vancouver/dispensary/mary-jane-s-house-of-grass", {data:[{}],fetch:{},mutations:[]});

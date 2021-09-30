@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/marquette/dispensary/cannabis-lupus-cafe", {data:[{}],fetch:{},mutations:[]});

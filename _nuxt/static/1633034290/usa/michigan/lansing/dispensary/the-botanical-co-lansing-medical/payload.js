@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lansing/dispensary/the-botanical-co-lansing-medical", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/beverly-hills/delivery/bak-d-flowers-5", {data:[{}],fetch:{},mutations:[]});

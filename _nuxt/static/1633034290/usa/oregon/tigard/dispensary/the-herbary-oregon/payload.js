@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/tigard/dispensary/the-herbary-oregon", {data:[{}],fetch:{},mutations:[]});

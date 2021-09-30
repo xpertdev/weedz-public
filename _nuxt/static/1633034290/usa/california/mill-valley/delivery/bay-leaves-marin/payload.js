@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mill-valley/delivery/bay-leaves-marin", {data:[{}],fetch:{},mutations:[]});

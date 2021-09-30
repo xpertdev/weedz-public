@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ocala/doctor/dr-jay-s-urgent-care", {data:[{}],fetch:{},mutations:[]});

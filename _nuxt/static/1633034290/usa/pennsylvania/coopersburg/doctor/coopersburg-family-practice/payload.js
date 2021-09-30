@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/coopersburg/doctor/coopersburg-family-practice", {data:[{}],fetch:{},mutations:[]});

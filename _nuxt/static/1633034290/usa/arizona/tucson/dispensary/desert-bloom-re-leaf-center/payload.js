@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tucson/dispensary/desert-bloom-re-leaf-center", {data:[{}],fetch:{},mutations:[]});

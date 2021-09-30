@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/locust-grove/dispensary/chronic-md", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/big-rapids/dispensary/premiere-provisions", {data:[{}],fetch:{},mutations:[]});

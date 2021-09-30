@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/mount-clemens/doctor/livity-rasta", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/store/headies-boutique-and-gallery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-st-lucie/doctor/southern-comfort-marijuana-clinic", {data:[{}],fetch:{},mutations:[]});

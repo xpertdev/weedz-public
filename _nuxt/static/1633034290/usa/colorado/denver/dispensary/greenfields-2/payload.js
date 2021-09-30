@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/greenfields-2", {data:[{}],fetch:{},mutations:[]});

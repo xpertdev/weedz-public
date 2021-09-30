@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/nixa/doctor/the-thc-firm", {data:[{}],fetch:{},mutations:[]});

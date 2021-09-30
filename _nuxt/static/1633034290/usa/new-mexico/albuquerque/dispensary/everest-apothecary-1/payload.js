@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/everest-apothecary-1", {data:[{}],fetch:{},mutations:[]});

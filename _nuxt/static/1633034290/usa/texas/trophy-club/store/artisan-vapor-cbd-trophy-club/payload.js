@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/trophy-club/store/artisan-vapor-cbd-trophy-club", {data:[{}],fetch:{},mutations:[]});

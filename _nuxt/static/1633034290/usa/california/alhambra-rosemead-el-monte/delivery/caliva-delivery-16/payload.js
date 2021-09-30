@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alhambra-rosemead-el-monte/delivery/caliva-delivery-16", {data:[{}],fetch:{},mutations:[]});

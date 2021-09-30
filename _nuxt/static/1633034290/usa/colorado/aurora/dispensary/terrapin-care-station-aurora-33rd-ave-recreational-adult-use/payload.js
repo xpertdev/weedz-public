@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aurora/dispensary/terrapin-care-station-aurora-33rd-ave-recreational-adult-use", {data:[{}],fetch:{},mutations:[]});

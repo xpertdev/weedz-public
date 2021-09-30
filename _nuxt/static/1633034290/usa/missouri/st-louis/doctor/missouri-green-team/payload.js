@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/st-louis/doctor/missouri-green-team", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/medicinal-marijuana-of-norman", {data:[{}],fetch:{},mutations:[]});

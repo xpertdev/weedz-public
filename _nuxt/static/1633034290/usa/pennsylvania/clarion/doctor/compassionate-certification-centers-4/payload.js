@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/clarion/doctor/compassionate-certification-centers-4", {data:[{}],fetch:{},mutations:[]});

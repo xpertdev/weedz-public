@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/parma/doctor/alternative-medicine-centers-of-america", {data:[{}],fetch:{},mutations:[]});

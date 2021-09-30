@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/myrtle-creek/dispensary/redbarn-dispensary", {data:[{}],fetch:{},mutations:[]});

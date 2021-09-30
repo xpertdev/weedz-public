@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/west-palm-beach/doctor/canna-md-4", {data:[{}],fetch:{},mutations:[]});

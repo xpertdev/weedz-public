@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/glenwood-springs/dispensary/best-day-ever-2", {data:[{}],fetch:{},mutations:[]});

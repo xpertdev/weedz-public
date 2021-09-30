@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/coto-de-caza/delivery/green-cross-delivery-1199", {data:[{}],fetch:{},mutations:[]});

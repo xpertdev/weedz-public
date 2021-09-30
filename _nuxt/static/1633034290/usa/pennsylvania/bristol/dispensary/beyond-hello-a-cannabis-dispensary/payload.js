@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/bristol/dispensary/beyond-hello-a-cannabis-dispensary", {data:[{}],fetch:{},mutations:[]});

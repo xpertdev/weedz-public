@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/oak-leaf-fine-cannabis-company", {data:[{}],fetch:{},mutations:[]});

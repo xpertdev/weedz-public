@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/columbia-falls/dispensary/glacier-view-providers", {data:[{}],fetch:{},mutations:[]});

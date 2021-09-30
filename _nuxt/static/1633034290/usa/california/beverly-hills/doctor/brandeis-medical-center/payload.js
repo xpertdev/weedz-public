@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/beverly-hills/doctor/brandeis-medical-center", {data:[{}],fetch:{},mutations:[]});

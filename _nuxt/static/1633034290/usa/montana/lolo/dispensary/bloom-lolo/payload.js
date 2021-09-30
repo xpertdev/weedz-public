@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/lolo/dispensary/bloom-lolo", {data:[{}],fetch:{},mutations:[]});

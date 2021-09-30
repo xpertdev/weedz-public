@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/virginia/richmond/doctor/canna-care-docs-virginia", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/suisun-city/delivery/urban-flavours-delivery-6", {data:[{}],fetch:{},mutations:[]});

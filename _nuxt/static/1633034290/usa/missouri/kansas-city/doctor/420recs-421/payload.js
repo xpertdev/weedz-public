@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/doctor/420recs-421", {data:[{}],fetch:{},mutations:[]});

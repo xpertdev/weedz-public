@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/magic-leaf", {data:[{}],fetch:{},mutations:[]});

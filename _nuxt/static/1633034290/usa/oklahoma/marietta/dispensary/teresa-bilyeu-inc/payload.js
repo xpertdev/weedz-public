@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/marietta/dispensary/teresa-bilyeu-inc", {data:[{}],fetch:{},mutations:[]});

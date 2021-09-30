@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/chelsea/dispensary/harbor-house-collective", {data:[{}],fetch:{},mutations:[]});

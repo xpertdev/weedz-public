@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/okie-wonderland-south-tulsa-coming-soon", {data:[{}],fetch:{},mutations:[]});

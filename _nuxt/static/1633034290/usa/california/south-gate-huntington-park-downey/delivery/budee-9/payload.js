@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-gate-huntington-park-downey/delivery/budee-9", {data:[{}],fetch:{},mutations:[]});

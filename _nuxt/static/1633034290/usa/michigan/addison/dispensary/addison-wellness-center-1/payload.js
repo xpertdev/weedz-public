@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/addison/dispensary/addison-wellness-center-1", {data:[{}],fetch:{},mutations:[]});

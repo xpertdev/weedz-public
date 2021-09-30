@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/covina/delivery/hellapax", {data:[{}],fetch:{},mutations:[]});

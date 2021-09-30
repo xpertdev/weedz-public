@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/dispensary/phytologie-grand-opening", {data:[{}],fetch:{},mutations:[]});

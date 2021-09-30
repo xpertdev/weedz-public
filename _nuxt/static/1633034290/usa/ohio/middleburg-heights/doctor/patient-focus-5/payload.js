@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/middleburg-heights/doctor/patient-focus-5", {data:[{}],fetch:{},mutations:[]});

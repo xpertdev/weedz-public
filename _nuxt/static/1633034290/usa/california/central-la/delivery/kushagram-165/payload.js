@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/central-la/delivery/kushagram-165", {data:[{}],fetch:{},mutations:[]});

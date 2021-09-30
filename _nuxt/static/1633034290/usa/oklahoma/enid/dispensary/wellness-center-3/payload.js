@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/enid/dispensary/wellness-center-3", {data:[{}],fetch:{},mutations:[]});

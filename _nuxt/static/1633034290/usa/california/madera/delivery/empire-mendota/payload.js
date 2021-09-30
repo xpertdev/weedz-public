@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/madera/delivery/empire-mendota", {data:[{}],fetch:{},mutations:[]});

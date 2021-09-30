@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/gilbert/dispensary/curaleafgilbert", {data:[{}],fetch:{},mutations:[]});

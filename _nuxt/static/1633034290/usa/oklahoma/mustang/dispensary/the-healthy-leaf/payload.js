@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mustang/dispensary/the-healthy-leaf", {data:[{}],fetch:{},mutations:[]});

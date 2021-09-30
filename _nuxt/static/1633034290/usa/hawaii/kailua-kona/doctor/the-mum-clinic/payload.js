@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/hawaii/kailua-kona/doctor/the-mum-clinic", {data:[{}],fetch:{},mutations:[]});

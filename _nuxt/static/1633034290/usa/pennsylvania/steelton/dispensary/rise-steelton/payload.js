@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/steelton/dispensary/rise-steelton", {data:[{}],fetch:{},mutations:[]});

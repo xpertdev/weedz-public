@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/kingfisher/dispensary/lotus-gold-kingfisher", {data:[{}],fetch:{},mutations:[]});

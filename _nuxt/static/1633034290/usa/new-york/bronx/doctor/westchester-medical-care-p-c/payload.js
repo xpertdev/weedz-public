@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/bronx/doctor/westchester-medical-care-p-c", {data:[{}],fetch:{},mutations:[]});

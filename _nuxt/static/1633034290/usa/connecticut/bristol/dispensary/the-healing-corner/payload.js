@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/bristol/dispensary/the-healing-corner", {data:[{}],fetch:{},mutations:[]});

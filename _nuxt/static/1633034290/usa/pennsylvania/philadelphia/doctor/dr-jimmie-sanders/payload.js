@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/doctor/dr-jimmie-sanders", {data:[{}],fetch:{},mutations:[]});

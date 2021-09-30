@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/nederland/dispensary/the-kind-caste-nederland", {data:[{}],fetch:{},mutations:[]});

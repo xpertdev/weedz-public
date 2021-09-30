@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/utah/ogden/doctor/utah-medical-cannabis-evaluations-22", {data:[{}],fetch:{},mutations:[]});

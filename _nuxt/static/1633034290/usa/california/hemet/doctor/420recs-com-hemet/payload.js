@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hemet/doctor/420recs-com-hemet", {data:[{}],fetch:{},mutations:[]});

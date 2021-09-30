@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/koreatown-collective-sc-labs-full-menu-testing", {data:[{}],fetch:{},mutations:[]});

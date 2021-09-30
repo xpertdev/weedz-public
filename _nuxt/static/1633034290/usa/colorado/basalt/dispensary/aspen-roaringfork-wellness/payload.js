@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/basalt/dispensary/aspen-roaringfork-wellness", {data:[{}],fetch:{},mutations:[]});

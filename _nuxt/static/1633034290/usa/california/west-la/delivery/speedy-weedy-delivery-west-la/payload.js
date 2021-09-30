@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-la/delivery/speedy-weedy-delivery-west-la", {data:[{}],fetch:{},mutations:[]});

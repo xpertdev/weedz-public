@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tucson/dispensary/the-prime-leaf-3", {data:[{}],fetch:{},mutations:[]});

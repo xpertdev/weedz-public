@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/wappinger-falls/dispensary/citiva-wappinger-falls", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/dispensary/las-vegas-releaf", {data:[{}],fetch:{},mutations:[]});

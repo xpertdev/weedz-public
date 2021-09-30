@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/go-erba-1", {data:[{}],fetch:{},mutations:[]});

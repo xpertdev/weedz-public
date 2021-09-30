@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sand-springs/dispensary/peacepipe-cannabis-company-llc", {data:[{}],fetch:{},mutations:[]});

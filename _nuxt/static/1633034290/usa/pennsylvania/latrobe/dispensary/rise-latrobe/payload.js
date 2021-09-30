@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/latrobe/dispensary/rise-latrobe", {data:[{}],fetch:{},mutations:[]});

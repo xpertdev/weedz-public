@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/delivery/sticky-icky-powered-by-fly-fast", {data:[{}],fetch:{},mutations:[]});

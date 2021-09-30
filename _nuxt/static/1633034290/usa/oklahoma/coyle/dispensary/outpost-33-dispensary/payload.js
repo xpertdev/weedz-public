@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/coyle/dispensary/outpost-33-dispensary", {data:[{}],fetch:{},mutations:[]});

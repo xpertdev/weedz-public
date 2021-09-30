@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/ontario/dispensary/the-bud-house-1", {data:[{}],fetch:{},mutations:[]});

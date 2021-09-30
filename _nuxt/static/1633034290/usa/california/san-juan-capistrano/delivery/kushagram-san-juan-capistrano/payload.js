@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-juan-capistrano/delivery/kushagram-san-juan-capistrano", {data:[{}],fetch:{},mutations:[]});

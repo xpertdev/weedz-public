@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/duncansville/dispensary/rise-dispensaries-duncansville", {data:[{}],fetch:{},mutations:[]});

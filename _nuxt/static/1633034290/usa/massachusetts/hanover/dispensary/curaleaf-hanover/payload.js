@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/hanover/dispensary/curaleaf-hanover", {data:[{}],fetch:{},mutations:[]});

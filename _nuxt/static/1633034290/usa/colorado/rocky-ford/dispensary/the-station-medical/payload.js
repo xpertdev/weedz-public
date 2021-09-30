@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/rocky-ford/dispensary/the-station-medical", {data:[{}],fetch:{},mutations:[]});

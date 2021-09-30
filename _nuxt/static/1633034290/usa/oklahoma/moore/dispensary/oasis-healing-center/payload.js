@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/oasis-healing-center", {data:[{}],fetch:{},mutations:[]});

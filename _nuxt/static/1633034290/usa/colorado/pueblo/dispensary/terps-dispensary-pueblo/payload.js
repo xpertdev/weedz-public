@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/terps-dispensary-pueblo", {data:[{}],fetch:{},mutations:[]});

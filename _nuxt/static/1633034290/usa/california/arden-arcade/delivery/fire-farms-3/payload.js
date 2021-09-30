@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arden-arcade/delivery/fire-farms-3", {data:[{}],fetch:{},mutations:[]});

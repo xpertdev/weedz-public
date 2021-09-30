@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/covina/delivery/cali-xpress-8958", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/thunder-budz-1", {data:[{}],fetch:{},mutations:[]});

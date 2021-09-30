@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/doctor/gateways-certification-center", {data:[{}],fetch:{},mutations:[]});

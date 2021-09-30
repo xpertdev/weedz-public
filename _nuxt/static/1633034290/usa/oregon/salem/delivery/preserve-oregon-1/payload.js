@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/delivery/preserve-oregon-1", {data:[{}],fetch:{},mutations:[]});

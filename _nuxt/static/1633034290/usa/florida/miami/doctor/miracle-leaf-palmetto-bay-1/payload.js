@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/doctor/miracle-leaf-palmetto-bay-1", {data:[{}],fetch:{},mutations:[]});

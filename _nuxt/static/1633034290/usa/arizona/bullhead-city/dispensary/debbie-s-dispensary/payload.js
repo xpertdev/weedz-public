@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/bullhead-city/dispensary/debbie-s-dispensary", {data:[{}],fetch:{},mutations:[]});

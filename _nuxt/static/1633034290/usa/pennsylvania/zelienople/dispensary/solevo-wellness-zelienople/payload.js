@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/zelienople/dispensary/solevo-wellness-zelienople", {data:[{}],fetch:{},mutations:[]});

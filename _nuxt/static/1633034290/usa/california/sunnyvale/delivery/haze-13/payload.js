@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sunnyvale/delivery/haze-13", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chico/delivery/nug-sundial", {data:[{}],fetch:{},mutations:[]});

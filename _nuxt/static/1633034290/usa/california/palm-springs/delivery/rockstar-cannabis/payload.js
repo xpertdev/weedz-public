@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/delivery/rockstar-cannabis", {data:[{}],fetch:{},mutations:[]});

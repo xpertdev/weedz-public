@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/common-citizen-3", {data:[{}],fetch:{},mutations:[]});

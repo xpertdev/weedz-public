@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/glendale/delivery/dna-weed-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/highland-health", {data:[{}],fetch:{},mutations:[]});

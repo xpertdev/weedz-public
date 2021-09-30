@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/delivery/mhpc-2-go", {data:[{}],fetch:{},mutations:[]});

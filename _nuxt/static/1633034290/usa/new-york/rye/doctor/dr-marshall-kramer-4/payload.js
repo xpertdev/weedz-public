@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rye/doctor/dr-marshall-kramer-4", {data:[{}],fetch:{},mutations:[]});

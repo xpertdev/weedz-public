@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/589thc-cbd", {data:[{}],fetch:{},mutations:[]});

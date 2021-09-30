@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tallahassee/dispensary/surterra-wellness-center-tallahassee", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/davis/dispensary/f-street-dispensary-1", {data:[{}],fetch:{},mutations:[]});

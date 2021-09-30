@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town-echo-park/delivery/last-strain-25", {data:[{}],fetch:{},mutations:[]});

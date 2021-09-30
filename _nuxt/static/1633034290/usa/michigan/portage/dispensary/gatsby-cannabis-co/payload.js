@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/portage/dispensary/gatsby-cannabis-co", {data:[{}],fetch:{},mutations:[]});

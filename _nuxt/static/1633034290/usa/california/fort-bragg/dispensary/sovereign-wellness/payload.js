@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fort-bragg/dispensary/sovereign-wellness", {data:[{}],fetch:{},mutations:[]});

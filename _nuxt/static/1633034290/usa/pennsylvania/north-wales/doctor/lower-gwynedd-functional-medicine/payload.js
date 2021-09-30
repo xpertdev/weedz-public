@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/north-wales/doctor/lower-gwynedd-functional-medicine", {data:[{}],fetch:{},mutations:[]});

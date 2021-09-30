@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/weatherford/dispensary/purple-haze-enterprises", {data:[{}],fetch:{},mutations:[]});

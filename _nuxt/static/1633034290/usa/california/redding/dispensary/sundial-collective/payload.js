@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redding/dispensary/sundial-collective", {data:[{}],fetch:{},mutations:[]});

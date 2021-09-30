@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/brown-square-assets-llc-1", {data:[{}],fetch:{},mutations:[]});

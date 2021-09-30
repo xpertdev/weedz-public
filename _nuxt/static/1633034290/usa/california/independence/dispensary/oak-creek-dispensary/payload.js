@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/independence/dispensary/oak-creek-dispensary", {data:[{}],fetch:{},mutations:[]});

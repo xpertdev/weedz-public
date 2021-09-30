@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/gobles/dispensary/canna-43", {data:[{}],fetch:{},mutations:[]});

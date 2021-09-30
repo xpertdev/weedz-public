@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lompoc/dispensary/cropland-health-1", {data:[{}],fetch:{},mutations:[]});

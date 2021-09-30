@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/victorville/delivery/quality-care-cannabis-12", {data:[{}],fetch:{},mutations:[]});

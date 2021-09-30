@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cathedral-city/dispensary/dr-greenthumb-cathedral-city", {data:[{}],fetch:{},mutations:[]});

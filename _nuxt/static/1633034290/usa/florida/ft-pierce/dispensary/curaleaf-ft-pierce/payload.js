@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ft-pierce/dispensary/curaleaf-ft-pierce", {data:[{}],fetch:{},mutations:[]});

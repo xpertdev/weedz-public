@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-santa-margarita/delivery/socal-green-meds-43", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/delivery/coachella-smoke-delivery-1", {data:[{}],fetch:{},mutations:[]});

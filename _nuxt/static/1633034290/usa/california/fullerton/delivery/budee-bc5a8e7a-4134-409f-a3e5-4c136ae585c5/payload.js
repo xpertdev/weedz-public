@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fullerton/delivery/budee-bc5a8e7a-4134-409f-a3e5-4c136ae585c5", {data:[{}],fetch:{},mutations:[]});

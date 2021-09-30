@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/galveston/store/cbd-american-shaman-galveston", {data:[{}],fetch:{},mutations:[]});

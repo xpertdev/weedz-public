@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/henryetta/dispensary/johnny-appleseed-remedies", {data:[{}],fetch:{},mutations:[]});

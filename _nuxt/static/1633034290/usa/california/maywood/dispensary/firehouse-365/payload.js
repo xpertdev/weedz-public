@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/maywood/dispensary/firehouse-365", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/cape-girardeau/doctor/green-health-docs-telemedicine", {data:[{}],fetch:{},mutations:[]});

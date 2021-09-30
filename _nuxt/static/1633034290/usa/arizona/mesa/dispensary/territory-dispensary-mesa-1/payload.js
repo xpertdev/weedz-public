@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/mesa/dispensary/territory-dispensary-mesa-1", {data:[{}],fetch:{},mutations:[]});

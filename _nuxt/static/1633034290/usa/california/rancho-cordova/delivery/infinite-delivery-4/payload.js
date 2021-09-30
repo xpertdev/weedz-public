@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cordova/delivery/infinite-delivery-4", {data:[{}],fetch:{},mutations:[]});

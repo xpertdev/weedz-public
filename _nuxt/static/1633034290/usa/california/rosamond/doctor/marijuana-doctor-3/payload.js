@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rosamond/doctor/marijuana-doctor-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/medicann-ok-2", {data:[{}],fetch:{},mutations:[]});

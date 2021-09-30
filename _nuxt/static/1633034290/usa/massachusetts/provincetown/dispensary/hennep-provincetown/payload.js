@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/provincetown/dispensary/hennep-provincetown", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/southlake/store/cbd-american-shaman-southlake", {data:[{}],fetch:{},mutations:[]});

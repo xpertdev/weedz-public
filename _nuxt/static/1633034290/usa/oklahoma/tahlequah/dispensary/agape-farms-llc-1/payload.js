@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/agape-farms-llc-1", {data:[{}],fetch:{},mutations:[]});

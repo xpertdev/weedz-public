@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/addison/delivery/pinnacle-emporium-delivery", {data:[{}],fetch:{},mutations:[]});

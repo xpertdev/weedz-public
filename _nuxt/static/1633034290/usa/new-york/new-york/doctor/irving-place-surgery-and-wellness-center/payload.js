@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/doctor/irving-place-surgery-and-wellness-center", {data:[{}],fetch:{},mutations:[]});

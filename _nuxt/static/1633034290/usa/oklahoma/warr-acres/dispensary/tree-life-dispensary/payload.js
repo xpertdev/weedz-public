@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/warr-acres/dispensary/tree-life-dispensary", {data:[{}],fetch:{},mutations:[]});

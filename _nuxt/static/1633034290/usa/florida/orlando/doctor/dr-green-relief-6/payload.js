@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orlando/doctor/dr-green-relief-6", {data:[{}],fetch:{},mutations:[]});

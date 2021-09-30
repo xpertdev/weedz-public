@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/mary-janes-collective", {data:[{}],fetch:{},mutations:[]});

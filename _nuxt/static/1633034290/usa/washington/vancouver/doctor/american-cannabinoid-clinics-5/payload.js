@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/vancouver/doctor/american-cannabinoid-clinics-5", {data:[{}],fetch:{},mutations:[]});

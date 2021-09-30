@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/houston/doctor/marijuana-doctor-telehealth-texas", {data:[{}],fetch:{},mutations:[]});

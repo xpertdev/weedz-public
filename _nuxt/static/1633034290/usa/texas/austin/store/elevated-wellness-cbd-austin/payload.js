@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/austin/store/elevated-wellness-cbd-austin", {data:[{}],fetch:{},mutations:[]});

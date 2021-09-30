@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/delivery/apothek-deliveries-2", {data:[{}],fetch:{},mutations:[]});

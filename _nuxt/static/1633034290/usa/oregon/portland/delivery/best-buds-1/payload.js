@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/delivery/best-buds-1", {data:[{}],fetch:{},mutations:[]});

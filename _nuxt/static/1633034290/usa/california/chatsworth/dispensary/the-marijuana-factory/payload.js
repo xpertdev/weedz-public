@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chatsworth/dispensary/the-marijuana-factory", {data:[{}],fetch:{},mutations:[]});

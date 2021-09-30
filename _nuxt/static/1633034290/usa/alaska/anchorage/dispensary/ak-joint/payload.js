@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/anchorage/dispensary/ak-joint", {data:[{}],fetch:{},mutations:[]});

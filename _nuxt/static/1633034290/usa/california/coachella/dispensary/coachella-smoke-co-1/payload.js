@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/coachella/dispensary/coachella-smoke-co-1", {data:[{}],fetch:{},mutations:[]});

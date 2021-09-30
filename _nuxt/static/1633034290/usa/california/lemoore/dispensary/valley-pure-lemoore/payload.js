@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lemoore/dispensary/valley-pure-lemoore", {data:[{}],fetch:{},mutations:[]});

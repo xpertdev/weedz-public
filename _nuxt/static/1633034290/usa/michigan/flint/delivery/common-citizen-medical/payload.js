@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/flint/delivery/common-citizen-medical", {data:[{}],fetch:{},mutations:[]});

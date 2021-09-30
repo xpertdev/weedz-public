@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/st-augustine/dispensary/columbia-care-st-augustine", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/sedona/dispensary/bloom-sedona", {data:[{}],fetch:{},mutations:[]});

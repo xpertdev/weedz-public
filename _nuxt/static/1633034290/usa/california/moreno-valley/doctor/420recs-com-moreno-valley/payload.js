@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moreno-valley/doctor/420recs-com-moreno-valley", {data:[{}],fetch:{},mutations:[]});

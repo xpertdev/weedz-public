@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/martinez/delivery/shoot-the-moon-6", {data:[{}],fetch:{},mutations:[]});

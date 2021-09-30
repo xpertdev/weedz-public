@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/east-hills/doctor/marijuana-medical", {data:[{}],fetch:{},mutations:[]});

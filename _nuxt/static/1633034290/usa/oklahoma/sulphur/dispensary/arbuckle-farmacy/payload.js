@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sulphur/dispensary/arbuckle-farmacy", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ventura/delivery/budee-clovis1", {data:[{}],fetch:{},mutations:[]});

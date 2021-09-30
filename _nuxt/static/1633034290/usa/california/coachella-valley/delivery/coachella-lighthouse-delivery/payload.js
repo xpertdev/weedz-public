@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/coachella-valley/delivery/coachella-lighthouse-delivery", {data:[{}],fetch:{},mutations:[]});

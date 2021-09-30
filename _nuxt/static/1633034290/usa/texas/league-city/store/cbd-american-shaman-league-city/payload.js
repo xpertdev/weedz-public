@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/league-city/store/cbd-american-shaman-league-city", {data:[{}],fetch:{},mutations:[]});

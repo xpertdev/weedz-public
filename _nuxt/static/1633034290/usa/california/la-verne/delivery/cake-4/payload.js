@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-verne/delivery/cake-4", {data:[{}],fetch:{},mutations:[]});

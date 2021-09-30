@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/fenton/dispensary/kind-goods-fenton", {data:[{}],fetch:{},mutations:[]});

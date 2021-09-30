@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/natick/doctor/uplifting-health-and-wellness", {data:[{}],fetch:{},mutations:[]});

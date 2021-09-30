@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/catoosa/dispensary/the-pot-shop-3", {data:[{}],fetch:{},mutations:[]});

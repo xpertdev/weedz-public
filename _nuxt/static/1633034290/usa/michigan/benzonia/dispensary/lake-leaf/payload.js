@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/benzonia/dispensary/lake-leaf", {data:[{}],fetch:{},mutations:[]});

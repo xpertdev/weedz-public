@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lapeer/dispensary/shango-lapeer-recreational", {data:[{}],fetch:{},mutations:[]});

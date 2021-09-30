@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/fresh-mint-3", {data:[{}],fetch:{},mutations:[]});

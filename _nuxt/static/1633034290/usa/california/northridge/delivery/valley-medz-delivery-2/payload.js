@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/delivery/valley-medz-delivery-2", {data:[{}],fetch:{},mutations:[]});

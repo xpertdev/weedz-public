@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/haslett/doctor/the-card-clinic-llc", {data:[{}],fetch:{},mutations:[]});

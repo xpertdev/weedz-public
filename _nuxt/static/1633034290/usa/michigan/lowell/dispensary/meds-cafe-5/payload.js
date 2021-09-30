@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lowell/dispensary/meds-cafe-5", {data:[{}],fetch:{},mutations:[]});

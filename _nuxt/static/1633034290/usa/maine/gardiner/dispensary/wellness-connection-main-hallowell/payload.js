@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/gardiner/dispensary/wellness-connection-main-hallowell", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/idaho-springs/dispensary/bonfire-cannabis-company1", {data:[{}],fetch:{},mutations:[]});

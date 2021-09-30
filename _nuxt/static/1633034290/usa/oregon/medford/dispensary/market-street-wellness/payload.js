@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/dispensary/market-street-wellness", {data:[{}],fetch:{},mutations:[]});

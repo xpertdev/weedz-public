@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/kerby/dispensary/bud-junction", {data:[{}],fetch:{},mutations:[]});

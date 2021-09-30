@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/weed/dispensary/la-florista-cannabis", {data:[{}],fetch:{},mutations:[]});

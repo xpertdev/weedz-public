@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/granite/dispensary/nug-worx", {data:[{}],fetch:{},mutations:[]});

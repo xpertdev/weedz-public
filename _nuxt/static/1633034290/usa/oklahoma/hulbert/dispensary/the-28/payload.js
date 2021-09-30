@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hulbert/dispensary/the-28", {data:[{}],fetch:{},mutations:[]});

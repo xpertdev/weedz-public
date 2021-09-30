@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/ziggyz-plus-1", {data:[{}],fetch:{},mutations:[]});

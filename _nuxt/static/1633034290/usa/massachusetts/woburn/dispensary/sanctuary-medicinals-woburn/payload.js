@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/woburn/dispensary/sanctuary-medicinals-woburn", {data:[{}],fetch:{},mutations:[]});

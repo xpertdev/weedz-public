@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/dr-greenthumb-la", {data:[{}],fetch:{},mutations:[]});

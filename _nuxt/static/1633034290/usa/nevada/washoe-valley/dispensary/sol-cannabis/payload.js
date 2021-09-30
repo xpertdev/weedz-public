@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/washoe-valley/dispensary/sol-cannabis", {data:[{}],fetch:{},mutations:[]});

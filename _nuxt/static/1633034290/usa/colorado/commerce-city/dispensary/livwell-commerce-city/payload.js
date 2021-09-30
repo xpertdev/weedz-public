@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/commerce-city/dispensary/livwell-commerce-city", {data:[{}],fetch:{},mutations:[]});

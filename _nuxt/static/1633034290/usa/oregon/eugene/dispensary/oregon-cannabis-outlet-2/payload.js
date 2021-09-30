@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/oregon-cannabis-outlet-2", {data:[{}],fetch:{},mutations:[]});

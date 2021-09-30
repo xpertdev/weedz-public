@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/dispensary/van-nuys-91405", {data:[{}],fetch:{},mutations:[]});

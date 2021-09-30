@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/bronx/doctor/cheapmedcards-com-9", {data:[{}],fetch:{},mutations:[]});

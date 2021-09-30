@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/new-port-richey/doctor/natural-clinic-md", {data:[{}],fetch:{},mutations:[]});

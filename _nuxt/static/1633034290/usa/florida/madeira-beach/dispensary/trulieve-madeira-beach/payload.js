@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/madeira-beach/dispensary/trulieve-madeira-beach", {data:[{}],fetch:{},mutations:[]});

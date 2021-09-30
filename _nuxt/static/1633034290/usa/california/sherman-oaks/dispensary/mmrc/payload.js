@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sherman-oaks/dispensary/mmrc", {data:[{}],fetch:{},mutations:[]});

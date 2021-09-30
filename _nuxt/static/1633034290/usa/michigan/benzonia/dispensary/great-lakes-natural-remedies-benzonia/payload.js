@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/benzonia/dispensary/great-lakes-natural-remedies-benzonia", {data:[{}],fetch:{},mutations:[]});

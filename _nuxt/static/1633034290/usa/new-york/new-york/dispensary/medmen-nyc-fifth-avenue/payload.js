@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/dispensary/medmen-nyc-fifth-avenue", {data:[{}],fetch:{},mutations:[]});

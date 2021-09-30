@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/mt-morris/dispensary/elite-wellness-mt-morris", {data:[{}],fetch:{},mutations:[]});

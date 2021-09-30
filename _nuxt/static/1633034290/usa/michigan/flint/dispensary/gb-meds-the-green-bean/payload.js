@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/flint/dispensary/gb-meds-the-green-bean", {data:[{}],fetch:{},mutations:[]});

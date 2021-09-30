@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/kalamazoo/doctor/west-michigan-wellness-center", {data:[{}],fetch:{},mutations:[]});

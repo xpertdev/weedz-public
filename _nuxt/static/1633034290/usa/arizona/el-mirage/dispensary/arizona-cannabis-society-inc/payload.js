@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/el-mirage/dispensary/arizona-cannabis-society-inc", {data:[{}],fetch:{},mutations:[]});

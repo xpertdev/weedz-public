@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/grover-beach/dispensary/805-beach-breaks", {data:[{}],fetch:{},mutations:[]});

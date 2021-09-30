@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lutz/dispensary/curaleaf-lutz", {data:[{}],fetch:{},mutations:[]});

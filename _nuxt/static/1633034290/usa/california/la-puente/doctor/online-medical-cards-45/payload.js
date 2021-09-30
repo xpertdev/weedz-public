@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/doctor/online-medical-cards-45", {data:[{}],fetch:{},mutations:[]});

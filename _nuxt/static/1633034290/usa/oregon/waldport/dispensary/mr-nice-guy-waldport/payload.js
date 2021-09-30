@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/waldport/dispensary/mr-nice-guy-waldport", {data:[{}],fetch:{},mutations:[]});

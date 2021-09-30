@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/boynton-beach/doctor/canna-wellness-clinics-2", {data:[{}],fetch:{},mutations:[]});

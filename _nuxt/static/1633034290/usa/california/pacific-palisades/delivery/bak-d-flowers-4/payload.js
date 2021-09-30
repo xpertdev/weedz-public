@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pacific-palisades/delivery/bak-d-flowers-4", {data:[{}],fetch:{},mutations:[]});

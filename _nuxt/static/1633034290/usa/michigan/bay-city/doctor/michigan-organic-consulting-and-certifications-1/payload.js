@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bay-city/doctor/michigan-organic-consulting-and-certifications-1", {data:[{}],fetch:{},mutations:[]});

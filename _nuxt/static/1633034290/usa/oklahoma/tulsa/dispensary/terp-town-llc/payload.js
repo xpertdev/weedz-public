@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/terp-town-llc", {data:[{}],fetch:{},mutations:[]});

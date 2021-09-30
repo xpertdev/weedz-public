@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/delivery/house-of-dank-ypsilanti-rec", {data:[{}],fetch:{},mutations:[]});

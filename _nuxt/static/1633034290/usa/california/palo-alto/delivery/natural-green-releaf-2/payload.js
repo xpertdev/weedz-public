@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palo-alto/delivery/natural-green-releaf-2", {data:[{}],fetch:{},mutations:[]});

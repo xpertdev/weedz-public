@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/great-falls/delivery/sleeping-giant-gardens-great-falls", {data:[{}],fetch:{},mutations:[]});

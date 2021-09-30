@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/coldwater/doctor/the-tree-house-clinic", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-luis-obispo/delivery/bleu-diamond-3", {data:[{}],fetch:{},mutations:[]});

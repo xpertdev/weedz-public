@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/watertown/delivery/curaleaf-watertown", {data:[{}],fetch:{},mutations:[]});

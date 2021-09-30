@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/springfield/doctor/prestodoctor-com-100-online-19", {data:[{}],fetch:{},mutations:[]});

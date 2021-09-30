@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo-west/dispensary/todays-health-care-pueblo-west", {data:[{}],fetch:{},mutations:[]});

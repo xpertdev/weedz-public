@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/afton/dispensary/happy-shack-wellness", {data:[{}],fetch:{},mutations:[]});

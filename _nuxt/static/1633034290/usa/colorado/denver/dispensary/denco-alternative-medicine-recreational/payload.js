@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/denco-alternative-medicine-recreational", {data:[{}],fetch:{},mutations:[]});

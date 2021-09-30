@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/northglenn/dispensary/the-green-solution-northglenn", {data:[{}],fetch:{},mutations:[]});

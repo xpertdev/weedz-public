@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/gladstone/dispensary/hashstoria-8df80ed1-3c11-4c94-a09f-bb60e9128c2e", {data:[{}],fetch:{},mutations:[]});

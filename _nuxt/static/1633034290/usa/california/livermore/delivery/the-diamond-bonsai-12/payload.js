@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/livermore/delivery/the-diamond-bonsai-12", {data:[{}],fetch:{},mutations:[]});

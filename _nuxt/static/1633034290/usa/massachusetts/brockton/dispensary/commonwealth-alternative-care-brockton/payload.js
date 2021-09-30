@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/brockton/dispensary/commonwealth-alternative-care-brockton", {data:[{}],fetch:{},mutations:[]});

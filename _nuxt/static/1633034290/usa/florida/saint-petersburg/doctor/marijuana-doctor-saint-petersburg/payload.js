@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/saint-petersburg/doctor/marijuana-doctor-saint-petersburg", {data:[{}],fetch:{},mutations:[]});

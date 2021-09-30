@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/pikesville/doctor/the-greener-path-clinic", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/southwest-organic-producers-2", {data:[{}],fetch:{},mutations:[]});

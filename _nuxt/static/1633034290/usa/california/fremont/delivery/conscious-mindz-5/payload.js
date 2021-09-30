@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/conscious-mindz-5", {data:[{}],fetch:{},mutations:[]});

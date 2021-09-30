@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aspen/dispensary/the-green-joint-aspen", {data:[{}],fetch:{},mutations:[]});

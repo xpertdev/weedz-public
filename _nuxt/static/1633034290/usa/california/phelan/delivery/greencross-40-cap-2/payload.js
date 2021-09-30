@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/phelan/delivery/greencross-40-cap-2", {data:[{}],fetch:{},mutations:[]});

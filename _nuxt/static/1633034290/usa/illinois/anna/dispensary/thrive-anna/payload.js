@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/anna/dispensary/thrive-anna", {data:[{}],fetch:{},mutations:[]});

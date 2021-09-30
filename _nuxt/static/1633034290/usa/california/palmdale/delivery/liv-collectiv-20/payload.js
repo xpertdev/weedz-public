@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palmdale/delivery/liv-collectiv-20", {data:[{}],fetch:{},mutations:[]});

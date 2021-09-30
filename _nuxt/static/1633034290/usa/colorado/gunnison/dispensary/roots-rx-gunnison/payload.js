@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/gunnison/dispensary/roots-rx-gunnison", {data:[{}],fetch:{},mutations:[]});

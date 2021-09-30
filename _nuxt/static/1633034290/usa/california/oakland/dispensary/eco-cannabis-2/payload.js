@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/dispensary/eco-cannabis-2", {data:[{}],fetch:{},mutations:[]});

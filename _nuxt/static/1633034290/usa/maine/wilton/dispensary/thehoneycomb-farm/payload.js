@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/wilton/dispensary/thehoneycomb-farm", {data:[{}],fetch:{},mutations:[]});

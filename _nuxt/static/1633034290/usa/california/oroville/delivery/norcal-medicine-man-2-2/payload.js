@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oroville/delivery/norcal-medicine-man-2-2", {data:[{}],fetch:{},mutations:[]});

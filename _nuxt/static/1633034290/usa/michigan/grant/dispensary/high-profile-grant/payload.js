@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grant/dispensary/high-profile-grant", {data:[{}],fetch:{},mutations:[]});

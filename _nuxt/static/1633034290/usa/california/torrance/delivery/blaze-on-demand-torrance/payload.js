@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/torrance/delivery/blaze-on-demand-torrance", {data:[{}],fetch:{},mutations:[]});

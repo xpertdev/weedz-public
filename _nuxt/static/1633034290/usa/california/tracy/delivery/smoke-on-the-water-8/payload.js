@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tracy/delivery/smoke-on-the-water-8", {data:[{}],fetch:{},mutations:[]});

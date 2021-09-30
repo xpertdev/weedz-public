@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/lake-grove/doctor/dr-richard-b-rubenstein", {data:[{}],fetch:{},mutations:[]});

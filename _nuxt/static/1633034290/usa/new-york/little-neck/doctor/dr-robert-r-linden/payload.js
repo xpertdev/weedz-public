@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/little-neck/doctor/dr-robert-r-linden", {data:[{}],fetch:{},mutations:[]});

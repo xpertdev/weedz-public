@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mounds/dispensary/the-rig-dispensary", {data:[{}],fetch:{},mutations:[]});

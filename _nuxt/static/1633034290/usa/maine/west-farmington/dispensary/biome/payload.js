@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/west-farmington/dispensary/biome", {data:[{}],fetch:{},mutations:[]});

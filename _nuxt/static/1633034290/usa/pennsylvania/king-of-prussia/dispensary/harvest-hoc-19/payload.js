@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/king-of-prussia/dispensary/harvest-hoc-19", {data:[{}],fetch:{},mutations:[]});

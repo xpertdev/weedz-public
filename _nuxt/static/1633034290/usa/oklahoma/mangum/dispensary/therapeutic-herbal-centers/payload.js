@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mangum/dispensary/therapeutic-herbal-centers", {data:[{}],fetch:{},mutations:[]});

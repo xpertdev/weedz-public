@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/sacred-seed-recreational", {data:[{}],fetch:{},mutations:[]});

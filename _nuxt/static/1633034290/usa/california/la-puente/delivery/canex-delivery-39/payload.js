@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/delivery/canex-delivery-39", {data:[{}],fetch:{},mutations:[]});

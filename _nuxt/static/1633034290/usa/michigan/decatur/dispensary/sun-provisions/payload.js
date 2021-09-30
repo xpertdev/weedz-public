@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/decatur/dispensary/sun-provisions", {data:[{}],fetch:{},mutations:[]});

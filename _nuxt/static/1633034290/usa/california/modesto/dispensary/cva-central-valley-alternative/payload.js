@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/modesto/dispensary/cva-central-valley-alternative", {data:[{}],fetch:{},mutations:[]});

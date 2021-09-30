@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palo-alto/delivery/the-diamond-bonsai-10", {data:[{}],fetch:{},mutations:[]});

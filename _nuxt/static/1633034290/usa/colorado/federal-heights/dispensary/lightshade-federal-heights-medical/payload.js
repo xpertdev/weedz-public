@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/federal-heights/dispensary/lightshade-federal-heights-medical", {data:[{}],fetch:{},mutations:[]});

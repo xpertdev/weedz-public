@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/natomas/delivery/primetiming-cannabis-delivery-21", {data:[{}],fetch:{},mutations:[]});

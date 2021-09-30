@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/dutch-alchemy", {data:[{}],fetch:{},mutations:[]});

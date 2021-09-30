@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arroyo-grande/delivery/indacut-1", {data:[{}],fetch:{},mutations:[]});

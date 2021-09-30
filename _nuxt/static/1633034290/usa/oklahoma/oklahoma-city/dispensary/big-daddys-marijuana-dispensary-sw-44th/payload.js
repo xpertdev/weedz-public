@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/big-daddys-marijuana-dispensary-sw-44th", {data:[{}],fetch:{},mutations:[]});

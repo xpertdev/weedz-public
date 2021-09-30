@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/moffat/dispensary/dispensary-1-11", {data:[{}],fetch:{},mutations:[]});

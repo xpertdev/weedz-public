@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/grants-pass/dispensary/forward-cannabis", {data:[{}],fetch:{},mutations:[]});

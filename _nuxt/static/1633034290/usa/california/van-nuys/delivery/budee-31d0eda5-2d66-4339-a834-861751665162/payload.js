@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/delivery/budee-31d0eda5-2d66-4339-a834-861751665162", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma/dispensary/dankplug", {data:[{}],fetch:{},mutations:[]});

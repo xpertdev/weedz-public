@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/dearborn/doctor/amc-american-medical-consultants", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/doctor/wedobigthings-medical-services", {data:[{}],fetch:{},mutations:[]});

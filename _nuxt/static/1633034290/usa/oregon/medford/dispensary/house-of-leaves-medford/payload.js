@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/dispensary/house-of-leaves-medford", {data:[{}],fetch:{},mutations:[]});

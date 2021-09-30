@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/danbury/doctor/cannahealth-danbury", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucaipa/delivery/inland-plug-10", {data:[{}],fetch:{},mutations:[]});

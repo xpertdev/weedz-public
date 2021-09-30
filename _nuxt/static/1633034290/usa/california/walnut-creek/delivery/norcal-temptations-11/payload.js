@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/walnut-creek/delivery/norcal-temptations-11", {data:[{}],fetch:{},mutations:[]});

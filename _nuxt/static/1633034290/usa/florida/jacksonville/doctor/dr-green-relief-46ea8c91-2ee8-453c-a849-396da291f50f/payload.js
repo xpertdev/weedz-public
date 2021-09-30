@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jacksonville/doctor/dr-green-relief-46ea8c91-2ee8-453c-a849-396da291f50f", {data:[{}],fetch:{},mutations:[]});

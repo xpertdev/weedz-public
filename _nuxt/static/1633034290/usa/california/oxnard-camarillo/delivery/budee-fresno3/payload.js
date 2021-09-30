@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oxnard-camarillo/delivery/budee-fresno3", {data:[{}],fetch:{},mutations:[]});

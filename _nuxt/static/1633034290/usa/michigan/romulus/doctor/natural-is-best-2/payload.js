@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/romulus/doctor/natural-is-best-2", {data:[{}],fetch:{},mutations:[]});

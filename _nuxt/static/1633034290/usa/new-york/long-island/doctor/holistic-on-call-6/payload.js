@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/long-island/doctor/holistic-on-call-6", {data:[{}],fetch:{},mutations:[]});

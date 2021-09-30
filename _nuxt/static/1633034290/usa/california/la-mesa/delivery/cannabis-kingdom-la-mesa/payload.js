@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/delivery/cannabis-kingdom-la-mesa", {data:[{}],fetch:{},mutations:[]});

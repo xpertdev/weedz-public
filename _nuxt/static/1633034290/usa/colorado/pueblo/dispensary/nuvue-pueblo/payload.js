@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/nuvue-pueblo", {data:[{}],fetch:{},mutations:[]});

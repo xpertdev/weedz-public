@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/menifee/delivery/socal-green-meds-menifee", {data:[{}],fetch:{},mutations:[]});

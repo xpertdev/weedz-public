@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/daytona-beach/doctor/docmj-9028bb22-5a13-4a7d-aa84-c2520fe9d9a0", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/naturita/dispensary/rocky-mountain-cannabis-naturita", {data:[{}],fetch:{},mutations:[]});

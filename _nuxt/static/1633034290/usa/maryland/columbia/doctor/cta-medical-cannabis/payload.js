@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/columbia/doctor/cta-medical-cannabis", {data:[{}],fetch:{},mutations:[]});

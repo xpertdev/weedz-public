@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lemon-grove/delivery/cannabis-kingom-lemon-grove", {data:[{}],fetch:{},mutations:[]});

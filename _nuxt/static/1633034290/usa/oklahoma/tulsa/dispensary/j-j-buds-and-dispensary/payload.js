@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/j-j-buds-and-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/welches/dispensary/smoke-on-the-mountain", {data:[{}],fetch:{},mutations:[]});

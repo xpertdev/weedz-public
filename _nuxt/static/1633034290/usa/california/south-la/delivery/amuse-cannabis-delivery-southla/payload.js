@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-la/delivery/amuse-cannabis-delivery-southla", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/truckee/doctor/compassionate-health-options-4", {data:[{}],fetch:{},mutations:[]});

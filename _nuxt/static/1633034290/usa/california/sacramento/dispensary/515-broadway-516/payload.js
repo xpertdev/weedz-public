@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/515-broadway-516", {data:[{}],fetch:{},mutations:[]});

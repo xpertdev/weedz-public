@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/sticky-fingerz-2", {data:[{}],fetch:{},mutations:[]});

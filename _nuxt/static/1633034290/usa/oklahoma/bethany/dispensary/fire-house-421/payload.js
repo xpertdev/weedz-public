@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/fire-house-421", {data:[{}],fetch:{},mutations:[]});

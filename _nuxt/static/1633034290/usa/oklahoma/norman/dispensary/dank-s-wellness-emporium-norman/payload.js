@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/dank-s-wellness-emporium-norman", {data:[{}],fetch:{},mutations:[]});

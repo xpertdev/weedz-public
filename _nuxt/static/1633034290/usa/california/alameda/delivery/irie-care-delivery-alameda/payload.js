@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alameda/delivery/irie-care-delivery-alameda", {data:[{}],fetch:{},mutations:[]});

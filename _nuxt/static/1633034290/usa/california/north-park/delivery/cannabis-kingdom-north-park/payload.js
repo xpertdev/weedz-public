@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-park/delivery/cannabis-kingdom-north-park", {data:[{}],fetch:{},mutations:[]});

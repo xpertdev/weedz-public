@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/hawaii/pearl-city/doctor/green-wave-medical", {data:[{}],fetch:{},mutations:[]});

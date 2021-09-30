@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chino/delivery/nug-avenue-15", {data:[{}],fetch:{},mutations:[]});

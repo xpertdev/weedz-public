@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/camp-hill/doctor/dr-christine-daecher", {data:[{}],fetch:{},mutations:[]});

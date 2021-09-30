@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hydro/dispensary/rt66-apothecary", {data:[{}],fetch:{},mutations:[]});

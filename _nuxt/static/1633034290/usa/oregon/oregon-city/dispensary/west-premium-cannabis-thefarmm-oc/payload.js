@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/oregon-city/dispensary/west-premium-cannabis-thefarmm-oc", {data:[{}],fetch:{},mutations:[]});

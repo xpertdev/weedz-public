@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/yuma/dispensary/jamestown-yuma", {data:[{}],fetch:{},mutations:[]});

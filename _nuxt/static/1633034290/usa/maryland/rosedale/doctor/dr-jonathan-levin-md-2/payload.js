@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/rosedale/doctor/dr-jonathan-levin-md-2", {data:[{}],fetch:{},mutations:[]});

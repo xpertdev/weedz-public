@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/wichita-falls/store/cbd-american-shaman-wichita-falls", {data:[{}],fetch:{},mutations:[]});

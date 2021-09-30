@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/one-plant-antioch", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/seminole/dispensary/tnt-medicinal-factory", {data:[{}],fetch:{},mutations:[]});

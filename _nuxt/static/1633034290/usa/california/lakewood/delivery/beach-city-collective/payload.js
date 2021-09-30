@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakewood/delivery/beach-city-collective", {data:[{}],fetch:{},mutations:[]});

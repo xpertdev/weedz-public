@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/delivery/daze-17", {data:[{}],fetch:{},mutations:[]});

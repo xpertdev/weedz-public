@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/log-lane-village/dispensary/high-plainz-strains-dispensary", {data:[{}],fetch:{},mutations:[]});

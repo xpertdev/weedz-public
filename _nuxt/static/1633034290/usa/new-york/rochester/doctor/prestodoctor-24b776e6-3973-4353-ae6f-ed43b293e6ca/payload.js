@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rochester/doctor/prestodoctor-24b776e6-3973-4353-ae6f-ed43b293e6ca", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/la-brea-collective-2-2", {data:[{}],fetch:{},mutations:[]});

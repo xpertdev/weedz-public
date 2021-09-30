@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-francisco/dispensary/grass-roots-collective-1", {data:[{}],fetch:{},mutations:[]});

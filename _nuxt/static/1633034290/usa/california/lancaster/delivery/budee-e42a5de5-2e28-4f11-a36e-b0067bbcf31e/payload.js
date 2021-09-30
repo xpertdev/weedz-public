@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lancaster/delivery/budee-e42a5de5-2e28-4f11-a36e-b0067bbcf31e", {data:[{}],fetch:{},mutations:[]});

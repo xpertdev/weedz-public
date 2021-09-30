@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/west-boylston/dispensary/campfire-cannabis-ma", {data:[{}],fetch:{},mutations:[]});

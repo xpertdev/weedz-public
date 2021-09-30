@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/delivery/apothecare-delivery", {data:[{}],fetch:{},mutations:[]});

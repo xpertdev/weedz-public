@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/hensley/dispensary/native-green-wellness-2", {data:[{}],fetch:{},mutations:[]});

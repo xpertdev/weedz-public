@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/dana-point/delivery/golden-gram-11", {data:[{}],fetch:{},mutations:[]});

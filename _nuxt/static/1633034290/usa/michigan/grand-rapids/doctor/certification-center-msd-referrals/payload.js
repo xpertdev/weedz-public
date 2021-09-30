@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/doctor/certification-center-msd-referrals", {data:[{}],fetch:{},mutations:[]});

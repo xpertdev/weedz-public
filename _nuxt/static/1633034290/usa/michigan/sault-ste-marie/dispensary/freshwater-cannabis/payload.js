@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/sault-ste-marie/dispensary/freshwater-cannabis", {data:[{}],fetch:{},mutations:[]});

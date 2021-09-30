@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/altus/dispensary/star-buds-altus-1", {data:[{}],fetch:{},mutations:[]});

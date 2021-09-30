@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/fire-farms-4", {data:[{}],fetch:{},mutations:[]});

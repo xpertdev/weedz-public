@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palo-alto/delivery/fresh-mint-collective-4", {data:[{}],fetch:{},mutations:[]});

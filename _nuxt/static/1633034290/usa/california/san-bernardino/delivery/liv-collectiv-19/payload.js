@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-bernardino/delivery/liv-collectiv-19", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tempe/dispensary/nirvana-center", {data:[{}],fetch:{},mutations:[]});

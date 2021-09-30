@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/garden-city/dispensary/cloud-nine-caregivers", {data:[{}],fetch:{},mutations:[]});

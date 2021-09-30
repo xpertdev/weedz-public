@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orange-park/doctor/medical-marijuana-treatment-clinics-of-florida-24", {data:[{}],fetch:{},mutations:[]});

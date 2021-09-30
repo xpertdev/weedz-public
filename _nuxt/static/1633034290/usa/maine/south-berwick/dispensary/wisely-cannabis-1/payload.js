@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/south-berwick/dispensary/wisely-cannabis-1", {data:[{}],fetch:{},mutations:[]});

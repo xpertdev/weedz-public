@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/cloud-9-sacramento", {data:[{}],fetch:{},mutations:[]});

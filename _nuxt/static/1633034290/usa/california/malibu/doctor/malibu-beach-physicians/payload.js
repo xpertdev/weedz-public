@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/malibu/doctor/malibu-beach-physicians", {data:[{}],fetch:{},mutations:[]});

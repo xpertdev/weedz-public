@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/r-greenleaf-north-coors", {data:[{}],fetch:{},mutations:[]});

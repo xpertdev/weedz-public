@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/show-low/doctor/marijuana-certifications-4", {data:[{}],fetch:{},mutations:[]});

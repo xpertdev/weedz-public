@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-los-angeles/delivery/budnest-west-la-2", {data:[{}],fetch:{},mutations:[]});

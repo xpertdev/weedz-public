@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tucson/dispensary/the-green-halo", {data:[{}],fetch:{},mutations:[]});

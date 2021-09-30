@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/ellensburg/dispensary/cannabis-central", {data:[{}],fetch:{},mutations:[]});

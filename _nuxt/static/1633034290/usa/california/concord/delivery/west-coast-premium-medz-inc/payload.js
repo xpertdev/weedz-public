@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/west-coast-premium-medz-inc", {data:[{}],fetch:{},mutations:[]});

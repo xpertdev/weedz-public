@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fraser/dispensary/rocky-mountain-cannabis-fraser", {data:[{}],fetch:{},mutations:[]});

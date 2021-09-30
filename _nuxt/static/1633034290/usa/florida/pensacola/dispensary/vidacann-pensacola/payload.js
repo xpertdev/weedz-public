@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/pensacola/dispensary/vidacann-pensacola", {data:[{}],fetch:{},mutations:[]});

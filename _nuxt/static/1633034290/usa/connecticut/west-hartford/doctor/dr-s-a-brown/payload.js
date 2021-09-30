@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/west-hartford/doctor/dr-s-a-brown", {data:[{}],fetch:{},mutations:[]});

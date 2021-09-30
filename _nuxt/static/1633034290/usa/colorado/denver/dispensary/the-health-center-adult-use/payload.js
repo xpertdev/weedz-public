@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/the-health-center-adult-use", {data:[{}],fetch:{},mutations:[]});

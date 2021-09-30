@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/modesto/delivery/green-frog-delivery-6", {data:[{}],fetch:{},mutations:[]});

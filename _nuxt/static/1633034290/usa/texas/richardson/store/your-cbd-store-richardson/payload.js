@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/richardson/store/your-cbd-store-richardson", {data:[{}],fetch:{},mutations:[]});

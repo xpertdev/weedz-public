@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redwood-city/delivery/juva-life-redwood-city", {data:[{}],fetch:{},mutations:[]});

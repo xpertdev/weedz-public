@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lathrop/delivery/smoke-on-the-water-23", {data:[{}],fetch:{},mutations:[]});

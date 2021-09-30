@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/grunt-hippie", {data:[{}],fetch:{},mutations:[]});

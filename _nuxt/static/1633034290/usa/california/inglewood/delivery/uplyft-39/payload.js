@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/inglewood/delivery/uplyft-39", {data:[{}],fetch:{},mutations:[]});

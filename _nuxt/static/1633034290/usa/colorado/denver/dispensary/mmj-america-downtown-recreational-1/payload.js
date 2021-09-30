@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/mmj-america-downtown-recreational-1", {data:[{}],fetch:{},mutations:[]});

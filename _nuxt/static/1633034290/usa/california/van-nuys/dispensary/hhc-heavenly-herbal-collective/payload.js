@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/dispensary/hhc-heavenly-herbal-collective", {data:[{}],fetch:{},mutations:[]});

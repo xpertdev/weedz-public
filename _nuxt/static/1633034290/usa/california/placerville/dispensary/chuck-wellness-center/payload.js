@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/placerville/dispensary/chuck-wellness-center", {data:[{}],fetch:{},mutations:[]});

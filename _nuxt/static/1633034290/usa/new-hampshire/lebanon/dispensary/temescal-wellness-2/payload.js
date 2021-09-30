@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-hampshire/lebanon/dispensary/temescal-wellness-2", {data:[{}],fetch:{},mutations:[]});

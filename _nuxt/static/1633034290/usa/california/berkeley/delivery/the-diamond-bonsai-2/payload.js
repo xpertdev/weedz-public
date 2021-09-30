@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/the-diamond-bonsai-2", {data:[{}],fetch:{},mutations:[]});

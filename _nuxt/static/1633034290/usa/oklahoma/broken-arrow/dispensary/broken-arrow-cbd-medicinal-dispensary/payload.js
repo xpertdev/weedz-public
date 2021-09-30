@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/broken-arrow-cbd-medicinal-dispensary", {data:[{}],fetch:{},mutations:[]});

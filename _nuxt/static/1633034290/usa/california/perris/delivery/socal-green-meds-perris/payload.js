@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/perris/delivery/socal-green-meds-perris", {data:[{}],fetch:{},mutations:[]});

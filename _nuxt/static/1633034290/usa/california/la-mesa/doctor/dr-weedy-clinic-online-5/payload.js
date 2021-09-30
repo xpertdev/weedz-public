@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/doctor/dr-weedy-clinic-online-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/half-moon-bay/delivery/amuse-cannabis-delivery-half-moon-bay", {data:[{}],fetch:{},mutations:[]});

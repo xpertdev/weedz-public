@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tucson/doctor/green-mountain-wellness-kactus-kush", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lansing/dispensary/first-class-canabis-company", {data:[{}],fetch:{},mutations:[]});

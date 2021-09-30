@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-ana/dispensary/10-spot-collective-11", {data:[{}],fetch:{},mutations:[]});

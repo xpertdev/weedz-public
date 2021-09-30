@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/homestead/doctor/miracle-leaf-homestead", {data:[{}],fetch:{},mutations:[]});

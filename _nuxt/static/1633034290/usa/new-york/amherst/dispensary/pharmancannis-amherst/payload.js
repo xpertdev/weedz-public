@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/amherst/dispensary/pharmancannis-amherst", {data:[{}],fetch:{},mutations:[]});

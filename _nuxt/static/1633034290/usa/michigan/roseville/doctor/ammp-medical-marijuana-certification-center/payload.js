@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/roseville/doctor/ammp-medical-marijuana-certification-center", {data:[{}],fetch:{},mutations:[]});

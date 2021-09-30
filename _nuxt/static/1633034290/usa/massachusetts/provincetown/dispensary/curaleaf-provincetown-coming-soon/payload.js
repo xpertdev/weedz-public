@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/provincetown/dispensary/curaleaf-provincetown-coming-soon", {data:[{}],fetch:{},mutations:[]});

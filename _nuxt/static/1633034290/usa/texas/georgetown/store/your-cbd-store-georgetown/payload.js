@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/georgetown/store/your-cbd-store-georgetown", {data:[{}],fetch:{},mutations:[]});

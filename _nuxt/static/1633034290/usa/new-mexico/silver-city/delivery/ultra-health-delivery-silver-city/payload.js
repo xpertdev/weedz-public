@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/silver-city/delivery/ultra-health-delivery-silver-city", {data:[{}],fetch:{},mutations:[]});

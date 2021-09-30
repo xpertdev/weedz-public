@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-paula/delivery/budee-e3c77681-dea8-4ceb-989b-43079e2c8f1e", {data:[{}],fetch:{},mutations:[]});

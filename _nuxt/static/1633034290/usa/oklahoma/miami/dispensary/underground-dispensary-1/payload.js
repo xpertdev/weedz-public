@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/miami/dispensary/underground-dispensary-1", {data:[{}],fetch:{},mutations:[]});

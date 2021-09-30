@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/hopedale/dispensary/hi-25", {data:[{}],fetch:{},mutations:[]});

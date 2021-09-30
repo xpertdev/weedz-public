@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/el-dorado/dispensary/zen-leaf-el-dorado", {data:[{}],fetch:{},mutations:[]});

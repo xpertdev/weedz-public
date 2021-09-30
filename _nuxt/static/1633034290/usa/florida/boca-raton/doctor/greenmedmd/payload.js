@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/boca-raton/doctor/greenmedmd", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/north-dakota/williston/dispensary/harvest-hoc-williston", {data:[{}],fetch:{},mutations:[]});

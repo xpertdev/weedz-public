@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/malibu/dispensary/malibu-community-collective", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/colcord/dispensary/hemp-mother-medical-marijuana-wellness-center", {data:[{}],fetch:{},mutations:[]});

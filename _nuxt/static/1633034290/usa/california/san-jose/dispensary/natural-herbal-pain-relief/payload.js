@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-jose/dispensary/natural-herbal-pain-relief", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/venice/doctor/the-green-doctors-1201", {data:[{}],fetch:{},mutations:[]});

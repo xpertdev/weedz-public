@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/cornelius/dispensary/mr-nice-guy-cornelius", {data:[{}],fetch:{},mutations:[]});

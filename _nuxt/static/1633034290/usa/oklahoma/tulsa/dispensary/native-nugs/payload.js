@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/native-nugs", {data:[{}],fetch:{},mutations:[]});

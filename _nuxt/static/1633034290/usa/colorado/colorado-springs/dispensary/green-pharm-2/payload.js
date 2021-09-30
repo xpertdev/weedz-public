@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/green-pharm-2", {data:[{}],fetch:{},mutations:[]});

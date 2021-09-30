@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moreno-valley/dispensary/good-lyfe", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/sun-city/dispensary/white-mountain-health-center", {data:[{}],fetch:{},mutations:[]});

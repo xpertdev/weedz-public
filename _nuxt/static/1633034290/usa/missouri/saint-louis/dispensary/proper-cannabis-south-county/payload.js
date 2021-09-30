@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/saint-louis/dispensary/proper-cannabis-south-county", {data:[{}],fetch:{},mutations:[]});

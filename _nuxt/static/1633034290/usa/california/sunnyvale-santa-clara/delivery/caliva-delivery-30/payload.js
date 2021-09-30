@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sunnyvale-santa-clara/delivery/caliva-delivery-30", {data:[{}],fetch:{},mutations:[]});

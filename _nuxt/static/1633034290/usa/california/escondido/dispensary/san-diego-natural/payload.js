@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/escondido/dispensary/san-diego-natural", {data:[{}],fetch:{},mutations:[]});

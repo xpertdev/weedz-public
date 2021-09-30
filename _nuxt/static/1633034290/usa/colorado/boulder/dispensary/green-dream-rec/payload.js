@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/dispensary/green-dream-rec", {data:[{}],fetch:{},mutations:[]});

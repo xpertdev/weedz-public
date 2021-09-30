@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/milford/dispensary/arrow-alternative-care-milford", {data:[{}],fetch:{},mutations:[]});

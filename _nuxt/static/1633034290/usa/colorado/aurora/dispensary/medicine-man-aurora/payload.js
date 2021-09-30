@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aurora/dispensary/medicine-man-aurora", {data:[{}],fetch:{},mutations:[]});

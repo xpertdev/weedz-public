@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/lightshade-adult-use-2-holly-recreational", {data:[{}],fetch:{},mutations:[]});

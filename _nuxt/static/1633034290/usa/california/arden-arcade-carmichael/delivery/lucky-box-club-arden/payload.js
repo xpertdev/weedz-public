@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arden-arcade-carmichael/delivery/lucky-box-club-arden", {data:[{}],fetch:{},mutations:[]});

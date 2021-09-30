@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/hardy/dispensary/spring-river-dispensary", {data:[{}],fetch:{},mutations:[]});

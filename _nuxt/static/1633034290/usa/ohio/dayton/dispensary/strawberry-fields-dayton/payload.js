@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/dayton/dispensary/strawberry-fields-dayton", {data:[{}],fetch:{},mutations:[]});

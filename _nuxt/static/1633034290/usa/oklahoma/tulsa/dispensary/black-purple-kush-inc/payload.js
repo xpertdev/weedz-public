@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/black-purple-kush-inc", {data:[{}],fetch:{},mutations:[]});

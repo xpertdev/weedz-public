@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/davie/doctor/alternative-medical-centers-of-america-3", {data:[{}],fetch:{},mutations:[]});

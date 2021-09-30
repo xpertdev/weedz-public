@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/colfax/doctor/compassionate-health-options-colfax", {data:[{}],fetch:{},mutations:[]});

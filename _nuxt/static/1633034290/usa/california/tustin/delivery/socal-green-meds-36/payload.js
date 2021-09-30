@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tustin/delivery/socal-green-meds-36", {data:[{}],fetch:{},mutations:[]});

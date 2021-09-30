@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/seed-amp-smith-cannabis-2", {data:[{}],fetch:{},mutations:[]});

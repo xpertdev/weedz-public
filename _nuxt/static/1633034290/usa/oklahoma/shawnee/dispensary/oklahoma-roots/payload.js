@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/oklahoma-roots", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/tree-kings-dispensary-s", {data:[{}],fetch:{},mutations:[]});

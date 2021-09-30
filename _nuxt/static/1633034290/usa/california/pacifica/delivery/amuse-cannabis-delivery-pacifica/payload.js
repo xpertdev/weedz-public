@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pacifica/delivery/amuse-cannabis-delivery-pacifica", {data:[{}],fetch:{},mutations:[]});

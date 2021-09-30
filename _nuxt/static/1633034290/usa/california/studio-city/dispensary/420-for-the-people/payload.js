@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/studio-city/dispensary/420-for-the-people", {data:[{}],fetch:{},mutations:[]});

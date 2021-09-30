@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-clara/delivery/the-club-designer-weed-1", {data:[{}],fetch:{},mutations:[]});

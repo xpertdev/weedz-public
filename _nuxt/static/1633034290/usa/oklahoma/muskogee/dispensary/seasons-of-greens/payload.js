@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muskogee/dispensary/seasons-of-greens", {data:[{}],fetch:{},mutations:[]});

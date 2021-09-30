@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/doctor/fully-alive-medicine-2", {data:[{}],fetch:{},mutations:[]});

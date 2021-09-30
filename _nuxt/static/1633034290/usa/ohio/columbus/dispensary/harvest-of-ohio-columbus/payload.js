@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/columbus/dispensary/harvest-of-ohio-columbus", {data:[{}],fetch:{},mutations:[]});

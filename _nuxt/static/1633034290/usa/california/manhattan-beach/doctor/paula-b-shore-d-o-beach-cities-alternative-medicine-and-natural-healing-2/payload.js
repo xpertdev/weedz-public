@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manhattan-beach/doctor/paula-b-shore-d-o-beach-cities-alternative-medicine-and-natural-healing-2", {data:[{}],fetch:{},mutations:[]});

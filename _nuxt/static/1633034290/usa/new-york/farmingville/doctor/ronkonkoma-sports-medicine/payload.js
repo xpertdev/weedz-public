@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/farmingville/doctor/ronkonkoma-sports-medicine", {data:[{}],fetch:{},mutations:[]});

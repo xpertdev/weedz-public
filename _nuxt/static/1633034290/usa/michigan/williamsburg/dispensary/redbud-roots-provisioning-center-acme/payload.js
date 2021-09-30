@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/williamsburg/dispensary/redbud-roots-provisioning-center-acme", {data:[{}],fetch:{},mutations:[]});

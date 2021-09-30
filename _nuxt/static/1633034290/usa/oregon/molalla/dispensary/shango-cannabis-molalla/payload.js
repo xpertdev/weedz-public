@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/molalla/dispensary/shango-cannabis-molalla", {data:[{}],fetch:{},mutations:[]});

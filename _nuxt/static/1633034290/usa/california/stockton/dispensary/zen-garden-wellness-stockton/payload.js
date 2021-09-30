@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/dispensary/zen-garden-wellness-stockton", {data:[{}],fetch:{},mutations:[]});

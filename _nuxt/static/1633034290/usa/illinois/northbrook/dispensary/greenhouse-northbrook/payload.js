@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/northbrook/dispensary/greenhouse-northbrook", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palo-alto/delivery/gch-collective", {data:[{}],fetch:{},mutations:[]});

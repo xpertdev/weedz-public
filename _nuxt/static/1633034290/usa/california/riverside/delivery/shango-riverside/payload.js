@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/shango-riverside", {data:[{}],fetch:{},mutations:[]});

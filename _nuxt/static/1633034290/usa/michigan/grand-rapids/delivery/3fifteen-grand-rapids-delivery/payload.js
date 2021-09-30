@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/delivery/3fifteen-grand-rapids-delivery", {data:[{}],fetch:{},mutations:[]});

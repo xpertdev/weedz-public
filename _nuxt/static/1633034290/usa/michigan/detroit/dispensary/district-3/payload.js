@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/district-3", {data:[{}],fetch:{},mutations:[]});

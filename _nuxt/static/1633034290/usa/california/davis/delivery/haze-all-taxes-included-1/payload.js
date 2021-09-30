@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/davis/delivery/haze-all-taxes-included-1", {data:[{}],fetch:{},mutations:[]});

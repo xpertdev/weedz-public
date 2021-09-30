@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manteca/delivery/socal-green-meds-48", {data:[{}],fetch:{},mutations:[]});

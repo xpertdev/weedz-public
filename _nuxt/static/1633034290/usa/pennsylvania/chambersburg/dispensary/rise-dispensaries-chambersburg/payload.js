@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/chambersburg/dispensary/rise-dispensaries-chambersburg", {data:[{}],fetch:{},mutations:[]});

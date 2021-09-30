@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/cleveland/doctor/ohio-green-team-alok-k-bhaiji", {data:[{}],fetch:{},mutations:[]});

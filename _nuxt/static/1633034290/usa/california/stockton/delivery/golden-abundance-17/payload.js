@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/delivery/golden-abundance-17", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oceanside/doctor/oceanside-420-alternative-medicine-evaluation-center", {data:[{}],fetch:{},mutations:[]});

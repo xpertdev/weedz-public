@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/palm-bay/dispensary/curaleaf-palm-bay", {data:[{}],fetch:{},mutations:[]});

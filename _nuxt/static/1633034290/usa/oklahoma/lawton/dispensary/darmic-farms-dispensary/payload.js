@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/darmic-farms-dispensary", {data:[{}],fetch:{},mutations:[]});

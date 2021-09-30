@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/doctor/village-medical-cannabis", {data:[{}],fetch:{},mutations:[]});

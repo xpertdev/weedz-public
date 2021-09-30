@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/hiyah-green-medicinals", {data:[{}],fetch:{},mutations:[]});

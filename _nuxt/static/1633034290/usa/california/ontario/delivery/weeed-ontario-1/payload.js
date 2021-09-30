@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ontario/delivery/weeed-ontario-1", {data:[{}],fetch:{},mutations:[]});

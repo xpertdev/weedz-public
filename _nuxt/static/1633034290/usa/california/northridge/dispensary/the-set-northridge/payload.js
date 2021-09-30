@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/dispensary/the-set-northridge", {data:[{}],fetch:{},mutations:[]});

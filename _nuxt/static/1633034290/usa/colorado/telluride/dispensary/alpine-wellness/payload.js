@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/telluride/dispensary/alpine-wellness", {data:[{}],fetch:{},mutations:[]});

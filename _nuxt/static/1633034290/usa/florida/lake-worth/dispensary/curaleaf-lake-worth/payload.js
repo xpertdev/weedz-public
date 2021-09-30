@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lake-worth/dispensary/curaleaf-lake-worth", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/lima/doctor/my-marijuana-card", {data:[{}],fetch:{},mutations:[]});

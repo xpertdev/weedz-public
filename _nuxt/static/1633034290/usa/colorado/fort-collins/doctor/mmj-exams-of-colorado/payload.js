@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fort-collins/doctor/mmj-exams-of-colorado", {data:[{}],fetch:{},mutations:[]});

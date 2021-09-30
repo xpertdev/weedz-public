@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cerritos/delivery/budee-40715372-284c-4986-bcdd-d399a53495f2", {data:[{}],fetch:{},mutations:[]});

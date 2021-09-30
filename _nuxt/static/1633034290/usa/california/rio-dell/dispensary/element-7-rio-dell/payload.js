@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rio-dell/dispensary/element-7-rio-dell", {data:[{}],fetch:{},mutations:[]});

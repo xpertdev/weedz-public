@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/five-points/delivery/iheartcannabis-us-7", {data:[{}],fetch:{},mutations:[]});

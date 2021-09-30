@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/helena/dispensary/greenlight-helena", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/the-other-place-is-greener", {data:[{}],fetch:{},mutations:[]});

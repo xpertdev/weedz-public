@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/walla-walla/dispensary/a-greener-today-walla-walla", {data:[{}],fetch:{},mutations:[]});

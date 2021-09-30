@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-habra/doctor/420recs-com-la-habra", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/florence/dispensary/710-montana-florence", {data:[{}],fetch:{},mutations:[]});

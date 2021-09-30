@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/nowata/dispensary/k-s-lil-farma", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/the-village/dispensary/cann-help-wellness", {data:[{}],fetch:{},mutations:[]});

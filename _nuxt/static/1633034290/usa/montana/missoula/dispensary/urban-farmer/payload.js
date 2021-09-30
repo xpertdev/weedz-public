@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/dispensary/urban-farmer", {data:[{}],fetch:{},mutations:[]});

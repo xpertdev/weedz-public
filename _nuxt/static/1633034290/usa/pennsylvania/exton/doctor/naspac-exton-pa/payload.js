@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/exton/doctor/naspac-exton-pa", {data:[{}],fetch:{},mutations:[]});

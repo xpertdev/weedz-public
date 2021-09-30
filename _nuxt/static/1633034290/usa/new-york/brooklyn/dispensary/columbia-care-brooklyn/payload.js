@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/dispensary/columbia-care-brooklyn", {data:[{}],fetch:{},mutations:[]});

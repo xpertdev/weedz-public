@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/henderson/delivery/the-dispensary-nv-henderson", {data:[{}],fetch:{},mutations:[]});

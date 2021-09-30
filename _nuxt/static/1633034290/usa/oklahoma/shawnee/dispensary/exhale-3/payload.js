@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/exhale-3", {data:[{}],fetch:{},mutations:[]});

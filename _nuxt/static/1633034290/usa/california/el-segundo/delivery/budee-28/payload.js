@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-segundo/delivery/budee-28", {data:[{}],fetch:{},mutations:[]});

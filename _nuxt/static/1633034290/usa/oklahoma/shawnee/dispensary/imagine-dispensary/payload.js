@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/imagine-dispensary", {data:[{}],fetch:{},mutations:[]});

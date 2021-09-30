@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/belmont/delivery/fresh-mint-collective-bdd3c620-1585-4433-9fbd-c601272f6608", {data:[{}],fetch:{},mutations:[]});

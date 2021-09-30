@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alamo/delivery/glm-6", {data:[{}],fetch:{},mutations:[]});

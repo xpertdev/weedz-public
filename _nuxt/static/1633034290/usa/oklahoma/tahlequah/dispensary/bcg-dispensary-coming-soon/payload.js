@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/bcg-dispensary-coming-soon", {data:[{}],fetch:{},mutations:[]});

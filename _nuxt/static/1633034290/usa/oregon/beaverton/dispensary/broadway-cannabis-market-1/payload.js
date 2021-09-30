@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/beaverton/dispensary/broadway-cannabis-market-1", {data:[{}],fetch:{},mutations:[]});

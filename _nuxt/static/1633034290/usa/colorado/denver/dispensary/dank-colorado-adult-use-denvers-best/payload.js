@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/dank-colorado-adult-use-denvers-best", {data:[{}],fetch:{},mutations:[]});

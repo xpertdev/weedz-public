@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/durango/dispensary/mountain-annie-s-durango", {data:[{}],fetch:{},mutations:[]});

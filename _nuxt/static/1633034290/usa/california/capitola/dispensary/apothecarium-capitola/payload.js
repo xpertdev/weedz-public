@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/capitola/dispensary/apothecarium-capitola", {data:[{}],fetch:{},mutations:[]});

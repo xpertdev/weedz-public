@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/pac-la-downtown-la", {data:[{}],fetch:{},mutations:[]});

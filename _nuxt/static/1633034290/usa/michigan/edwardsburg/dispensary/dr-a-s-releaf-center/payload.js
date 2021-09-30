@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/edwardsburg/dispensary/dr-a-s-releaf-center", {data:[{}],fetch:{},mutations:[]});

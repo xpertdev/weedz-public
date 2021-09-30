@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/dispensary/liberty-health-sciences-cannabis-education-center-tampa", {data:[{}],fetch:{},mutations:[]});

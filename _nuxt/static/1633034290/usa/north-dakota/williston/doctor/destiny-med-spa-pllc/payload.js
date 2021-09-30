@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/north-dakota/williston/doctor/destiny-med-spa-pllc", {data:[{}],fetch:{},mutations:[]});

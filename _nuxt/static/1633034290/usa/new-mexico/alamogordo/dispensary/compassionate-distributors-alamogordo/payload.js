@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/alamogordo/dispensary/compassionate-distributors-alamogordo", {data:[{}],fetch:{},mutations:[]});

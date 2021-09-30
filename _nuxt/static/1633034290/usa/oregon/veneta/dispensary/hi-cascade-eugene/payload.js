@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/veneta/dispensary/hi-cascade-eugene", {data:[{}],fetch:{},mutations:[]});

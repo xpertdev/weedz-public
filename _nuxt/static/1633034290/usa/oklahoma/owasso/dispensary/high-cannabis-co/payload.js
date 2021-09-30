@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/owasso/dispensary/high-cannabis-co", {data:[{}],fetch:{},mutations:[]});

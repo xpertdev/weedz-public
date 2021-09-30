@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/uniontown/doctor/cannabis-care-center-3", {data:[{}],fetch:{},mutations:[]});

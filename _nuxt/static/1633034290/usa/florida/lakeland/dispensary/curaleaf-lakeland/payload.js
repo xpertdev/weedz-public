@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lakeland/dispensary/curaleaf-lakeland", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arnold/dispensary/little-trees-collective", {data:[{}],fetch:{},mutations:[]});

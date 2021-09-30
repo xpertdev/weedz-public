@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/longmont/dispensary/medicine-man-longmont", {data:[{}],fetch:{},mutations:[]});

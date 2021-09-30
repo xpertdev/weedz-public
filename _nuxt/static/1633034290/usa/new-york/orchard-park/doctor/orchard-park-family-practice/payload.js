@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/orchard-park/doctor/orchard-park-family-practice", {data:[{}],fetch:{},mutations:[]});

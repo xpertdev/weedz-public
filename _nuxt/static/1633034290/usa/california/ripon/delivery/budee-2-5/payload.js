@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ripon/delivery/budee-2-5", {data:[{}],fetch:{},mutations:[]});

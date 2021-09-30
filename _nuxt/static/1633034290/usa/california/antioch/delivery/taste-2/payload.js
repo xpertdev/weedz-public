@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/delivery/taste-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lebanon/dispensary/healing-plants", {data:[{}],fetch:{},mutations:[]});

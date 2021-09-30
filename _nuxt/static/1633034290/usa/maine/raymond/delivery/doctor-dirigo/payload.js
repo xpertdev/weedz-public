@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/raymond/delivery/doctor-dirigo", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/dispensary/the-grove-2-2", {data:[{}],fetch:{},mutations:[]});

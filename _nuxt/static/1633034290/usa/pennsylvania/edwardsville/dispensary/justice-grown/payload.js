@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/edwardsville/dispensary/justice-grown", {data:[{}],fetch:{},mutations:[]});

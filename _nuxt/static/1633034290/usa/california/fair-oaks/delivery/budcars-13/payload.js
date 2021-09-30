@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fair-oaks/delivery/budcars-13", {data:[{}],fetch:{},mutations:[]});

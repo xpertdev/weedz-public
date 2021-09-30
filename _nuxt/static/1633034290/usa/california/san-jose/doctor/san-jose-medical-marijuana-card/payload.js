@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-jose/doctor/san-jose-medical-marijuana-card", {data:[{}],fetch:{},mutations:[]});

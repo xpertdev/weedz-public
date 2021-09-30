@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-bernardino/delivery/kindly-kush-2", {data:[{}],fetch:{},mutations:[]});

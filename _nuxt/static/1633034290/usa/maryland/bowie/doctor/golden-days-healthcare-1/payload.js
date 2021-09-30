@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/bowie/doctor/golden-days-healthcare-1", {data:[{}],fetch:{},mutations:[]});

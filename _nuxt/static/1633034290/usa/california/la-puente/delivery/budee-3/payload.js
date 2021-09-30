@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/delivery/budee-3", {data:[{}],fetch:{},mutations:[]});

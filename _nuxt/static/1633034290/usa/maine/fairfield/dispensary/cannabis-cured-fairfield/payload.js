@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/fairfield/dispensary/cannabis-cured-fairfield", {data:[{}],fetch:{},mutations:[]});

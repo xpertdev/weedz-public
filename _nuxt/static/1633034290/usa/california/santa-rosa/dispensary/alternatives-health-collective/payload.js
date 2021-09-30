@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-rosa/dispensary/alternatives-health-collective", {data:[{}],fetch:{},mutations:[]});

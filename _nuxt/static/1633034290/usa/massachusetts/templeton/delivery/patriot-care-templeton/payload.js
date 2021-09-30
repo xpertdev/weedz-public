@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/templeton/delivery/patriot-care-templeton", {data:[{}],fetch:{},mutations:[]});

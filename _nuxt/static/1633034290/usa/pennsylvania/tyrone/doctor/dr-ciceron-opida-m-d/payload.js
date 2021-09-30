@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/tyrone/doctor/dr-ciceron-opida-m-d", {data:[{}],fetch:{},mutations:[]});

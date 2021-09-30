@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/monterey-park/delivery/amuse-cannabis-delivery-el-monte-monterrey-park", {data:[{}],fetch:{},mutations:[]});

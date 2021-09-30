@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/longmont/dispensary/the-green-solution-longmont", {data:[{}],fetch:{},mutations:[]});

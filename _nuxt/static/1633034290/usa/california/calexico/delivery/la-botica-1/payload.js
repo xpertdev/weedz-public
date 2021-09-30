@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/calexico/delivery/la-botica-1", {data:[{}],fetch:{},mutations:[]});

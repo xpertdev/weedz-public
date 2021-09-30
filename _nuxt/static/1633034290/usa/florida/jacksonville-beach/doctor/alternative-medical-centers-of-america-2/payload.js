@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jacksonville-beach/doctor/alternative-medical-centers-of-america-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bristow/dispensary/route-66-nature-s-cure", {data:[{}],fetch:{},mutations:[]});

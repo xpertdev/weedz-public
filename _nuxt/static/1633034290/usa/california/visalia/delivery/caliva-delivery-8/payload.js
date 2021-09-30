@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/visalia/delivery/caliva-delivery-8", {data:[{}],fetch:{},mutations:[]});

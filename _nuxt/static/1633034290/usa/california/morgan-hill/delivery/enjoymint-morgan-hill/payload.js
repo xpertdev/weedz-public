@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/morgan-hill/delivery/enjoymint-morgan-hill", {data:[{}],fetch:{},mutations:[]});

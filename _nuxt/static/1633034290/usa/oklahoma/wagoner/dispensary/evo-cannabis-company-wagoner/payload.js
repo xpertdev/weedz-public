@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wagoner/dispensary/evo-cannabis-company-wagoner", {data:[{}],fetch:{},mutations:[]});

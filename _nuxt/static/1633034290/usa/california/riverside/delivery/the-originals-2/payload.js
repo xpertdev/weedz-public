@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/the-originals-2", {data:[{}],fetch:{},mutations:[]});

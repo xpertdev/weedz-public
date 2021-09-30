@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/yelm/dispensary/nw-natural-wellness", {data:[{}],fetch:{},mutations:[]});

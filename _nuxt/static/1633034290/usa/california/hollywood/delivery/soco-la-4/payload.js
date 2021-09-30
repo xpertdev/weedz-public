@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollywood/delivery/soco-la-4", {data:[{}],fetch:{},mutations:[]});

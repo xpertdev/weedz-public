@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/simply-green-farmacy-2", {data:[{}],fetch:{},mutations:[]});

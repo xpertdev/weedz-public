@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bellflower/dispensary/the-medicine-woman", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/seminole/dispensary/code-red-cannabis", {data:[{}],fetch:{},mutations:[]});

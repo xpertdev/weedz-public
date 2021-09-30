@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/key-west/delivery/the-flowery-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/ellensburg/dispensary/the-fire-house-2-2", {data:[{}],fetch:{},mutations:[]});

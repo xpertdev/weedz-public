@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/dispensary/greenhouse-farmacy-west-front-street", {data:[{}],fetch:{},mutations:[]});

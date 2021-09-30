@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/manchester-s-finest-420", {data:[{}],fetch:{},mutations:[]});

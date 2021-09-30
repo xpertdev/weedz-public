@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/kansas/dispensary/ma-pa-s-canna-shop-ii", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/naturita/dispensary/naturita-green-room", {data:[{}],fetch:{},mutations:[]});

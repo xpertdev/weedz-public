@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/southfield/doctor/mmmcc-southfield", {data:[{}],fetch:{},mutations:[]});

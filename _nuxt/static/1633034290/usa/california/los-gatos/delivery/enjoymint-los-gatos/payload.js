@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-gatos/delivery/enjoymint-los-gatos", {data:[{}],fetch:{},mutations:[]});

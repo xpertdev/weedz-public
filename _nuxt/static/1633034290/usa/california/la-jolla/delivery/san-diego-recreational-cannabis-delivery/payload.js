@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-jolla/delivery/san-diego-recreational-cannabis-delivery", {data:[{}],fetch:{},mutations:[]});

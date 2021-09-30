@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/kalamazoo/delivery/sunnies-cannabis-co-delivery-4", {data:[{}],fetch:{},mutations:[]});

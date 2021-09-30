@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mustang/dispensary/wild-horse-dispensary", {data:[{}],fetch:{},mutations:[]});

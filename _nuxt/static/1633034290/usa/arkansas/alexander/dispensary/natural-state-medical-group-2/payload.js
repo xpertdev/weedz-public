@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/alexander/dispensary/natural-state-medical-group-2", {data:[{}],fetch:{},mutations:[]});

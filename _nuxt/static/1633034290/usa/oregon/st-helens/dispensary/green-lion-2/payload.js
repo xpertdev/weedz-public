@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/st-helens/dispensary/green-lion-2", {data:[{}],fetch:{},mutations:[]});

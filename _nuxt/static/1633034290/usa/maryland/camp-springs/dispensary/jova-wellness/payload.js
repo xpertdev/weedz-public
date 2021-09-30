@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/camp-springs/dispensary/jova-wellness", {data:[{}],fetch:{},mutations:[]});

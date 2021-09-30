@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/doctor/complete-physician-services", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/fort-worth/store/artisan-vapor-cbd-fort-worth", {data:[{}],fetch:{},mutations:[]});

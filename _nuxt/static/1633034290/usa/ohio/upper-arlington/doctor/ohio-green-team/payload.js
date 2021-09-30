@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/upper-arlington/doctor/ohio-green-team", {data:[{}],fetch:{},mutations:[]});

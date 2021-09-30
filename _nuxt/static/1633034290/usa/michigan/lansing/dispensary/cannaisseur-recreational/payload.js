@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lansing/dispensary/cannaisseur-recreational", {data:[{}],fetch:{},mutations:[]});

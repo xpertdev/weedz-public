@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/pahrump/dispensary/the-grove-3", {data:[{}],fetch:{},mutations:[]});

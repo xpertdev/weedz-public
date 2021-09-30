@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/doctor/medevalclinic-2", {data:[{}],fetch:{},mutations:[]});

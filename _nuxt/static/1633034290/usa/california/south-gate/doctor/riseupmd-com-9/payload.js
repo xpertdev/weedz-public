@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-gate/doctor/riseupmd-com-9", {data:[{}],fetch:{},mutations:[]});

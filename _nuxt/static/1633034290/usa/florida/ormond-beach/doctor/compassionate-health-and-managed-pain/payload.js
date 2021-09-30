@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ormond-beach/doctor/compassionate-health-and-managed-pain", {data:[{}],fetch:{},mutations:[]});

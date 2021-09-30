@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/panorama-city/doctor/online-medical-cards-25", {data:[{}],fetch:{},mutations:[]});

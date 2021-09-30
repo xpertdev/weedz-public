@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yorba-linda-placentia/delivery/nug-avenue-32", {data:[{}],fetch:{},mutations:[]});

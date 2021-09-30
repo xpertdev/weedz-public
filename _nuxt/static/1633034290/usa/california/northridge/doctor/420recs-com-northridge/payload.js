@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/doctor/420recs-com-northridge", {data:[{}],fetch:{},mutations:[]});

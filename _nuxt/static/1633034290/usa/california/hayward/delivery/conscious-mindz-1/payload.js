@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/delivery/conscious-mindz-1", {data:[{}],fetch:{},mutations:[]});

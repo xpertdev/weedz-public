@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/purcell/dispensary/green-leaf-cannabis-3", {data:[{}],fetch:{},mutations:[]});

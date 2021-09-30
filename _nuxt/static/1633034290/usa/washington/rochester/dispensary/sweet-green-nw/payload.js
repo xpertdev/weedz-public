@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/rochester/dispensary/sweet-green-nw", {data:[{}],fetch:{},mutations:[]});

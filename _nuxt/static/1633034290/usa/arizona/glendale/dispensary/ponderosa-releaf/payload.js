@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/glendale/dispensary/ponderosa-releaf", {data:[{}],fetch:{},mutations:[]});

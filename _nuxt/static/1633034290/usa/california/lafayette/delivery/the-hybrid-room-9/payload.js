@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lafayette/delivery/the-hybrid-room-9", {data:[{}],fetch:{},mutations:[]});

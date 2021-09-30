@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/wasilla/dispensary/scorpion-grass", {data:[{}],fetch:{},mutations:[]});

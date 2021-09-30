@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/cincinnati/doctor/accudoc-medical-marijuana-doctor-cincinnati", {data:[{}],fetch:{},mutations:[]});

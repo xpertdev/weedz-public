@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/somerset/dispensary/solar-therapeutics", {data:[{}],fetch:{},mutations:[]});

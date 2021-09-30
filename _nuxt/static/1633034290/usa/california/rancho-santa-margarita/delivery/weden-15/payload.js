@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-santa-margarita/delivery/weden-15", {data:[{}],fetch:{},mutations:[]});

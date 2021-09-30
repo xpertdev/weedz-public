@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/cali-xpress-8985", {data:[{}],fetch:{},mutations:[]});

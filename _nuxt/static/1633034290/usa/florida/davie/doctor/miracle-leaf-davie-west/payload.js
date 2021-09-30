@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/davie/doctor/miracle-leaf-davie-west", {data:[{}],fetch:{},mutations:[]});

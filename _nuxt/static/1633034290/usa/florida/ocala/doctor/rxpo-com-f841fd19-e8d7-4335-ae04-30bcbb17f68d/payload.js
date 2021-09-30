@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ocala/doctor/rxpo-com-f841fd19-e8d7-4335-ae04-30bcbb17f68d", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/fort-gibson/dispensary/oklahoma-cannabis-apothecary", {data:[{}],fetch:{},mutations:[]});

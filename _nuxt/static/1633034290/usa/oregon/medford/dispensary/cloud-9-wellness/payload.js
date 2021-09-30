@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/dispensary/cloud-9-wellness", {data:[{}],fetch:{},mutations:[]});

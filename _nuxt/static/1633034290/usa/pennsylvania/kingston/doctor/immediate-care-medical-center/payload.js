@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/kingston/doctor/immediate-care-medical-center", {data:[{}],fetch:{},mutations:[]});

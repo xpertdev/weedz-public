@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/debeque/dispensary/tumbleweed-dispensary-debeque", {data:[{}],fetch:{},mutations:[]});

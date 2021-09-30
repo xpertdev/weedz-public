@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/mountain-view/dispensary/fiddler-s-green", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/spanish-springs/dispensary/rise-spanish-springs", {data:[{}],fetch:{},mutations:[]});

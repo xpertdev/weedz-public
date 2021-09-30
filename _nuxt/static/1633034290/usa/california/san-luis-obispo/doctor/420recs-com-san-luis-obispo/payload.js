@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-luis-obispo/doctor/420recs-com-san-luis-obispo", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/carbondale/dispensary/high-q-carbondale", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/clovis/delivery/budee-07cb179a-03c5-4566-aa39-2b201e1748ef", {data:[{}],fetch:{},mutations:[]});

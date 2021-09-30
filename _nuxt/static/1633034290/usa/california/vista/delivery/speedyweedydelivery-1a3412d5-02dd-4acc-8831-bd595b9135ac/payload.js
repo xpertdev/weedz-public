@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/delivery/speedyweedydelivery-1a3412d5-02dd-4acc-8831-bd595b9135ac", {data:[{}],fetch:{},mutations:[]});

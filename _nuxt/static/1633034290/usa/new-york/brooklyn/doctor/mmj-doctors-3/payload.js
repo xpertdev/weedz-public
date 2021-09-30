@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/doctor/mmj-doctors-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/good-chemistry-denver", {data:[{}],fetch:{},mutations:[]});

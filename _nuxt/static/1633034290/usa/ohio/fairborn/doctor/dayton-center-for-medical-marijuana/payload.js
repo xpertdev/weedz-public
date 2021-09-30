@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/fairborn/doctor/dayton-center-for-medical-marijuana", {data:[{}],fetch:{},mutations:[]});

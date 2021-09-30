@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/okmulgee/dispensary/eden-cannabis-co-6th-street", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/wayne/dispensary/nature-s-medicines-wayne-recreational", {data:[{}],fetch:{},mutations:[]});

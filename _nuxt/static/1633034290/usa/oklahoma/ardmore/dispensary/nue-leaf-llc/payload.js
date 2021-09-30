@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ardmore/dispensary/nue-leaf-llc", {data:[{}],fetch:{},mutations:[]});

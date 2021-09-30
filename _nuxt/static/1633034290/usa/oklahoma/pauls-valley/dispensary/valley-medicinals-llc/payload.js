@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pauls-valley/dispensary/valley-medicinals-llc", {data:[{}],fetch:{},mutations:[]});

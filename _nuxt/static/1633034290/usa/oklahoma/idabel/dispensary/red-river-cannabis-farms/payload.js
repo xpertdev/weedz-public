@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/idabel/dispensary/red-river-cannabis-farms", {data:[{}],fetch:{},mutations:[]});

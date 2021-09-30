@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fontana/delivery/canex-delivery-66", {data:[{}],fetch:{},mutations:[]});

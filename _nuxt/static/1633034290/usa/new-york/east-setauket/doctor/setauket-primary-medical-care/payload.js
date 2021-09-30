@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/east-setauket/doctor/setauket-primary-medical-care", {data:[{}],fetch:{},mutations:[]});

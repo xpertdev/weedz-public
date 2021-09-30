@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/wellfleet/dispensary/cape-cod-cannabis", {data:[{}],fetch:{},mutations:[]});

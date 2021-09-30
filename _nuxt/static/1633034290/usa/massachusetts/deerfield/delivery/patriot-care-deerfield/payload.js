@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/deerfield/delivery/patriot-care-deerfield", {data:[{}],fetch:{},mutations:[]});

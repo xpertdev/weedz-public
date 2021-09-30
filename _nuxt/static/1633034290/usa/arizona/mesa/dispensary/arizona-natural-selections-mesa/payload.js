@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/mesa/dispensary/arizona-natural-selections-mesa", {data:[{}],fetch:{},mutations:[]});

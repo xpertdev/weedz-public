@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/doctor/florida-420-doctor", {data:[{}],fetch:{},mutations:[]});

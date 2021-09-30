@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ladera-ranch/delivery/kushagram-ladera-ranch-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-long-beach/delivery/caliva-delivery-18", {data:[{}],fetch:{},mutations:[]});

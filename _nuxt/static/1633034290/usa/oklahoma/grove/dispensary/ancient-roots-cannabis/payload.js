@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/grove/dispensary/ancient-roots-cannabis", {data:[{}],fetch:{},mutations:[]});

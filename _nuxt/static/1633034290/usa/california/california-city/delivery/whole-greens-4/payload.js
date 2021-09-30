@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/california-city/delivery/whole-greens-4", {data:[{}],fetch:{},mutations:[]});

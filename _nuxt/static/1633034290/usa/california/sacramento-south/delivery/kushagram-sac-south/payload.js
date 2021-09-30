@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento-south/delivery/kushagram-sac-south", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/waterville/delivery/cupcakes-cannabis", {data:[{}],fetch:{},mutations:[]});

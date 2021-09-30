@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/little-rock/doctor/alternative-medical-clinic-of-arkansas", {data:[{}],fetch:{},mutations:[]});

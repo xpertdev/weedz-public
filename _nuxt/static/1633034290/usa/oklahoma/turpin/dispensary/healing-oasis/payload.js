@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/turpin/dispensary/healing-oasis", {data:[{}],fetch:{},mutations:[]});

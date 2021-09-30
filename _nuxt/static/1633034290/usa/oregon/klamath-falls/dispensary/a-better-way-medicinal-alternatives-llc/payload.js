@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/klamath-falls/dispensary/a-better-way-medicinal-alternatives-llc", {data:[{}],fetch:{},mutations:[]});

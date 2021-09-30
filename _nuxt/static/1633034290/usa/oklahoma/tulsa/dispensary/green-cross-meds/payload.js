@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/green-cross-meds", {data:[{}],fetch:{},mutations:[]});

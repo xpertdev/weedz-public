@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/delivery/off-the-charts-2", {data:[{}],fetch:{},mutations:[]});

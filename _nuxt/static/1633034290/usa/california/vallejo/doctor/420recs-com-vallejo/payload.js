@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/doctor/420recs-com-vallejo", {data:[{}],fetch:{},mutations:[]});

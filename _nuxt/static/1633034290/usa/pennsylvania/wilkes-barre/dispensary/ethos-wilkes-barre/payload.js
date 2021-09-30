@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/wilkes-barre/dispensary/ethos-wilkes-barre", {data:[{}],fetch:{},mutations:[]});

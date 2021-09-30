@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jupiter/doctor/mmj-health-9", {data:[{}],fetch:{},mutations:[]});

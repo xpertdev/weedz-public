@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/south-portland/delivery/south-port-cannabis-company", {data:[{}],fetch:{},mutations:[]});

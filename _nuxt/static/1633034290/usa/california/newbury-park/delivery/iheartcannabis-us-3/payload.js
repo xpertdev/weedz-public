@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/newbury-park/delivery/iheartcannabis-us-3", {data:[{}],fetch:{},mutations:[]});

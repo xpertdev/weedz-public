@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/calexico/dispensary/rose-bowls", {data:[{}],fetch:{},mutations:[]});

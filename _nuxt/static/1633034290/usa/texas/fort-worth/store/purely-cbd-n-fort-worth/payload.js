@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/fort-worth/store/purely-cbd-n-fort-worth", {data:[{}],fetch:{},mutations:[]});

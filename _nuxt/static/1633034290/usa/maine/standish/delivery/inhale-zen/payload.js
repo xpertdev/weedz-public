@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/standish/delivery/inhale-zen", {data:[{}],fetch:{},mutations:[]});

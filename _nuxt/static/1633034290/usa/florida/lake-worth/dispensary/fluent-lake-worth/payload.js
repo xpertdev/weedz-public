@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lake-worth/dispensary/fluent-lake-worth", {data:[{}],fetch:{},mutations:[]});

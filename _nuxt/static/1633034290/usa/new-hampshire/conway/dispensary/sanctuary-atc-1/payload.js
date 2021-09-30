@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-hampshire/conway/dispensary/sanctuary-atc-1", {data:[{}],fetch:{},mutations:[]});

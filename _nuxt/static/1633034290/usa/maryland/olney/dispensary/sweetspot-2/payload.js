@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/olney/dispensary/sweetspot-2", {data:[{}],fetch:{},mutations:[]});

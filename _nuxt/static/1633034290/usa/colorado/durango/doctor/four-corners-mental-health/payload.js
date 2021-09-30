@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/durango/doctor/four-corners-mental-health", {data:[{}],fetch:{},mutations:[]});

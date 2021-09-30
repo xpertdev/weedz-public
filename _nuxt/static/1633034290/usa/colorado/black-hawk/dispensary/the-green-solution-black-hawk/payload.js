@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/black-hawk/dispensary/the-green-solution-black-hawk", {data:[{}],fetch:{},mutations:[]});

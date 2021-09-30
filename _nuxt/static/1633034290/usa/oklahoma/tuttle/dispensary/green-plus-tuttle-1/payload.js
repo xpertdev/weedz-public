@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tuttle/dispensary/green-plus-tuttle-1", {data:[{}],fetch:{},mutations:[]});

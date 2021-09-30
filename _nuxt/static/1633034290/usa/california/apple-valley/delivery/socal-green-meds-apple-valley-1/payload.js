@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/apple-valley/delivery/socal-green-meds-apple-valley-1", {data:[{}],fetch:{},mutations:[]});

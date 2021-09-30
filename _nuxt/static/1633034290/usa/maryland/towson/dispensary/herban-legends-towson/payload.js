@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/towson/dispensary/herban-legends-towson", {data:[{}],fetch:{},mutations:[]});

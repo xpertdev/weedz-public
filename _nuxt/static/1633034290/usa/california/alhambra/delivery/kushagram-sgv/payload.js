@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alhambra/delivery/kushagram-sgv", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/kingman/dispensary/medusa-farms", {data:[{}],fetch:{},mutations:[]});

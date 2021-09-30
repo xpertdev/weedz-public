@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakewood/delivery/daze-18", {data:[{}],fetch:{},mutations:[]});

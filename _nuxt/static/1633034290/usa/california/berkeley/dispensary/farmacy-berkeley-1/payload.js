@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/dispensary/farmacy-berkeley-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/spring/store/natural-ways-cbd-spring-hemp-cbd-only", {data:[{}],fetch:{},mutations:[]});

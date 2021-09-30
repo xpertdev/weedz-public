@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palmdale/delivery/420-kingdom-421", {data:[{}],fetch:{},mutations:[]});

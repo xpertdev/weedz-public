@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vacaville/delivery/canna-car-7", {data:[{}],fetch:{},mutations:[]});

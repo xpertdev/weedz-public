@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/collective-efforts-grand-open", {data:[{}],fetch:{},mutations:[]});

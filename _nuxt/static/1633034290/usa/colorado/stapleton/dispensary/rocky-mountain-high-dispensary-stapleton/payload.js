@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/stapleton/dispensary/rocky-mountain-high-dispensary-stapleton", {data:[{}],fetch:{},mutations:[]});

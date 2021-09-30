@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/adrian/dispensary/teebz-of-adrian-recreational", {data:[{}],fetch:{},mutations:[]});

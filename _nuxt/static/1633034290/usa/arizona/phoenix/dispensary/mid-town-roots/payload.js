@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/mid-town-roots", {data:[{}],fetch:{},mutations:[]});

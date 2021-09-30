@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/mansfield/store/naturally-rooted", {data:[{}],fetch:{},mutations:[]});

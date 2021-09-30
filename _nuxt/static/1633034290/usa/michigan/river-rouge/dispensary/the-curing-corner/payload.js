@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/river-rouge/dispensary/the-curing-corner", {data:[{}],fetch:{},mutations:[]});

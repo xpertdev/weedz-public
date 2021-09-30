@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/vassar/delivery/urb-cannabis", {data:[{}],fetch:{},mutations:[]});

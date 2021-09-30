@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/lynn/dispensary/ethos-dispensary-1", {data:[{}],fetch:{},mutations:[]});

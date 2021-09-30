@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/delta-health-and-wellness-2-4", {data:[{}],fetch:{},mutations:[]});

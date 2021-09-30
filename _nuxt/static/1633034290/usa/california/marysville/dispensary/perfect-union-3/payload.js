@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/marysville/dispensary/perfect-union-3", {data:[{}],fetch:{},mutations:[]});

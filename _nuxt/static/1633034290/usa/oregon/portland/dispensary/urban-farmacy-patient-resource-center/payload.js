@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/urban-farmacy-patient-resource-center", {data:[{}],fetch:{},mutations:[]});

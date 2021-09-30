@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/alamosa/dispensary/la-casa-cannabis-ii-2", {data:[{}],fetch:{},mutations:[]});

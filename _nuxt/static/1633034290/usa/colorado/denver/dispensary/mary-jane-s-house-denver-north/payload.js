@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/mary-jane-s-house-denver-north", {data:[{}],fetch:{},mutations:[]});

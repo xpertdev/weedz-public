@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/flushing/doctor/michael-adler-d-o-p-c", {data:[{}],fetch:{},mutations:[]});

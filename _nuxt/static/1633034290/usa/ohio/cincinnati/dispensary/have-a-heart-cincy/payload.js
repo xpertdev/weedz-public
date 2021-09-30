@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/cincinnati/dispensary/have-a-heart-cincy", {data:[{}],fetch:{},mutations:[]});

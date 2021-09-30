@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/springfield/doctor/marimed-consults", {data:[{}],fetch:{},mutations:[]});

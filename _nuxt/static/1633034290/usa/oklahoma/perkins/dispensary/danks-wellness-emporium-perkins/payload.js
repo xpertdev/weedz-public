@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/perkins/dispensary/danks-wellness-emporium-perkins", {data:[{}],fetch:{},mutations:[]});

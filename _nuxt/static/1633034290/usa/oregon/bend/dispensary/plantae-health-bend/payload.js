@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bend/dispensary/plantae-health-bend", {data:[{}],fetch:{},mutations:[]});

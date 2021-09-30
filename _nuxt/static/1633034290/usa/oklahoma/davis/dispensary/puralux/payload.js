@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/davis/dispensary/puralux", {data:[{}],fetch:{},mutations:[]});

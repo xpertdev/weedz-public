@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/allentown/doctor/the-sanctuary-wellness-institute-9", {data:[{}],fetch:{},mutations:[]});

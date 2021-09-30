@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/silverton/dispensary/the-lucky-leaf", {data:[{}],fetch:{},mutations:[]});

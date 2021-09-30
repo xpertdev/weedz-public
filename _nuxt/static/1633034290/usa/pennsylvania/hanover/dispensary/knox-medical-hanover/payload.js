@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/hanover/dispensary/knox-medical-hanover", {data:[{}],fetch:{},mutations:[]});

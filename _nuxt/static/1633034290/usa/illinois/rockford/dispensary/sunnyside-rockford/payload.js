@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/rockford/dispensary/sunnyside-rockford", {data:[{}],fetch:{},mutations:[]});

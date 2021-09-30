@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/green-mesa-dipensary", {data:[{}],fetch:{},mutations:[]});

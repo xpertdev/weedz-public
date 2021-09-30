@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shady-point/dispensary/left-handed-okies", {data:[{}],fetch:{},mutations:[]});

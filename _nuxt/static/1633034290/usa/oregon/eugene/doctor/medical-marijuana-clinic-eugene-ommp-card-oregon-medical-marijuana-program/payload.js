@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/doctor/medical-marijuana-clinic-eugene-ommp-card-oregon-medical-marijuana-program", {data:[{}],fetch:{},mutations:[]});

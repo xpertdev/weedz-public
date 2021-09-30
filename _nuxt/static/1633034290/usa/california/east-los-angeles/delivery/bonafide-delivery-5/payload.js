@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/east-los-angeles/delivery/bonafide-delivery-5", {data:[{}],fetch:{},mutations:[]});

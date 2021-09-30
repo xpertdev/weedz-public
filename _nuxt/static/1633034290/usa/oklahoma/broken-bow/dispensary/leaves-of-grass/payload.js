@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-bow/dispensary/leaves-of-grass", {data:[{}],fetch:{},mutations:[]});

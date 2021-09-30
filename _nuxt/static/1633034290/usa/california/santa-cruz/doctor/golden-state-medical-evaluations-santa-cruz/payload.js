@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-cruz/doctor/golden-state-medical-evaluations-santa-cruz", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/johnston/doctor/canna-care-docs-rhode-island", {data:[{}],fetch:{},mutations:[]});

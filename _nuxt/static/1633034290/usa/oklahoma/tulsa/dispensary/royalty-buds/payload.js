@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/royalty-buds", {data:[{}],fetch:{},mutations:[]});

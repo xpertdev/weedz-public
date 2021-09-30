@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/st-peters/dispensary/swade-cannabis", {data:[{}],fetch:{},mutations:[]});

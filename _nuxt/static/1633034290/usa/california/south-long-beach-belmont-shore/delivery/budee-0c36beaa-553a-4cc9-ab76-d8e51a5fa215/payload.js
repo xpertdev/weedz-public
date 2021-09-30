@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-long-beach-belmont-shore/delivery/budee-0c36beaa-553a-4cc9-ab76-d8e51a5fa215", {data:[{}],fetch:{},mutations:[]});

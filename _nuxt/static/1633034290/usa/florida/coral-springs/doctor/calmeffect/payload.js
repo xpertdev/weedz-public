@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/coral-springs/doctor/calmeffect", {data:[{}],fetch:{},mutations:[]});

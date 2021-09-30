@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/cheektowaga/doctor/res-physical-medicine-and-rehab", {data:[{}],fetch:{},mutations:[]});

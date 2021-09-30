@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sand-springs-ok/dispensary/wild-flower-medical-marijuana-dispensary-1", {data:[{}],fetch:{},mutations:[]});

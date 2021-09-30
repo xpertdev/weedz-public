@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/el-reno/dispensary/the-green-buffalo-cannabis-company", {data:[{}],fetch:{},mutations:[]});

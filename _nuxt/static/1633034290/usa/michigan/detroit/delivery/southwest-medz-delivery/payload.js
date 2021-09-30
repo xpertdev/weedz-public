@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/delivery/southwest-medz-delivery", {data:[{}],fetch:{},mutations:[]});

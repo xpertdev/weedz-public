@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/tigard/dispensary/cola-cove-2", {data:[{}],fetch:{},mutations:[]});

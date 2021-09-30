@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/bridgeton/doctor/dr-r-patitucci", {data:[{}],fetch:{},mutations:[]});

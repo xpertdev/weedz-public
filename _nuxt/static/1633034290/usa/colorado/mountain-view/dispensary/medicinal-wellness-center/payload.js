@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/mountain-view/dispensary/medicinal-wellness-center", {data:[{}],fetch:{},mutations:[]});

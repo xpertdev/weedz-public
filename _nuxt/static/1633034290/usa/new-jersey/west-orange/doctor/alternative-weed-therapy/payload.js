@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/west-orange/doctor/alternative-weed-therapy", {data:[{}],fetch:{},mutations:[]});

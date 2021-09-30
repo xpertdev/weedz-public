@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/boron/delivery/cali-cannabis-care-2", {data:[{}],fetch:{},mutations:[]});

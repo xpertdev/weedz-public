@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/winthrop/dispensary/homegrown-healthcare", {data:[{}],fetch:{},mutations:[]});

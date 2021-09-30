@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/mountain-view/dispensary/mwc", {data:[{}],fetch:{},mutations:[]});

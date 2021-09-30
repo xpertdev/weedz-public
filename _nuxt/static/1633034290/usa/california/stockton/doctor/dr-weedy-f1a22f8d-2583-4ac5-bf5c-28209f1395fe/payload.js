@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/doctor/dr-weedy-f1a22f8d-2583-4ac5-bf5c-28209f1395fe", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/old-orchard-beach/dispensary/beach-boys-cannabis-company-oob", {data:[{}],fetch:{},mutations:[]});

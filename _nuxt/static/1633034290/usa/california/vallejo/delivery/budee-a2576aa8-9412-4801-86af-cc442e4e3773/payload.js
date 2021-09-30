@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/delivery/budee-a2576aa8-9412-4801-86af-cc442e4e3773", {data:[{}],fetch:{},mutations:[]});

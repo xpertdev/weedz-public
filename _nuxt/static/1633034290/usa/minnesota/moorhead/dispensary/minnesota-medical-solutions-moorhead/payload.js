@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/moorhead/dispensary/minnesota-medical-solutions-moorhead", {data:[{}],fetch:{},mutations:[]});

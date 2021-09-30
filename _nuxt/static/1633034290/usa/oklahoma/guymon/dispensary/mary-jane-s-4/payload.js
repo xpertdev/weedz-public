@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/guymon/dispensary/mary-jane-s-4", {data:[{}],fetch:{},mutations:[]});

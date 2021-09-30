@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/apollo-beach/doctor/compassionate-medical-cannabis-care", {data:[{}],fetch:{},mutations:[]});

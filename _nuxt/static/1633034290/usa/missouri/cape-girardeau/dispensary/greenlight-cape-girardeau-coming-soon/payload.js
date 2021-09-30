@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/cape-girardeau/dispensary/greenlight-cape-girardeau-coming-soon", {data:[{}],fetch:{},mutations:[]});

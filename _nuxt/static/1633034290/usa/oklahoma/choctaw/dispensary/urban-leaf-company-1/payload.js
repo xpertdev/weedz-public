@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/choctaw/dispensary/urban-leaf-company-1", {data:[{}],fetch:{},mutations:[]});

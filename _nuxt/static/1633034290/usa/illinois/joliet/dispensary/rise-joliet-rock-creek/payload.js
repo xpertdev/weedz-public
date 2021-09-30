@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/joliet/dispensary/rise-joliet-rock-creek", {data:[{}],fetch:{},mutations:[]});

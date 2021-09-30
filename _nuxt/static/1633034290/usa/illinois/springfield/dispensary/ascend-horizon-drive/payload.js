@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/springfield/dispensary/ascend-horizon-drive", {data:[{}],fetch:{},mutations:[]});

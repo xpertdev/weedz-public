@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucaipa/delivery/wings-of-wellness-county-line-2", {data:[{}],fetch:{},mutations:[]});

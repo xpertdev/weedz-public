@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/leadville/dispensary/floyds-of-leadville-2", {data:[{}],fetch:{},mutations:[]});

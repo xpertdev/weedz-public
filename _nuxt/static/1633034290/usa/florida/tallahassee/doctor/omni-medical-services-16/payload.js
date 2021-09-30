@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tallahassee/doctor/omni-medical-services-16", {data:[{}],fetch:{},mutations:[]});

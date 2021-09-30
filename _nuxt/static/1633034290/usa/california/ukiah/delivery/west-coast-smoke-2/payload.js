@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ukiah/delivery/west-coast-smoke-2", {data:[{}],fetch:{},mutations:[]});

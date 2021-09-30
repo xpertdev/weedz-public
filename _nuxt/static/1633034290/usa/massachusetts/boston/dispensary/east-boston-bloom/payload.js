@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/boston/dispensary/east-boston-bloom", {data:[{}],fetch:{},mutations:[]});

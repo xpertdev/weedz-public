@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/frederick/dispensary/gleaf-frederick", {data:[{}],fetch:{},mutations:[]});

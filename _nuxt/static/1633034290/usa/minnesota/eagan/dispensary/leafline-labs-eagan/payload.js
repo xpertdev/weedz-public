@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/eagan/dispensary/leafline-labs-eagan", {data:[{}],fetch:{},mutations:[]});

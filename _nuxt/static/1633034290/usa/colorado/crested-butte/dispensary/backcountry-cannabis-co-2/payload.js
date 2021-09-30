@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/crested-butte/dispensary/backcountry-cannabis-co-2", {data:[{}],fetch:{},mutations:[]});

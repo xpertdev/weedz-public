@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lexington/dispensary/the-cannabis-outlet-2", {data:[{}],fetch:{},mutations:[]});

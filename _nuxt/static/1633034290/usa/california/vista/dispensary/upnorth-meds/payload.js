@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/dispensary/upnorth-meds", {data:[{}],fetch:{},mutations:[]});

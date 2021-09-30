@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manteca/delivery/high-times-delivery-manteca", {data:[{}],fetch:{},mutations:[]});

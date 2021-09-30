@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/seaside/dispensary/canna-beach-junction", {data:[{}],fetch:{},mutations:[]});

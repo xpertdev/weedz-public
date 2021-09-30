@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moreno-valley/delivery/shango-moreno-valley", {data:[{}],fetch:{},mutations:[]});

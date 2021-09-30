@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tehachapi/delivery/royal-apothecary-6", {data:[{}],fetch:{},mutations:[]});

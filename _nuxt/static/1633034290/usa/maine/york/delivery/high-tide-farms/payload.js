@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/york/delivery/high-tide-farms", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-barbara/doctor/online-medical-cards-50", {data:[{}],fetch:{},mutations:[]});

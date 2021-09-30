@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/walnutport/doctor/dr-thomas-yablonski", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/collinsville/dispensary/master-of-buds", {data:[{}],fetch:{},mutations:[]});

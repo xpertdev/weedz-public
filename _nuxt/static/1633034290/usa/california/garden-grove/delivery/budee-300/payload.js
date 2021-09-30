@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/garden-grove/delivery/budee-300", {data:[{}],fetch:{},mutations:[]});

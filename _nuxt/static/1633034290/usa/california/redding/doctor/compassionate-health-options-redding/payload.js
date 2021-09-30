@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redding/doctor/compassionate-health-options-redding", {data:[{}],fetch:{},mutations:[]});

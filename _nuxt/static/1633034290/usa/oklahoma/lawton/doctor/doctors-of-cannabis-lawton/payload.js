@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/doctor/doctors-of-cannabis-lawton", {data:[{}],fetch:{},mutations:[]});

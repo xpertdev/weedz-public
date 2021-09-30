@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/cannon-beach/dispensary/bahama-buds-cannon-beach", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/molalla/dispensary/today-s-herbal-choice", {data:[{}],fetch:{},mutations:[]});

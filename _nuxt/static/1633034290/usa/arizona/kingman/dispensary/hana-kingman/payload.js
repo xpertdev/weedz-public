@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/kingman/dispensary/hana-kingman", {data:[{}],fetch:{},mutations:[]});

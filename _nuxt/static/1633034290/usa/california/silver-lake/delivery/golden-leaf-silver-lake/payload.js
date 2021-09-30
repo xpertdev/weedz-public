@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/silver-lake/delivery/golden-leaf-silver-lake", {data:[{}],fetch:{},mutations:[]});

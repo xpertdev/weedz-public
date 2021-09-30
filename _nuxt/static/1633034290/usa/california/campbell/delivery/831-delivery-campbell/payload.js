@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/campbell/delivery/831-delivery-campbell", {data:[{}],fetch:{},mutations:[]});

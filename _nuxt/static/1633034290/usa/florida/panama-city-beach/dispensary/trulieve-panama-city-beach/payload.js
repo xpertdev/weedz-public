@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/panama-city-beach/dispensary/trulieve-panama-city-beach", {data:[{}],fetch:{},mutations:[]});

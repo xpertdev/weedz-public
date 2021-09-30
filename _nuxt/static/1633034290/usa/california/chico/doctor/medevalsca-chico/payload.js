@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chico/doctor/medevalsca-chico", {data:[{}],fetch:{},mutations:[]});

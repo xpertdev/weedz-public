@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/lebanon/dispensary/la-mota-lebanon", {data:[{}],fetch:{},mutations:[]});

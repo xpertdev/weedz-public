@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/truth-or-consequences/dispensary/mj-express-o-t-c", {data:[{}],fetch:{},mutations:[]});

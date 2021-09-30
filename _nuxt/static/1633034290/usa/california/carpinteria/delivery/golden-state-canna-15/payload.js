@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/carpinteria/delivery/golden-state-canna-15", {data:[{}],fetch:{},mutations:[]});

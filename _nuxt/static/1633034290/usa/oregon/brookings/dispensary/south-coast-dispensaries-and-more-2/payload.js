@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/brookings/dispensary/south-coast-dispensaries-and-more-2", {data:[{}],fetch:{},mutations:[]});

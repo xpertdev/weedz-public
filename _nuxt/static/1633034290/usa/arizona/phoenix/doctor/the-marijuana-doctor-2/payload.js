@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/doctor/the-marijuana-doctor-2", {data:[{}],fetch:{},mutations:[]});

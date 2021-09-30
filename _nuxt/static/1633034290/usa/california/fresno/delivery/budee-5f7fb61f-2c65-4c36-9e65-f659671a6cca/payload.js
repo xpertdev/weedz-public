@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/delivery/budee-5f7fb61f-2c65-4c36-9e65-f659671a6cca", {data:[{}],fetch:{},mutations:[]});

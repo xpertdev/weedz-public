@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/salinas/delivery/sticky-thumb-831-1", {data:[{}],fetch:{},mutations:[]});

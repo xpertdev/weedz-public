@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/brookland/dispensary/nea-full-spectrum", {data:[{}],fetch:{},mutations:[]});

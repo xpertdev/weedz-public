@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/aliso-viejo-laguna-niguel/delivery/kushagram-136", {data:[{}],fetch:{},mutations:[]});

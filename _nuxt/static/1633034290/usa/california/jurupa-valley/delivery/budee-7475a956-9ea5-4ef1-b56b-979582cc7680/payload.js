@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/jurupa-valley/delivery/budee-7475a956-9ea5-4ef1-b56b-979582cc7680", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/patterson/delivery/supply-co-patterson", {data:[{}],fetch:{},mutations:[]});

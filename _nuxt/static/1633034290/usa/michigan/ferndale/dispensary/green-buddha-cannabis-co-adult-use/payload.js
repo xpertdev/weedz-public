@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ferndale/dispensary/green-buddha-cannabis-co-adult-use", {data:[{}],fetch:{},mutations:[]});

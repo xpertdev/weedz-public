@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/richmond/dispensary/friend-jen-co-2", {data:[{}],fetch:{},mutations:[]});

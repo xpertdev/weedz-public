@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oxnard/delivery/flowers-and-flavors-2", {data:[{}],fetch:{},mutations:[]});

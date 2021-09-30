@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arden-arcade/delivery/fresh-mint-5", {data:[{}],fetch:{},mutations:[]});

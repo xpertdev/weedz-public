@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pauls-valley/dispensary/bud-brothers-coughy-shop-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/liv-collectiv-14", {data:[{}],fetch:{},mutations:[]});

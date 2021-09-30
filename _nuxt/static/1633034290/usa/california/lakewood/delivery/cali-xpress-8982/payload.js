@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakewood/delivery/cali-xpress-8982", {data:[{}],fetch:{},mutations:[]});

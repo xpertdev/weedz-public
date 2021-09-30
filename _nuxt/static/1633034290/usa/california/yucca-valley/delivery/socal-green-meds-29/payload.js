@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucca-valley/delivery/socal-green-meds-29", {data:[{}],fetch:{},mutations:[]});

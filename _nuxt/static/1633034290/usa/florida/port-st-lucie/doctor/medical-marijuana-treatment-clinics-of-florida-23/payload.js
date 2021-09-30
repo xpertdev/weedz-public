@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-st-lucie/doctor/medical-marijuana-treatment-clinics-of-florida-23", {data:[{}],fetch:{},mutations:[]});

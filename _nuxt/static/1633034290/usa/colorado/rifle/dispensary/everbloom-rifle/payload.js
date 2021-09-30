@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/rifle/dispensary/everbloom-rifle", {data:[{}],fetch:{},mutations:[]});

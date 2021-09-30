@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/soap-lake/dispensary/2020-solutions-soap-lake", {data:[{}],fetch:{},mutations:[]});

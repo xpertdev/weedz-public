@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bartlesville/dispensary/sticky-nickel", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/amesbury/dispensary/cna-stores-inc-1", {data:[{}],fetch:{},mutations:[]});

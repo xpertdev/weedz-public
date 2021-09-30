@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ormond-beach/doctor/coastal-wellness-centers", {data:[{}],fetch:{},mutations:[]});

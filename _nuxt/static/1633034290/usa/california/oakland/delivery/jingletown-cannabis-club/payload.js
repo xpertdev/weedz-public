@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/jingletown-cannabis-club", {data:[{}],fetch:{},mutations:[]});

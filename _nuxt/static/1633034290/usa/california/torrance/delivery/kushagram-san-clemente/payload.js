@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/torrance/delivery/kushagram-san-clemente", {data:[{}],fetch:{},mutations:[]});

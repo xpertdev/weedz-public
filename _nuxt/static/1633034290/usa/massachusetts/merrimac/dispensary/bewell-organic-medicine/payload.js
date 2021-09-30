@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/merrimac/dispensary/bewell-organic-medicine", {data:[{}],fetch:{},mutations:[]});

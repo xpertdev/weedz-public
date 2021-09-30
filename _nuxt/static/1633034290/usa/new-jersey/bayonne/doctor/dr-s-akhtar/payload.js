@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/bayonne/doctor/dr-s-akhtar", {data:[{}],fetch:{},mutations:[]});

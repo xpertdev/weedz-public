@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/morenci/dispensary/michigan-supply-provisions-recreational", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/reading/dispensary/beyond-hello-7", {data:[{}],fetch:{},mutations:[]});

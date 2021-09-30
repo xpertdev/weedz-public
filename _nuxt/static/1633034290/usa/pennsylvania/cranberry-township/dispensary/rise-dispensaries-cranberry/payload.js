@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/cranberry-township/dispensary/rise-dispensaries-cranberry", {data:[{}],fetch:{},mutations:[]});

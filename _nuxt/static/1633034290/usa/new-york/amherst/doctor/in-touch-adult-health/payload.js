@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/amherst/doctor/in-touch-adult-health", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/dublin/delivery/cannablue-delivery", {data:[{}],fetch:{},mutations:[]});

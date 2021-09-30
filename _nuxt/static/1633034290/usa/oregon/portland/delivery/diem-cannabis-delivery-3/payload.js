@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/delivery/diem-cannabis-delivery-3", {data:[{}],fetch:{},mutations:[]});

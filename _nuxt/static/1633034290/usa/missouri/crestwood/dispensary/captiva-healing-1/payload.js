@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/crestwood/dispensary/captiva-healing-1", {data:[{}],fetch:{},mutations:[]});

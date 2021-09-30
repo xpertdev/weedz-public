@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/white-bear-lake/doctor/liv-on-family-care", {data:[{}],fetch:{},mutations:[]});

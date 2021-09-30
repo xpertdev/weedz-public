@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/big-bear-lake/delivery/mcec-6", {data:[{}],fetch:{},mutations:[]});

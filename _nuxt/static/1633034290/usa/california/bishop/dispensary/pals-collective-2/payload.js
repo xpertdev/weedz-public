@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bishop/dispensary/pals-collective-2", {data:[{}],fetch:{},mutations:[]});

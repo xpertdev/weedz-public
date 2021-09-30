@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/dispensary/the-station-4", {data:[{}],fetch:{},mutations:[]});

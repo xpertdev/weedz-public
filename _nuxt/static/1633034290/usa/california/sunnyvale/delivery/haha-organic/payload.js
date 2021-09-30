@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sunnyvale/delivery/haha-organic", {data:[{}],fetch:{},mutations:[]});

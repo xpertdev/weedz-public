@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fallbrook/doctor/paula-b-shore-d-o-beach-cities-alternative-medicine-and-natural-healing", {data:[{}],fetch:{},mutations:[]});

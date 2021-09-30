@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/high-times-delivery-anaheim", {data:[{}],fetch:{},mutations:[]});

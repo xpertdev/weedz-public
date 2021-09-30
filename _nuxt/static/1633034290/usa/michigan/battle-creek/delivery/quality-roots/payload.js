@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/battle-creek/delivery/quality-roots", {data:[{}],fetch:{},mutations:[]});

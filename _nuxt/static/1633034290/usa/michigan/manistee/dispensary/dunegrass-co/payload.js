@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/manistee/dispensary/dunegrass-co", {data:[{}],fetch:{},mutations:[]});

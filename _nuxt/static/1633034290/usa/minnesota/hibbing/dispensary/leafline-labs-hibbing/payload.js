@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/hibbing/dispensary/leafline-labs-hibbing", {data:[{}],fetch:{},mutations:[]});

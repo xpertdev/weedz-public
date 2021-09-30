@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/nicoma-park/dispensary/lotus-gold-choctaw", {data:[{}],fetch:{},mutations:[]});

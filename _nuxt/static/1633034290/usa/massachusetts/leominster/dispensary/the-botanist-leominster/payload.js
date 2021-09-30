@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/leominster/dispensary/the-botanist-leominster", {data:[{}],fetch:{},mutations:[]});

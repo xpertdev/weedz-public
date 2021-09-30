@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lansing/dispensary/old-27-wellness-2", {data:[{}],fetch:{},mutations:[]});

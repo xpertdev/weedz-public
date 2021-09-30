@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muldrow/dispensary/peace-pipe-bros-muldrow", {data:[{}],fetch:{},mutations:[]});

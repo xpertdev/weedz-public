@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/ontario/dispensary/treasure-valley-cannabis-company", {data:[{}],fetch:{},mutations:[]});

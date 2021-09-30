@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/st-charles/dispensary/zen-leaf-il-st-charles", {data:[{}],fetch:{},mutations:[]});

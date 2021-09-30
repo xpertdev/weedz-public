@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/montville/doctor/fnp-alternative-medicine", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/petaluma/dispensary/down-under-industry", {data:[{}],fetch:{},mutations:[]});

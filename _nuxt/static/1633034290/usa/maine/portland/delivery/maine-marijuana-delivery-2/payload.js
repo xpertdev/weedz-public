@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/delivery/maine-marijuana-delivery-2", {data:[{}],fetch:{},mutations:[]});

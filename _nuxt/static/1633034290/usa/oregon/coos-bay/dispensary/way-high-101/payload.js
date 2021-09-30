@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/coos-bay/dispensary/way-high-101", {data:[{}],fetch:{},mutations:[]});

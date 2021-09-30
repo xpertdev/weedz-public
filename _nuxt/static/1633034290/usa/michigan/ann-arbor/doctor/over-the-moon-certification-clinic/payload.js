@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/doctor/over-the-moon-certification-clinic", {data:[{}],fetch:{},mutations:[]});

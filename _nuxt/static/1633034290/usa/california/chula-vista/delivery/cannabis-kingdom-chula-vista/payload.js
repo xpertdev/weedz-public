@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista/delivery/cannabis-kingdom-chula-vista", {data:[{}],fetch:{},mutations:[]});

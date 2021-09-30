@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/los-lunas/dispensary/everest-apothecary-2", {data:[{}],fetch:{},mutations:[]});

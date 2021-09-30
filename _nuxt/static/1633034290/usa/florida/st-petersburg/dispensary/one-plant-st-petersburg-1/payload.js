@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/st-petersburg/dispensary/one-plant-st-petersburg-1", {data:[{}],fetch:{},mutations:[]});

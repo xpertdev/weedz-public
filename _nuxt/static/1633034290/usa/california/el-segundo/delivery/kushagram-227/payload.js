@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-segundo/delivery/kushagram-227", {data:[{}],fetch:{},mutations:[]});

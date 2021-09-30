@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/wenatchee/dispensary/green-life-cannabis", {data:[{}],fetch:{},mutations:[]});

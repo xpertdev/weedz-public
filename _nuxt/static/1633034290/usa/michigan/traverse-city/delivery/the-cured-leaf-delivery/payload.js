@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/traverse-city/delivery/the-cured-leaf-delivery", {data:[{}],fetch:{},mutations:[]});

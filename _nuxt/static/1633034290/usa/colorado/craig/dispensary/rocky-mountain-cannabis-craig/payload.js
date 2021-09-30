@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/craig/dispensary/rocky-mountain-cannabis-craig", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/oregon-bud-company-cesar-chavez-portland-1", {data:[{}],fetch:{},mutations:[]});

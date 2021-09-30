@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/gainesville/doctor/medical-marijuana-treatment-centers-of-florida-183c3c8f-ba07-45a5-b8dd-dd78589de03d", {data:[{}],fetch:{},mutations:[]});

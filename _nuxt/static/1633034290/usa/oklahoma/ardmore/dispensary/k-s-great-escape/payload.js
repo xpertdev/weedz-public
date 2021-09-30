@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ardmore/dispensary/k-s-great-escape", {data:[{}],fetch:{},mutations:[]});

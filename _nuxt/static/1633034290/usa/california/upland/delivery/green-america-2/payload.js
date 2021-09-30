@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/upland/delivery/green-america-2", {data:[{}],fetch:{},mutations:[]});

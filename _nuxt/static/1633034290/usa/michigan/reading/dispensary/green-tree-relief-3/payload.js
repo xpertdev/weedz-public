@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/reading/dispensary/green-tree-relief-3", {data:[{}],fetch:{},mutations:[]});

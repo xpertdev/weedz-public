@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-lauderdale/dispensary/medmen-coral-shores", {data:[{}],fetch:{},mutations:[]});

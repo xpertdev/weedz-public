@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/muskegon/dispensary/sozo-muskegon", {data:[{}],fetch:{},mutations:[]});

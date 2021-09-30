@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/gotreez-arden-arcade-carmichael-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/delivery/paris-cannabis-delivery-long-beach", {data:[{}],fetch:{},mutations:[]});

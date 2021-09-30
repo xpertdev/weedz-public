@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tustin/doctor/arturo-portales-do", {data:[{}],fetch:{},mutations:[]});

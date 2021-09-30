@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/coos-bay/dispensary/positive-vibrations-2", {data:[{}],fetch:{},mutations:[]});

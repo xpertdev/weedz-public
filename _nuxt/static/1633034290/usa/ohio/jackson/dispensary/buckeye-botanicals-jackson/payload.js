@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/jackson/dispensary/buckeye-botanicals-jackson", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/longview/dispensary/better-buds-2-7", {data:[{}],fetch:{},mutations:[]});

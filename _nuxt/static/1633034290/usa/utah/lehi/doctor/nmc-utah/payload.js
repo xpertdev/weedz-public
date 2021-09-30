@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/utah/lehi/doctor/nmc-utah", {data:[{}],fetch:{},mutations:[]});

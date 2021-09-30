@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/collinsville/dispensary/hci-alternatives", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/culver-city/delivery/nug-avenue-36", {data:[{}],fetch:{},mutations:[]});

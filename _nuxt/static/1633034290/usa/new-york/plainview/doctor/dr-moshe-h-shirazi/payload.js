@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/plainview/doctor/dr-moshe-h-shirazi", {data:[{}],fetch:{},mutations:[]});

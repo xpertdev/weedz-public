@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo-west/dispensary/cannasseur", {data:[{}],fetch:{},mutations:[]});

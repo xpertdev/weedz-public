@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/salida/dispensary/tenderfoot-health-collective", {data:[{}],fetch:{},mutations:[]});

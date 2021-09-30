@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/torrance/delivery/paris-cannabis-delivery-torrance", {data:[{}],fetch:{},mutations:[]});

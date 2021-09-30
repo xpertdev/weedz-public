@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/addison/dispensary/hatch", {data:[{}],fetch:{},mutations:[]});

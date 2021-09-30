@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ventura/delivery/iheartcannabis-us-2", {data:[{}],fetch:{},mutations:[]});

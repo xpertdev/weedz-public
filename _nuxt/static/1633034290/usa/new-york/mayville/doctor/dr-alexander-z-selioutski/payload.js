@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/mayville/doctor/dr-alexander-z-selioutski", {data:[{}],fetch:{},mutations:[]});

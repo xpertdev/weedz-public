@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/brandon/doctor/tetra-health-centers-2", {data:[{}],fetch:{},mutations:[]});

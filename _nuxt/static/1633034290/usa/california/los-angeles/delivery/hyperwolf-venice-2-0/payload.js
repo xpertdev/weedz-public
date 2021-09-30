@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/hyperwolf-venice-2-0", {data:[{}],fetch:{},mutations:[]});

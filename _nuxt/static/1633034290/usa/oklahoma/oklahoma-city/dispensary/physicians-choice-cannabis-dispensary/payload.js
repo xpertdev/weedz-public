@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/physicians-choice-cannabis-dispensary", {data:[{}],fetch:{},mutations:[]});

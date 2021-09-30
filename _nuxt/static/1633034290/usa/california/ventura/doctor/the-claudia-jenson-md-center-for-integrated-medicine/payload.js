@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ventura/doctor/the-claudia-jenson-md-center-for-integrated-medicine", {data:[{}],fetch:{},mutations:[]});

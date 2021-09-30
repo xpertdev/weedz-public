@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/gainesville/doctor/docmj-25", {data:[{}],fetch:{},mutations:[]});

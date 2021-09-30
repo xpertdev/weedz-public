@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/bingen/dispensary/margie-s-pot-shop-recreational", {data:[{}],fetch:{},mutations:[]});

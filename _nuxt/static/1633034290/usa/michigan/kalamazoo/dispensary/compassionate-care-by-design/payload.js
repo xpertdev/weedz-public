@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/kalamazoo/dispensary/compassionate-care-by-design", {data:[{}],fetch:{},mutations:[]});

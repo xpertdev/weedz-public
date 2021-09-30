@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/norwalk/delivery/kushagram-norwalk", {data:[{}],fetch:{},mutations:[]});

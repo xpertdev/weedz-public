@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/west-detroit/dispensary/liv-ferndale", {data:[{}],fetch:{},mutations:[]});

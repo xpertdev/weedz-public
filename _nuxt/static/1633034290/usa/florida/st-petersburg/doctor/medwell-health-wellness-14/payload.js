@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/st-petersburg/doctor/medwell-health-wellness-14", {data:[{}],fetch:{},mutations:[]});

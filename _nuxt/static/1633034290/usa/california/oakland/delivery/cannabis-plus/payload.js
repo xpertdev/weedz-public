@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/cannabis-plus", {data:[{}],fetch:{},mutations:[]});

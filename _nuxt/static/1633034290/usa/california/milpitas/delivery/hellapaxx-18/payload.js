@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/milpitas/delivery/hellapaxx-18", {data:[{}],fetch:{},mutations:[]});

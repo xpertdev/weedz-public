@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/westminster/doctor/mmj-exams-of-colorado-2", {data:[{}],fetch:{},mutations:[]});

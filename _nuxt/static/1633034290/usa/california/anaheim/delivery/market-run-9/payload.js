@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/market-run-9", {data:[{}],fetch:{},mutations:[]});

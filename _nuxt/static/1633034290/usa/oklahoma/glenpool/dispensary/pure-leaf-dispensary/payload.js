@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/glenpool/dispensary/pure-leaf-dispensary", {data:[{}],fetch:{},mutations:[]});

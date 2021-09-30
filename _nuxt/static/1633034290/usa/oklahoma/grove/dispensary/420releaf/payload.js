@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/grove/dispensary/420releaf", {data:[{}],fetch:{},mutations:[]});

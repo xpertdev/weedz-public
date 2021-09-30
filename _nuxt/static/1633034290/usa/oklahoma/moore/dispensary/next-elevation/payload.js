@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/next-elevation", {data:[{}],fetch:{},mutations:[]});

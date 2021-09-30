@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/davenport/dispensary/molecule-cannabis", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/og-collective-dispensary", {data:[{}],fetch:{},mutations:[]});

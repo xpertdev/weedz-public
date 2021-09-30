@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/delivery/brickhouse-cannasseurs", {data:[{}],fetch:{},mutations:[]});

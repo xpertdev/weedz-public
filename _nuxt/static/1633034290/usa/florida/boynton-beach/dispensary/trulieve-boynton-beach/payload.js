@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/boynton-beach/dispensary/trulieve-boynton-beach", {data:[{}],fetch:{},mutations:[]});

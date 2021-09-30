@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yuba/delivery/the-re-up-12", {data:[{}],fetch:{},mutations:[]});

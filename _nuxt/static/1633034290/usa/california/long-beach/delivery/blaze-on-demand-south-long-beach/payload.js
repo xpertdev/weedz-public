@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/delivery/blaze-on-demand-south-long-beach", {data:[{}],fetch:{},mutations:[]});

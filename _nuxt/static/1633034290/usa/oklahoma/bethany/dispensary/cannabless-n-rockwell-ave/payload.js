@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/cannabless-n-rockwell-ave", {data:[{}],fetch:{},mutations:[]});

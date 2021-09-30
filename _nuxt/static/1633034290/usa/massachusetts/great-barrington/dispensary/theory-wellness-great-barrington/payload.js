@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/great-barrington/dispensary/theory-wellness-great-barrington", {data:[{}],fetch:{},mutations:[]});

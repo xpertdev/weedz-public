@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chowchilla/delivery/budee-256", {data:[{}],fetch:{},mutations:[]});

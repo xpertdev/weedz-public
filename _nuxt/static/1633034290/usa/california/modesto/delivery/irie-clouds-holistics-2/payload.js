@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/modesto/delivery/irie-clouds-holistics-2", {data:[{}],fetch:{},mutations:[]});

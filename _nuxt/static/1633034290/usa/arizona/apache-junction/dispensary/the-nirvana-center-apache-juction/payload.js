@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/apache-junction/dispensary/the-nirvana-center-apache-juction", {data:[{}],fetch:{},mutations:[]});

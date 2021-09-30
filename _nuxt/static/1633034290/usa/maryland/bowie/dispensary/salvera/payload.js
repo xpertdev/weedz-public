@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/bowie/dispensary/salvera", {data:[{}],fetch:{},mutations:[]});

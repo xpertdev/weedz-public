@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lansing/dispensary/jars-lansing", {data:[{}],fetch:{},mutations:[]});

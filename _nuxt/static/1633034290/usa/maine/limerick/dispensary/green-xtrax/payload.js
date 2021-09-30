@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/limerick/dispensary/green-xtrax", {data:[{}],fetch:{},mutations:[]});

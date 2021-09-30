@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/toledo/doctor/chronic-releaf-certification-center", {data:[{}],fetch:{},mutations:[]});

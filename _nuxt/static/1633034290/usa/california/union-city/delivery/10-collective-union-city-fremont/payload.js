@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/union-city/delivery/10-collective-union-city-fremont", {data:[{}],fetch:{},mutations:[]});

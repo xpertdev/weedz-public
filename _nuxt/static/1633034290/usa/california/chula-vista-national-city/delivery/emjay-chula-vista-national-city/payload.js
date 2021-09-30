@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista-national-city/delivery/emjay-chula-vista-national-city", {data:[{}],fetch:{},mutations:[]});

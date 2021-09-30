@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/spiro/dispensary/space-haven", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/grove/dispensary/the-ccc-of-grove", {data:[{}],fetch:{},mutations:[]});

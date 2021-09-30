@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/atoka/dispensary/the-cannabis-cure", {data:[{}],fetch:{},mutations:[]});

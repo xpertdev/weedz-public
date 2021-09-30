@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/hardin/dispensary/bloom-hardin", {data:[{}],fetch:{},mutations:[]});

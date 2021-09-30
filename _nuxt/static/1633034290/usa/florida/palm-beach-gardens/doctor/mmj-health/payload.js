@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/palm-beach-gardens/doctor/mmj-health", {data:[{}],fetch:{},mutations:[]});

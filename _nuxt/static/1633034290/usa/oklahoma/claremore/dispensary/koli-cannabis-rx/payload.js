@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/claremore/dispensary/koli-cannabis-rx", {data:[{}],fetch:{},mutations:[]});

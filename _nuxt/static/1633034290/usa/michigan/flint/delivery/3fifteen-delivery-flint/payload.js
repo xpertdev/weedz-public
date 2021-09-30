@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/flint/delivery/3fifteen-delivery-flint", {data:[{}],fetch:{},mutations:[]});

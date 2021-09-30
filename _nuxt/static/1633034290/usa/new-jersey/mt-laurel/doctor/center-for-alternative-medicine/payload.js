@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/mt-laurel/doctor/center-for-alternative-medicine", {data:[{}],fetch:{},mutations:[]});

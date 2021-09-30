@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/mokena/dispensary/greenhouse-mokena", {data:[{}],fetch:{},mutations:[]});

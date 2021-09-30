@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/shingle-springs/dispensary/river-city-wellness", {data:[{}],fetch:{},mutations:[]});

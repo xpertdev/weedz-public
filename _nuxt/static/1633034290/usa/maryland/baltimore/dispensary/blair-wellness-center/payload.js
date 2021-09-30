@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/baltimore/dispensary/blair-wellness-center", {data:[{}],fetch:{},mutations:[]});

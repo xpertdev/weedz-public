@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/higher-grade-65e975e6-82cb-4c6d-beec-1b3ced996bd1", {data:[{}],fetch:{},mutations:[]});

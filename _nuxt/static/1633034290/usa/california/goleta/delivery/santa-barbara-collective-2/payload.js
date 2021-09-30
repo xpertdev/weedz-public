@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/goleta/delivery/santa-barbara-collective-2", {data:[{}],fetch:{},mutations:[]});

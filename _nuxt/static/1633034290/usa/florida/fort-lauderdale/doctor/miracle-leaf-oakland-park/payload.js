@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-lauderdale/doctor/miracle-leaf-oakland-park", {data:[{}],fetch:{},mutations:[]});

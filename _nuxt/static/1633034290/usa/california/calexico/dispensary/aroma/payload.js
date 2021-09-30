@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/calexico/dispensary/aroma", {data:[{}],fetch:{},mutations:[]});

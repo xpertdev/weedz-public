@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/livwell-pearl-st-recreational", {data:[{}],fetch:{},mutations:[]});

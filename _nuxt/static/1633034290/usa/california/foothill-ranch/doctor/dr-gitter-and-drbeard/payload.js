@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/foothill-ranch/doctor/dr-gitter-and-drbeard", {data:[{}],fetch:{},mutations:[]});

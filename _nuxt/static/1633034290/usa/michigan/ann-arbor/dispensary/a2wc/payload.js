@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/dispensary/a2wc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alhambra-rosemead-el-monte/delivery/budee-69952262-af92-4381-b054-fb288a843e5d", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/sherwood/dispensary/natural-relief-dispensary", {data:[{}],fetch:{},mutations:[]});

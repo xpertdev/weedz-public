@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/oakland-county/delivery/house-of-dank-8-mile-delivery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/mesa/dispensary/the-good-dispensary-mesa-az", {data:[{}],fetch:{},mutations:[]});

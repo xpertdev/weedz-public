@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arcadia/delivery/canex-delivery-36", {data:[{}],fetch:{},mutations:[]});

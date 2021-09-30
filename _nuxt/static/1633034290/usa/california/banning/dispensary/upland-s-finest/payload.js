@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/banning/dispensary/upland-s-finest", {data:[{}],fetch:{},mutations:[]});

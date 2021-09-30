@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/shasta-lake/dispensary/perfect-union-shasta", {data:[{}],fetch:{},mutations:[]});

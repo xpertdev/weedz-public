@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-rosa/delivery/cannacraft-direct", {data:[{}],fetch:{},mutations:[]});

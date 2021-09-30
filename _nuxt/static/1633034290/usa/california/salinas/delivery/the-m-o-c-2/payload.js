@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/salinas/delivery/the-m-o-c-2", {data:[{}],fetch:{},mutations:[]});

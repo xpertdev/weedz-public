@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sapulpa/dispensary/d-luxe-dispensary", {data:[{}],fetch:{},mutations:[]});

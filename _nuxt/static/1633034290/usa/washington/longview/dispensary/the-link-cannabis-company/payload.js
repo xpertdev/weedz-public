@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/longview/dispensary/the-link-cannabis-company", {data:[{}],fetch:{},mutations:[]});

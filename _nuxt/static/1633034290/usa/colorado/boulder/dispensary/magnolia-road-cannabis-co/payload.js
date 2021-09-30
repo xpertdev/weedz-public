@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/dispensary/magnolia-road-cannabis-co", {data:[{}],fetch:{},mutations:[]});

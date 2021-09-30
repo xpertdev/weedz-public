@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/sprague/dispensary/green2go-recreational-cannabis", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/poland/delivery/west-s-family-farm", {data:[{}],fetch:{},mutations:[]});

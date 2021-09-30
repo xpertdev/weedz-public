@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muskogee/dispensary/big-cheef-dispensary-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/dispensary/liberty-health-sciences-cannabis-miami", {data:[{}],fetch:{},mutations:[]});

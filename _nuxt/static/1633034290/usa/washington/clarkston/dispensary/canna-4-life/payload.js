@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/clarkston/dispensary/canna-4-life", {data:[{}],fetch:{},mutations:[]});

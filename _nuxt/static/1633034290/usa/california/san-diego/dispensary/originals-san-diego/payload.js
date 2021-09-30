@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/originals-san-diego", {data:[{}],fetch:{},mutations:[]});

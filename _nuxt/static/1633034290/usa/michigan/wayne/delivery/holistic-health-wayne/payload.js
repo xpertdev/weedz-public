@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/wayne/delivery/holistic-health-wayne", {data:[{}],fetch:{},mutations:[]});

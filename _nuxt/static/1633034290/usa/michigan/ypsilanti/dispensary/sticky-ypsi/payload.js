@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/dispensary/sticky-ypsi", {data:[{}],fetch:{},mutations:[]});

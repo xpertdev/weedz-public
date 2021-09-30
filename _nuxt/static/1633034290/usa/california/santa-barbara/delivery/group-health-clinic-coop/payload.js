@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-barbara/delivery/group-health-clinic-coop", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-long-beach-belmont-shore/delivery/caliva-delivery-17", {data:[{}],fetch:{},mutations:[]});

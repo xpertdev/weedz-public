@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bay-city/dispensary/lume-cannabis-co-3", {data:[{}],fetch:{},mutations:[]});

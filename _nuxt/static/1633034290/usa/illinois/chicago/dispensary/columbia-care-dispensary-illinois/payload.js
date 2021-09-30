@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago/dispensary/columbia-care-dispensary-illinois", {data:[{}],fetch:{},mutations:[]});

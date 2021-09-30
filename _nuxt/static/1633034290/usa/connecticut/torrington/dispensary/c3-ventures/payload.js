@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/torrington/dispensary/c3-ventures", {data:[{}],fetch:{},mutations:[]});

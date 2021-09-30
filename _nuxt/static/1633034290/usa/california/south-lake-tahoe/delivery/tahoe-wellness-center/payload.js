@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-lake-tahoe/delivery/tahoe-wellness-center", {data:[{}],fetch:{},mutations:[]});

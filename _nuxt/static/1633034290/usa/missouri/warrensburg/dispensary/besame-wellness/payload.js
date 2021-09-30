@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/warrensburg/dispensary/besame-wellness", {data:[{}],fetch:{},mutations:[]});

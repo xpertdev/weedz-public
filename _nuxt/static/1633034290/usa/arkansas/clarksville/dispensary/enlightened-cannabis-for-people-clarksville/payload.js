@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/clarksville/dispensary/enlightened-cannabis-for-people-clarksville", {data:[{}],fetch:{},mutations:[]});

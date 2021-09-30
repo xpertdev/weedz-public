@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago/dispensary/moca-modern-cannabis-river-north", {data:[{}],fetch:{},mutations:[]});

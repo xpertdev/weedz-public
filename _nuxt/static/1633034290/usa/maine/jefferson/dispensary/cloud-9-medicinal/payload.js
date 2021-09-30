@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/jefferson/dispensary/cloud-9-medicinal", {data:[{}],fetch:{},mutations:[]});

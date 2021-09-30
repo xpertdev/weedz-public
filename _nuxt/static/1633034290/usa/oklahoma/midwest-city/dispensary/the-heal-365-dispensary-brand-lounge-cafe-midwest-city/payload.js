@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/the-heal-365-dispensary-brand-lounge-cafe-midwest-city", {data:[{}],fetch:{},mutations:[]});

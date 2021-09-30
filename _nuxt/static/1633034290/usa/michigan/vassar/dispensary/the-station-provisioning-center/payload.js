@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/vassar/dispensary/the-station-provisioning-center", {data:[{}],fetch:{},mutations:[]});

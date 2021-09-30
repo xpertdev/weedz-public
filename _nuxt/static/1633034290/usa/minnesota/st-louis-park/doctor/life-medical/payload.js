@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/st-louis-park/doctor/life-medical", {data:[{}],fetch:{},mutations:[]});

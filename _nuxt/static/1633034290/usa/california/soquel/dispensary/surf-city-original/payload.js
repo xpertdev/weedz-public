@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/soquel/dispensary/surf-city-original", {data:[{}],fetch:{},mutations:[]});

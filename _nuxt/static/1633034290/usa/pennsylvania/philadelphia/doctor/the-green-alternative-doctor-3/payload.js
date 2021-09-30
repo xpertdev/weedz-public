@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/doctor/the-green-alternative-doctor-3", {data:[{}],fetch:{},mutations:[]});

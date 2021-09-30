@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/spiro/dispensary/judy-s-place-green-re-leaf-1", {data:[{}],fetch:{},mutations:[]});

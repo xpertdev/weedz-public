@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/hcma-nc-co-op-delivery-32", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/santa-fe/dispensary/ultra-health-santa-fe", {data:[{}],fetch:{},mutations:[]});

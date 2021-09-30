@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/minco/dispensary/everything-green", {data:[{}],fetch:{},mutations:[]});

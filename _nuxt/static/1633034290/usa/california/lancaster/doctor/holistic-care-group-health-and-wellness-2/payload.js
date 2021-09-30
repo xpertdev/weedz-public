@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lancaster/doctor/holistic-care-group-health-and-wellness-2", {data:[{}],fetch:{},mutations:[]});

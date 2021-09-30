@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lee-vining/dispensary/tioga-green", {data:[{}],fetch:{},mutations:[]});

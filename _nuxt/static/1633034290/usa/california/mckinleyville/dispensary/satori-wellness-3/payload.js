@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mckinleyville/dispensary/satori-wellness-3", {data:[{}],fetch:{},mutations:[]});

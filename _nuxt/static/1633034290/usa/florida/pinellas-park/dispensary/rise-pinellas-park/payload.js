@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/pinellas-park/dispensary/rise-pinellas-park", {data:[{}],fetch:{},mutations:[]});

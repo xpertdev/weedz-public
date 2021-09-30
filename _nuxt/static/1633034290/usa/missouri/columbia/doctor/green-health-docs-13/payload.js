@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/columbia/doctor/green-health-docs-13", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/carbondale/dispensary/rocky-mountain-high-carbondale-colomed-center", {data:[{}],fetch:{},mutations:[]});

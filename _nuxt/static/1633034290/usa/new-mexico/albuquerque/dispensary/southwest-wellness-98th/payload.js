@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/southwest-wellness-98th", {data:[{}],fetch:{},mutations:[]});

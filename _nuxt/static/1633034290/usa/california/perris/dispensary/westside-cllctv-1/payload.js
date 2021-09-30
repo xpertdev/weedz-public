@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/perris/dispensary/westside-cllctv-1", {data:[{}],fetch:{},mutations:[]});

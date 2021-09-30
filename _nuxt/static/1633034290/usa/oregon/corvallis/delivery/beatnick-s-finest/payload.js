@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/corvallis/delivery/beatnick-s-finest", {data:[{}],fetch:{},mutations:[]});

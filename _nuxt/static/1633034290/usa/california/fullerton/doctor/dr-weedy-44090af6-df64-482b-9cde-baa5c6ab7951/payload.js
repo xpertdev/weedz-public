@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fullerton/doctor/dr-weedy-44090af6-df64-482b-9cde-baa5c6ab7951", {data:[{}],fetch:{},mutations:[]});

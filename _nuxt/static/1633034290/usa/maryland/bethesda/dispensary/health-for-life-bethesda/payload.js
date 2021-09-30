@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/bethesda/dispensary/health-for-life-bethesda", {data:[{}],fetch:{},mutations:[]});

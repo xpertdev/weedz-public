@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/field-of-dreams", {data:[{}],fetch:{},mutations:[]});

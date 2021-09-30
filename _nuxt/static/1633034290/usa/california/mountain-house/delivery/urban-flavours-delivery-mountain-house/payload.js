@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mountain-house/delivery/urban-flavours-delivery-mountain-house", {data:[{}],fetch:{},mutations:[]});

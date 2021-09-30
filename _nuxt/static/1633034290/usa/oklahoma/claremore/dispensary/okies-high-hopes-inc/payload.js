@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/claremore/dispensary/okies-high-hopes-inc", {data:[{}],fetch:{},mutations:[]});

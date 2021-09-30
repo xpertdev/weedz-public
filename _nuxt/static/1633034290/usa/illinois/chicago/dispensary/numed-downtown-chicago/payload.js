@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago/dispensary/numed-downtown-chicago", {data:[{}],fetch:{},mutations:[]});

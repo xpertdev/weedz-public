@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/puyallup/dispensary/northwest-cannabis-connection", {data:[{}],fetch:{},mutations:[]});

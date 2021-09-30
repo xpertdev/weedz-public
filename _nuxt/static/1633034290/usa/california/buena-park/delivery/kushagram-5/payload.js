@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/buena-park/delivery/kushagram-5", {data:[{}],fetch:{},mutations:[]});

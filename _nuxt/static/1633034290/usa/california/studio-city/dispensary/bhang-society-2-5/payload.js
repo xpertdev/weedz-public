@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/studio-city/dispensary/bhang-society-2-5", {data:[{}],fetch:{},mutations:[]});

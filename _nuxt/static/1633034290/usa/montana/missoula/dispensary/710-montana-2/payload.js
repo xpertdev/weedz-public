@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/dispensary/710-montana-2", {data:[{}],fetch:{},mutations:[]});

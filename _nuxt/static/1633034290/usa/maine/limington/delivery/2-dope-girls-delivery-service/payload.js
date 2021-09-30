@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/limington/delivery/2-dope-girls-delivery-service", {data:[{}],fetch:{},mutations:[]});

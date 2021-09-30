@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/doctor/alternative-medical-clinic-of-tulsa-2", {data:[{}],fetch:{},mutations:[]});

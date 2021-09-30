@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/flint/dispensary/light-n-up-provisioning", {data:[{}],fetch:{},mutations:[]});

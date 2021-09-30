@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/bradford/dispensary/herbology-bradford", {data:[{}],fetch:{},mutations:[]});

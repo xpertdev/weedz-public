@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/native-remedy-3", {data:[{}],fetch:{},mutations:[]});

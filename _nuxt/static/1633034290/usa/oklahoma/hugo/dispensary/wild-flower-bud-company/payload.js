@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hugo/dispensary/wild-flower-bud-company", {data:[{}],fetch:{},mutations:[]});

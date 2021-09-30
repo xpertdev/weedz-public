@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/gunnison/dispensary/frosty-leaf-3", {data:[{}],fetch:{},mutations:[]});

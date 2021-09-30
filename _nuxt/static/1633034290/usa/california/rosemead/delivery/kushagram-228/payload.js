@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rosemead/delivery/kushagram-228", {data:[{}],fetch:{},mutations:[]});

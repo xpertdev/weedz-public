@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/lakeside-remedy-2", {data:[{}],fetch:{},mutations:[]});

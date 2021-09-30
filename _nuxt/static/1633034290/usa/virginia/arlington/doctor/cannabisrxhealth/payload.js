@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/virginia/arlington/doctor/cannabisrxhealth", {data:[{}],fetch:{},mutations:[]});

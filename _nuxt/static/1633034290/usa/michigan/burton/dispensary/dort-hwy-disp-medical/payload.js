@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/burton/dispensary/dort-hwy-disp-medical", {data:[{}],fetch:{},mutations:[]});

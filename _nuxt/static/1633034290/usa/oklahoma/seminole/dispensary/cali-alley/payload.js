@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/seminole/dispensary/cali-alley", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/allentown/doctor/green-health-consulting-llc", {data:[{}],fetch:{},mutations:[]});

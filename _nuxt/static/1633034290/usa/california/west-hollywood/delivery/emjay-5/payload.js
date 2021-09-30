@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-hollywood/delivery/emjay-5", {data:[{}],fetch:{},mutations:[]});

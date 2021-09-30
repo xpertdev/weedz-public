@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/enid/dispensary/dugout-mmj-dispensary", {data:[{}],fetch:{},mutations:[]});

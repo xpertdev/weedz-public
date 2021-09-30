@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/clovis/delivery/california-cannabis-co-2", {data:[{}],fetch:{},mutations:[]});

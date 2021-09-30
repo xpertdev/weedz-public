@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/bloom-phoenix-dispensary", {data:[{}],fetch:{},mutations:[]});

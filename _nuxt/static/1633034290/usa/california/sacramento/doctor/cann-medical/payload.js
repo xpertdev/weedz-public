@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/doctor/cann-medical", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-mateo/delivery/urban-flavours-delivery-san-mateo", {data:[{}],fetch:{},mutations:[]});

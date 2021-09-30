@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/wheatridge/dispensary/options-medical-center-2-3", {data:[{}],fetch:{},mutations:[]});

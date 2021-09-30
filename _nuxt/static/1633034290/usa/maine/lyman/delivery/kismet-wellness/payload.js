@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lyman/delivery/kismet-wellness", {data:[{}],fetch:{},mutations:[]});

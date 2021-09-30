@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/old-orchard-beach/dispensary/207-pick-up-spot", {data:[{}],fetch:{},mutations:[]});

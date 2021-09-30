@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lake-forest/delivery/golden-gram-10", {data:[{}],fetch:{},mutations:[]});

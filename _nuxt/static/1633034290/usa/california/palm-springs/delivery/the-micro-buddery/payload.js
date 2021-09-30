@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/delivery/the-micro-buddery", {data:[{}],fetch:{},mutations:[]});

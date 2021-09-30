@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/colorado-cannabis-connection", {data:[{}],fetch:{},mutations:[]});

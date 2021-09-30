@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/roseville/delivery/potkings-5", {data:[{}],fetch:{},mutations:[]});

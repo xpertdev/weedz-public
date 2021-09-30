@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/mesa/doctor/canna-releaf", {data:[{}],fetch:{},mutations:[]});

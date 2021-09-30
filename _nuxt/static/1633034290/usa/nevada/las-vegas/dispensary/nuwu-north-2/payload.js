@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/dispensary/nuwu-north-2", {data:[{}],fetch:{},mutations:[]});

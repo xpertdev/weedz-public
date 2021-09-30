@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/dispensary/rise-dispensaries-kendall", {data:[{}],fetch:{},mutations:[]});

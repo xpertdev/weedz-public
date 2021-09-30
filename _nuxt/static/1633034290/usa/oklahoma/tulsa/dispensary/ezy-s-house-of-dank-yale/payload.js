@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/ezy-s-house-of-dank-yale", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/damascus/dispensary/green-apple-n-w", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/hyperwolf-costa-mesa", {data:[{}],fetch:{},mutations:[]});

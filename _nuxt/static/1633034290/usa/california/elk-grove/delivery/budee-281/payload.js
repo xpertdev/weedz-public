@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/budee-281", {data:[{}],fetch:{},mutations:[]});

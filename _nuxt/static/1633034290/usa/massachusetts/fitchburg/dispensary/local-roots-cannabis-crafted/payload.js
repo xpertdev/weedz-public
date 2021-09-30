@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/fitchburg/dispensary/local-roots-cannabis-crafted", {data:[{}],fetch:{},mutations:[]});

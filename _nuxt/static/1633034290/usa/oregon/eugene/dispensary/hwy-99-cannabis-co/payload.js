@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/hwy-99-cannabis-co", {data:[{}],fetch:{},mutations:[]});

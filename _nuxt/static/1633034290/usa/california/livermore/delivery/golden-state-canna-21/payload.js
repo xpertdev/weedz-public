@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/livermore/delivery/golden-state-canna-21", {data:[{}],fetch:{},mutations:[]});

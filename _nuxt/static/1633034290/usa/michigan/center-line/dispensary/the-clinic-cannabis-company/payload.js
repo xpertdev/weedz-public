@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/center-line/dispensary/the-clinic-cannabis-company", {data:[{}],fetch:{},mutations:[]});

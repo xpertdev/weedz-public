@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lafayette/delivery/thc-stockton", {data:[{}],fetch:{},mutations:[]});

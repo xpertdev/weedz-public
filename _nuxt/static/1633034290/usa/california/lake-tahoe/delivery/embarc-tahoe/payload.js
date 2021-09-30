@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lake-tahoe/delivery/embarc-tahoe", {data:[{}],fetch:{},mutations:[]});

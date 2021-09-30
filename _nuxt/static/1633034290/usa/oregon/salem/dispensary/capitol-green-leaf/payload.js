@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/capitol-green-leaf", {data:[{}],fetch:{},mutations:[]});

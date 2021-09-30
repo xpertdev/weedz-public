@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane-valley/dispensary/cannabis-glass", {data:[{}],fetch:{},mutations:[]});

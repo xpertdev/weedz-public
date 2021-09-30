@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/poteau/dispensary/rockin-reggie-s-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/doctor/ommc-clinic-llc", {data:[{}],fetch:{},mutations:[]});

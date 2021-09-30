@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tucson/doctor/wild-wellness-integrative-medicine-dr-josh-reilly", {data:[{}],fetch:{},mutations:[]});

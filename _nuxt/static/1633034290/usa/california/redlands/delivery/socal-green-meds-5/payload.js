@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redlands/delivery/socal-green-meds-5", {data:[{}],fetch:{},mutations:[]});

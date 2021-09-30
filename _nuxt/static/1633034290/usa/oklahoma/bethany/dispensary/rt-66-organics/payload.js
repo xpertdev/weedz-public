@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/rt-66-organics", {data:[{}],fetch:{},mutations:[]});

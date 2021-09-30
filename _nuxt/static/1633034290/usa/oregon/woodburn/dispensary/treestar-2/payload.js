@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/woodburn/dispensary/treestar-2", {data:[{}],fetch:{},mutations:[]});

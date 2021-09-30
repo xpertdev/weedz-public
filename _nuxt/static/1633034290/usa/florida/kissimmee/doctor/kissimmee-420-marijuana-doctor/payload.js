@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/kissimmee/doctor/kissimmee-420-marijuana-doctor", {data:[{}],fetch:{},mutations:[]});

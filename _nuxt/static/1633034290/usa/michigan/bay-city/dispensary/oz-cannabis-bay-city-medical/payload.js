@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bay-city/dispensary/oz-cannabis-bay-city-medical", {data:[{}],fetch:{},mutations:[]});

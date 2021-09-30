@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/marietta/dispensary/pure-wellness-2", {data:[{}],fetch:{},mutations:[]});

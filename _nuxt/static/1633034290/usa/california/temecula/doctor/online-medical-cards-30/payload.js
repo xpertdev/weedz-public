@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/temecula/doctor/online-medical-cards-30", {data:[{}],fetch:{},mutations:[]});

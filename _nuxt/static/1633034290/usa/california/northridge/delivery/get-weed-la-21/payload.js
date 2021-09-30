@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/delivery/get-weed-la-21", {data:[{}],fetch:{},mutations:[]});

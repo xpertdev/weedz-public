@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/freedom-road-on-main", {data:[{}],fetch:{},mutations:[]});

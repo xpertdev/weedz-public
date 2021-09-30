@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/madison-heights/dispensary/liberty-madison-heights", {data:[{}],fetch:{},mutations:[]});

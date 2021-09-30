@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/homewood/doctor/green-care-medical-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-dimas/delivery/canex-delivery-54", {data:[{}],fetch:{},mutations:[]});

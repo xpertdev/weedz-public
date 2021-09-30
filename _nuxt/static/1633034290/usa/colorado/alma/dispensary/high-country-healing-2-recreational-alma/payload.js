@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/alma/dispensary/high-country-healing-2-recreational-alma", {data:[{}],fetch:{},mutations:[]});

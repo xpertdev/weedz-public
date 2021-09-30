@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/richmond/delivery/green-remedy-4", {data:[{}],fetch:{},mutations:[]});

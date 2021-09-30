@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lowell/dispensary/lume-cannabis-co-lowell", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-bow/dispensary/nova-cannabis-co", {data:[{}],fetch:{},mutations:[]});

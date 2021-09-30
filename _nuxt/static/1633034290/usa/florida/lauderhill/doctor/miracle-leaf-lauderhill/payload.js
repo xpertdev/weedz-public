@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lauderhill/doctor/miracle-leaf-lauderhill", {data:[{}],fetch:{},mutations:[]});

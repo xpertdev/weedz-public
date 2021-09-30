@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lakeland/doctor/the-sanctuary-wellness-institute-16", {data:[{}],fetch:{},mutations:[]});

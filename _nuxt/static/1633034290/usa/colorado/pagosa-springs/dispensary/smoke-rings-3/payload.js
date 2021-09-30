@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pagosa-springs/dispensary/smoke-rings-3", {data:[{}],fetch:{},mutations:[]});

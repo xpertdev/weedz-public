@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/stamford/doctor/american-telemed-evaluations-llc", {data:[{}],fetch:{},mutations:[]});

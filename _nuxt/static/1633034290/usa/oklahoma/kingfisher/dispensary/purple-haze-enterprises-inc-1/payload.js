@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/kingfisher/dispensary/purple-haze-enterprises-inc-1", {data:[{}],fetch:{},mutations:[]});

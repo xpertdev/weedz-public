@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/cape-coral/dispensary/fluent-cape-coral", {data:[{}],fetch:{},mutations:[]});

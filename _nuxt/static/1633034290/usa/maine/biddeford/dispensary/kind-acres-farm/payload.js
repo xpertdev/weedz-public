@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/biddeford/dispensary/kind-acres-farm", {data:[{}],fetch:{},mutations:[]});

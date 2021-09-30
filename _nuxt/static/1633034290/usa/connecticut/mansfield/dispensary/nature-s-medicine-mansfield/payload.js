@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/mansfield/dispensary/nature-s-medicine-mansfield", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/smithville/dispensary/besame-wellness-1", {data:[{}],fetch:{},mutations:[]});

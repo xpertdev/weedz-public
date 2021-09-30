@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lake-elsinore/dispensary/medcare-farms", {data:[{}],fetch:{},mutations:[]});

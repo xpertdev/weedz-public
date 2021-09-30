@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/springfield/dispensary/k9-chronic-llc", {data:[{}],fetch:{},mutations:[]});

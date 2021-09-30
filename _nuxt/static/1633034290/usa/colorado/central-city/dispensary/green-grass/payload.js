@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/central-city/dispensary/green-grass", {data:[{}],fetch:{},mutations:[]});

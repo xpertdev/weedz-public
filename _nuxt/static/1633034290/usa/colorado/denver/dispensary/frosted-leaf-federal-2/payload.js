@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/frosted-leaf-federal-2", {data:[{}],fetch:{},mutations:[]});

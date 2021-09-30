@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/pikesville/dispensary/the-living-room", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-charlotte/dispensary/trulieve-port-charlotte", {data:[{}],fetch:{},mutations:[]});

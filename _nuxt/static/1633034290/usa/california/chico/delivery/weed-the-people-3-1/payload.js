@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chico/delivery/weed-the-people-3-1", {data:[{}],fetch:{},mutations:[]});

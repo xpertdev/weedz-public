@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/mankind-dispensary", {data:[{}],fetch:{},mutations:[]});

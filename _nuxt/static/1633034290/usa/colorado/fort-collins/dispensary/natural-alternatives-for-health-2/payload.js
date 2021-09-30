@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fort-collins/dispensary/natural-alternatives-for-health-2", {data:[{}],fetch:{},mutations:[]});

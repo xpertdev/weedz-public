@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/del-city/dispensary/pink-leaf-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/good-tree-103", {data:[{}],fetch:{},mutations:[]});

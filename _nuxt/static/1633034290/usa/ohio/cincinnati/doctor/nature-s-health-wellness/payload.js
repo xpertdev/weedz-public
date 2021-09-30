@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/cincinnati/doctor/nature-s-health-wellness", {data:[{}],fetch:{},mutations:[]});

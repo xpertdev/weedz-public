@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fruitland-park/doctor/miracle-leaf-fruitland-park", {data:[{}],fetch:{},mutations:[]});

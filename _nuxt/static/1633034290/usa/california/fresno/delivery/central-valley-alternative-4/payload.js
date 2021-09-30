@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/delivery/central-valley-alternative-4", {data:[{}],fetch:{},mutations:[]});

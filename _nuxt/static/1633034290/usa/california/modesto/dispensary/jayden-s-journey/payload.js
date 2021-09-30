@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/modesto/dispensary/jayden-s-journey", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/south-oklahoma-city/dispensary/blaze-dispesary", {data:[{}],fetch:{},mutations:[]});

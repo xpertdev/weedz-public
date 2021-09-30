@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/the-holistic-choice-2-3", {data:[{}],fetch:{},mutations:[]});

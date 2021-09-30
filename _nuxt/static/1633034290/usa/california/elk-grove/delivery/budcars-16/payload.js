@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/budcars-16", {data:[{}],fetch:{},mutations:[]});

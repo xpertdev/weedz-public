@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/studio-city/dispensary/buds-and-roses-collective", {data:[{}],fetch:{},mutations:[]});

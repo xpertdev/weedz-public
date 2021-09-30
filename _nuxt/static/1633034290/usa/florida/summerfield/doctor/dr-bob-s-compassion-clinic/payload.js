@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/summerfield/doctor/dr-bob-s-compassion-clinic", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/central-point/dispensary/ocean-grown-cannabis", {data:[{}],fetch:{},mutations:[]});

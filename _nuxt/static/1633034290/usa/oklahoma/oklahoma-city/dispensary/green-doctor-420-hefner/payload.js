@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/green-doctor-420-hefner", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vici/dispensary/north-west-healing", {data:[{}],fetch:{},mutations:[]});

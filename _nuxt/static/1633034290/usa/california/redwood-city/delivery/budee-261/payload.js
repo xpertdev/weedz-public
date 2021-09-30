@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redwood-city/delivery/budee-261", {data:[{}],fetch:{},mutations:[]});

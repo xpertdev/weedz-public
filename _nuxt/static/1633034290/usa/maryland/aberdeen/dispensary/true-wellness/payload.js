@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/aberdeen/dispensary/true-wellness", {data:[{}],fetch:{},mutations:[]});

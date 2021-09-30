@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/wcc-2", {data:[{}],fetch:{},mutations:[]});

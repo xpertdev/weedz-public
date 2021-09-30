@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/dispensary/landrace-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/northstar-holistic-collective-2", {data:[{}],fetch:{},mutations:[]});

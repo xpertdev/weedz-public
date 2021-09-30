@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-bay/delivery/blaze-on-demand-4", {data:[{}],fetch:{},mutations:[]});

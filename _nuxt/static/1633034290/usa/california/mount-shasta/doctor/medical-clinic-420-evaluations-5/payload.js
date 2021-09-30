@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mount-shasta/doctor/medical-clinic-420-evaluations-5", {data:[{}],fetch:{},mutations:[]});

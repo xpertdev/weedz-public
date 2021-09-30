@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/prosser/dispensary/altitude", {data:[{}],fetch:{},mutations:[]});

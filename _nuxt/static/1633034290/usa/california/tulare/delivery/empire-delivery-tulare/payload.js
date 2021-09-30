@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tulare/delivery/empire-delivery-tulare", {data:[{}],fetch:{},mutations:[]});

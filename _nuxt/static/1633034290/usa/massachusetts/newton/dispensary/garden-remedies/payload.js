@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/newton/dispensary/garden-remedies", {data:[{}],fetch:{},mutations:[]});

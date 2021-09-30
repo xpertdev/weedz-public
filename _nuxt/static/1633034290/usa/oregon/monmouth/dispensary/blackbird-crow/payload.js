@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/monmouth/dispensary/blackbird-crow", {data:[{}],fetch:{},mutations:[]});

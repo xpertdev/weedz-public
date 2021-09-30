@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/soldotna/dispensary/fat-tops-soldotna", {data:[{}],fetch:{},mutations:[]});

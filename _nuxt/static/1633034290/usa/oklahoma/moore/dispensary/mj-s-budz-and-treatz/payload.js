@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/mj-s-budz-and-treatz", {data:[{}],fetch:{},mutations:[]});

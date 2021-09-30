@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/duncan/dispensary/cbd-plus-usa-duncan", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/big-rapids/dispensary/kkind-big-rapids", {data:[{}],fetch:{},mutations:[]});

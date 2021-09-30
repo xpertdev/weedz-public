@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/delivery/cannable-delivery", {data:[{}],fetch:{},mutations:[]});

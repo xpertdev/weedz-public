@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/world-class-cannabis-14", {data:[{}],fetch:{},mutations:[]});

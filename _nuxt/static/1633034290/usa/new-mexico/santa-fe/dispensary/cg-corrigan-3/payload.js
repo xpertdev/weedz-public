@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/santa-fe/dispensary/cg-corrigan-3", {data:[{}],fetch:{},mutations:[]});

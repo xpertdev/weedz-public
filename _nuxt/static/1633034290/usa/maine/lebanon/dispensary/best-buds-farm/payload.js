@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lebanon/dispensary/best-buds-farm", {data:[{}],fetch:{},mutations:[]});

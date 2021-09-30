@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/east-la/delivery/budee-debc9c65-4219-4fb9-9cbe-1047d03cbe09", {data:[{}],fetch:{},mutations:[]});

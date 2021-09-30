@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/collinsville/dispensary/purerx-1", {data:[{}],fetch:{},mutations:[]});

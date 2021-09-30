@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/bibi-2-go-2", {data:[{}],fetch:{},mutations:[]});

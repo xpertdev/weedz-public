@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/campbell/delivery/mint-xpress", {data:[{}],fetch:{},mutations:[]});

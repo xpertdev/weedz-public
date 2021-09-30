@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tempe/doctor/the-marijuana-doctor-camelback-rd", {data:[{}],fetch:{},mutations:[]});

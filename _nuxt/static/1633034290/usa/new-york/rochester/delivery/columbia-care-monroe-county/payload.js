@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rochester/delivery/columbia-care-monroe-county", {data:[{}],fetch:{},mutations:[]});

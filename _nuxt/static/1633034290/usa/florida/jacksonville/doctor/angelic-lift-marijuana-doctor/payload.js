@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jacksonville/doctor/angelic-lift-marijuana-doctor", {data:[{}],fetch:{},mutations:[]});

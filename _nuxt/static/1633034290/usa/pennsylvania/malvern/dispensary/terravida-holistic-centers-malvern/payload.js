@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/malvern/dispensary/terravida-holistic-centers-malvern", {data:[{}],fetch:{},mutations:[]});

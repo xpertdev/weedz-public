@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/doctor/healthy-partners", {data:[{}],fetch:{},mutations:[]});

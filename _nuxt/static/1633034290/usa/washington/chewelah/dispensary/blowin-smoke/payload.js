@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/chewelah/dispensary/blowin-smoke", {data:[{}],fetch:{},mutations:[]});

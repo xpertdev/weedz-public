@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lewiston/dispensary/strawberry-fields-apothecary", {data:[{}],fetch:{},mutations:[]});

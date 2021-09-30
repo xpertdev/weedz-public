@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/mountain-lion-delivery-2", {data:[{}],fetch:{},mutations:[]});

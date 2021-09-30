@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/new-amsterdam-downtown-denver", {data:[{}],fetch:{},mutations:[]});

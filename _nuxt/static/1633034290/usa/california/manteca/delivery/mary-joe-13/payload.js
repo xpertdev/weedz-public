@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manteca/delivery/mary-joe-13", {data:[{}],fetch:{},mutations:[]});

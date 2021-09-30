@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/redeye-420", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/the-peak-36th-st", {data:[{}],fetch:{},mutations:[]});

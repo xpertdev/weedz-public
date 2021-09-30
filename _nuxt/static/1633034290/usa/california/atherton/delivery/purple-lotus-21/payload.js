@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/atherton/delivery/purple-lotus-21", {data:[{}],fetch:{},mutations:[]});

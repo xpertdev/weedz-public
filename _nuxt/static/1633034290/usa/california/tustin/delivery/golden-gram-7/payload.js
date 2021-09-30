@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tustin/delivery/golden-gram-7", {data:[{}],fetch:{},mutations:[]});

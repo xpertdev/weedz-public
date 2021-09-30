@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/east-lansing/dispensary/pleasantrees", {data:[{}],fetch:{},mutations:[]});

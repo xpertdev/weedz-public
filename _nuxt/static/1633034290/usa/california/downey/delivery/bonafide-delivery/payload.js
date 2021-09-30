@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downey/delivery/bonafide-delivery", {data:[{}],fetch:{},mutations:[]});

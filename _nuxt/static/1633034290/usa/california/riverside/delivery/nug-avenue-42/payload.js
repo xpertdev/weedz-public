@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/nug-avenue-42", {data:[{}],fetch:{},mutations:[]});

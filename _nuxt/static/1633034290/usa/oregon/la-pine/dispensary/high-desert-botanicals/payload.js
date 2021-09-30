@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/la-pine/dispensary/high-desert-botanicals", {data:[{}],fetch:{},mutations:[]});

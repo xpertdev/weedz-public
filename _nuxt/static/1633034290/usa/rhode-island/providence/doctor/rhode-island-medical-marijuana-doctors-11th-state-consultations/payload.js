@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/providence/doctor/rhode-island-medical-marijuana-doctors-11th-state-consultations", {data:[{}],fetch:{},mutations:[]});

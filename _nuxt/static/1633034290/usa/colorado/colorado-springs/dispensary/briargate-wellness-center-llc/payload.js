@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/briargate-wellness-center-llc", {data:[{}],fetch:{},mutations:[]});

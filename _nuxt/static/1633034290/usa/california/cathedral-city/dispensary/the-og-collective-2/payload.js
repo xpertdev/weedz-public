@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cathedral-city/dispensary/the-og-collective-2", {data:[{}],fetch:{},mutations:[]});

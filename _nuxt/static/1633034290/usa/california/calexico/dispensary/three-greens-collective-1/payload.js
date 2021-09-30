@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/calexico/dispensary/three-greens-collective-1", {data:[{}],fetch:{},mutations:[]});

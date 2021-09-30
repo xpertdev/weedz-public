@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/independence/dispensary/greenlight-independence-coming-soon", {data:[{}],fetch:{},mutations:[]});

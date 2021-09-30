@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-clemente/delivery/the-medicine-woman-dana-point", {data:[{}],fetch:{},mutations:[]});

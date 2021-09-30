@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/safford/dispensary/natural-remedy-patient-center-dispensary", {data:[{}],fetch:{},mutations:[]});

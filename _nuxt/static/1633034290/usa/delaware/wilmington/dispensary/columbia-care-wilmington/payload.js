@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/wilmington/dispensary/columbia-care-wilmington", {data:[{}],fetch:{},mutations:[]});

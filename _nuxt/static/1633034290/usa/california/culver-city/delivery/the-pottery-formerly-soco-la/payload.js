@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/culver-city/delivery/the-pottery-formerly-soco-la", {data:[{}],fetch:{},mutations:[]});

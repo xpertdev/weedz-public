@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/visalia/delivery/budee-4bedd996-d50e-43f6-8c71-7c086f1a1f76", {data:[{}],fetch:{},mutations:[]});

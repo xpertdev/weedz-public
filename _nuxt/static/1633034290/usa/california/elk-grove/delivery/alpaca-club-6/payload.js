@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/alpaca-club-6", {data:[{}],fetch:{},mutations:[]});

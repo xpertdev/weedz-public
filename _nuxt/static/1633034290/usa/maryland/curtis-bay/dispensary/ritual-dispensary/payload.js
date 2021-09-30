@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/curtis-bay/dispensary/ritual-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/owasso/dispensary/eufloria-12", {data:[{}],fetch:{},mutations:[]});

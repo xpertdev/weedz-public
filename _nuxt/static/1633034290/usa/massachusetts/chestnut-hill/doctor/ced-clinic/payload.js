@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/chestnut-hill/doctor/ced-clinic", {data:[{}],fetch:{},mutations:[]});

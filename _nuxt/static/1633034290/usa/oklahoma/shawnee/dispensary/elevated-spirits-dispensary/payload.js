@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/elevated-spirits-dispensary", {data:[{}],fetch:{},mutations:[]});

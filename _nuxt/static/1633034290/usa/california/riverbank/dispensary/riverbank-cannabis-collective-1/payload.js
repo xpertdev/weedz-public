@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverbank/dispensary/riverbank-cannabis-collective-1", {data:[{}],fetch:{},mutations:[]});

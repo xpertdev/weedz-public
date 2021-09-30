@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/dispensary/surterra-wellness-center-south-tampa", {data:[{}],fetch:{},mutations:[]});

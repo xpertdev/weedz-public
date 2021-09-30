@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/mile-high-green-cross-recreational", {data:[{}],fetch:{},mutations:[]});

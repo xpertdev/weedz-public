@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/pittsburgh/dispensary/maitri-medicinals-pittsburgh", {data:[{}],fetch:{},mutations:[]});

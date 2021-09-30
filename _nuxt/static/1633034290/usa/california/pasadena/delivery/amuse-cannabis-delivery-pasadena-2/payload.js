@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pasadena/delivery/amuse-cannabis-delivery-pasadena-2", {data:[{}],fetch:{},mutations:[]});

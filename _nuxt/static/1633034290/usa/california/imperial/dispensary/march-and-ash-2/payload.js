@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/imperial/dispensary/march-and-ash-2", {data:[{}],fetch:{},mutations:[]});

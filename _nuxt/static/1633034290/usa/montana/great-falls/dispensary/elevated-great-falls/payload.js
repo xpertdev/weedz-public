@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/great-falls/dispensary/elevated-great-falls", {data:[{}],fetch:{},mutations:[]});

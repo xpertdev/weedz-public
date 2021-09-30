@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/escondido/delivery/leganja-1", {data:[{}],fetch:{},mutations:[]});

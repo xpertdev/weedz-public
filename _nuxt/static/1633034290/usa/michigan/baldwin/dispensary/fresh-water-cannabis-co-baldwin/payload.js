@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/baldwin/dispensary/fresh-water-cannabis-co-baldwin", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/sedgwick/dispensary/high-plainz-strains-3", {data:[{}],fetch:{},mutations:[]});

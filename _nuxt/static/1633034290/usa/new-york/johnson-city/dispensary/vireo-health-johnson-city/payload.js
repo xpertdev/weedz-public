@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/johnson-city/dispensary/vireo-health-johnson-city", {data:[{}],fetch:{},mutations:[]});

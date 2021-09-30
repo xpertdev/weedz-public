@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/yakima/dispensary/yakima-weed-company", {data:[{}],fetch:{},mutations:[]});

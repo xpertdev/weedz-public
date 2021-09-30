@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/holland/doctor/pure-west-compassion-clinic", {data:[{}],fetch:{},mutations:[]});

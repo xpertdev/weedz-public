@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/florence/dispensary/harvest-moon-cannabis", {data:[{}],fetch:{},mutations:[]});

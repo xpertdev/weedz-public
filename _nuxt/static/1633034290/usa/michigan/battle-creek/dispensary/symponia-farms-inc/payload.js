@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/battle-creek/dispensary/symponia-farms-inc", {data:[{}],fetch:{},mutations:[]});

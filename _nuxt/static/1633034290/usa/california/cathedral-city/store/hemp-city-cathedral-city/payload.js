@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cathedral-city/store/hemp-city-cathedral-city", {data:[{}],fetch:{},mutations:[]});

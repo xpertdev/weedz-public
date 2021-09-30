@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/portsmouth/dispensary/greenleaf-compassionate-care-center", {data:[{}],fetch:{},mutations:[]});

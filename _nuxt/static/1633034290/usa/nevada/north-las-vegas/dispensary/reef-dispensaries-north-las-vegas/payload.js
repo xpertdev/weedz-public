@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/north-las-vegas/dispensary/reef-dispensaries-north-las-vegas", {data:[{}],fetch:{},mutations:[]});

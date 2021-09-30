@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/dewey/dispensary/vermillionkush", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/beachwood/doctor/compassionate-cleveland", {data:[{}],fetch:{},mutations:[]});

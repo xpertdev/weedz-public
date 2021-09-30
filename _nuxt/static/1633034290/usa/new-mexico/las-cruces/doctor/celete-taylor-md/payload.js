@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/las-cruces/doctor/celete-taylor-md", {data:[{}],fetch:{},mutations:[]});

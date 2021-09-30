@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/montebello/delivery/daze-8", {data:[{}],fetch:{},mutations:[]});

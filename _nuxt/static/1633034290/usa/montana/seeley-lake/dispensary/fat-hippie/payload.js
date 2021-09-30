@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/seeley-lake/dispensary/fat-hippie", {data:[{}],fetch:{},mutations:[]});

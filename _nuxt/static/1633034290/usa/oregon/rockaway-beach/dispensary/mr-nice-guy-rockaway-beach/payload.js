@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/rockaway-beach/dispensary/mr-nice-guy-rockaway-beach", {data:[{}],fetch:{},mutations:[]});

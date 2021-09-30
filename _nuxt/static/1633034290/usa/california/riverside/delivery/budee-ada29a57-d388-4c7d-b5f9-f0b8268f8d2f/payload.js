@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/budee-ada29a57-d388-4c7d-b5f9-f0b8268f8d2f", {data:[{}],fetch:{},mutations:[]});

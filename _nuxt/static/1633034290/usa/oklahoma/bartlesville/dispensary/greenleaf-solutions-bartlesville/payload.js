@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bartlesville/dispensary/greenleaf-solutions-bartlesville", {data:[{}],fetch:{},mutations:[]});

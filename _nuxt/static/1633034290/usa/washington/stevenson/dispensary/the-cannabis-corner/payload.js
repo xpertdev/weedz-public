@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/stevenson/dispensary/the-cannabis-corner", {data:[{}],fetch:{},mutations:[]});

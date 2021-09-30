@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/riverhead/doctor/east-end-urgent-and-primary-care", {data:[{}],fetch:{},mutations:[]});

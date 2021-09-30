@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lemon-grove/dispensary/the-boulevard-dispensary", {data:[{}],fetch:{},mutations:[]});

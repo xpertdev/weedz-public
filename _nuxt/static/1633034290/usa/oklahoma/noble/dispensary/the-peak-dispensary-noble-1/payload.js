@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/noble/dispensary/the-peak-dispensary-noble-1", {data:[{}],fetch:{},mutations:[]});

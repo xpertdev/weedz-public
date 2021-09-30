@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/reading/dispensary/dr-a-s-releaf-center-reading", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/brunswick/delivery/elevate-maine", {data:[{}],fetch:{},mutations:[]});

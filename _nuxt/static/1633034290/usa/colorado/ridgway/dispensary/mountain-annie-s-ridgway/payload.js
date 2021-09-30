@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/ridgway/dispensary/mountain-annie-s-ridgway", {data:[{}],fetch:{},mutations:[]});

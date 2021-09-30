@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/sanford/dispensary/vetted-1", {data:[{}],fetch:{},mutations:[]});

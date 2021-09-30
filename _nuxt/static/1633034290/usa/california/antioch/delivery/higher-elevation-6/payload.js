@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/delivery/higher-elevation-6", {data:[{}],fetch:{},mutations:[]});

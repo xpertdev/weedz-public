@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sallisaw/dispensary/bogart-s-stash-1", {data:[{}],fetch:{},mutations:[]});

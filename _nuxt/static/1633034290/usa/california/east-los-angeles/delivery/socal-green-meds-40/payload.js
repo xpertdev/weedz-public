@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/east-los-angeles/delivery/socal-green-meds-40", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-hollywood/dispensary/sunset-herbal-corner-2-2", {data:[{}],fetch:{},mutations:[]});

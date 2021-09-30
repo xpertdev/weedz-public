@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-rosa/dispensary/the-outpost", {data:[{}],fetch:{},mutations:[]});

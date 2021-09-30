@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/louisville/dispensary/igadi", {data:[{}],fetch:{},mutations:[]});

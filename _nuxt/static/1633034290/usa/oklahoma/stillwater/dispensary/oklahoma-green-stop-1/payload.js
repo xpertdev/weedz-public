@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/oklahoma-green-stop-1", {data:[{}],fetch:{},mutations:[]});

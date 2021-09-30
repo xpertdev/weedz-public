@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/depoe-bay/dispensary/mr-niceguy-depoe-bay", {data:[{}],fetch:{},mutations:[]});

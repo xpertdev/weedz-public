@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lake-worth/doctor/dr-anya-temer-thc-total-holistic-center", {data:[{}],fetch:{},mutations:[]});

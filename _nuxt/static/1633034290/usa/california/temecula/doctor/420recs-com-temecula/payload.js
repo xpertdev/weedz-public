@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/temecula/doctor/420recs-com-temecula", {data:[{}],fetch:{},mutations:[]});

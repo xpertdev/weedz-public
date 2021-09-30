@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/atlantic-city/dispensary/the-botanist-atlantic-city", {data:[{}],fetch:{},mutations:[]});

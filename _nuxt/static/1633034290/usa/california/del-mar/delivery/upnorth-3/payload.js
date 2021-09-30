@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/del-mar/delivery/upnorth-3", {data:[{}],fetch:{},mutations:[]});

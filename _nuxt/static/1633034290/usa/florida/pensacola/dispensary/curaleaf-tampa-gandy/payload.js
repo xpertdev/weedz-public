@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/pensacola/dispensary/curaleaf-tampa-gandy", {data:[{}],fetch:{},mutations:[]});

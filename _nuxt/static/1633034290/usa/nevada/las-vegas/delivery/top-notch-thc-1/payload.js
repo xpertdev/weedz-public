@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/delivery/top-notch-thc-1", {data:[{}],fetch:{},mutations:[]});

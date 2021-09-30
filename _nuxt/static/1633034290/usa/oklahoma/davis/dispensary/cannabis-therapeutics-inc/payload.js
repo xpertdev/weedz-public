@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/davis/dispensary/cannabis-therapeutics-inc", {data:[{}],fetch:{},mutations:[]});

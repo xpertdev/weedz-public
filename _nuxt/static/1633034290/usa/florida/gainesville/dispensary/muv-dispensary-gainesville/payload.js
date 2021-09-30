@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/gainesville/dispensary/muv-dispensary-gainesville", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/okemah/dispensary/stress-releaf-cannabis-co", {data:[{}],fetch:{},mutations:[]});

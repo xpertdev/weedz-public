@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-monica/delivery/kushagram-140", {data:[{}],fetch:{},mutations:[]});

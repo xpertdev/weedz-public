@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/thornton/dispensary/rocky-road-thornton", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/mt-pleasant/dispensary/consano", {data:[{}],fetch:{},mutations:[]});

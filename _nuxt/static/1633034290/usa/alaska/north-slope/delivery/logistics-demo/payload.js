@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/north-slope/delivery/logistics-demo", {data:[{}],fetch:{},mutations:[]});

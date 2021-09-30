@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/newport-beach/delivery/casa-cannabis-delivery-2", {data:[{}],fetch:{},mutations:[]});

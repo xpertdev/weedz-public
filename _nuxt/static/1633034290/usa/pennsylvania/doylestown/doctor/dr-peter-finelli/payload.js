@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/doylestown/doctor/dr-peter-finelli", {data:[{}],fetch:{},mutations:[]});

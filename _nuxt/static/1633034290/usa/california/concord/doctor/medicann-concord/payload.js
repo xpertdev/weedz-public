@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/doctor/medicann-concord", {data:[{}],fetch:{},mutations:[]});

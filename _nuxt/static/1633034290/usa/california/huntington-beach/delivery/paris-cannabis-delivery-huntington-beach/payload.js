@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/paris-cannabis-delivery-huntington-beach", {data:[{}],fetch:{},mutations:[]});

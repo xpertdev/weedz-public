@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/bensalem/dispensary/liberty-bensalem", {data:[{}],fetch:{},mutations:[]});

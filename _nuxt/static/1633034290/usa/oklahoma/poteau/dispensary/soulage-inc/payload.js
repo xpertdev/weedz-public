@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/poteau/dispensary/soulage-inc", {data:[{}],fetch:{},mutations:[]});

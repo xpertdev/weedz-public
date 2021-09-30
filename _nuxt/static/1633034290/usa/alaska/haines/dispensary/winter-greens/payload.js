@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/haines/dispensary/winter-greens", {data:[{}],fetch:{},mutations:[]});

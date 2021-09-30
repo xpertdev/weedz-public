@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/doctor/cannamd-marijuana-doctor-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-luis-obispo/delivery/indacut-2", {data:[{}],fetch:{},mutations:[]});

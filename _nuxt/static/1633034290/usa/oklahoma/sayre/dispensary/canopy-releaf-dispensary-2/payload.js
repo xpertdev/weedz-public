@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sayre/dispensary/canopy-releaf-dispensary-2", {data:[{}],fetch:{},mutations:[]});

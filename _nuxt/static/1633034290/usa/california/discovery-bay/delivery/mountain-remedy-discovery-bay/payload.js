@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/discovery-bay/delivery/mountain-remedy-discovery-bay", {data:[{}],fetch:{},mutations:[]});

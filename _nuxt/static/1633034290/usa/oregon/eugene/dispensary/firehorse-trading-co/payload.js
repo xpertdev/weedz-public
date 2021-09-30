@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/firehorse-trading-co", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/fire-farms-8", {data:[{}],fetch:{},mutations:[]});

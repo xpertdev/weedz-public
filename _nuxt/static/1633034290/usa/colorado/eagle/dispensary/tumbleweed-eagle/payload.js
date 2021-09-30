@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/eagle/dispensary/tumbleweed-eagle", {data:[{}],fetch:{},mutations:[]});

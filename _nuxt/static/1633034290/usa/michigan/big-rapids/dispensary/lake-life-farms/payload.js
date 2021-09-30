@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/big-rapids/dispensary/lake-life-farms", {data:[{}],fetch:{},mutations:[]});

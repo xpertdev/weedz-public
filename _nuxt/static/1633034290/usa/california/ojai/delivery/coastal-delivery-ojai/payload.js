@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ojai/delivery/coastal-delivery-ojai", {data:[{}],fetch:{},mutations:[]});

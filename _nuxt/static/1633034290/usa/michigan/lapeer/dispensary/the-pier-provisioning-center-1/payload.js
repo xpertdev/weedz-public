@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lapeer/dispensary/the-pier-provisioning-center-1", {data:[{}],fetch:{},mutations:[]});

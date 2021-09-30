@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/98-buds-east-21st-st", {data:[{}],fetch:{},mutations:[]});

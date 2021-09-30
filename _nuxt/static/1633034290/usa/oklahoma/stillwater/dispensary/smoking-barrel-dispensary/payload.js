@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/smoking-barrel-dispensary", {data:[{}],fetch:{},mutations:[]});

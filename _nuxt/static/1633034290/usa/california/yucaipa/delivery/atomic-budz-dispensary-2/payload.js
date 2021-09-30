@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucaipa/delivery/atomic-budz-dispensary-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/boynton-beach/doctor/florida-medical-marijuana-health-center", {data:[{}],fetch:{},mutations:[]});

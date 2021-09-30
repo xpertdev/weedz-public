@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orlando/doctor/docmj-b43e5390-9c20-4156-a2d7-f6938227c3fe", {data:[{}],fetch:{},mutations:[]});

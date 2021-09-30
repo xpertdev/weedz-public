@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/solvang/delivery/royal-healing-delivery-2", {data:[{}],fetch:{},mutations:[]});

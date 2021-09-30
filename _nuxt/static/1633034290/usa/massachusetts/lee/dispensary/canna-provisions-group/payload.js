@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/lee/dispensary/canna-provisions-group", {data:[{}],fetch:{},mutations:[]});

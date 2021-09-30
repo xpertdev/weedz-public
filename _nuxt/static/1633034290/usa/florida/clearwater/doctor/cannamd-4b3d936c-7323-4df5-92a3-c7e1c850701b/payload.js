@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/clearwater/doctor/cannamd-4b3d936c-7323-4df5-92a3-c7e1c850701b", {data:[{}],fetch:{},mutations:[]});

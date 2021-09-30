@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/hot-springs/doctor/my-medical-card-compassionate-care-clinic", {data:[{}],fetch:{},mutations:[]});

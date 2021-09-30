@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/great-falls/dispensary/holistic-relief-by-design", {data:[{}],fetch:{},mutations:[]});

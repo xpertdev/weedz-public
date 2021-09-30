@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/buffalo/doctor/semaj-health-and-wellness-5", {data:[{}],fetch:{},mutations:[]});

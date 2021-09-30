@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-hollywood/delivery/budee-49", {data:[{}],fetch:{},mutations:[]});

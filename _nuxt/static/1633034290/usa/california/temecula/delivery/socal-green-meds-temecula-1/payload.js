@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/temecula/delivery/socal-green-meds-temecula-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tracy/delivery/high-times-delivery-tracy", {data:[{}],fetch:{},mutations:[]});

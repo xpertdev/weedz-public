@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/friendly-market-norman", {data:[{}],fetch:{},mutations:[]});

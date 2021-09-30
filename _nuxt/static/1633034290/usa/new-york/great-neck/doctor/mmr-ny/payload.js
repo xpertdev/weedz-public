@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/great-neck/doctor/mmr-ny", {data:[{}],fetch:{},mutations:[]});

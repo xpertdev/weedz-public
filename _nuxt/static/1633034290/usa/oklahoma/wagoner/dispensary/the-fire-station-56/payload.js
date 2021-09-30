@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wagoner/dispensary/the-fire-station-56", {data:[{}],fetch:{},mutations:[]});

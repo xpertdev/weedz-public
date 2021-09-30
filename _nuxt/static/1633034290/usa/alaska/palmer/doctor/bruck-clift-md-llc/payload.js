@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/palmer/doctor/bruck-clift-md-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/west-chester/doctor/dr-leonard-schuchman-d-o", {data:[{}],fetch:{},mutations:[]});

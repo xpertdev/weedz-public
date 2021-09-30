@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mcalester/dispensary/cbd-plus-usa-mcalester", {data:[{}],fetch:{},mutations:[]});

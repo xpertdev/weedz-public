@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/richland/dispensary/nirvana-cannabis-company-3", {data:[{}],fetch:{},mutations:[]});

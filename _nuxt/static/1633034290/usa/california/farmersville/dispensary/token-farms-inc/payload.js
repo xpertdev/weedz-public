@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/farmersville/dispensary/token-farms-inc", {data:[{}],fetch:{},mutations:[]});

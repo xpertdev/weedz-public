@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ada/dispensary/cain-s-cannabis", {data:[{}],fetch:{},mutations:[]});

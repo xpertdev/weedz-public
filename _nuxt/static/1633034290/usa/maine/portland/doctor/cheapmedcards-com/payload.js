@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/doctor/cheapmedcards-com", {data:[{}],fetch:{},mutations:[]});

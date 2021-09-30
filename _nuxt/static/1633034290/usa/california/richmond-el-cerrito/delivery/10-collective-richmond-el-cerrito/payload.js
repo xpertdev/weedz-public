@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/richmond-el-cerrito/delivery/10-collective-richmond-el-cerrito", {data:[{}],fetch:{},mutations:[]});

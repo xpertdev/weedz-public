@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/avon-park/dispensary/one-plant-avon-park-1", {data:[{}],fetch:{},mutations:[]});

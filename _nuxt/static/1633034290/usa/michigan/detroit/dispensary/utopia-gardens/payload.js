@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/utopia-gardens", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/tru-cannabis-portland-north-east", {data:[{}],fetch:{},mutations:[]});

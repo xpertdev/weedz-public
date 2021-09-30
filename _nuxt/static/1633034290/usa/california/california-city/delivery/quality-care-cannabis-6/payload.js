@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/california-city/delivery/quality-care-cannabis-6", {data:[{}],fetch:{},mutations:[]});

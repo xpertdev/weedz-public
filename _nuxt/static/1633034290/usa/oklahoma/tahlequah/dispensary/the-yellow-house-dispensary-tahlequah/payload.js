@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/the-yellow-house-dispensary-tahlequah", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/corona/delivery/mcec-7", {data:[{}],fetch:{},mutations:[]});

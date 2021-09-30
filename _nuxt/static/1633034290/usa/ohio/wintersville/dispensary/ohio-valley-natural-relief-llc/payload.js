@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/wintersville/dispensary/ohio-valley-natural-relief-llc", {data:[{}],fetch:{},mutations:[]});

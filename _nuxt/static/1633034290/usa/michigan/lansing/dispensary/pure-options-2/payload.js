@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lansing/dispensary/pure-options-2", {data:[{}],fetch:{},mutations:[]});

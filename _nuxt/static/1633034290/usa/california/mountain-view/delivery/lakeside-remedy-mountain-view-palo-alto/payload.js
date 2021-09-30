@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mountain-view/delivery/lakeside-remedy-mountain-view-palo-alto", {data:[{}],fetch:{},mutations:[]});

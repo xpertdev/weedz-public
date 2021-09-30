@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-jose/delivery/bento", {data:[{}],fetch:{},mutations:[]});

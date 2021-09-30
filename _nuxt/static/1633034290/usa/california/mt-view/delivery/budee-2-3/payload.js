@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mt-view/delivery/budee-2-3", {data:[{}],fetch:{},mutations:[]});

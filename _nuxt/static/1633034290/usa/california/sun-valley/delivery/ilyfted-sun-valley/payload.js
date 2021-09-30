@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sun-valley/delivery/ilyfted-sun-valley", {data:[{}],fetch:{},mutations:[]});

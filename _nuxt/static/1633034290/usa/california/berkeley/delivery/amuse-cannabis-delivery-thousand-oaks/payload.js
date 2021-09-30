@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/amuse-cannabis-delivery-thousand-oaks", {data:[{}],fetch:{},mutations:[]});

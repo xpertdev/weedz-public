@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/doctor/15th-street-cannabis-clinic", {data:[{}],fetch:{},mutations:[]});

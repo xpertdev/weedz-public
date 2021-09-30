@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mcalester/dispensary/pure-health", {data:[{}],fetch:{},mutations:[]});

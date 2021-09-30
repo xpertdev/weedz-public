@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town-echo-park/delivery/caliva-delivery-24", {data:[{}],fetch:{},mutations:[]});

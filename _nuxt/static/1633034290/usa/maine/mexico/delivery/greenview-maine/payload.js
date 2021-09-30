@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/mexico/delivery/greenview-maine", {data:[{}],fetch:{},mutations:[]});

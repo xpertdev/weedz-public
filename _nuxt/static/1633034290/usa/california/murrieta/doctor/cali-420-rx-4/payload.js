@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/murrieta/doctor/cali-420-rx-4", {data:[{}],fetch:{},mutations:[]});

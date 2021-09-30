@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/dispensary/the-420-lounge-1", {data:[{}],fetch:{},mutations:[]});

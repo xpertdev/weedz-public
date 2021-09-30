@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/state-college/doctor/compassionate-care-consultants-llc-2", {data:[{}],fetch:{},mutations:[]});

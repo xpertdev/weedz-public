@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/doctor/holos-health-2", {data:[{}],fetch:{},mutations:[]});

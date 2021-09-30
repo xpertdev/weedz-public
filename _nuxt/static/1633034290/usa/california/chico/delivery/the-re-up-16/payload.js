@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chico/delivery/the-re-up-16", {data:[{}],fetch:{},mutations:[]});

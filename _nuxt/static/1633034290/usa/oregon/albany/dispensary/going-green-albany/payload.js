@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/albany/dispensary/going-green-albany", {data:[{}],fetch:{},mutations:[]});

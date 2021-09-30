@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sausalito/delivery/firefly-marin-4", {data:[{}],fetch:{},mutations:[]});

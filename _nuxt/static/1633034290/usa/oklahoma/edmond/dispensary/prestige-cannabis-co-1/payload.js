@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/prestige-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

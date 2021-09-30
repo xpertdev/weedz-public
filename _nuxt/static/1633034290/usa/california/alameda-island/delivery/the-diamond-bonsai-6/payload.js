@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alameda-island/delivery/the-diamond-bonsai-6", {data:[{}],fetch:{},mutations:[]});

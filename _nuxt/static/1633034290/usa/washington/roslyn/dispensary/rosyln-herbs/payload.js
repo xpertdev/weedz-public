@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/roslyn/dispensary/rosyln-herbs", {data:[{}],fetch:{},mutations:[]});

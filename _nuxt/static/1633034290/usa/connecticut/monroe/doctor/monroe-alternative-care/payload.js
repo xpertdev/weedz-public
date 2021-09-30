@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/monroe/doctor/monroe-alternative-care", {data:[{}],fetch:{},mutations:[]});

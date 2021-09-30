@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ceres/dispensary/kases-journey", {data:[{}],fetch:{},mutations:[]});

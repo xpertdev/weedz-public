@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/gettysburg/dispensary/herbology-gettysburg", {data:[{}],fetch:{},mutations:[]});

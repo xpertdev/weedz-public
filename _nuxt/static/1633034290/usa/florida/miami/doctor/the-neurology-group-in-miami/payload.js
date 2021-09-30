@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/doctor/the-neurology-group-in-miami", {data:[{}],fetch:{},mutations:[]});

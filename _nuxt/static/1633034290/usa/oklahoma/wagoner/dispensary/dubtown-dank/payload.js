@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wagoner/dispensary/dubtown-dank", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/monkey-island/dispensary/underground-dispensary-monkey-island", {data:[{}],fetch:{},mutations:[]});

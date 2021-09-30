@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/whittier/delivery/kushagram-132", {data:[{}],fetch:{},mutations:[]});

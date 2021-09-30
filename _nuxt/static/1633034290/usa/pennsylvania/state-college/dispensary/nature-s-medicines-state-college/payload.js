@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/state-college/dispensary/nature-s-medicines-state-college", {data:[{}],fetch:{},mutations:[]});

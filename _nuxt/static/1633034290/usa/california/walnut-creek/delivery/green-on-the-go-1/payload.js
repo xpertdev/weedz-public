@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/walnut-creek/delivery/green-on-the-go-1", {data:[{}],fetch:{},mutations:[]});

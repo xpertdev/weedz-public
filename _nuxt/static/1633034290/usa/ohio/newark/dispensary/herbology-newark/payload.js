@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/newark/dispensary/herbology-newark", {data:[{}],fetch:{},mutations:[]});

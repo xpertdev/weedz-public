@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pasadena/delivery/nug-avenue-5", {data:[{}],fetch:{},mutations:[]});

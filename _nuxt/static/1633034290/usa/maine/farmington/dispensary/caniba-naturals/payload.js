@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/farmington/dispensary/caniba-naturals", {data:[{}],fetch:{},mutations:[]});

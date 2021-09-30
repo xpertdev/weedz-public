@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/central-purp-83", {data:[{}],fetch:{},mutations:[]});

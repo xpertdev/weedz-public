@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/salisbury/dispensary/alternative-therapies-group-salisbury", {data:[{}],fetch:{},mutations:[]});

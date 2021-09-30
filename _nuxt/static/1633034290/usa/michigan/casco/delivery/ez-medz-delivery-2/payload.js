@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/casco/delivery/ez-medz-delivery-2", {data:[{}],fetch:{},mutations:[]});

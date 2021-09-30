@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/green-solutions", {data:[{}],fetch:{},mutations:[]});

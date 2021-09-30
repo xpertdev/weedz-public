@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lodi/delivery/cloud9-xpress-8", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/doctor/medwell-health-wellness-15", {data:[{}],fetch:{},mutations:[]});

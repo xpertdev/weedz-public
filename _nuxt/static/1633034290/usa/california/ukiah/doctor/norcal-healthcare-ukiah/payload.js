@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ukiah/doctor/norcal-healthcare-ukiah", {data:[{}],fetch:{},mutations:[]});

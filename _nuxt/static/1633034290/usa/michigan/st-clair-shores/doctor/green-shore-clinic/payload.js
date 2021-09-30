@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/st-clair-shores/doctor/green-shore-clinic", {data:[{}],fetch:{},mutations:[]});

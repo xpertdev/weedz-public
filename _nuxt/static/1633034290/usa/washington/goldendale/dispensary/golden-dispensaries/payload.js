@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/goldendale/dispensary/golden-dispensaries", {data:[{}],fetch:{},mutations:[]});

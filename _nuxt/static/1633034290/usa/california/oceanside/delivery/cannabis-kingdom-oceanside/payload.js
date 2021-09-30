@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oceanside/delivery/cannabis-kingdom-oceanside", {data:[{}],fetch:{},mutations:[]});

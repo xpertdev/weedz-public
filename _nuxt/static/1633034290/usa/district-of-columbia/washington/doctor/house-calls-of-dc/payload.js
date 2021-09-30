@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/district-of-columbia/washington/doctor/house-calls-of-dc", {data:[{}],fetch:{},mutations:[]});

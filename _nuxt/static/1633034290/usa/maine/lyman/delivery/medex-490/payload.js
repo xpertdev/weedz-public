@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lyman/delivery/medex-490", {data:[{}],fetch:{},mutations:[]});

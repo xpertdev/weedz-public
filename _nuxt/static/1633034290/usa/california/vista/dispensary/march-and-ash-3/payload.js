@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/dispensary/march-and-ash-3", {data:[{}],fetch:{},mutations:[]});

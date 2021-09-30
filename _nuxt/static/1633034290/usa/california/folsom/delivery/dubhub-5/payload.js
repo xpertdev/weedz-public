@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/dubhub-5", {data:[{}],fetch:{},mutations:[]});

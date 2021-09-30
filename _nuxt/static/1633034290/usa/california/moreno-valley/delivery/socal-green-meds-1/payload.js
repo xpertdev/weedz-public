@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moreno-valley/delivery/socal-green-meds-1", {data:[{}],fetch:{},mutations:[]});

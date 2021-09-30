@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucca-valley/delivery/maybach-magic", {data:[{}],fetch:{},mutations:[]});

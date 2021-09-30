@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/oregon-city/dispensary/gnome-grown-oregon", {data:[{}],fetch:{},mutations:[]});

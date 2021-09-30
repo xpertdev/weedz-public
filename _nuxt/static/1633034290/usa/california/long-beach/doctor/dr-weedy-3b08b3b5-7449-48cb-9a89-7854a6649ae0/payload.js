@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/doctor/dr-weedy-3b08b3b5-7449-48cb-9a89-7854a6649ae0", {data:[{}],fetch:{},mutations:[]});

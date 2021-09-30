@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/doctor/dr-arielle-o-fenig", {data:[{}],fetch:{},mutations:[]});

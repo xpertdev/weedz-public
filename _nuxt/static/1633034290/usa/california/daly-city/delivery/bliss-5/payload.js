@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/daly-city/delivery/bliss-5", {data:[{}],fetch:{},mutations:[]});

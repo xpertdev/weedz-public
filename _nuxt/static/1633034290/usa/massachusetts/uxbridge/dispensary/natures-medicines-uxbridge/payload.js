@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/uxbridge/dispensary/natures-medicines-uxbridge", {data:[{}],fetch:{},mutations:[]});

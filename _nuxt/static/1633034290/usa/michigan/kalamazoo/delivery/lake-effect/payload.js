@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/kalamazoo/delivery/lake-effect", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/porter-ranch/delivery/strain-balboa-caregivers-adult-use-1", {data:[{}],fetch:{},mutations:[]});

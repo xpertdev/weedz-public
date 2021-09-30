@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/canex-delivery-19", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/buddies-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

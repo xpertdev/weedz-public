@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/golden-gram-costa-mesa", {data:[{}],fetch:{},mutations:[]});

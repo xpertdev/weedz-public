@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/okemah/dispensary/marisas-bloom-room", {data:[{}],fetch:{},mutations:[]});

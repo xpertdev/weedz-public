@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/dispensary/garden-of-eden-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/quincy/dispensary/joyology-quincy", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/patterson/dispensary/the-peoples-remedy-patterson", {data:[{}],fetch:{},mutations:[]});

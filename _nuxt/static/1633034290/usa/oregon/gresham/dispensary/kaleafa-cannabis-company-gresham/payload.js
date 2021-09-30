@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/gresham/dispensary/kaleafa-cannabis-company-gresham", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/springfield/doctor/cannabis-medical-centers-llc", {data:[{}],fetch:{},mutations:[]});

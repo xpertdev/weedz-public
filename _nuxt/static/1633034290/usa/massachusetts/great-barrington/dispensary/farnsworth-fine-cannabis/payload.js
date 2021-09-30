@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/great-barrington/dispensary/farnsworth-fine-cannabis", {data:[{}],fetch:{},mutations:[]});

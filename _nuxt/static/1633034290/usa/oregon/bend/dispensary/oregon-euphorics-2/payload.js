@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bend/dispensary/oregon-euphorics-2", {data:[{}],fetch:{},mutations:[]});

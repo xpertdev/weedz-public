@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-st-lucie/doctor/mmj-health-4", {data:[{}],fetch:{},mutations:[]});

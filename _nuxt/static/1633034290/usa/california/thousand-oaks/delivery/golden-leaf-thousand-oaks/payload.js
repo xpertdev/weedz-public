@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/thousand-oaks/delivery/golden-leaf-thousand-oaks", {data:[{}],fetch:{},mutations:[]});

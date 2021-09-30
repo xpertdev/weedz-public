@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/delivery/west-coast-cannabis-club-3", {data:[{}],fetch:{},mutations:[]});

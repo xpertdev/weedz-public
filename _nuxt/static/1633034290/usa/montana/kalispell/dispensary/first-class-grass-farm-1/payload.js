@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/kalispell/dispensary/first-class-grass-farm-1", {data:[{}],fetch:{},mutations:[]});

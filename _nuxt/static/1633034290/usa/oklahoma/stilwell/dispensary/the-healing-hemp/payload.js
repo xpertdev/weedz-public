@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stilwell/dispensary/the-healing-hemp", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/socal-green-meds-huntington-beach", {data:[{}],fetch:{},mutations:[]});

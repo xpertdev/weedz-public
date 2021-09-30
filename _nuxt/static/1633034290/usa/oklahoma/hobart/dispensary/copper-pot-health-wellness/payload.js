@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hobart/dispensary/copper-pot-health-wellness", {data:[{}],fetch:{},mutations:[]});

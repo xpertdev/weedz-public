@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/canex-delivery-68", {data:[{}],fetch:{},mutations:[]});

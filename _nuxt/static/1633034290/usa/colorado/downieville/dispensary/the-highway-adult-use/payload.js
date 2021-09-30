@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/downieville/dispensary/the-highway-adult-use", {data:[{}],fetch:{},mutations:[]});

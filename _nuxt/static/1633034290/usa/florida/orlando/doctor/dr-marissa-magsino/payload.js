@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orlando/doctor/dr-marissa-magsino", {data:[{}],fetch:{},mutations:[]});

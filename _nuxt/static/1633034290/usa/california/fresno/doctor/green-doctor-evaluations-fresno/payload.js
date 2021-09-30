@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/doctor/green-doctor-evaluations-fresno", {data:[{}],fetch:{},mutations:[]});

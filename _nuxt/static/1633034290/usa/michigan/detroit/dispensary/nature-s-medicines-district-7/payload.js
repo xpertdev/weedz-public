@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/nature-s-medicines-district-7", {data:[{}],fetch:{},mutations:[]});

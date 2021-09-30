@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/durant/dispensary/happy-hemp-2", {data:[{}],fetch:{},mutations:[]});

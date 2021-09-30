@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/st-joseph/doctor/the-green-clinics-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-rosa/doctor/medevalsca-santa-rosa", {data:[{}],fetch:{},mutations:[]});

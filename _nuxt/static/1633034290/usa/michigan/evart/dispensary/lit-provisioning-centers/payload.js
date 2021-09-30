@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/evart/dispensary/lit-provisioning-centers", {data:[{}],fetch:{},mutations:[]});

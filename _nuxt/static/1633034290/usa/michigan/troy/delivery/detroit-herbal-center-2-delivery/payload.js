@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/troy/delivery/detroit-herbal-center-2-delivery", {data:[{}],fetch:{},mutations:[]});

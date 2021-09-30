@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/citrus-heights-orangevale/delivery/lucky-box-club-4", {data:[{}],fetch:{},mutations:[]});

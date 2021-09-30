@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/schaumburg/dispensary/verilife-schaumburg", {data:[{}],fetch:{},mutations:[]});

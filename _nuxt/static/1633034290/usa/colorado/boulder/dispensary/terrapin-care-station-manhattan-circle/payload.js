@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/dispensary/terrapin-care-station-manhattan-circle", {data:[{}],fetch:{},mutations:[]});

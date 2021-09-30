@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arroyo-grande/doctor/central-coast-medical-recommendations", {data:[{}],fetch:{},mutations:[]});

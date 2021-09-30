@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/amherst/doctor/dr-corie-kovach", {data:[{}],fetch:{},mutations:[]});

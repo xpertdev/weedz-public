@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/venice-beach/delivery/hey-high-3", {data:[{}],fetch:{},mutations:[]});

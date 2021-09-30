@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/empire/dispensary/serene-wellness-llc", {data:[{}],fetch:{},mutations:[]});

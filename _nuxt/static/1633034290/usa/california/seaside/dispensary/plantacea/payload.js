@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/seaside/dispensary/plantacea", {data:[{}],fetch:{},mutations:[]});

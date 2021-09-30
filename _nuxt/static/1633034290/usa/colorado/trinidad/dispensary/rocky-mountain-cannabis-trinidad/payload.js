@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/rocky-mountain-cannabis-trinidad", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/yuma/doctor/marijuana-certifications-6", {data:[{}],fetch:{},mutations:[]});

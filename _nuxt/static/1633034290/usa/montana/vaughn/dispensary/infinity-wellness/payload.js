@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/vaughn/dispensary/infinity-wellness", {data:[{}],fetch:{},mutations:[]});

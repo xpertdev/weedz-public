@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/watonga/dispensary/what-dispensary", {data:[{}],fetch:{},mutations:[]});

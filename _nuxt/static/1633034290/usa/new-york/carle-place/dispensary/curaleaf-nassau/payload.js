@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/carle-place/dispensary/curaleaf-nassau", {data:[{}],fetch:{},mutations:[]});

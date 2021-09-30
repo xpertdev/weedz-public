@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/amarillo/store/your-cbd-store-amarillo", {data:[{}],fetch:{},mutations:[]});

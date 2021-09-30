@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/dispensary/high-times-oakland", {data:[{}],fetch:{},mutations:[]});

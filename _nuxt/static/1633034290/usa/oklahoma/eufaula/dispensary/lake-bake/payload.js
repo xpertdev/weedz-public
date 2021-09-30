@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/eufaula/dispensary/lake-bake", {data:[{}],fetch:{},mutations:[]});

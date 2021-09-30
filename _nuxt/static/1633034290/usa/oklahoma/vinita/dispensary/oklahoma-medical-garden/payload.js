@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vinita/dispensary/oklahoma-medical-garden", {data:[{}],fetch:{},mutations:[]});

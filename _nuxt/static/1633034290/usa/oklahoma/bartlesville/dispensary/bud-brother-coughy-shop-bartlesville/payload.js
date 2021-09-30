@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bartlesville/dispensary/bud-brother-coughy-shop-bartlesville", {data:[{}],fetch:{},mutations:[]});

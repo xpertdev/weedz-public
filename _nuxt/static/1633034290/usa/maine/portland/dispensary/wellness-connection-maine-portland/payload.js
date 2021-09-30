@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/dispensary/wellness-connection-maine-portland", {data:[{}],fetch:{},mutations:[]});

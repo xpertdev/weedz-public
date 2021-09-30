@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fontanan/delivery/inland-plug-9", {data:[{}],fetch:{},mutations:[]});

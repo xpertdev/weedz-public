@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/willamina/dispensary/going-green-grande-ronde", {data:[{}],fetch:{},mutations:[]});

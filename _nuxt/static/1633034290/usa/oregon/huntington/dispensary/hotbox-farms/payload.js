@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/huntington/dispensary/hotbox-farms", {data:[{}],fetch:{},mutations:[]});

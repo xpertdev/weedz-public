@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/enola/dispensary/organic-remedies-inc-enola", {data:[{}],fetch:{},mutations:[]});

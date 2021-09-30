@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/saginaw/delivery/elite-wellness-bay-city", {data:[{}],fetch:{},mutations:[]});

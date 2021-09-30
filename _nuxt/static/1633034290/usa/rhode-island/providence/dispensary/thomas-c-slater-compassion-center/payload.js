@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/providence/dispensary/thomas-c-slater-compassion-center", {data:[{}],fetch:{},mutations:[]});

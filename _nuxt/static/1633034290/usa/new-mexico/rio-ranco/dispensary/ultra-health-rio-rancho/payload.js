@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/rio-ranco/dispensary/ultra-health-rio-rancho", {data:[{}],fetch:{},mutations:[]});

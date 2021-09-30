@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-cruz/doctor/compassionate-health-options-santa-cruz", {data:[{}],fetch:{},mutations:[]});

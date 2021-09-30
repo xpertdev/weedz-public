@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/lawrence-township/dispensary/zen-leaf-lawrence-coming-soon", {data:[{}],fetch:{},mutations:[]});

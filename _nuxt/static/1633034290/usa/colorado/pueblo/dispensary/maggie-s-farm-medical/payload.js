@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/maggie-s-farm-medical", {data:[{}],fetch:{},mutations:[]});

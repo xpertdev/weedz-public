@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/wenatchee/dispensary/the-happy-crop-shoppe-2-2", {data:[{}],fetch:{},mutations:[]});

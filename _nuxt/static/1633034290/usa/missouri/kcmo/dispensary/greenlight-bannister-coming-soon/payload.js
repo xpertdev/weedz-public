@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kcmo/dispensary/greenlight-bannister-coming-soon", {data:[{}],fetch:{},mutations:[]});

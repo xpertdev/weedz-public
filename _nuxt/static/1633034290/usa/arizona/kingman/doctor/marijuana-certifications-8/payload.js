@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/kingman/doctor/marijuana-certifications-8", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/the-green-solution-5", {data:[{}],fetch:{},mutations:[]});

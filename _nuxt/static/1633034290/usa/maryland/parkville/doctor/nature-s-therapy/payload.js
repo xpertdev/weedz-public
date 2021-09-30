@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/parkville/doctor/nature-s-therapy", {data:[{}],fetch:{},mutations:[]});

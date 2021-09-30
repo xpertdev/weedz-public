@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/tweedleaf-recreational", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane-valley/dispensary/sativa-sisters", {data:[{}],fetch:{},mutations:[]});

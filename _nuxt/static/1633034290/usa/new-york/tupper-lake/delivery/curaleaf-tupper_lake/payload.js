@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/tupper-lake/delivery/curaleaf-tupper_lake", {data:[{}],fetch:{},mutations:[]});

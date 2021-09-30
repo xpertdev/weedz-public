@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/seaside/dispensary/tsunami-marijuana", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/ye-olde-apothecary-shoppe", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bellflower/dispensary/greenwolf-bellflower", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/garland/store/artisan-vapor-cbd-firewheel", {data:[{}],fetch:{},mutations:[]});

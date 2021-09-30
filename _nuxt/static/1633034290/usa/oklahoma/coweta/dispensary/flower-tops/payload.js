@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/coweta/dispensary/flower-tops", {data:[{}],fetch:{},mutations:[]});

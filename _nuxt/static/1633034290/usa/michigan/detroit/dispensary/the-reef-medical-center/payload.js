@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/the-reef-medical-center", {data:[{}],fetch:{},mutations:[]});

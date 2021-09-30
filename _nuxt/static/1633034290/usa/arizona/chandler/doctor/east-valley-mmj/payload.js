@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/chandler/doctor/east-valley-mmj", {data:[{}],fetch:{},mutations:[]});

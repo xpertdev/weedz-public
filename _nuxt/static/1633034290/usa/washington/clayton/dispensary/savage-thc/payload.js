@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/clayton/dispensary/savage-thc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/topsham/dispensary/highbrow-topsham", {data:[{}],fetch:{},mutations:[]});

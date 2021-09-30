@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/watsonville/delivery/biomass-gardens-8", {data:[{}],fetch:{},mutations:[]});

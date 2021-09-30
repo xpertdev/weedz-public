@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ft-lauderdale/delivery/the-flowery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lewiston/dispensary/the-gas-station-lewiston", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/46-releaf-no-2", {data:[{}],fetch:{},mutations:[]});

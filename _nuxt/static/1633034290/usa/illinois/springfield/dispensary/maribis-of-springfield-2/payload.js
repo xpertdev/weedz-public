@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/springfield/dispensary/maribis-of-springfield-2", {data:[{}],fetch:{},mutations:[]});

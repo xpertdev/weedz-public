@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/mt-pleasant/dispensary/jars-mt-pleasant", {data:[{}],fetch:{},mutations:[]});

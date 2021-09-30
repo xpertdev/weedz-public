@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/medpoint420-2", {data:[{}],fetch:{},mutations:[]});

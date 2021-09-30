@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/union-city/delivery/budee-65", {data:[{}],fetch:{},mutations:[]});

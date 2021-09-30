@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/yakima/dispensary/the-m-store", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/huntingdon-valley/doctor/naspac-huntingdon-valley-pa", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bethel-island/delivery/mountain-remedy-bethel-island", {data:[{}],fetch:{},mutations:[]});

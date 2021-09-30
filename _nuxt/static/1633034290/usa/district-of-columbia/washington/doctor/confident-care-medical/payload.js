@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/district-of-columbia/washington/doctor/confident-care-medical", {data:[{}],fetch:{},mutations:[]});

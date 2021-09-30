@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/gibbs-green-delivery", {data:[{}],fetch:{},mutations:[]});

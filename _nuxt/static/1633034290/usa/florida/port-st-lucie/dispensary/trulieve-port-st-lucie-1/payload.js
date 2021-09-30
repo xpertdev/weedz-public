@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-st-lucie/dispensary/trulieve-port-st-lucie-1", {data:[{}],fetch:{},mutations:[]});

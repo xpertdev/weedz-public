@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/mr-nice-guy-portland-se-122nd", {data:[{}],fetch:{},mutations:[]});

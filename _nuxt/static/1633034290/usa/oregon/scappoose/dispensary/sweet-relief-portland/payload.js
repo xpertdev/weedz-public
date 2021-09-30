@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/scappoose/dispensary/sweet-relief-portland", {data:[{}],fetch:{},mutations:[]});

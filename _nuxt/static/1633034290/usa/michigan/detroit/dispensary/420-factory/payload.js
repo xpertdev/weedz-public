@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/420-factory", {data:[{}],fetch:{},mutations:[]});

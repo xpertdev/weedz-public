@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/delivery/project-cannabis-noho-delivery-1", {data:[{}],fetch:{},mutations:[]});

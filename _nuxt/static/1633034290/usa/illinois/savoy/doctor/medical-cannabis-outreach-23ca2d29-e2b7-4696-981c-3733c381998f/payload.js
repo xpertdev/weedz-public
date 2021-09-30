@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/savoy/doctor/medical-cannabis-outreach-23ca2d29-e2b7-4696-981c-3733c381998f", {data:[{}],fetch:{},mutations:[]});

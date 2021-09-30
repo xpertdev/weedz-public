@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/earth-city/dispensary/beleaf-company", {data:[{}],fetch:{},mutations:[]});

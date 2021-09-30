@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rochester/doctor/hemp-central-3", {data:[{}],fetch:{},mutations:[]});

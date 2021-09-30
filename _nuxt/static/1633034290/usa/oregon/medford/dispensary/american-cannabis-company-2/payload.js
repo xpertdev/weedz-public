@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/dispensary/american-cannabis-company-2", {data:[{}],fetch:{},mutations:[]});

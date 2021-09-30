@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/morris/doctor/advanced-holistic-group-morris", {data:[{}],fetch:{},mutations:[]});

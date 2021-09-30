@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ferndale/delivery/nirvana-center-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/rogers/doctor/dr-tammys-healing-art-centers", {data:[{}],fetch:{},mutations:[]});

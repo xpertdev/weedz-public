@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/keizer/dispensary/oregon-bud-company-keizer", {data:[{}],fetch:{},mutations:[]});

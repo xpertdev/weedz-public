@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rialto/delivery/inland-plug-7", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/doctor/miracle-leaf-miami-shores", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/livwell-on-murray", {data:[{}],fetch:{},mutations:[]});

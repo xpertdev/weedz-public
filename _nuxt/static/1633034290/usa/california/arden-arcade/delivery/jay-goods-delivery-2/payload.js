@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arden-arcade/delivery/jay-goods-delivery-2", {data:[{}],fetch:{},mutations:[]});

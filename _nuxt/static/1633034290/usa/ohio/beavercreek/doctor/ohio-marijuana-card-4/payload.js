@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/beavercreek/doctor/ohio-marijuana-card-4", {data:[{}],fetch:{},mutations:[]});

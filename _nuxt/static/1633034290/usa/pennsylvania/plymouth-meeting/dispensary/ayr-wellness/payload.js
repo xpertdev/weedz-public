@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/plymouth-meeting/dispensary/ayr-wellness", {data:[{}],fetch:{},mutations:[]});

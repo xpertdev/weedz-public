@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lancaster/delivery/royal-apothecary", {data:[{}],fetch:{},mutations:[]});

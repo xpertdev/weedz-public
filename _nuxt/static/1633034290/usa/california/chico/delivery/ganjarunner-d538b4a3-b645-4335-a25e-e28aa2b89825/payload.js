@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chico/delivery/ganjarunner-d538b4a3-b645-4335-a25e-e28aa2b89825", {data:[{}],fetch:{},mutations:[]});

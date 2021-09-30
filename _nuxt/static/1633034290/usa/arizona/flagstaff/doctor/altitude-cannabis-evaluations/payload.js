@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/flagstaff/doctor/altitude-cannabis-evaluations", {data:[{}],fetch:{},mutations:[]});

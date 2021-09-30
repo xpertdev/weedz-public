@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/doctor/dr-weedy-db4c0d2a-8eda-4181-9fb3-7b3df00020a2", {data:[{}],fetch:{},mutations:[]});

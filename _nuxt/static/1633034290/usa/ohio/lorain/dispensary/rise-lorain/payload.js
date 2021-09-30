@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/lorain/dispensary/rise-lorain", {data:[{}],fetch:{},mutations:[]});

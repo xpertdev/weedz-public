@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/catoosa/dispensary/cbd-plus-usa-catoosa", {data:[{}],fetch:{},mutations:[]});

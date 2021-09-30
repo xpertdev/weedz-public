@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-lauderdale/doctor/benevolent-care-llc-2", {data:[{}],fetch:{},mutations:[]});

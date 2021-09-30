@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/11900-s-penn-llc", {data:[{}],fetch:{},mutations:[]});

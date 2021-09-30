@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/antonito/dispensary/dispensary-7884-1", {data:[{}],fetch:{},mutations:[]});

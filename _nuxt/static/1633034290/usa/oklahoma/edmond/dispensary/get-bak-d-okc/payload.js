@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/get-bak-d-okc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/saint-paul/dispensary/leafline-labs-st-paul", {data:[{}],fetch:{},mutations:[]});

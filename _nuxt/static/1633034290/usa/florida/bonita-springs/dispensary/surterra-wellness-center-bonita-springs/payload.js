@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/bonita-springs/dispensary/surterra-wellness-center-bonita-springs", {data:[{}],fetch:{},mutations:[]});

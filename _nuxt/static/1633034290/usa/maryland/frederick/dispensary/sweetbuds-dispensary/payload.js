@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/frederick/dispensary/sweetbuds-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/playa-del-rey/dispensary/green-city-collective-la", {data:[{}],fetch:{},mutations:[]});

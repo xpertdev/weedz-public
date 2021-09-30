@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/lancaster/dispensary/the-apothecarium-lancaster-1", {data:[{}],fetch:{},mutations:[]});

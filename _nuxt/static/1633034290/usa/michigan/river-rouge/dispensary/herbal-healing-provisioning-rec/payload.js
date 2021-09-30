@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/river-rouge/dispensary/herbal-healing-provisioning-rec", {data:[{}],fetch:{},mutations:[]});

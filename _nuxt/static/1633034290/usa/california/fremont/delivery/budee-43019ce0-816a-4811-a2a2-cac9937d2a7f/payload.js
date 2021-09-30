@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/budee-43019ce0-816a-4811-a2a2-cac9937d2a7f", {data:[{}],fetch:{},mutations:[]});

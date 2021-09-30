@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mendocino/dispensary/love-in-it-cooperative", {data:[{}],fetch:{},mutations:[]});

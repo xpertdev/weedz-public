@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/boca-raton/doctor/florida-medical-specialty-group", {data:[{}],fetch:{},mutations:[]});

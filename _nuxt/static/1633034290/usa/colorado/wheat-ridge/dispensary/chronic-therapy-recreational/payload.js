@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/wheat-ridge/dispensary/chronic-therapy-recreational", {data:[{}],fetch:{},mutations:[]});

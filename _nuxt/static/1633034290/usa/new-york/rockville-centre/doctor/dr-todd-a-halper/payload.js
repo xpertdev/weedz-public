@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rockville-centre/doctor/dr-todd-a-halper", {data:[{}],fetch:{},mutations:[]});

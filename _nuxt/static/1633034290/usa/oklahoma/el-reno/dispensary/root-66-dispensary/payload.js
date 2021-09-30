@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/el-reno/dispensary/root-66-dispensary", {data:[{}],fetch:{},mutations:[]});

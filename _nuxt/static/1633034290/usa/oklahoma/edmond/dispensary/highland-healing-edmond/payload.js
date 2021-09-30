@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/highland-healing-edmond", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/cranberry-township/doctor/marijuana-certifications-10", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/las-vegas/dispensary/new-mexicann-natural-medicine-las-vegas", {data:[{}],fetch:{},mutations:[]});

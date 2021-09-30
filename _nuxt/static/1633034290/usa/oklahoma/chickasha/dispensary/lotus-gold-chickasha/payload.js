@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/chickasha/dispensary/lotus-gold-chickasha", {data:[{}],fetch:{},mutations:[]});

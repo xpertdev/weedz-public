@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/joppa/dispensary/rise-joppa", {data:[{}],fetch:{},mutations:[]});

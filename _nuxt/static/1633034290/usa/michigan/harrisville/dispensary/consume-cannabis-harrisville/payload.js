@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/harrisville/dispensary/consume-cannabis-harrisville", {data:[{}],fetch:{},mutations:[]});

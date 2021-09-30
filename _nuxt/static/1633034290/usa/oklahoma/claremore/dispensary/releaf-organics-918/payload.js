@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/claremore/dispensary/releaf-organics-918", {data:[{}],fetch:{},mutations:[]});

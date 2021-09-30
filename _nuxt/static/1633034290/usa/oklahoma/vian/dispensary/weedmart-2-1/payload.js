@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vian/dispensary/weedmart-2-1", {data:[{}],fetch:{},mutations:[]});

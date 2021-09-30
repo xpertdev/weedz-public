@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tracy/delivery/socal-green-meds-50", {data:[{}],fetch:{},mutations:[]});

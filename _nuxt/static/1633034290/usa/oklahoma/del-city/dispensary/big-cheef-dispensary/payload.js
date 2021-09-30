@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/del-city/dispensary/big-cheef-dispensary", {data:[{}],fetch:{},mutations:[]});

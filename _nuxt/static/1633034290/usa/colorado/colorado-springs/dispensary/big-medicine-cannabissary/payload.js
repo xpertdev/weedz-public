@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/big-medicine-cannabissary", {data:[{}],fetch:{},mutations:[]});

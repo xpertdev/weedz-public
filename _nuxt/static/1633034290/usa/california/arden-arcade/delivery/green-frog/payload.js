@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arden-arcade/delivery/green-frog", {data:[{}],fetch:{},mutations:[]});

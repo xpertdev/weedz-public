@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sun-city-center/doctor/medical-marijuana-treatment-clinics-of-florida-dff7af64-4850-44df-ad2a-eb6edf74f4c4", {data:[{}],fetch:{},mutations:[]});

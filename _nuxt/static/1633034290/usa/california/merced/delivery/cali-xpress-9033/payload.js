@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/merced/delivery/cali-xpress-9033", {data:[{}],fetch:{},mutations:[]});

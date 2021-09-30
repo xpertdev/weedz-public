@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/bedford-stuyvesant/doctor/medical-marijuana-on-the-go-ny", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/irvine/delivery/from-the-earth-irvine", {data:[{}],fetch:{},mutations:[]});

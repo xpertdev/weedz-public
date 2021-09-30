@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/salinas/delivery/compassionate-bay-delivery-2", {data:[{}],fetch:{},mutations:[]});

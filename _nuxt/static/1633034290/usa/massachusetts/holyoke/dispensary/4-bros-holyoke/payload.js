@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/holyoke/dispensary/4-bros-holyoke", {data:[{}],fetch:{},mutations:[]});

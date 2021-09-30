@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-haven/dispensary/new-standard-grand-haven", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/napa/delivery/cannabliss-2-4", {data:[{}],fetch:{},mutations:[]});

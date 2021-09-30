@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/delivery/mcpg-happy-herbs-delivery-service-2", {data:[{}],fetch:{},mutations:[]});

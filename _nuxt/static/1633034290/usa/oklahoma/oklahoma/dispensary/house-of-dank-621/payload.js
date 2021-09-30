@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma/dispensary/house-of-dank-621", {data:[{}],fetch:{},mutations:[]});

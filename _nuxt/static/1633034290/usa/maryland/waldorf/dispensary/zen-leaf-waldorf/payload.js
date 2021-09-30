@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/waldorf/dispensary/zen-leaf-waldorf", {data:[{}],fetch:{},mutations:[]});

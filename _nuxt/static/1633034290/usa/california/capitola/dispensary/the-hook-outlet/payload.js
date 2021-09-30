@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/capitola/dispensary/the-hook-outlet", {data:[{}],fetch:{},mutations:[]});

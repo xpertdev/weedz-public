@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucca-valley/delivery/green-pearl-organics-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/haverhill/dispensary/cna-stores-1", {data:[{}],fetch:{},mutations:[]});

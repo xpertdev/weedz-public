@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/copperopolis/delivery/calaveras-little-trees", {data:[{}],fetch:{},mutations:[]});

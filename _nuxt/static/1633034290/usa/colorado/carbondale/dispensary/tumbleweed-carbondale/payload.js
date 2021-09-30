@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/carbondale/dispensary/tumbleweed-carbondale", {data:[{}],fetch:{},mutations:[]});

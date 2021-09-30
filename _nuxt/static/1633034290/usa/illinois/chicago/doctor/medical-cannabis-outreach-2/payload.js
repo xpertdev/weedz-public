@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago/doctor/medical-cannabis-outreach-2", {data:[{}],fetch:{},mutations:[]});

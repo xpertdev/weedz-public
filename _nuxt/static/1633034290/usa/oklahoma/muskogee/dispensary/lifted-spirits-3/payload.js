@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muskogee/dispensary/lifted-spirits-3", {data:[{}],fetch:{},mutations:[]});

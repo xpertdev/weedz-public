@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/vassar/dispensary/high-level-health-7", {data:[{}],fetch:{},mutations:[]});

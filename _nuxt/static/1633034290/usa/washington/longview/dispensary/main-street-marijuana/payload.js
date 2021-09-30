@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/longview/dispensary/main-street-marijuana", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-los-angeles/delivery/cali-xpress-8979", {data:[{}],fetch:{},mutations:[]});

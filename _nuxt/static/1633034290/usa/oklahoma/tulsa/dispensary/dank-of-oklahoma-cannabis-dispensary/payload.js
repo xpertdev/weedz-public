@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/dank-of-oklahoma-cannabis-dispensary", {data:[{}],fetch:{},mutations:[]});

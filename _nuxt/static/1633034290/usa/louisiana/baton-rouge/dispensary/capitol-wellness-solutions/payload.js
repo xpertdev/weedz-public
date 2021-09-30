@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/baton-rouge/dispensary/capitol-wellness-solutions", {data:[{}],fetch:{},mutations:[]});

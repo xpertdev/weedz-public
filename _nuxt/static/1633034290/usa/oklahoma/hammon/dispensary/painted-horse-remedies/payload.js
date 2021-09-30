@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hammon/dispensary/painted-horse-remedies", {data:[{}],fetch:{},mutations:[]});

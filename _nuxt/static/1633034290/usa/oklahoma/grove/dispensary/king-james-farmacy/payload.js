@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/grove/dispensary/king-james-farmacy", {data:[{}],fetch:{},mutations:[]});

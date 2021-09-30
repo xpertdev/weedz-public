@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-hollywood/dispensary/medmen-los-angeles-west-hollywood", {data:[{}],fetch:{},mutations:[]});

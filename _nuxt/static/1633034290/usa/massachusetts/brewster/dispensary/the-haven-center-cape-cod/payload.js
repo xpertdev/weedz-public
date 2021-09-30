@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/brewster/dispensary/the-haven-center-cape-cod", {data:[{}],fetch:{},mutations:[]});

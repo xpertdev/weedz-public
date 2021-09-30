@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cupertino/delivery/10-collective-cupertino", {data:[{}],fetch:{},mutations:[]});

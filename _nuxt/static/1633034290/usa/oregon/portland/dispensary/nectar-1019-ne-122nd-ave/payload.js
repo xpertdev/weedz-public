@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/nectar-1019-ne-122nd-ave", {data:[{}],fetch:{},mutations:[]});

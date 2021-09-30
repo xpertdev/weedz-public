@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/sharon/dispensary/zen-leaf-sharon", {data:[{}],fetch:{},mutations:[]});

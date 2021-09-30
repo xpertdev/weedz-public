@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yorba-linda/delivery/weeed-5", {data:[{}],fetch:{},mutations:[]});

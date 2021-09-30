@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/robbinsdale/doctor/dodson-pain-consultants-pa", {data:[{}],fetch:{},mutations:[]});

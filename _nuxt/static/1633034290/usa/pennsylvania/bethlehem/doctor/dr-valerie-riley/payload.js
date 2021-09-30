@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/bethlehem/doctor/dr-valerie-riley", {data:[{}],fetch:{},mutations:[]});

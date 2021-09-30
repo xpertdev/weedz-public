@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/rolla-osage-beach/doctor/mmjrecs-online-clinic-16", {data:[{}],fetch:{},mutations:[]});

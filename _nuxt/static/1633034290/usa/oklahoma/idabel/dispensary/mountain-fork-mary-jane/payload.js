@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/idabel/dispensary/mountain-fork-mary-jane", {data:[{}],fetch:{},mutations:[]});

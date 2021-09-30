@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/walla-walla/dispensary/walla-walla-weedery-2-4", {data:[{}],fetch:{},mutations:[]});

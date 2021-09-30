@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-park/delivery/budee-52", {data:[{}],fetch:{},mutations:[]});

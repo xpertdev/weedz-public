@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/hugs-alternative-care", {data:[{}],fetch:{},mutations:[]});

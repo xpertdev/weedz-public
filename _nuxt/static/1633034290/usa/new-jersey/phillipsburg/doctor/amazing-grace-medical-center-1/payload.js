@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/phillipsburg/doctor/amazing-grace-medical-center-1", {data:[{}],fetch:{},mutations:[]});

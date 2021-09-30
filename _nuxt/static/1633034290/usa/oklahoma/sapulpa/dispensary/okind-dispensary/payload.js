@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sapulpa/dispensary/okind-dispensary", {data:[{}],fetch:{},mutations:[]});

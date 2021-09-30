@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manteca/delivery/smoke-on-the-water-19", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane/doctor/best-medical-consultation", {data:[{}],fetch:{},mutations:[]});

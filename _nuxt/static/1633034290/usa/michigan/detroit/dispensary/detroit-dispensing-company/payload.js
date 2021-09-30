@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/detroit-dispensing-company", {data:[{}],fetch:{},mutations:[]});

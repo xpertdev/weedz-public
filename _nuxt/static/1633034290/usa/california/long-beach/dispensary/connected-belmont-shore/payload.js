@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/dispensary/connected-belmont-shore", {data:[{}],fetch:{},mutations:[]});

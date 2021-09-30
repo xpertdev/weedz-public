@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/truth-or-consequences/delivery/mj-express-o-delivery-truth-or-consequences", {data:[{}],fetch:{},mutations:[]});

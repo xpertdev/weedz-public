@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fontana/delivery/budee-23c82585-f053-4432-8657-7abb421ce35b", {data:[{}],fetch:{},mutations:[]});

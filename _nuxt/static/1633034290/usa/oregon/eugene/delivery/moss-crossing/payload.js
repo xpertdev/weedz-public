@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/delivery/moss-crossing", {data:[{}],fetch:{},mutations:[]});

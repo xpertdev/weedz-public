@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/gotreez-granite-bay-folsom", {data:[{}],fetch:{},mutations:[]});

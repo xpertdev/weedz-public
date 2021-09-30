@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/native-brothers-cbd-dispensary-1", {data:[{}],fetch:{},mutations:[]});

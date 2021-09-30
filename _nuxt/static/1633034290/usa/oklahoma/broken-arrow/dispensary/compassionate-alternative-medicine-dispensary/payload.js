@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/compassionate-alternative-medicine-dispensary", {data:[{}],fetch:{},mutations:[]});

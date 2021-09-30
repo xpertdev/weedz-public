@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/advanced-wellness-downtown", {data:[{}],fetch:{},mutations:[]});

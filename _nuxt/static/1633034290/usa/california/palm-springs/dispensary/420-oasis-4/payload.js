@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/dispensary/420-oasis-4", {data:[{}],fetch:{},mutations:[]});

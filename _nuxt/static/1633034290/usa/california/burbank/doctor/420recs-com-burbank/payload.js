@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/doctor/420recs-com-burbank", {data:[{}],fetch:{},mutations:[]});

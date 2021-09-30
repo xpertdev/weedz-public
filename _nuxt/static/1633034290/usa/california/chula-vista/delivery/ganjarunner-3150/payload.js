@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista/delivery/ganjarunner-3150", {data:[{}],fetch:{},mutations:[]});

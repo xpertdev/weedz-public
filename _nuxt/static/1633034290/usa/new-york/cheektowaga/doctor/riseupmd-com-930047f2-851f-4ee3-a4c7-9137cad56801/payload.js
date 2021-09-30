@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/cheektowaga/doctor/riseupmd-com-930047f2-851f-4ee3-a4c7-9137cad56801", {data:[{}],fetch:{},mutations:[]});

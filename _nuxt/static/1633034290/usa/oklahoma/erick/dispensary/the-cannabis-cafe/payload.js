@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/erick/dispensary/the-cannabis-cafe", {data:[{}],fetch:{},mutations:[]});

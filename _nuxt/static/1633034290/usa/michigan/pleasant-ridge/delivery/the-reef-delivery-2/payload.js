@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/pleasant-ridge/delivery/the-reef-delivery-2", {data:[{}],fetch:{},mutations:[]});

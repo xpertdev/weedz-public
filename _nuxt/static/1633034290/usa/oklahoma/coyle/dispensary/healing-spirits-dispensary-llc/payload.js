@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/coyle/dispensary/healing-spirits-dispensary-llc", {data:[{}],fetch:{},mutations:[]});

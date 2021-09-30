@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/willis/store/cbd-american-shaman-willis", {data:[{}],fetch:{},mutations:[]});

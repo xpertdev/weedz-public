@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/merced/dispensary/infinity-1", {data:[{}],fetch:{},mutations:[]});

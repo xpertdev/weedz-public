@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/woodland-hills/delivery/the-syndicate-delivery", {data:[{}],fetch:{},mutations:[]});

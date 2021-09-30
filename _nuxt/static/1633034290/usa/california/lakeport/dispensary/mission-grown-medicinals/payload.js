@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakeport/dispensary/mission-grown-medicinals", {data:[{}],fetch:{},mutations:[]});

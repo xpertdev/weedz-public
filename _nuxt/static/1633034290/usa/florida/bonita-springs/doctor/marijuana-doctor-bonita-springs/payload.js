@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/bonita-springs/doctor/marijuana-doctor-bonita-springs", {data:[{}],fetch:{},mutations:[]});

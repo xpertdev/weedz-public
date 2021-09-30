@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/store/whole-hemp-goods", {data:[{}],fetch:{},mutations:[]});

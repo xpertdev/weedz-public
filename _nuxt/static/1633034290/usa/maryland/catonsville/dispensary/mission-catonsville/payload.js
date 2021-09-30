@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/catonsville/dispensary/mission-catonsville", {data:[{}],fetch:{},mutations:[]});

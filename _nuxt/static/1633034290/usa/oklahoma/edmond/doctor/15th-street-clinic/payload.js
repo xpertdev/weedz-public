@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/doctor/15th-street-clinic", {data:[{}],fetch:{},mutations:[]});

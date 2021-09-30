@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/culver-city/delivery/the-artist-tree-4", {data:[{}],fetch:{},mutations:[]});

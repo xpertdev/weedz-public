@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-fe-springs/delivery/daze-12", {data:[{}],fetch:{},mutations:[]});

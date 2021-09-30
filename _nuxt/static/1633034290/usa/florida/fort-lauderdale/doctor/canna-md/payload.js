@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-lauderdale/doctor/canna-md", {data:[{}],fetch:{},mutations:[]});

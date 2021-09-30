@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/pickerington/doctor/green-harvest-health", {data:[{}],fetch:{},mutations:[]});

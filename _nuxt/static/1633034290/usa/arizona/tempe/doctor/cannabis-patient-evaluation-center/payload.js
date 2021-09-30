@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tempe/doctor/cannabis-patient-evaluation-center", {data:[{}],fetch:{},mutations:[]});

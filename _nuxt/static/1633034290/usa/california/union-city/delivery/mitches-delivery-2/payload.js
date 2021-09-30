@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/union-city/delivery/mitches-delivery-2", {data:[{}],fetch:{},mutations:[]});

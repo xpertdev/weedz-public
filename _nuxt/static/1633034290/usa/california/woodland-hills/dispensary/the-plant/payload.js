@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/woodland-hills/dispensary/the-plant", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sayre/dispensary/the-dispensary-10", {data:[{}],fetch:{},mutations:[]});

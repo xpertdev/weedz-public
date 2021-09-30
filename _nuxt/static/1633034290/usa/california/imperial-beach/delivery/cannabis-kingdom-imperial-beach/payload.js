@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/imperial-beach/delivery/cannabis-kingdom-imperial-beach", {data:[{}],fetch:{},mutations:[]});

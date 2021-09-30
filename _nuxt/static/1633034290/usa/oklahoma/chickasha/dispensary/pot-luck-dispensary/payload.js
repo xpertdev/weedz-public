@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/chickasha/dispensary/pot-luck-dispensary", {data:[{}],fetch:{},mutations:[]});

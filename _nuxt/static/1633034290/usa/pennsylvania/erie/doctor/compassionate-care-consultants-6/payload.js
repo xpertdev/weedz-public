@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/erie/doctor/compassionate-care-consultants-6", {data:[{}],fetch:{},mutations:[]});

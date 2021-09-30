@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/perry/dispensary/down-to-cloud", {data:[{}],fetch:{},mutations:[]});

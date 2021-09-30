@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/north-las-vegas/dispensary/deep-roots-harvest-2", {data:[{}],fetch:{},mutations:[]});

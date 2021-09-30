@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/morro-bay/delivery/garden-state-nectar-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/the-village/dispensary/green-light-district-cannabis-supply", {data:[{}],fetch:{},mutations:[]});

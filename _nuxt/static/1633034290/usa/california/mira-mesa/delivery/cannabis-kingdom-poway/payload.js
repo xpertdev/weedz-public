@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mira-mesa/delivery/cannabis-kingdom-poway", {data:[{}],fetch:{},mutations:[]});

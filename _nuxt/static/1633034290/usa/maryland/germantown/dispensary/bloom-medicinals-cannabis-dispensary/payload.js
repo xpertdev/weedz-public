@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/germantown/dispensary/bloom-medicinals-cannabis-dispensary", {data:[{}],fetch:{},mutations:[]});

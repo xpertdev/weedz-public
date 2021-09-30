@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ft-myers/dispensary/liberty-health-sciences-cannabis-education-center-ft-myers", {data:[{}],fetch:{},mutations:[]});

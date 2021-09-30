@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/taylor/dispensary/kompo-care", {data:[{}],fetch:{},mutations:[]});

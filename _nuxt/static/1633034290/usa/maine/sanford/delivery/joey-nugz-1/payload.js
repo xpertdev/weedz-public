@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/sanford/delivery/joey-nugz-1", {data:[{}],fetch:{},mutations:[]});

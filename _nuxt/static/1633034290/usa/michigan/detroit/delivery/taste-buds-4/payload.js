@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/delivery/taste-buds-4", {data:[{}],fetch:{},mutations:[]});

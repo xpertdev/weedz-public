@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moreno-valley/dispensary/shango-moreno-valley", {data:[{}],fetch:{},mutations:[]});

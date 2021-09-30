@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/flushing/doctor/dr-elvira-fardella-roveto", {data:[{}],fetch:{},mutations:[]});

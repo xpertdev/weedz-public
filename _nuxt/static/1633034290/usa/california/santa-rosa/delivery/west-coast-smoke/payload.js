@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-rosa/delivery/west-coast-smoke", {data:[{}],fetch:{},mutations:[]});

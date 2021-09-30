@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chino/delivery/cake-5", {data:[{}],fetch:{},mutations:[]});

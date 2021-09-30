@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lake-elsinore/dispensary/the-healing-tree-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/west-palm-beach/doctor/mmj-health-8", {data:[{}],fetch:{},mutations:[]});

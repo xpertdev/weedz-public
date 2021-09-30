@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-hollywood/delivery/soco-la-culver-city", {data:[{}],fetch:{},mutations:[]});

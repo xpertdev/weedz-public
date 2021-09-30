@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/long-island/doctor/semaj-health-and-wellness-3", {data:[{}],fetch:{},mutations:[]});

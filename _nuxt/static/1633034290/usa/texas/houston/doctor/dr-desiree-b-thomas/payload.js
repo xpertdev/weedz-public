@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/houston/doctor/dr-desiree-b-thomas", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/monterey/delivery/golden-state-canna-34", {data:[{}],fetch:{},mutations:[]});

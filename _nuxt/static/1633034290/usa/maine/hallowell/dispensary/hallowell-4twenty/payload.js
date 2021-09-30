@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/hallowell/dispensary/hallowell-4twenty", {data:[{}],fetch:{},mutations:[]});

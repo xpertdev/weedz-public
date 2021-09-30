@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/the-pig-n-whistle", {data:[{}],fetch:{},mutations:[]});

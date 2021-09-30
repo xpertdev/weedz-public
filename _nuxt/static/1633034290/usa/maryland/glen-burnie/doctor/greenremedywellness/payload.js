@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/glen-burnie/doctor/greenremedywellness", {data:[{}],fetch:{},mutations:[]});

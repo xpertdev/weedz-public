@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/grassdoor-30", {data:[{}],fetch:{},mutations:[]});

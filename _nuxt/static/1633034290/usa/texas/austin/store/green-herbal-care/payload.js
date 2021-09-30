@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/austin/store/green-herbal-care", {data:[{}],fetch:{},mutations:[]});

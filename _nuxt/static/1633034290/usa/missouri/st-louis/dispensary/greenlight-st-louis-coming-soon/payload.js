@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/st-louis/dispensary/greenlight-st-louis-coming-soon", {data:[{}],fetch:{},mutations:[]});

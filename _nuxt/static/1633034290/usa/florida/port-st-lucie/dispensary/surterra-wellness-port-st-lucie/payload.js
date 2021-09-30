@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-st-lucie/dispensary/surterra-wellness-port-st-lucie", {data:[{}],fetch:{},mutations:[]});

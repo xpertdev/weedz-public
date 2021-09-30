@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/naperville/dispensary/zen-leaf-naperville", {data:[{}],fetch:{},mutations:[]});

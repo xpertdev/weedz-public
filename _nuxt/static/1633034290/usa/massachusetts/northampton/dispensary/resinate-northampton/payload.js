@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/northampton/dispensary/resinate-northampton", {data:[{}],fetch:{},mutations:[]});

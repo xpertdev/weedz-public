@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/livermore/delivery/smoakland-livermore", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/elevated-apothic-4", {data:[{}],fetch:{},mutations:[]});

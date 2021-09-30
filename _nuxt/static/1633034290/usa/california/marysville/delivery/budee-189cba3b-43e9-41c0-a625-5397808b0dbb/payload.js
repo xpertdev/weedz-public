@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/marysville/delivery/budee-189cba3b-43e9-41c0-a625-5397808b0dbb", {data:[{}],fetch:{},mutations:[]});

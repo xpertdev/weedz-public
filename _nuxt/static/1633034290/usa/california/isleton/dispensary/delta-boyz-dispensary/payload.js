@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/isleton/dispensary/delta-boyz-dispensary", {data:[{}],fetch:{},mutations:[]});

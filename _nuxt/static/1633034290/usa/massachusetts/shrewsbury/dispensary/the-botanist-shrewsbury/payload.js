@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/shrewsbury/dispensary/the-botanist-shrewsbury", {data:[{}],fetch:{},mutations:[]});

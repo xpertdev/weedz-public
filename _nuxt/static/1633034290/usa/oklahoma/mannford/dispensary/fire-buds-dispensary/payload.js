@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mannford/dispensary/fire-buds-dispensary", {data:[{}],fetch:{},mutations:[]});

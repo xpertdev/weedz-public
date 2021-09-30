@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/warwick/doctor/b-and-b-consulting", {data:[{}],fetch:{},mutations:[]});

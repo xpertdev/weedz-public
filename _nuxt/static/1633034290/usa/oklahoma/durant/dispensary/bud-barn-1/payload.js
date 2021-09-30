@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/durant/dispensary/bud-barn-1", {data:[{}],fetch:{},mutations:[]});

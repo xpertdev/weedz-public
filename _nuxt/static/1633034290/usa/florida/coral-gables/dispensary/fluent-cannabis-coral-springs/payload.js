@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/coral-gables/dispensary/fluent-cannabis-coral-springs", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/speedy-weedy-delivery-powered-by-golden-juniper", {data:[{}],fetch:{},mutations:[]});

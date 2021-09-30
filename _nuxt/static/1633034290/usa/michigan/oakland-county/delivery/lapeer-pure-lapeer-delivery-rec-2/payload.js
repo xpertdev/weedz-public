@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/oakland-county/delivery/lapeer-pure-lapeer-delivery-rec-2", {data:[{}],fetch:{},mutations:[]});

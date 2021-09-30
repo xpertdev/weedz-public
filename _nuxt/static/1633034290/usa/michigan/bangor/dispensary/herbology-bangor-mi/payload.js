@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bangor/dispensary/herbology-bangor-mi", {data:[{}],fetch:{},mutations:[]});

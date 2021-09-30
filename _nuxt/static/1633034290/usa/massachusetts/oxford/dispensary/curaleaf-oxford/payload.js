@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/oxford/dispensary/curaleaf-oxford", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/venice/delivery/speedy-weedy-delivery-venice", {data:[{}],fetch:{},mutations:[]});

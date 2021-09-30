@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/isabella/dispensary/d-vine-farmacy-2", {data:[{}],fetch:{},mutations:[]});

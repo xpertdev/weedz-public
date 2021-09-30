@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/buchanan/dispensary/zen-leaf-provisioning", {data:[{}],fetch:{},mutations:[]});

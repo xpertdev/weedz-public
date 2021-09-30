@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/dispensary/boulder-fresh-baked-dispensary", {data:[{}],fetch:{},mutations:[]});

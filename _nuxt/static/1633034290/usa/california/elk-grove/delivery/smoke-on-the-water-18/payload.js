@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/smoke-on-the-water-18", {data:[{}],fetch:{},mutations:[]});

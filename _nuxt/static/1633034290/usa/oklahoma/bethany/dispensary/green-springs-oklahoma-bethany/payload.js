@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/green-springs-oklahoma-bethany", {data:[{}],fetch:{},mutations:[]});

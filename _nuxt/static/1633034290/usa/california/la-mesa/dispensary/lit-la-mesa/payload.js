@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/dispensary/lit-la-mesa", {data:[{}],fetch:{},mutations:[]});

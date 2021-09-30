@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/dispensary/gage-grand-rapids", {data:[{}],fetch:{},mutations:[]});

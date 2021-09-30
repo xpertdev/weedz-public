@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/orange/delivery/the-spot-orange", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakewood/delivery/mmd-south-long-beach", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/dispensary/speedy-weedy-vista", {data:[{}],fetch:{},mutations:[]});

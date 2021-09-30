@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pleasant-hill/delivery/mendomedex-1", {data:[{}],fetch:{},mutations:[]});

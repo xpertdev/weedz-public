@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mission-viejo/delivery/the-medicine-woman-mission-viejo", {data:[{}],fetch:{},mutations:[]});

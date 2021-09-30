@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/escondido/delivery/ramona-cannabis-company-4", {data:[{}],fetch:{},mutations:[]});

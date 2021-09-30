@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cerritos/delivery/cali-xpress-9023", {data:[{}],fetch:{},mutations:[]});

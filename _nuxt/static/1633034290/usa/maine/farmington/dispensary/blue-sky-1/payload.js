@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/farmington/dispensary/blue-sky-1", {data:[{}],fetch:{},mutations:[]});

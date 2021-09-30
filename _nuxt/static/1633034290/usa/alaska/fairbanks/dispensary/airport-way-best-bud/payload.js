@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/fairbanks/dispensary/airport-way-best-bud", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/doctor/riseupmd-com-4", {data:[{}],fetch:{},mutations:[]});

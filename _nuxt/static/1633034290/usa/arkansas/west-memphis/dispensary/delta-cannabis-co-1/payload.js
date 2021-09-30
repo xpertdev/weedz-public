@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/west-memphis/dispensary/delta-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

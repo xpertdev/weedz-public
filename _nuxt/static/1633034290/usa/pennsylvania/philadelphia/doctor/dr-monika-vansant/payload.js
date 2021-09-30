@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/doctor/dr-monika-vansant", {data:[{}],fetch:{},mutations:[]});

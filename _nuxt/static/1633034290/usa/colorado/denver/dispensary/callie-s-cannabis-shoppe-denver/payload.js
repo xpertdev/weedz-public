@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/callie-s-cannabis-shoppe-denver", {data:[{}],fetch:{},mutations:[]});

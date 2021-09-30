@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/palisade/dispensary/the-happy-camper-cannabis-company-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/sanford/dispensary/landrace-cannabis-co", {data:[{}],fetch:{},mutations:[]});

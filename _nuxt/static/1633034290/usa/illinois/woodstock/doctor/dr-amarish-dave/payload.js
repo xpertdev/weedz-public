@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/woodstock/doctor/dr-amarish-dave", {data:[{}],fetch:{},mutations:[]});

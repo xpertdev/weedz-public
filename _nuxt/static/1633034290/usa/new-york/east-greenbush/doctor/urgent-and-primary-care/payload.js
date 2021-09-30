@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/east-greenbush/doctor/urgent-and-primary-care", {data:[{}],fetch:{},mutations:[]});

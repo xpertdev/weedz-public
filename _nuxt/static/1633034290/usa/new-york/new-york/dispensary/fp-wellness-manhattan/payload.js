@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/dispensary/fp-wellness-manhattan", {data:[{}],fetch:{},mutations:[]});

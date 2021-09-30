@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/petersburg/dispensary/lume-cannabis-co-petersburg", {data:[{}],fetch:{},mutations:[]});

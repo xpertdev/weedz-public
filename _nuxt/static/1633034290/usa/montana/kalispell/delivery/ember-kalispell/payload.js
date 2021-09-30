@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/kalispell/delivery/ember-kalispell", {data:[{}],fetch:{},mutations:[]});

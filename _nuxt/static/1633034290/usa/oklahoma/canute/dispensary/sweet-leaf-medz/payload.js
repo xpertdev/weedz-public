@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/canute/dispensary/sweet-leaf-medz", {data:[{}],fetch:{},mutations:[]});

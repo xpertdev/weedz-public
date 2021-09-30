@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/delivery/hyperwolf-la-puente-1", {data:[{}],fetch:{},mutations:[]});

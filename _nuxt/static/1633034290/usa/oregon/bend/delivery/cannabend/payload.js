@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bend/delivery/cannabend", {data:[{}],fetch:{},mutations:[]});

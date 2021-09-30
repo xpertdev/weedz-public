@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/the-underground-station", {data:[{}],fetch:{},mutations:[]});

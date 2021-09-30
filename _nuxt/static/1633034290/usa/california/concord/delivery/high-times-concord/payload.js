@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/high-times-concord", {data:[{}],fetch:{},mutations:[]});

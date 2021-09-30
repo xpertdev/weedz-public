@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/grandview/dispensary/releaf-resources", {data:[{}],fetch:{},mutations:[]});

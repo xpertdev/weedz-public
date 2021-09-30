@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/independence/dispensary/mary-jane-5", {data:[{}],fetch:{},mutations:[]});

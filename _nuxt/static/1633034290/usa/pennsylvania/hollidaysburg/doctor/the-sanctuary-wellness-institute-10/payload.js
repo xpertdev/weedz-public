@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/hollidaysburg/doctor/the-sanctuary-wellness-institute-10", {data:[{}],fetch:{},mutations:[]});

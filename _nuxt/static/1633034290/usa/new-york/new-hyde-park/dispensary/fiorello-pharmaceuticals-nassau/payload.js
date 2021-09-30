@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-hyde-park/dispensary/fiorello-pharmaceuticals-nassau", {data:[{}],fetch:{},mutations:[]});

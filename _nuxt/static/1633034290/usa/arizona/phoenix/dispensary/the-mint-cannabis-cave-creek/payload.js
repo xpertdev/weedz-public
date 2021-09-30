@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/the-mint-cannabis-cave-creek", {data:[{}],fetch:{},mutations:[]});

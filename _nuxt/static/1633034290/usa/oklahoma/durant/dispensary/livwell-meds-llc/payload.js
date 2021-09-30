@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/durant/dispensary/livwell-meds-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tehachapi/delivery/cali-cannabis-care-3", {data:[{}],fetch:{},mutations:[]});

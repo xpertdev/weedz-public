@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fort-collins/dispensary/livwell-fort-collins-2", {data:[{}],fetch:{},mutations:[]});

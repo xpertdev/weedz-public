@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tempe/dispensary/swc-tempe", {data:[{}],fetch:{},mutations:[]});

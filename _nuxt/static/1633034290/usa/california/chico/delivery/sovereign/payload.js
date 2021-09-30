@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chico/delivery/sovereign", {data:[{}],fetch:{},mutations:[]});

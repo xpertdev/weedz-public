@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town/doctor/dr-weedy-ae0ed8fa-cd70-404c-8007-8ae25d408a92", {data:[{}],fetch:{},mutations:[]});

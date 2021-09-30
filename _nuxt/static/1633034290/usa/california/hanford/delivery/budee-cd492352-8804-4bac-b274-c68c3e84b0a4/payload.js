@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hanford/delivery/budee-cd492352-8804-4bac-b274-c68c3e84b0a4", {data:[{}],fetch:{},mutations:[]});

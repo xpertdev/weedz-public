@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/needles/dispensary/h-street-patient-care-2-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/twisted-leaf-dispensary", {data:[{}],fetch:{},mutations:[]});

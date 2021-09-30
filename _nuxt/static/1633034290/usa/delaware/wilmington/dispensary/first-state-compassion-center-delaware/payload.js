@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/wilmington/dispensary/first-state-compassion-center-delaware", {data:[{}],fetch:{},mutations:[]});

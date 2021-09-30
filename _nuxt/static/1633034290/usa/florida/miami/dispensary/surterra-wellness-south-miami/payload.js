@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/dispensary/surterra-wellness-south-miami", {data:[{}],fetch:{},mutations:[]});

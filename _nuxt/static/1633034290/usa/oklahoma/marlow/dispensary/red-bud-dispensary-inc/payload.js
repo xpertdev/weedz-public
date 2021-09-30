@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/marlow/dispensary/red-bud-dispensary-inc", {data:[{}],fetch:{},mutations:[]});

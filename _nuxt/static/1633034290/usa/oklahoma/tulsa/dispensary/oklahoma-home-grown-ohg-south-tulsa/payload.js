@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/oklahoma-home-grown-ohg-south-tulsa", {data:[{}],fetch:{},mutations:[]});

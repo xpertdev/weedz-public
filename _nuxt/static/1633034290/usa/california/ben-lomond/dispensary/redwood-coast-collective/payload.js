@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ben-lomond/dispensary/redwood-coast-collective", {data:[{}],fetch:{},mutations:[]});

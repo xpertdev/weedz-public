@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/pittsburgh/doctor/3-rivers-leaf-consultants", {data:[{}],fetch:{},mutations:[]});

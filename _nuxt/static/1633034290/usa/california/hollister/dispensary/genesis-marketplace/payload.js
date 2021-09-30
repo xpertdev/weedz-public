@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollister/dispensary/genesis-marketplace", {data:[{}],fetch:{},mutations:[]});

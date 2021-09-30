@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/scranton/doctor/marijuana-certifications-14", {data:[{}],fetch:{},mutations:[]});

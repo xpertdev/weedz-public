@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/chickasha/doctor/elevate-holistics-15", {data:[{}],fetch:{},mutations:[]});

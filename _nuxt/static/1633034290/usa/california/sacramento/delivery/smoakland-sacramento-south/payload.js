@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/smoakland-sacramento-south", {data:[{}],fetch:{},mutations:[]});

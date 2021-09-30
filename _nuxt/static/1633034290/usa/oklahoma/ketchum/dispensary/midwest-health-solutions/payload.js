@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ketchum/dispensary/midwest-health-solutions", {data:[{}],fetch:{},mutations:[]});

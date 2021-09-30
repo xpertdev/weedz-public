@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/billings/delivery/seed-of-life-labs", {data:[{}],fetch:{},mutations:[]});

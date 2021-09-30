@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-banos/delivery/highway-33-3", {data:[{}],fetch:{},mutations:[]});

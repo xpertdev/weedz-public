@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/delivery/urban-flavours-delivery-antioch", {data:[{}],fetch:{},mutations:[]});

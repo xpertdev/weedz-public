@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/doctor/kansas-city-marijuana-doctor", {data:[{}],fetch:{},mutations:[]});

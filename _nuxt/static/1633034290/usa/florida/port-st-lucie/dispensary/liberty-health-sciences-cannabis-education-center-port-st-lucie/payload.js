@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-st-lucie/dispensary/liberty-health-sciences-cannabis-education-center-port-st-lucie", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/massapequa/doctor/dr-michael-salamatbad", {data:[{}],fetch:{},mutations:[]});

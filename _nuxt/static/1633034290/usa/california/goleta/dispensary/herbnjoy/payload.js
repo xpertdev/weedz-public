@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/goleta/dispensary/herbnjoy", {data:[{}],fetch:{},mutations:[]});

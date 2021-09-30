@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/green-on-the-go-hayward", {data:[{}],fetch:{},mutations:[]});

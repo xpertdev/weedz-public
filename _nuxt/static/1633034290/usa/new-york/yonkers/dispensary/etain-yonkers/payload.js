@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/yonkers/dispensary/etain-yonkers", {data:[{}],fetch:{},mutations:[]});

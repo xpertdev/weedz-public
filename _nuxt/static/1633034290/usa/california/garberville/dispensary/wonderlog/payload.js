@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/garberville/dispensary/wonderlog", {data:[{}],fetch:{},mutations:[]});

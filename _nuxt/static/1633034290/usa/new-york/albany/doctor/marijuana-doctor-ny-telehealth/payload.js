@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/albany/doctor/marijuana-doctor-ny-telehealth", {data:[{}],fetch:{},mutations:[]});

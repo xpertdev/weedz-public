@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/fayetteville/dispensary/acanza-health-group", {data:[{}],fetch:{},mutations:[]});

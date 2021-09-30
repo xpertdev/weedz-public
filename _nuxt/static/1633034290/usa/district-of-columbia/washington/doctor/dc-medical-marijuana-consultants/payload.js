@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/district-of-columbia/washington/doctor/dc-medical-marijuana-consultants", {data:[{}],fetch:{},mutations:[]});

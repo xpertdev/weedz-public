@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/sweet-flower-melrose", {data:[{}],fetch:{},mutations:[]});

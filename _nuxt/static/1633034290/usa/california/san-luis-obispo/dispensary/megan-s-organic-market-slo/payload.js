@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-luis-obispo/dispensary/megan-s-organic-market-slo", {data:[{}],fetch:{},mutations:[]});

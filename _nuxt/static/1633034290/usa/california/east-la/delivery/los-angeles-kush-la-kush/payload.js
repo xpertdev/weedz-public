@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/east-la/delivery/los-angeles-kush-la-kush", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/dispensary/coastal-vallejo", {data:[{}],fetch:{},mutations:[]});

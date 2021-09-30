@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/poplar-bluff/doctor/dr-c-s-clinic", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/hallandale-beach/doctor/dr-michael-j-mckenzie-md", {data:[{}],fetch:{},mutations:[]});

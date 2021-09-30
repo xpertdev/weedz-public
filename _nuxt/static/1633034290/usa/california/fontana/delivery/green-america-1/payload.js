@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fontana/delivery/green-america-1", {data:[{}],fetch:{},mutations:[]});

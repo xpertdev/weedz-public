@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hesperia/delivery/kindly-kush-1", {data:[{}],fetch:{},mutations:[]});

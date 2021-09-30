@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/longmont/dispensary/native-roots-longmont-recreational", {data:[{}],fetch:{},mutations:[]});

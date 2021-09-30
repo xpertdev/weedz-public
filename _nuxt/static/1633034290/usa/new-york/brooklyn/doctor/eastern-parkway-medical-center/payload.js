@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/doctor/eastern-parkway-medical-center", {data:[{}],fetch:{},mutations:[]});

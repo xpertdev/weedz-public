@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/columbia-falls/dispensary/modern-meds-mt", {data:[{}],fetch:{},mutations:[]});

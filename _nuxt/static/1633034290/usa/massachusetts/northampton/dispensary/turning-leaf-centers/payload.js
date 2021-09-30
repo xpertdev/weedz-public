@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/northampton/dispensary/turning-leaf-centers", {data:[{}],fetch:{},mutations:[]});

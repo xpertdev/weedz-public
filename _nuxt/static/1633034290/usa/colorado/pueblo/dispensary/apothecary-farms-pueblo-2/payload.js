@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/apothecary-farms-pueblo-2", {data:[{}],fetch:{},mutations:[]});

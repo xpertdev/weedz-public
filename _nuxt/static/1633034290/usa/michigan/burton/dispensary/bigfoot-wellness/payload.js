@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/burton/dispensary/bigfoot-wellness", {data:[{}],fetch:{},mutations:[]});

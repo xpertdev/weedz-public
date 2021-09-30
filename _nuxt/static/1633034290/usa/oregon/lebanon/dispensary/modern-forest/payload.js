@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/lebanon/dispensary/modern-forest", {data:[{}],fetch:{},mutations:[]});

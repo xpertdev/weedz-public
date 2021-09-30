@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/delivery/smoke-on-the-water-sotw", {data:[{}],fetch:{},mutations:[]});

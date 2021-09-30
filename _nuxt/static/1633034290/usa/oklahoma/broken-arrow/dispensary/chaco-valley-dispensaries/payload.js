@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/chaco-valley-dispensaries", {data:[{}],fetch:{},mutations:[]});

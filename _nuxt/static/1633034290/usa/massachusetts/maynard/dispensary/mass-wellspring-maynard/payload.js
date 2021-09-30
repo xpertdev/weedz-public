@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/maynard/dispensary/mass-wellspring-maynard", {data:[{}],fetch:{},mutations:[]});

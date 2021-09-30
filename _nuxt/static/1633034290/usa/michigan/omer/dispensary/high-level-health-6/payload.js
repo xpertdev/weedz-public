@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/omer/dispensary/high-level-health-6", {data:[{}],fetch:{},mutations:[]});

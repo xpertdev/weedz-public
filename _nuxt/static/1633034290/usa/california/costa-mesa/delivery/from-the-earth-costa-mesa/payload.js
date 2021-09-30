@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/from-the-earth-costa-mesa", {data:[{}],fetch:{},mutations:[]});

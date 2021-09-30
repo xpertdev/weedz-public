@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/kew-gardens/doctor/dr-robert-e-white", {data:[{}],fetch:{},mutations:[]});

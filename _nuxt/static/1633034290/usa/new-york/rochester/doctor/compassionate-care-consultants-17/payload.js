@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rochester/doctor/compassionate-care-consultants-17", {data:[{}],fetch:{},mutations:[]});

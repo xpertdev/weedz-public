@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-jacinto/dispensary/blazed-utopia", {data:[{}],fetch:{},mutations:[]});

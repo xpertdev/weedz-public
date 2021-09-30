@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/constantine/dispensary/constantine-wellness-center", {data:[{}],fetch:{},mutations:[]});

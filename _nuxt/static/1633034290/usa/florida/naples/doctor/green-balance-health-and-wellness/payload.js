@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/naples/doctor/green-balance-health-and-wellness", {data:[{}],fetch:{},mutations:[]});

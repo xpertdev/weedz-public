@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/union-city/delivery/mary-joe-14", {data:[{}],fetch:{},mutations:[]});

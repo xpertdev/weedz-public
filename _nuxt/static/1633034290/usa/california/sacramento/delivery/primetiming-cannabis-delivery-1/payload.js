@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/primetiming-cannabis-delivery-1", {data:[{}],fetch:{},mutations:[]});

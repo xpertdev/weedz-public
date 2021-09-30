@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tamarac/doctor/broward-medical-center", {data:[{}],fetch:{},mutations:[]});

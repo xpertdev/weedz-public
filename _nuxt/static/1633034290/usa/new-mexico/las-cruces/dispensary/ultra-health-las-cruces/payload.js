@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/las-cruces/dispensary/ultra-health-las-cruces", {data:[{}],fetch:{},mutations:[]});

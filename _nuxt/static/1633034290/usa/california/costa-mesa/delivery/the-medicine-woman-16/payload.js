@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/the-medicine-woman-16", {data:[{}],fetch:{},mutations:[]});

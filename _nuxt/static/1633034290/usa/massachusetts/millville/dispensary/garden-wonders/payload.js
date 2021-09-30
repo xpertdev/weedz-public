@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/millville/dispensary/garden-wonders", {data:[{}],fetch:{},mutations:[]});

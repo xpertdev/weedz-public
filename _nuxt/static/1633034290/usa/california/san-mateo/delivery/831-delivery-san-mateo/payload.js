@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-mateo/delivery/831-delivery-san-mateo", {data:[{}],fetch:{},mutations:[]});

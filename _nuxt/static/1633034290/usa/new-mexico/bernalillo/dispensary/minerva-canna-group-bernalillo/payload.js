@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/bernalillo/dispensary/minerva-canna-group-bernalillo", {data:[{}],fetch:{},mutations:[]});

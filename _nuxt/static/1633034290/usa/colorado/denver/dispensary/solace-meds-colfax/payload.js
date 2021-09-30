@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/solace-meds-colfax", {data:[{}],fetch:{},mutations:[]});

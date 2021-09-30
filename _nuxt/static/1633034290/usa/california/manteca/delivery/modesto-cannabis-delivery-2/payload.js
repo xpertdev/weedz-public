@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manteca/delivery/modesto-cannabis-delivery-2", {data:[{}],fetch:{},mutations:[]});

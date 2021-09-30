@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/dispensary/exhale-nevada", {data:[{}],fetch:{},mutations:[]});

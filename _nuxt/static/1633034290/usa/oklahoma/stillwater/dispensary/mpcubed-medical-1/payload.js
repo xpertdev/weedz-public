@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/mpcubed-medical-1", {data:[{}],fetch:{},mutations:[]});

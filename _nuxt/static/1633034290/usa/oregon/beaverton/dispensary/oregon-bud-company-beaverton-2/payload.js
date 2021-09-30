@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/beaverton/dispensary/oregon-bud-company-beaverton-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/scappoose/dispensary/emerald-city-dispensary", {data:[{}],fetch:{},mutations:[]});

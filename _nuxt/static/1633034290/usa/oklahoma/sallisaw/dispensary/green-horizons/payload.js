@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sallisaw/dispensary/green-horizons", {data:[{}],fetch:{},mutations:[]});

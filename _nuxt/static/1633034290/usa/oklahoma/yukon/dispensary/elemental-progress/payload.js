@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/yukon/dispensary/elemental-progress", {data:[{}],fetch:{},mutations:[]});

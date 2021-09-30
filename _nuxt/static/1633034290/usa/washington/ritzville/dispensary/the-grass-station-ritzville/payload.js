@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/ritzville/dispensary/the-grass-station-ritzville", {data:[{}],fetch:{},mutations:[]});

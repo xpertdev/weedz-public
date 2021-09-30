@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/pittsburgh/doctor/central-outreach-wellness-center", {data:[{}],fetch:{},mutations:[]});

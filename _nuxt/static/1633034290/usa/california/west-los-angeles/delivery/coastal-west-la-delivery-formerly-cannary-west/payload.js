@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-los-angeles/delivery/coastal-west-la-delivery-formerly-cannary-west", {data:[{}],fetch:{},mutations:[]});

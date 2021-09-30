@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/vero-beach/doctor/vero-beach-420-medical-marijuana-doctor", {data:[{}],fetch:{},mutations:[]});

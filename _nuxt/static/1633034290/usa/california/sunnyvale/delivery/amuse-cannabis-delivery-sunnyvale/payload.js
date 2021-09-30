@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sunnyvale/delivery/amuse-cannabis-delivery-sunnyvale", {data:[{}],fetch:{},mutations:[]});

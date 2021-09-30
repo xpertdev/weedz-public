@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/cambridge/dispensary/healthy-pharms-cambridge", {data:[{}],fetch:{},mutations:[]});

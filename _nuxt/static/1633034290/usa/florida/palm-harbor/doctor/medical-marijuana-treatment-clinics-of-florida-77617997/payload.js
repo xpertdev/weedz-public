@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/palm-harbor/doctor/medical-marijuana-treatment-clinics-of-florida-77617997", {data:[{}],fetch:{},mutations:[]});

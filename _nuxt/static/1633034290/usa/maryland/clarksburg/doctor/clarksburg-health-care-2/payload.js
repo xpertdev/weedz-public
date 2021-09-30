@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/clarksburg/doctor/clarksburg-health-care-2", {data:[{}],fetch:{},mutations:[]});

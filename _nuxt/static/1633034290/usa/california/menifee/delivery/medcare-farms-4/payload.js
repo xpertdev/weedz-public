@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/menifee/delivery/medcare-farms-4", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/local-product-of-colorado", {data:[{}],fetch:{},mutations:[]});

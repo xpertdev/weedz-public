@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/green-man-cannabis-recreational-2", {data:[{}],fetch:{},mutations:[]});

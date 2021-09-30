@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/espa-ola/dispensary/new-mexicann-natural-medicine-espanola", {data:[{}],fetch:{},mutations:[]});

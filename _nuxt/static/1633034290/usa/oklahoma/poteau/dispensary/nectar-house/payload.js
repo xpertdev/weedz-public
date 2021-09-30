@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/poteau/dispensary/nectar-house", {data:[{}],fetch:{},mutations:[]});

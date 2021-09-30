@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/12415-n-rockwell-llc", {data:[{}],fetch:{},mutations:[]});

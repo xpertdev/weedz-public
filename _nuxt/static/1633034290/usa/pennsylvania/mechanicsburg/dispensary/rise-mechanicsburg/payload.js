@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/mechanicsburg/dispensary/rise-mechanicsburg", {data:[{}],fetch:{},mutations:[]});

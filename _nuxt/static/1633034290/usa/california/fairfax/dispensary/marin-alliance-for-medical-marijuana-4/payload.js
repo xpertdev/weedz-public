@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fairfax/dispensary/marin-alliance-for-medical-marijuana-4", {data:[{}],fetch:{},mutations:[]});

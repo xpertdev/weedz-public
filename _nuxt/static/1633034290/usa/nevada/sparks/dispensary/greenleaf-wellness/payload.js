@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/sparks/dispensary/greenleaf-wellness", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-hampshire/londonderry/doctor/londonderry-nurse-practitioners", {data:[{}],fetch:{},mutations:[]});

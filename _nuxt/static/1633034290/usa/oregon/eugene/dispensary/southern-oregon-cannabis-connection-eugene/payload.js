@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/southern-oregon-cannabis-connection-eugene", {data:[{}],fetch:{},mutations:[]});

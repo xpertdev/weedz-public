@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/east-petersburg/dispensary/restore-integrative-wellness-center-3", {data:[{}],fetch:{},mutations:[]});

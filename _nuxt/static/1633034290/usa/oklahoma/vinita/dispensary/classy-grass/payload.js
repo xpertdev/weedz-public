@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vinita/dispensary/classy-grass", {data:[{}],fetch:{},mutations:[]});

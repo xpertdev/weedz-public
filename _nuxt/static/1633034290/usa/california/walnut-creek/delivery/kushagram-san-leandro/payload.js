@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/walnut-creek/delivery/kushagram-san-leandro", {data:[{}],fetch:{},mutations:[]});

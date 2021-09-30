@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-rafael/delivery/nice-guys-delivery", {data:[{}],fetch:{},mutations:[]});

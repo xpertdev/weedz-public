@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moorpark/delivery/platinum-genetics-delivery", {data:[{}],fetch:{},mutations:[]});

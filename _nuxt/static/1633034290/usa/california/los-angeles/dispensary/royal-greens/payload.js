@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/royal-greens", {data:[{}],fetch:{},mutations:[]});

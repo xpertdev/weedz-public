@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/victorville/doctor/online-medical-cards-70", {data:[{}],fetch:{},mutations:[]});

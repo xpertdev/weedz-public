@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/magical-forrest-marijuana-dispensary", {data:[{}],fetch:{},mutations:[]});

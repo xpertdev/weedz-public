@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/queens/doctor/icannamed-com-2", {data:[{}],fetch:{},mutations:[]});

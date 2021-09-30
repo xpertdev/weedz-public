@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/chambersburg/dispensary/organic-remedies-inc-chambersburg", {data:[{}],fetch:{},mutations:[]});

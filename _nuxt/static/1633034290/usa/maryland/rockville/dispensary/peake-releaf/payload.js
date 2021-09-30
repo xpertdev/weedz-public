@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/rockville/dispensary/peake-releaf", {data:[{}],fetch:{},mutations:[]});

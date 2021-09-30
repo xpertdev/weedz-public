@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/conway/dispensary/harvest-cannabis-dispensary-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moorepark/doctor/cannamed-of-ventura", {data:[{}],fetch:{},mutations:[]});

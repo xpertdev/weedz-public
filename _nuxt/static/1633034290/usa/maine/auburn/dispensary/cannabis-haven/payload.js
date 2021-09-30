@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/auburn/dispensary/cannabis-haven", {data:[{}],fetch:{},mutations:[]});

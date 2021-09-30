@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/forward-solutions-420", {data:[{}],fetch:{},mutations:[]});

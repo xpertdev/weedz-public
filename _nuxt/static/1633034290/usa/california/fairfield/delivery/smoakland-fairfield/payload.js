@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fairfield/delivery/smoakland-fairfield", {data:[{}],fetch:{},mutations:[]});

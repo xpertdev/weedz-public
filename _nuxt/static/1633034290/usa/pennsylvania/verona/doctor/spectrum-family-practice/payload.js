@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/verona/doctor/spectrum-family-practice", {data:[{}],fetch:{},mutations:[]});

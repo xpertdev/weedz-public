@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/ft-collins/dispensary/elite-organics", {data:[{}],fetch:{},mutations:[]});

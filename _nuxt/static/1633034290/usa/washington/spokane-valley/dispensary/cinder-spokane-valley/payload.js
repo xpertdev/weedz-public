@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane-valley/dispensary/cinder-spokane-valley", {data:[{}],fetch:{},mutations:[]});

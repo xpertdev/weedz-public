@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/dundee/dispensary/chalice-farms", {data:[{}],fetch:{},mutations:[]});

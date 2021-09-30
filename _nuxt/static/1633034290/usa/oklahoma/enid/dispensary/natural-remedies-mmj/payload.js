@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/enid/dispensary/natural-remedies-mmj", {data:[{}],fetch:{},mutations:[]});

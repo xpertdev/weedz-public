@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mission-hills/delivery/get-weed-lac", {data:[{}],fetch:{},mutations:[]});

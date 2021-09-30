@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/east-detroit/dispensary/kahn-cannabis", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/traverse-city/doctor/center-for-compassion-llc", {data:[{}],fetch:{},mutations:[]});

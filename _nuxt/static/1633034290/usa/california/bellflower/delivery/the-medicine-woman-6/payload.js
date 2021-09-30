@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bellflower/delivery/the-medicine-woman-6", {data:[{}],fetch:{},mutations:[]});

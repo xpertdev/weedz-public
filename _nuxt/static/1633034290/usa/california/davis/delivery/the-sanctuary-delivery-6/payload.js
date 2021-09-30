@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/davis/delivery/the-sanctuary-delivery-6", {data:[{}],fetch:{},mutations:[]});

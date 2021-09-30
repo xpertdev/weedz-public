@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/coral-gables/doctor/canna-md-2", {data:[{}],fetch:{},mutations:[]});

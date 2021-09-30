@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/dispensary/la-mota-9756f43f-5422-4597-8923-e60853d48289", {data:[{}],fetch:{},mutations:[]});

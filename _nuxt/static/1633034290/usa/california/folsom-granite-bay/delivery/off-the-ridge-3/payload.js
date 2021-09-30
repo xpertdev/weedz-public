@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom-granite-bay/delivery/off-the-ridge-3", {data:[{}],fetch:{},mutations:[]});

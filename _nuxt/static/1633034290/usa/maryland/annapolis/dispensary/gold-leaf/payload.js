@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/annapolis/dispensary/gold-leaf", {data:[{}],fetch:{},mutations:[]});

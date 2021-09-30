@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/guymon/dispensary/cimarron-pharma", {data:[{}],fetch:{},mutations:[]});

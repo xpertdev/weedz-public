@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/poughkeepsie/doctor/my-doctor-420-4", {data:[{}],fetch:{},mutations:[]});

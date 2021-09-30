@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/glenwood-springs/dispensary/green-natural-solutions", {data:[{}],fetch:{},mutations:[]});

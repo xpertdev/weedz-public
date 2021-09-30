@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/taos/dispensary/southwest-wellness-center", {data:[{}],fetch:{},mutations:[]});

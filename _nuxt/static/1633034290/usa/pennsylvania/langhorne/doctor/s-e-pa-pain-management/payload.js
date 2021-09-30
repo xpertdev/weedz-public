@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/langhorne/doctor/s-e-pa-pain-management", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/apple-valley/doctor/dr-richard-mantell-2", {data:[{}],fetch:{},mutations:[]});

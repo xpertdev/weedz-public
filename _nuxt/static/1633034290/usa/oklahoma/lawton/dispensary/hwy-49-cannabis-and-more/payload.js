@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/hwy-49-cannabis-and-more", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/jombos-island-style-dispensary-1", {data:[{}],fetch:{},mutations:[]});

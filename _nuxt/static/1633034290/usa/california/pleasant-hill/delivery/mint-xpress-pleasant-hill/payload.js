@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pleasant-hill/delivery/mint-xpress-pleasant-hill", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/lemoyne/doctor/the-sanctuary-wellness-institute-4", {data:[{}],fetch:{},mutations:[]});

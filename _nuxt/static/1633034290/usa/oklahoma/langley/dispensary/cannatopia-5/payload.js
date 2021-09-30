@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/langley/dispensary/cannatopia-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/pensacola/doctor/medical-marijuana-treatment-clinics-of-florida-8", {data:[{}],fetch:{},mutations:[]});

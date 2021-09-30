@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/frisco/dispensary/tumbleweed-frisco", {data:[{}],fetch:{},mutations:[]});

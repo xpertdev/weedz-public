@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hawthorne/delivery/budz-deli-13", {data:[{}],fetch:{},mutations:[]});

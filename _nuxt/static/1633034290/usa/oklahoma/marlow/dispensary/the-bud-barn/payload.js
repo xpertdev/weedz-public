@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/marlow/dispensary/the-bud-barn", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/delivery/sd-weed-2", {data:[{}],fetch:{},mutations:[]});

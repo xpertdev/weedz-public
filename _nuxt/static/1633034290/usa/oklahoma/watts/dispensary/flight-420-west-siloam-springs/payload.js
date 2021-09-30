@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/watts/dispensary/flight-420-west-siloam-springs", {data:[{}],fetch:{},mutations:[]});

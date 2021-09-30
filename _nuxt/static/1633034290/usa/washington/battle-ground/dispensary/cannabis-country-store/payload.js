@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/battle-ground/dispensary/cannabis-country-store", {data:[{}],fetch:{},mutations:[]});

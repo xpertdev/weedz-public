@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/doctor/arrive-care-clinic", {data:[{}],fetch:{},mutations:[]});

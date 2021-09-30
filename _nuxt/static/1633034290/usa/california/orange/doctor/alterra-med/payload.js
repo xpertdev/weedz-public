@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/orange/doctor/alterra-med", {data:[{}],fetch:{},mutations:[]});

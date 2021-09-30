@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/doctor/relaxed-clarity-colorado-springs", {data:[{}],fetch:{},mutations:[]});

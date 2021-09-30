@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/store/la-cbd", {data:[{}],fetch:{},mutations:[]});

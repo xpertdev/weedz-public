@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/ocean-pines/doctor/410-medicine", {data:[{}],fetch:{},mutations:[]});

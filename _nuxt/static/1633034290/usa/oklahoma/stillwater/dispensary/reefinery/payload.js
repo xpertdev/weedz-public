@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/reefinery", {data:[{}],fetch:{},mutations:[]});

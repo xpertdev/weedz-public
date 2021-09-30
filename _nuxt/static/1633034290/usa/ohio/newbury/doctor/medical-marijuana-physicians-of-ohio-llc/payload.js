@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/newbury/doctor/medical-marijuana-physicians-of-ohio-llc", {data:[{}],fetch:{},mutations:[]});

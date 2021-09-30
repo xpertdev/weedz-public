@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/klover", {data:[{}],fetch:{},mutations:[]});

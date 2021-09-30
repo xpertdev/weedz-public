@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hugo/dispensary/medicated-monkey", {data:[{}],fetch:{},mutations:[]});

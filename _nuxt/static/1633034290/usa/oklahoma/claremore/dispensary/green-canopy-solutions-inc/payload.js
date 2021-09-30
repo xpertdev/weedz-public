@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/claremore/dispensary/green-canopy-solutions-inc", {data:[{}],fetch:{},mutations:[]});

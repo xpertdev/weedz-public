@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/newark/dispensary/verdant-creations-newark", {data:[{}],fetch:{},mutations:[]});

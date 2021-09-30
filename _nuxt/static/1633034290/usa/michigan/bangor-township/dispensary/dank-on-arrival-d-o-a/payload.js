@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bangor-township/dispensary/dank-on-arrival-d-o-a", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lake-worth/doctor/mmj-health-5", {data:[{}],fetch:{},mutations:[]});

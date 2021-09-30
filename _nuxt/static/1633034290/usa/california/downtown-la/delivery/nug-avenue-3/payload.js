@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-la/delivery/nug-avenue-3", {data:[{}],fetch:{},mutations:[]});

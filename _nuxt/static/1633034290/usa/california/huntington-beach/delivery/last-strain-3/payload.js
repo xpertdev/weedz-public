@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/last-strain-3", {data:[{}],fetch:{},mutations:[]});

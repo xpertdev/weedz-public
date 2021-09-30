@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/delivery/coastal-delivery-25", {data:[{}],fetch:{},mutations:[]});

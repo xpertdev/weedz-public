@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/solon/dispensary/limited-edition-farm", {data:[{}],fetch:{},mutations:[]});

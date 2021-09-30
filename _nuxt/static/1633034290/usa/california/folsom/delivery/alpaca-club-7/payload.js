@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/alpaca-club-7", {data:[{}],fetch:{},mutations:[]});

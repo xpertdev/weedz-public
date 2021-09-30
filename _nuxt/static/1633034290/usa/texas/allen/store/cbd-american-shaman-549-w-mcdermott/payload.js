@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/allen/store/cbd-american-shaman-549-w-mcdermott", {data:[{}],fetch:{},mutations:[]});

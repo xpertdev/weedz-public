@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/dispensary/the-grove-la-mesa", {data:[{}],fetch:{},mutations:[]});

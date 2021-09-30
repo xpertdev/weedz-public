@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redlands/store/white-horse-vapor", {data:[{}],fetch:{},mutations:[]});

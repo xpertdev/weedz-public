@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hominy/dispensary/the-corner-joint", {data:[{}],fetch:{},mutations:[]});

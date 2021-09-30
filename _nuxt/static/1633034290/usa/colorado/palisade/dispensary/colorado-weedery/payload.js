@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/palisade/dispensary/colorado-weedery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/coachella/dispensary/coachella-lighthouse-dispensary", {data:[{}],fetch:{},mutations:[]});

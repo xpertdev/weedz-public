@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bixby/dispensary/natures-leaf-dispensary", {data:[{}],fetch:{},mutations:[]});

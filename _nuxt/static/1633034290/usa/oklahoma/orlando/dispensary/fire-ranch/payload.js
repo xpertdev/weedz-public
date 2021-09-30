@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/orlando/dispensary/fire-ranch", {data:[{}],fetch:{},mutations:[]});

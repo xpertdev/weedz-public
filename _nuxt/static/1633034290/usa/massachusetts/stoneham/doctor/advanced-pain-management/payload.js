@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/stoneham/doctor/advanced-pain-management", {data:[{}],fetch:{},mutations:[]});

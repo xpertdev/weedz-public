@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/roseburg/doctor/american-cannabinoid-clinics-4", {data:[{}],fetch:{},mutations:[]});

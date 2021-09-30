@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/winslow/dispensary/the-green-alchemist", {data:[{}],fetch:{},mutations:[]});

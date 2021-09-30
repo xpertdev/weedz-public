@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/saginaw/delivery/urb-cannabis-2", {data:[{}],fetch:{},mutations:[]});

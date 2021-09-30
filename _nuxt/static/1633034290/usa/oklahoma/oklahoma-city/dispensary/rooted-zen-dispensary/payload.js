@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/rooted-zen-dispensary", {data:[{}],fetch:{},mutations:[]});

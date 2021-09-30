@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antelope-valley/delivery/mcec-palmdale", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/delivery/utopia-gardens-delivery", {data:[{}],fetch:{},mutations:[]});

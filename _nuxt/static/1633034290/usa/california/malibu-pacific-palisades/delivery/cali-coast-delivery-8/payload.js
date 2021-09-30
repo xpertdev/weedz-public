@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/malibu-pacific-palisades/delivery/cali-coast-delivery-8", {data:[{}],fetch:{},mutations:[]});

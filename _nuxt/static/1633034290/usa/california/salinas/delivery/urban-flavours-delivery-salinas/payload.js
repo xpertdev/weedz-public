@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/salinas/delivery/urban-flavours-delivery-salinas", {data:[{}],fetch:{},mutations:[]});

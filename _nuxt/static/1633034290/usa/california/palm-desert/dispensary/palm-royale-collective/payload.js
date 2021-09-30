@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/dispensary/palm-royale-collective", {data:[{}],fetch:{},mutations:[]});

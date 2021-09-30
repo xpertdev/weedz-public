@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/anchorage/doctor/alaska-cannabis-medical", {data:[{}],fetch:{},mutations:[]});

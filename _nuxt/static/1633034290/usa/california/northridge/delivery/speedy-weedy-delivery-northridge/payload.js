@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/delivery/speedy-weedy-delivery-northridge", {data:[{}],fetch:{},mutations:[]});

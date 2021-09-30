@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/belle-vernon/doctor/cannabis-care-certifications-centers", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bakersfield/delivery/420-kingdom", {data:[{}],fetch:{},mutations:[]});

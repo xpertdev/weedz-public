@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/doctor/420recs-com-palm-springs", {data:[{}],fetch:{},mutations:[]});

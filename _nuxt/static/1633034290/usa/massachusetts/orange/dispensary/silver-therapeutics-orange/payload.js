@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/orange/dispensary/silver-therapeutics-orange", {data:[{}],fetch:{},mutations:[]});

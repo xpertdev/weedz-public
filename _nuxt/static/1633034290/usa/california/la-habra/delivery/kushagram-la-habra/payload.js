@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-habra/delivery/kushagram-la-habra", {data:[{}],fetch:{},mutations:[]});

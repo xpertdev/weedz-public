@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/guthrie/dispensary/high-standards-b29ac365-d661-46ab-b985-d084ef4a9033", {data:[{}],fetch:{},mutations:[]});

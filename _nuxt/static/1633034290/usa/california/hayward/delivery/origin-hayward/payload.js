@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/delivery/origin-hayward", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/redrum-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/fairland/dispensary/evergreen-wellness", {data:[{}],fetch:{},mutations:[]});

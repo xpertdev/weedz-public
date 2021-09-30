@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane/dispensary/the-green-nugget", {data:[{}],fetch:{},mutations:[]});

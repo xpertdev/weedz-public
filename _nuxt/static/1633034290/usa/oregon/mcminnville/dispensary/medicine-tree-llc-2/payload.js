@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/mcminnville/dispensary/medicine-tree-llc-2", {data:[{}],fetch:{},mutations:[]});

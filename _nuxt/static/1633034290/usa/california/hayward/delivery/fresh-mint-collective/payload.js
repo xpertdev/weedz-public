@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/delivery/fresh-mint-collective", {data:[{}],fetch:{},mutations:[]});

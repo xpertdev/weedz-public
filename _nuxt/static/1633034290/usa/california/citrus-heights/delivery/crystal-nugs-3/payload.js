@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/citrus-heights/delivery/crystal-nugs-3", {data:[{}],fetch:{},mutations:[]});

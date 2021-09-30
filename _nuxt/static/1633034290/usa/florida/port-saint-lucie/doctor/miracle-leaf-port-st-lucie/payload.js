@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-saint-lucie/doctor/miracle-leaf-port-st-lucie", {data:[{}],fetch:{},mutations:[]});

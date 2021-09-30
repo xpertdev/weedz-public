@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/cortez/dispensary/durango-organics-cortez", {data:[{}],fetch:{},mutations:[]});

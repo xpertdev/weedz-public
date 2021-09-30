@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/vancouver/dispensary/pot-zone-1", {data:[{}],fetch:{},mutations:[]});

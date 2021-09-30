@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/clearwater/doctor/marijuana-doctor-8", {data:[{}],fetch:{},mutations:[]});

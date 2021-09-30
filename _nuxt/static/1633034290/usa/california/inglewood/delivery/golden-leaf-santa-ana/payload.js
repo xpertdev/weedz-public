@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/inglewood/delivery/golden-leaf-santa-ana", {data:[{}],fetch:{},mutations:[]});

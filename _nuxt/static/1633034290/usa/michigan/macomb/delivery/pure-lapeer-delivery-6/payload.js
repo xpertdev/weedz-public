@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/macomb/delivery/pure-lapeer-delivery-6", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mountain-view/delivery/bento-palo-alto-1", {data:[{}],fetch:{},mutations:[]});

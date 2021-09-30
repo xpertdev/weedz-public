@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/watsonville/delivery/community-wellness-center-3", {data:[{}],fetch:{},mutations:[]});

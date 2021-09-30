@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/royal-oak/delivery/green-buddha-cannabis-co-delivery-2", {data:[{}],fetch:{},mutations:[]});

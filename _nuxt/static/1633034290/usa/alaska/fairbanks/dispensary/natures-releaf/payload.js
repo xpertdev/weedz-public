@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/fairbanks/dispensary/natures-releaf", {data:[{}],fetch:{},mutations:[]});

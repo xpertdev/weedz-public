@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/re-up-cannabis-dispensary-2", {data:[{}],fetch:{},mutations:[]});

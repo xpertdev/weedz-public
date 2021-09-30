@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/dispensary/long-lodge-tribal-enterprises", {data:[{}],fetch:{},mutations:[]});

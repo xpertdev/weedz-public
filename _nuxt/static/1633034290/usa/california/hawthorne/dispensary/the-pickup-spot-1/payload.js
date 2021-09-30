@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hawthorne/dispensary/the-pickup-spot-1", {data:[{}],fetch:{},mutations:[]});

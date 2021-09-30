@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/the-secret-stash", {data:[{}],fetch:{},mutations:[]});

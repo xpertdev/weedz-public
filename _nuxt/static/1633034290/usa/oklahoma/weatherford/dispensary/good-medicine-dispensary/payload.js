@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/weatherford/dispensary/good-medicine-dispensary", {data:[{}],fetch:{},mutations:[]});

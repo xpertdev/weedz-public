@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/doctor/dr-weedy-43e004a3-7e11-4dd3-a4ce-7dbdc393af84", {data:[{}],fetch:{},mutations:[]});

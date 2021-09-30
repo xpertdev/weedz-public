@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palo-alto/delivery/amuse-cannabis-delivery-palo-alto-1", {data:[{}],fetch:{},mutations:[]});

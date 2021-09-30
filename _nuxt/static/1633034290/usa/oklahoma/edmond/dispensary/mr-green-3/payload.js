@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/mr-green-3", {data:[{}],fetch:{},mutations:[]});

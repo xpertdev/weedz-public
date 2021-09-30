@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fountain-valley/delivery/kushagram-33", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/delivery/3fifteen-detroit-8-mile-and-lahser-delivery", {data:[{}],fetch:{},mutations:[]});

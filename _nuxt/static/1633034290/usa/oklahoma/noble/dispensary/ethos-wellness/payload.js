@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/noble/dispensary/ethos-wellness", {data:[{}],fetch:{},mutations:[]});

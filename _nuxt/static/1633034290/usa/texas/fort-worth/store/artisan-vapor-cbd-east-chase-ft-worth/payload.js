@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/fort-worth/store/artisan-vapor-cbd-east-chase-ft-worth", {data:[{}],fetch:{},mutations:[]});

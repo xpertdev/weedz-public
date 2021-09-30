@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-marcos/delivery/cannabis-kingdom-san-marcos", {data:[{}],fetch:{},mutations:[]});

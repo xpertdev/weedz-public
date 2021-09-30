@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fairfield/delivery/vhhc-delivery-fairfield", {data:[{}],fetch:{},mutations:[]});

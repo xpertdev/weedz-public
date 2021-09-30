@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/central-city/dispensary/igadi-central-city", {data:[{}],fetch:{},mutations:[]});

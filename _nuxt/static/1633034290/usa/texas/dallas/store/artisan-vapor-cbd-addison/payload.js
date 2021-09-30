@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/dallas/store/artisan-vapor-cbd-addison", {data:[{}],fetch:{},mutations:[]});

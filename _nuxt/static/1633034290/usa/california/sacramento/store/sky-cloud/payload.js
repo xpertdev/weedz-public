@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/store/sky-cloud", {data:[{}],fetch:{},mutations:[]});

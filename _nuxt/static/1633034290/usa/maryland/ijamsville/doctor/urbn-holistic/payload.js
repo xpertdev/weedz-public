@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/ijamsville/doctor/urbn-holistic", {data:[{}],fetch:{},mutations:[]});

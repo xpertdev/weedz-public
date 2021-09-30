@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/all", {data:[{}],fetch:{},mutations:[]});

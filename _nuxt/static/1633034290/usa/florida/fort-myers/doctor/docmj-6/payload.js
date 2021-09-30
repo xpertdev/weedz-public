@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-myers/doctor/docmj-6", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/los-lunas/dispensary/minerva-canna-group", {data:[{}],fetch:{},mutations:[]});

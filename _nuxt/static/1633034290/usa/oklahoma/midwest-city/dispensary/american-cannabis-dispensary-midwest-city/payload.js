@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/american-cannabis-dispensary-midwest-city", {data:[{}],fetch:{},mutations:[]});

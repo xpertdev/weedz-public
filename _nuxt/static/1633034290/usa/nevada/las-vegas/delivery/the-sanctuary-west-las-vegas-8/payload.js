@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/delivery/the-sanctuary-west-las-vegas-8", {data:[{}],fetch:{},mutations:[]});

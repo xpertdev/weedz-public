@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/yarmouth/dispensary/elevate-maine-yarmouth", {data:[{}],fetch:{},mutations:[]});

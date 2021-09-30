@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/west-memphis/dispensary/west-memphis-dispensary", {data:[{}],fetch:{},mutations:[]});

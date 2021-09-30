@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/houma/doctor/green-medical-solutions", {data:[{}],fetch:{},mutations:[]});

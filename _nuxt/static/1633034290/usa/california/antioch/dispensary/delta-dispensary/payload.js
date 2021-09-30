@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/dispensary/delta-dispensary", {data:[{}],fetch:{},mutations:[]});

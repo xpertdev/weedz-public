@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/dispensary/bloom-city-club-recreational", {data:[{}],fetch:{},mutations:[]});

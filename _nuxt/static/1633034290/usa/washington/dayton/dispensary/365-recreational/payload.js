@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/dayton/dispensary/365-recreational", {data:[{}],fetch:{},mutations:[]});

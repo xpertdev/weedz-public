@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/hi-cascade-2", {data:[{}],fetch:{},mutations:[]});

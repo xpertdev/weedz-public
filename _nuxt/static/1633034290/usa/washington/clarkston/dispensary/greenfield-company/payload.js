@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/clarkston/dispensary/greenfield-company", {data:[{}],fetch:{},mutations:[]});

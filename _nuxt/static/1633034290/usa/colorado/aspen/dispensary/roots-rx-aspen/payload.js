@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aspen/dispensary/roots-rx-aspen", {data:[{}],fetch:{},mutations:[]});

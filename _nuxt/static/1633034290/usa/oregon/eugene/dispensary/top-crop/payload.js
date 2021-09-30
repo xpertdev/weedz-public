@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/top-crop", {data:[{}],fetch:{},mutations:[]});

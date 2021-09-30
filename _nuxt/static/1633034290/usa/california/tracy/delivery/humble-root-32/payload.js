@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tracy/delivery/humble-root-32", {data:[{}],fetch:{},mutations:[]});

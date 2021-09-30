@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/golden-meds-quebec-st-1", {data:[{}],fetch:{},mutations:[]});

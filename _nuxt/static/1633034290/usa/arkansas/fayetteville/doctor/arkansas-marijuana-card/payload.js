@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/fayetteville/doctor/arkansas-marijuana-card", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/mr-niceguy-portland-se-holgate", {data:[{}],fetch:{},mutations:[]});

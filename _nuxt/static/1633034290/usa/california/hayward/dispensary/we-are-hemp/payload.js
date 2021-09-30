@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/dispensary/we-are-hemp", {data:[{}],fetch:{},mutations:[]});

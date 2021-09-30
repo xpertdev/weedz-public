@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pauls-valley/dispensary/smack-d-dispensary-3", {data:[{}],fetch:{},mutations:[]});

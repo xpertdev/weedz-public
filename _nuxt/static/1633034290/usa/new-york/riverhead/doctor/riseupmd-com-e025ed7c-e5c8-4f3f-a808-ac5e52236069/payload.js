@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/riverhead/doctor/riseupmd-com-e025ed7c-e5c8-4f3f-a808-ac5e52236069", {data:[{}],fetch:{},mutations:[]});

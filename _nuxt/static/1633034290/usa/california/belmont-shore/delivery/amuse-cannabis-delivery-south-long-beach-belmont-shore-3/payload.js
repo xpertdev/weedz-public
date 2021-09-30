@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/belmont-shore/delivery/amuse-cannabis-delivery-south-long-beach-belmont-shore-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yuba-city/delivery/budee-a407acc4-7a02-423f-afaa-999e270684a8", {data:[{}],fetch:{},mutations:[]});

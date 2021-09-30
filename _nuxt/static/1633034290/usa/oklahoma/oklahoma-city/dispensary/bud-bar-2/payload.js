@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/bud-bar-2", {data:[{}],fetch:{},mutations:[]});

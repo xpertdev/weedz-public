@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/dispensary/medmen-las-vegas-downtown-arts-district", {data:[{}],fetch:{},mutations:[]});

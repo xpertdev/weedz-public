@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-bernardino/dispensary/stiiizy-san-bernardino", {data:[{}],fetch:{},mutations:[]});

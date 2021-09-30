@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/nature-s-medicine-happy-valley-recreational", {data:[{}],fetch:{},mutations:[]});

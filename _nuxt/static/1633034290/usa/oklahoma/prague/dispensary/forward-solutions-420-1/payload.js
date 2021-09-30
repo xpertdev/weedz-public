@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/prague/dispensary/forward-solutions-420-1", {data:[{}],fetch:{},mutations:[]});

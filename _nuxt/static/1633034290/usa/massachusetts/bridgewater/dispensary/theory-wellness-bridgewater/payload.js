@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/bridgewater/dispensary/theory-wellness-bridgewater", {data:[{}],fetch:{},mutations:[]});

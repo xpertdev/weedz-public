@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-jolla/delivery/budee-51", {data:[{}],fetch:{},mutations:[]});

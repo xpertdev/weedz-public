@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/goodyear/dispensary/valley-of-the-sun-medical-dispensary-goodyear", {data:[{}],fetch:{},mutations:[]});

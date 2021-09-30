@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/houma/dispensary/green-leaf-dispensary-houma", {data:[{}],fetch:{},mutations:[]});

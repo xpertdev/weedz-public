@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/state-college/doctor/hytek-medical-32ad1089-bac6-4978-a058-3c5036bb008b", {data:[{}],fetch:{},mutations:[]});

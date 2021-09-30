@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/laurel/dispensary/green-point-wellness-laurel", {data:[{}],fetch:{},mutations:[]});

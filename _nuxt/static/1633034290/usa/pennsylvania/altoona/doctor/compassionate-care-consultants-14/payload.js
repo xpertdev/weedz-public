@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/altoona/doctor/compassionate-care-consultants-14", {data:[{}],fetch:{},mutations:[]});

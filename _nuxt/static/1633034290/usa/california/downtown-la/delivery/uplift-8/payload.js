@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-la/delivery/uplift-8", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/yonkers/doctor/mobile-cannabis-connect", {data:[{}],fetch:{},mutations:[]});

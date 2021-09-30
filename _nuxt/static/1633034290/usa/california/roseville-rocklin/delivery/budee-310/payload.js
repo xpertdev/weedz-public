@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/roseville-rocklin/delivery/budee-310", {data:[{}],fetch:{},mutations:[]});

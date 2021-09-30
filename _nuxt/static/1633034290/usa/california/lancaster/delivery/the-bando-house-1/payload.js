@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lancaster/delivery/the-bando-house-1", {data:[{}],fetch:{},mutations:[]});

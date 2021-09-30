@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/delivery/magnolia-road-delivery-boulder", {data:[{}],fetch:{},mutations:[]});

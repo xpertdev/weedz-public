@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/diamond-springs/dispensary/pure-life", {data:[{}],fetch:{},mutations:[]});

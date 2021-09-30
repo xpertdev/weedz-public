@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/portage/dispensary/michigan-pure-green", {data:[{}],fetch:{},mutations:[]});

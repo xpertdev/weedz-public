@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/charleston/dispensary/zen-leaf-charleston", {data:[{}],fetch:{},mutations:[]});

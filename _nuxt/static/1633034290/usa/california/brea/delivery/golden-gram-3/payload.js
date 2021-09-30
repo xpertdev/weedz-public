@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/brea/delivery/golden-gram-3", {data:[{}],fetch:{},mutations:[]});

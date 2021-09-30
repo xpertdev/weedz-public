@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/peace-love-and-cannabis", {data:[{}],fetch:{},mutations:[]});

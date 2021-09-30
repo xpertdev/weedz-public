@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/pendleton/dispensary/pendleton-cannabis", {data:[{}],fetch:{},mutations:[]});

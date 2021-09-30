@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/the-diamond-bonsai-8", {data:[{}],fetch:{},mutations:[]});

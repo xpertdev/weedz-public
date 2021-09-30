@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/oregon-city/dispensary/five-zero-trees-oregon-city", {data:[{}],fetch:{},mutations:[]});

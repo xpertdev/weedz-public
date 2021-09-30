@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/albany/doctor/naturally-healing-md", {data:[{}],fetch:{},mutations:[]});

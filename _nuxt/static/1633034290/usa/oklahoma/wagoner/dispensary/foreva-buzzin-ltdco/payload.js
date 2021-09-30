@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wagoner/dispensary/foreva-buzzin-ltdco", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/canna-car-5", {data:[{}],fetch:{},mutations:[]});

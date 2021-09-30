@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/del-norte/dispensary/colorados-kindest", {data:[{}],fetch:{},mutations:[]});

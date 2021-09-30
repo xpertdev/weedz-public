@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-jolla/delivery/golden-state-greens-point-loma-la-jolla", {data:[{}],fetch:{},mutations:[]});

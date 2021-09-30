@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/glendale/delivery/kushagram-glendale-la", {data:[{}],fetch:{},mutations:[]});

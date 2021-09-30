@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/depoe-bay/dispensary/hippy-trip", {data:[{}],fetch:{},mutations:[]});

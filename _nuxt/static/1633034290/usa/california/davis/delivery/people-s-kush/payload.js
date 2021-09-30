@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/davis/delivery/people-s-kush", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/delray-beach/dispensary/columbia-care-delray-beach", {data:[{}],fetch:{},mutations:[]});

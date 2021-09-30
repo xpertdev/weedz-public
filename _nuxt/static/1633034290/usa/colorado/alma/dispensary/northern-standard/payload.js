@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/alma/dispensary/northern-standard", {data:[{}],fetch:{},mutations:[]});

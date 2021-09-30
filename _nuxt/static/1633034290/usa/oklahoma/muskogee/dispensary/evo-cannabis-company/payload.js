@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muskogee/dispensary/evo-cannabis-company", {data:[{}],fetch:{},mutations:[]});

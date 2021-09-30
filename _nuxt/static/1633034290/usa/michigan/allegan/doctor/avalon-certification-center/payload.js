@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/allegan/doctor/avalon-certification-center", {data:[{}],fetch:{},mutations:[]});

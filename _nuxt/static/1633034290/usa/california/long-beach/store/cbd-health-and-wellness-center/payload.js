@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/store/cbd-health-and-wellness-center", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/roland/dispensary/the-bud-shop-1", {data:[{}],fetch:{},mutations:[]});

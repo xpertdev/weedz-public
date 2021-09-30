@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/river-rouge/dispensary/1st-quality-medz", {data:[{}],fetch:{},mutations:[]});

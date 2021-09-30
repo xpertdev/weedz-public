@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rego-park/doctor/riseupmd-com-a1e106df-5f57-4637-b05e-e23b0ed42f3e", {data:[{}],fetch:{},mutations:[]});

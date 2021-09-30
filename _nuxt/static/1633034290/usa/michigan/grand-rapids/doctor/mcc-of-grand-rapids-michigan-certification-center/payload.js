@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/doctor/mcc-of-grand-rapids-michigan-certification-center", {data:[{}],fetch:{},mutations:[]});

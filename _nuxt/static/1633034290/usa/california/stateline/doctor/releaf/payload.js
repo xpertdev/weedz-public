@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stateline/doctor/releaf", {data:[{}],fetch:{},mutations:[]});

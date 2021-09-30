@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/russellville/dispensary/420-dispensary-russellville", {data:[{}],fetch:{},mutations:[]});

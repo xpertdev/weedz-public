@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/margate/doctor/marijuana-doctor-19", {data:[{}],fetch:{},mutations:[]});

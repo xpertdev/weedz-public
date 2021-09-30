@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/dispensary/vallejo-relief-center-3", {data:[{}],fetch:{},mutations:[]});

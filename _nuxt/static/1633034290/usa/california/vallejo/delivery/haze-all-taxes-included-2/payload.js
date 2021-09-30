@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/delivery/haze-all-taxes-included-2", {data:[{}],fetch:{},mutations:[]});

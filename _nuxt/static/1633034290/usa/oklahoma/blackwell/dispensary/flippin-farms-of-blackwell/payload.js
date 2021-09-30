@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/blackwell/dispensary/flippin-farms-of-blackwell", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/bud-hut-md-inc", {data:[{}],fetch:{},mutations:[]});

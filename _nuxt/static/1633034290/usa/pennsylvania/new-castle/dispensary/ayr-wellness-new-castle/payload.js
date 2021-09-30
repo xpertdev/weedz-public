@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/new-castle/dispensary/ayr-wellness-new-castle", {data:[{}],fetch:{},mutations:[]});

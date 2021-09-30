@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/alpena/delivery/northern-roots-delivery-1", {data:[{}],fetch:{},mutations:[]});

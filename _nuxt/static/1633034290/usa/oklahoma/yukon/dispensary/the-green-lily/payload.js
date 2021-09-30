@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/yukon/dispensary/the-green-lily", {data:[{}],fetch:{},mutations:[]});

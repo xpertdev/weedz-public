@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sunrise/doctor/marijuana-420-doctors", {data:[{}],fetch:{},mutations:[]});

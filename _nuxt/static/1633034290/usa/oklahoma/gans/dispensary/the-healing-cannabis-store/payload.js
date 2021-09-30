@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/gans/dispensary/the-healing-cannabis-store", {data:[{}],fetch:{},mutations:[]});

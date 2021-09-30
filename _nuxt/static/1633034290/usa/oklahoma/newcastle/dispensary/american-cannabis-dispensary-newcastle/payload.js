@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/newcastle/dispensary/american-cannabis-dispensary-newcastle", {data:[{}],fetch:{},mutations:[]});

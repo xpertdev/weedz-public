@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/big-rapids/dispensary/mother-nurtures", {data:[{}],fetch:{},mutations:[]});

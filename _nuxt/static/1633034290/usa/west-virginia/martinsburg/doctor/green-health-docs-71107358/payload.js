@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/west-virginia/martinsburg/doctor/green-health-docs-71107358", {data:[{}],fetch:{},mutations:[]});

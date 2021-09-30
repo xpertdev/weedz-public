@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/buddy-boy-2-3", {data:[{}],fetch:{},mutations:[]});

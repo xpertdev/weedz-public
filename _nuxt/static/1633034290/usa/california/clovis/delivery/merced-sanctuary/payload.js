@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/clovis/delivery/merced-sanctuary", {data:[{}],fetch:{},mutations:[]});

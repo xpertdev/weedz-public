@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/crows-landing/dispensary/highway-33", {data:[{}],fetch:{},mutations:[]});

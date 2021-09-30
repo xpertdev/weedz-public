@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/harrisburg/dispensary/zen-leaf-harrisburg", {data:[{}],fetch:{},mutations:[]});

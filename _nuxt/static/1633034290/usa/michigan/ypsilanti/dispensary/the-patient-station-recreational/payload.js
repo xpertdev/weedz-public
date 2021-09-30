@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/dispensary/the-patient-station-recreational", {data:[{}],fetch:{},mutations:[]});

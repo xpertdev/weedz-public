@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/saco/delivery/green-bird-1", {data:[{}],fetch:{},mutations:[]});

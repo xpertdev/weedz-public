@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/hines/dispensary/tumbleweed-hines", {data:[{}],fetch:{},mutations:[]});

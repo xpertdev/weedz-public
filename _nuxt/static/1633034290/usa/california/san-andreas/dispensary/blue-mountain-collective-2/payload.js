@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-andreas/dispensary/blue-mountain-collective-2", {data:[{}],fetch:{},mutations:[]});

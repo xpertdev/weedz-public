@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orlando/doctor/advance-preventive-medicine-urgent-care-orlando", {data:[{}],fetch:{},mutations:[]});

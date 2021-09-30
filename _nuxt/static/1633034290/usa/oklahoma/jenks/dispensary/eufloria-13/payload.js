@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/jenks/dispensary/eufloria-13", {data:[{}],fetch:{},mutations:[]});

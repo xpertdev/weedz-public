@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/corona/delivery/socal-green-meds-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/roseville/delivery/humble-root-2-4", {data:[{}],fetch:{},mutations:[]});

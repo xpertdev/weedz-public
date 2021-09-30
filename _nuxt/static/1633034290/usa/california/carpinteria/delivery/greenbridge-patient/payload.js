@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/carpinteria/delivery/greenbridge-patient", {data:[{}],fetch:{},mutations:[]});

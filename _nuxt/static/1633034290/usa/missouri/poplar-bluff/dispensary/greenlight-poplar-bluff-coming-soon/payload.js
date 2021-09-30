@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/poplar-bluff/dispensary/greenlight-poplar-bluff-coming-soon", {data:[{}],fetch:{},mutations:[]});

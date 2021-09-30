@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/saco/dispensary/ripple-wellness", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/dispensary/native-roots-dispensary-boulder", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/lock-haven/doctor/medcare-family-health-services", {data:[{}],fetch:{},mutations:[]});

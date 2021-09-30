@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/dayton/doctor/patient-focus-7", {data:[{}],fetch:{},mutations:[]});

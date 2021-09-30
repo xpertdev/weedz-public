@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/the-green-team-cannabis-delivery-5", {data:[{}],fetch:{},mutations:[]});

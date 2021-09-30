@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/sparks/dispensary/reef-dispensaries-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/yukon/doctor/15th-street-cannabis-clinic-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/easthampton/dispensary/liberty-easthampton", {data:[{}],fetch:{},mutations:[]});

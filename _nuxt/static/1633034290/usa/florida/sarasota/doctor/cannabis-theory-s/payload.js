@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/doctor/cannabis-theory-s", {data:[{}],fetch:{},mutations:[]});

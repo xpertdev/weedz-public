@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-mateo/delivery/green-line-delivery-free-1-8th-w-purchase-of-1-2oz-or-more-for-new-patients", {data:[{}],fetch:{},mutations:[]});

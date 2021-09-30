@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/delivery/exclusive-grand-rapids-rec-marijuana-delivery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/cordell/dispensary/dazed-and-confused-cannabis-co-llc", {data:[{}],fetch:{},mutations:[]});

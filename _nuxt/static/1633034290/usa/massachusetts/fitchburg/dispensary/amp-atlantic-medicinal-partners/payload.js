@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/fitchburg/dispensary/amp-atlantic-medicinal-partners", {data:[{}],fetch:{},mutations:[]});

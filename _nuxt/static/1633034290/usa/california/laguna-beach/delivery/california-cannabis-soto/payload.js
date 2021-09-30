@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/laguna-beach/delivery/california-cannabis-soto", {data:[{}],fetch:{},mutations:[]});

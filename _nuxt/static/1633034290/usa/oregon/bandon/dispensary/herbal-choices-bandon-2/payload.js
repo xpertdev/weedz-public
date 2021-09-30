@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bandon/dispensary/herbal-choices-bandon-2", {data:[{}],fetch:{},mutations:[]});

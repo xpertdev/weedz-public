@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/ashland/dispensary/house-of-leaves-2-3", {data:[{}],fetch:{},mutations:[]});

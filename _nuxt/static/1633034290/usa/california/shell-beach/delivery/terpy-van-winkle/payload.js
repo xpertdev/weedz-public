@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/shell-beach/delivery/terpy-van-winkle", {data:[{}],fetch:{},mutations:[]});

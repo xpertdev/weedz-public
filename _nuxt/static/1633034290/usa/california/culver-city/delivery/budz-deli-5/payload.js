@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/culver-city/delivery/budz-deli-5", {data:[{}],fetch:{},mutations:[]});

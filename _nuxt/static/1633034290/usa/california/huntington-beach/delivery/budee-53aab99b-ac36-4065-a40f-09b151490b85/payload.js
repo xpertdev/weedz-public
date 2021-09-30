@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/budee-53aab99b-ac36-4065-a40f-09b151490b85", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/castro-valley/delivery/831-delivery-castro-valley", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/newington/dispensary/bhadra-seva", {data:[{}],fetch:{},mutations:[]});

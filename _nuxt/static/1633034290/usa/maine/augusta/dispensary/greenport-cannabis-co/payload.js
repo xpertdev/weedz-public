@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/augusta/dispensary/greenport-cannabis-co", {data:[{}],fetch:{},mutations:[]});

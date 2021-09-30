@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/roseburg/dispensary/canna-king", {data:[{}],fetch:{},mutations:[]});

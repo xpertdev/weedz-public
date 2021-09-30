@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/dispensary/one-plant-delivery-antioch", {data:[{}],fetch:{},mutations:[]});

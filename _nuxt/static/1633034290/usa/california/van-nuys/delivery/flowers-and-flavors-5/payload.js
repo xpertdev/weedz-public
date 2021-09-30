@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/delivery/flowers-and-flavors-5", {data:[{}],fetch:{},mutations:[]});

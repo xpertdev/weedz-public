@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/montrose/dispensary/rocky-mountain-high-montrose", {data:[{}],fetch:{},mutations:[]});

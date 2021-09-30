@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/warwick/doctor/semaj-health-and-wellness", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/de-beque/dispensary/kush-gardens-3", {data:[{}],fetch:{},mutations:[]});

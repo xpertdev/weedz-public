@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town/delivery/the-artist-tree-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/beaumont/delivery/callweed-17", {data:[{}],fetch:{},mutations:[]});

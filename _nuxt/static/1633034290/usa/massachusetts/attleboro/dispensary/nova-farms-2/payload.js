@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/attleboro/dispensary/nova-farms-2", {data:[{}],fetch:{},mutations:[]});

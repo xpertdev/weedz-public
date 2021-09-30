@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/green-america-3", {data:[{}],fetch:{},mutations:[]});

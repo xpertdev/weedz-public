@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/taunton/dispensary/commonwealth-alternative-care", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/davie/doctor/ask-doctor-lyn-www-askdoctorlyn-com", {data:[{}],fetch:{},mutations:[]});

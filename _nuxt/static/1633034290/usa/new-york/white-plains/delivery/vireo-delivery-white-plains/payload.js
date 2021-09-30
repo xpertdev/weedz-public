@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/white-plains/delivery/vireo-delivery-white-plains", {data:[{}],fetch:{},mutations:[]});

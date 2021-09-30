@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucca-valley/delivery/the-micro-buddery-delivery-30-minute-menu-coming-soon", {data:[{}],fetch:{},mutations:[]});

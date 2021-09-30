@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/west-palm-beach/doctor/miracle-leaf-west-palm-beach", {data:[{}],fetch:{},mutations:[]});

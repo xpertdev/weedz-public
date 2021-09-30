@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/doctor/dr-jonathan-m-hirsch", {data:[{}],fetch:{},mutations:[]});

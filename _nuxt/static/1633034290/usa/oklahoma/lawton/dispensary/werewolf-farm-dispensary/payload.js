@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/werewolf-farm-dispensary", {data:[{}],fetch:{},mutations:[]});

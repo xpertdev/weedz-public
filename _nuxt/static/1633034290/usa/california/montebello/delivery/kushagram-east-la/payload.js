@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/montebello/delivery/kushagram-east-la", {data:[{}],fetch:{},mutations:[]});

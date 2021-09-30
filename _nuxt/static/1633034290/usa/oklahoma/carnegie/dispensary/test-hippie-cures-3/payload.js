@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/carnegie/dispensary/test-hippie-cures-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mid-town/delivery/budee-c88c4c3e-6422-4fe1-aa9a-98d77c300bcb", {data:[{}],fetch:{},mutations:[]});

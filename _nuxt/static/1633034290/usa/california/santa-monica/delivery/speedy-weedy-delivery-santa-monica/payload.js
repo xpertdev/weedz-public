@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-monica/delivery/speedy-weedy-delivery-santa-monica", {data:[{}],fetch:{},mutations:[]});

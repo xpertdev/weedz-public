@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-lake-tahoe/doctor/dr-a-cohen-md", {data:[{}],fetch:{},mutations:[]});

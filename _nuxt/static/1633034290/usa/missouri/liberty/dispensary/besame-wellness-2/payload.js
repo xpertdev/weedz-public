@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/liberty/dispensary/besame-wellness-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/covina/doctor/online-medical-cards-78", {data:[{}],fetch:{},mutations:[]});

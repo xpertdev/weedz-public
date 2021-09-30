@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/cali-xpress-15", {data:[{}],fetch:{},mutations:[]});

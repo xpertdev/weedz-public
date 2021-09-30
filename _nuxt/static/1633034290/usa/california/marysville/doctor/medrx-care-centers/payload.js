@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/marysville/doctor/medrx-care-centers", {data:[{}],fetch:{},mutations:[]});

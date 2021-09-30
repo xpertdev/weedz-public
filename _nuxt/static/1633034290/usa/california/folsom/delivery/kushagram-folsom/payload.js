@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/kushagram-folsom", {data:[{}],fetch:{},mutations:[]});

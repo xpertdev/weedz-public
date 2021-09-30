@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/delivery/h-a-i-holistic-alternative-inc", {data:[{}],fetch:{},mutations:[]});

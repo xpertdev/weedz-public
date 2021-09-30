@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/rainier/dispensary/oregon-medical-grade-rainier", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/delivery/urban-flavours-delivery-hayward", {data:[{}],fetch:{},mutations:[]});

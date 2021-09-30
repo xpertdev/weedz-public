@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/eden-cannabis-co-oklahoma-city", {data:[{}],fetch:{},mutations:[]});

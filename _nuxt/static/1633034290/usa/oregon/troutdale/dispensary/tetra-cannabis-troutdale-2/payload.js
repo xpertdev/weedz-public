@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/troutdale/dispensary/tetra-cannabis-troutdale-2", {data:[{}],fetch:{},mutations:[]});

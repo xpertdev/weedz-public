@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/east-vacaville/delivery/high-times-delivery-vacaville", {data:[{}],fetch:{},mutations:[]});

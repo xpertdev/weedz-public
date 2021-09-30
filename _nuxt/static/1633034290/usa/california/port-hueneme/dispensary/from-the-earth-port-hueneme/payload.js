@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/port-hueneme/dispensary/from-the-earth-port-hueneme", {data:[{}],fetch:{},mutations:[]});

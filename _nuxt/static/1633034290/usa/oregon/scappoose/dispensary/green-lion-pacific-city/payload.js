@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/scappoose/dispensary/green-lion-pacific-city", {data:[{}],fetch:{},mutations:[]});

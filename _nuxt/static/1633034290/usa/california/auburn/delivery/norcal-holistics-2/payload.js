@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/auburn/delivery/norcal-holistics-2", {data:[{}],fetch:{},mutations:[]});

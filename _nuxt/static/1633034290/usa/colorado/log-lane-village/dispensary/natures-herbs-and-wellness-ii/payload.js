@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/log-lane-village/dispensary/natures-herbs-and-wellness-ii", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/virginia/springfield/doctor/cannabisrxhealth-5", {data:[{}],fetch:{},mutations:[]});

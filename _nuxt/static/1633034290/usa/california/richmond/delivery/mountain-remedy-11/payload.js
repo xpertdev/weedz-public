@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/richmond/delivery/mountain-remedy-11", {data:[{}],fetch:{},mutations:[]});

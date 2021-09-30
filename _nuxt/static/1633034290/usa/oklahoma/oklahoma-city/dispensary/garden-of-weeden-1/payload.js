@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/garden-of-weeden-1", {data:[{}],fetch:{},mutations:[]});

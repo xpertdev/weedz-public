@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/sunland-park/dispensary/ultra-health-sunland-park", {data:[{}],fetch:{},mutations:[]});

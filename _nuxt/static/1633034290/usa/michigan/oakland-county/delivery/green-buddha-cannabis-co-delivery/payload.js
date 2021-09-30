@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/oakland-county/delivery/green-buddha-cannabis-co-delivery", {data:[{}],fetch:{},mutations:[]});

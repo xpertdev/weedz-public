@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/irie-care-collective-2-3", {data:[{}],fetch:{},mutations:[]});

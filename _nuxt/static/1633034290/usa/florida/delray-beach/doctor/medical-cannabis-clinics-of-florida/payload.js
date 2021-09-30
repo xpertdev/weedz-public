@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/delray-beach/doctor/medical-cannabis-clinics-of-florida", {data:[{}],fetch:{},mutations:[]});

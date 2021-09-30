@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/doctor/hytek-medical-811782ec-0fad-467a-a76b-9f866ae4034f", {data:[{}],fetch:{},mutations:[]});

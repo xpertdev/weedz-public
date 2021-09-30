@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/herbal-wellness-center", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/athol/delivery/patriot-care-athol", {data:[{}],fetch:{},mutations:[]});

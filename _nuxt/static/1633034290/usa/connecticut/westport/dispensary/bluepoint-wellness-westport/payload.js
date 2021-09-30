@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/westport/dispensary/bluepoint-wellness-westport", {data:[{}],fetch:{},mutations:[]});

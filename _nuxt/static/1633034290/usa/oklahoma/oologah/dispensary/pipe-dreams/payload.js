@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oologah/dispensary/pipe-dreams", {data:[{}],fetch:{},mutations:[]});

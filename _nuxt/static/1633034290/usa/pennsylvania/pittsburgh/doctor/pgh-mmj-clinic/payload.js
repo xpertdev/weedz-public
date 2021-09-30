@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/pittsburgh/doctor/pgh-mmj-clinic", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/lancaster/doctor/dr-livia-baublitz", {data:[{}],fetch:{},mutations:[]});

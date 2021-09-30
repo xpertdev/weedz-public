@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/dunedin/doctor/dr-renata-teytlebaum-md", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/brookings/dispensary/top-shelf-cannabis-brookings", {data:[{}],fetch:{},mutations:[]});

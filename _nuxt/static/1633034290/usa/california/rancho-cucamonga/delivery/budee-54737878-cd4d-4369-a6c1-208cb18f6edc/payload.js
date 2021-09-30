@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/budee-54737878-cd4d-4369-a6c1-208cb18f6edc", {data:[{}],fetch:{},mutations:[]});

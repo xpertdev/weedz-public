@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/camden/dispensary/the-nest", {data:[{}],fetch:{},mutations:[]});

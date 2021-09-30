@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brightwaters/doctor/physical-medicine-and-rehabilitation-of-long-island", {data:[{}],fetch:{},mutations:[]});

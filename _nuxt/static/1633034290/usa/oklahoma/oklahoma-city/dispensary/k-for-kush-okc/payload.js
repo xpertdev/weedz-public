@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/k-for-kush-okc", {data:[{}],fetch:{},mutations:[]});

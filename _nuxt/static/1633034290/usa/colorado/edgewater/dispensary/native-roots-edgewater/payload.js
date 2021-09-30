@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/edgewater/dispensary/native-roots-edgewater", {data:[{}],fetch:{},mutations:[]});

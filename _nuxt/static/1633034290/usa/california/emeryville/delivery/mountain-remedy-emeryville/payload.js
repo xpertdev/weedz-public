@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/emeryville/delivery/mountain-remedy-emeryville", {data:[{}],fetch:{},mutations:[]});

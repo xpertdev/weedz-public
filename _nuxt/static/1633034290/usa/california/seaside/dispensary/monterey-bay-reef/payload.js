@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/seaside/dispensary/monterey-bay-reef", {data:[{}],fetch:{},mutations:[]});

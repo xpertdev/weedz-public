@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/cookies-melrose-hollywood", {data:[{}],fetch:{},mutations:[]});

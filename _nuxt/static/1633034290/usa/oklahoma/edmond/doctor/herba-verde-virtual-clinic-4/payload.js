@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/doctor/herba-verde-virtual-clinic-4", {data:[{}],fetch:{},mutations:[]});

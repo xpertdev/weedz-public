@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/longmont/dispensary/twin-peaks-dispensary", {data:[{}],fetch:{},mutations:[]});

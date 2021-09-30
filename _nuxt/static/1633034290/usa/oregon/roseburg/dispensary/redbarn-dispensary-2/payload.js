@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/roseburg/dispensary/redbarn-dispensary-2", {data:[{}],fetch:{},mutations:[]});

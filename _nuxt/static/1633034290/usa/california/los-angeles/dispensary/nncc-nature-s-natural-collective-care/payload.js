@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/nncc-nature-s-natural-collective-care", {data:[{}],fetch:{},mutations:[]});

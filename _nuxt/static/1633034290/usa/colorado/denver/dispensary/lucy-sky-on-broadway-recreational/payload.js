@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/lucy-sky-on-broadway-recreational", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/windham/dispensary/alternative-essence-1", {data:[{}],fetch:{},mutations:[]});

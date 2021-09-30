@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/paso-robles/delivery/calac-wellness-2", {data:[{}],fetch:{},mutations:[]});

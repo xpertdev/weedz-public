@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/spring/store/cbd-american-shaman-i-45-north", {data:[{}],fetch:{},mutations:[]});

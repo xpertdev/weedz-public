@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ardmore/dispensary/curativa-green-cross", {data:[{}],fetch:{},mutations:[]});

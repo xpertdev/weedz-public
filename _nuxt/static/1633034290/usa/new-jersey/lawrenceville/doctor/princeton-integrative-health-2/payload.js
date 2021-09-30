@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/lawrenceville/doctor/princeton-integrative-health-2", {data:[{}],fetch:{},mutations:[]});

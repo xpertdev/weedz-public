@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/winter-haven/dispensary/liberty-health-sciences-cannabis-education-center-winter-haven", {data:[{}],fetch:{},mutations:[]});

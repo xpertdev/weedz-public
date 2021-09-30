@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/encinitas/delivery/mcec-encinitas", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/salinas/dispensary/east-of-eden-cannabis-co", {data:[{}],fetch:{},mutations:[]});

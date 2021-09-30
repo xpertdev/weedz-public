@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/westland/delivery/joyology-by-holistic-health-wayne-med", {data:[{}],fetch:{},mutations:[]});

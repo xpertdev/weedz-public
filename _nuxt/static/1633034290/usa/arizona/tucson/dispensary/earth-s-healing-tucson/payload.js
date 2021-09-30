@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tucson/dispensary/earth-s-healing-tucson", {data:[{}],fetch:{},mutations:[]});

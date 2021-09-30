@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/lakeview/dispensary/top-shelf-medicine-lakeview", {data:[{}],fetch:{},mutations:[]});

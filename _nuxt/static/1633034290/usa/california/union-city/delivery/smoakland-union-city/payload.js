@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/union-city/delivery/smoakland-union-city", {data:[{}],fetch:{},mutations:[]});

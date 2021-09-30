@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/new-haven/doctor/relief-medical-center", {data:[{}],fetch:{},mutations:[]});

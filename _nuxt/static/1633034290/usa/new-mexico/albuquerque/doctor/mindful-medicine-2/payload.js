@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/doctor/mindful-medicine-2", {data:[{}],fetch:{},mutations:[]});

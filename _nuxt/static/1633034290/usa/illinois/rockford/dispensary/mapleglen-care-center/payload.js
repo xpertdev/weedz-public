@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/rockford/dispensary/mapleglen-care-center", {data:[{}],fetch:{},mutations:[]});

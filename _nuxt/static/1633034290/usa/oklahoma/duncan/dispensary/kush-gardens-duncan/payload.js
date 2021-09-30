@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/duncan/dispensary/kush-gardens-duncan", {data:[{}],fetch:{},mutations:[]});

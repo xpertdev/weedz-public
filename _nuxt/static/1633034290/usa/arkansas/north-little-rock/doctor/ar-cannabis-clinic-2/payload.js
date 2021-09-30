@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/north-little-rock/doctor/ar-cannabis-clinic-2", {data:[{}],fetch:{},mutations:[]});

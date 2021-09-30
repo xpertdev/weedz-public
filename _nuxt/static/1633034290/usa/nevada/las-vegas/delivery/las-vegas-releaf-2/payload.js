@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/delivery/las-vegas-releaf-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/owasso/dispensary/bison-records-dispensary", {data:[{}],fetch:{},mutations:[]});

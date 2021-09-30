@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/el-reno/dispensary/dank-tank-1", {data:[{}],fetch:{},mutations:[]});

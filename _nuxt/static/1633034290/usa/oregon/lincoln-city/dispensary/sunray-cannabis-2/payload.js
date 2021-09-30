@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/lincoln-city/dispensary/sunray-cannabis-2", {data:[{}],fetch:{},mutations:[]});

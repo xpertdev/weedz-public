@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/amherst/dispensary/rise-amherst", {data:[{}],fetch:{},mutations:[]});

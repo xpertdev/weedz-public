@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/ellicott-city/dispensary/greenhouse-wellness-columbia", {data:[{}],fetch:{},mutations:[]});

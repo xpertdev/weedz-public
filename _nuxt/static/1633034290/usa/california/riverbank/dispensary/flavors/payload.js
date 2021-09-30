@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverbank/dispensary/flavors", {data:[{}],fetch:{},mutations:[]});

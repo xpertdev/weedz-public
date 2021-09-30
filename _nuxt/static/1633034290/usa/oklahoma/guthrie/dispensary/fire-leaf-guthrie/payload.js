@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/guthrie/dispensary/fire-leaf-guthrie", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lincoln-village/delivery/high-times-delivery-38", {data:[{}],fetch:{},mutations:[]});

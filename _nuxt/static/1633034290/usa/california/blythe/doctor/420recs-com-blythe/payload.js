@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/blythe/doctor/420recs-com-blythe", {data:[{}],fetch:{},mutations:[]});

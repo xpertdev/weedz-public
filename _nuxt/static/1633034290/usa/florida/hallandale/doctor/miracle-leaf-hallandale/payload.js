@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/hallandale/doctor/miracle-leaf-hallandale", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/delivery/world-class-cannabis-12", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/allen-park/delivery/detroit-herbal-center-delivery", {data:[{}],fetch:{},mutations:[]});

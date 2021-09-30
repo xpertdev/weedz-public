@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/grove/dispensary/grands-golden-canna", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-clara/delivery/mint", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/prescott-valley/dispensary/the-nirvana-center-of-prescott-valley", {data:[{}],fetch:{},mutations:[]});

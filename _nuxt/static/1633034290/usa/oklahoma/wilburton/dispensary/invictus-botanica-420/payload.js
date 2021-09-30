@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wilburton/dispensary/invictus-botanica-420", {data:[{}],fetch:{},mutations:[]});

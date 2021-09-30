@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucca-valley/delivery/the-micro-buddery-6", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/koreatown/delivery/lucky-delivery", {data:[{}],fetch:{},mutations:[]});

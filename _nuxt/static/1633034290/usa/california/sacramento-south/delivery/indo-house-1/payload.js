@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento-south/delivery/indo-house-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/san-luis/dispensary/beleaf-wellness-center", {data:[{}],fetch:{},mutations:[]});

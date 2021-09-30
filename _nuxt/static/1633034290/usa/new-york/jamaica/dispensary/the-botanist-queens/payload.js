@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/jamaica/dispensary/the-botanist-queens", {data:[{}],fetch:{},mutations:[]});

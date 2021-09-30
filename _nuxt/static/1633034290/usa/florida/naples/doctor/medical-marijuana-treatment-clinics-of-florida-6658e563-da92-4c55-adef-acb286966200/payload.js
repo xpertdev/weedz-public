@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/naples/doctor/medical-marijuana-treatment-clinics-of-florida-6658e563-da92-4c55-adef-acb286966200", {data:[{}],fetch:{},mutations:[]});

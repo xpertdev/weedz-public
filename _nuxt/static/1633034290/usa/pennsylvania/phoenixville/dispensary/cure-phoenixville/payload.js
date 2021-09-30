@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/phoenixville/dispensary/cure-phoenixville", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/shasta-lake-city/dispensary/530-collective-531-531", {data:[{}],fetch:{},mutations:[]});

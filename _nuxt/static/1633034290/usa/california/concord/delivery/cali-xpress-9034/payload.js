@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/cali-xpress-9034", {data:[{}],fetch:{},mutations:[]});

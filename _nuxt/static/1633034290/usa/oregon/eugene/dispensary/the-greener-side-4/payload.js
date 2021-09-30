@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/the-greener-side-4", {data:[{}],fetch:{},mutations:[]});

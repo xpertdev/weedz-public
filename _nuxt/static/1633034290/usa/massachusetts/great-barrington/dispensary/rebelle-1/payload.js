@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/great-barrington/dispensary/rebelle-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lazy-lake/dispensary/trulieve-lazy-lake", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/camp-hill/doctor/omni-medical-services-of-pa", {data:[{}],fetch:{},mutations:[]});

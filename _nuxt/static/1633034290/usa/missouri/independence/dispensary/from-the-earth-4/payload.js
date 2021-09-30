@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/independence/dispensary/from-the-earth-4", {data:[{}],fetch:{},mutations:[]});

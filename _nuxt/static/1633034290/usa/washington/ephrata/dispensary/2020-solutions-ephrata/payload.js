@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/ephrata/dispensary/2020-solutions-ephrata", {data:[{}],fetch:{},mutations:[]});

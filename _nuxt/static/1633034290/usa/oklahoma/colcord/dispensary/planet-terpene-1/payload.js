@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/colcord/dispensary/planet-terpene-1", {data:[{}],fetch:{},mutations:[]});

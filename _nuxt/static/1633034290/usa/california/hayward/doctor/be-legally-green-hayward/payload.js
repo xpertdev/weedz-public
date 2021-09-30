@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/doctor/be-legally-green-hayward", {data:[{}],fetch:{},mutations:[]});

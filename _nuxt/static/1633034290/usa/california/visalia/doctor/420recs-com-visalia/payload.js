@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/visalia/doctor/420recs-com-visalia", {data:[{}],fetch:{},mutations:[]});

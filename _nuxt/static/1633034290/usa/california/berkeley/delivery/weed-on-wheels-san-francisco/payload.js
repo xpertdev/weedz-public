@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/weed-on-wheels-san-francisco", {data:[{}],fetch:{},mutations:[]});

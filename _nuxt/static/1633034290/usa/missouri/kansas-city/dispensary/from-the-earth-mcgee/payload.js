@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/dispensary/from-the-earth-mcgee", {data:[{}],fetch:{},mutations:[]});

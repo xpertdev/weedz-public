@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/march-and-ash-4", {data:[{}],fetch:{},mutations:[]});

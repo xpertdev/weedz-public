@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/east-lansing/dispensary/skymint-east-lansing", {data:[{}],fetch:{},mutations:[]});

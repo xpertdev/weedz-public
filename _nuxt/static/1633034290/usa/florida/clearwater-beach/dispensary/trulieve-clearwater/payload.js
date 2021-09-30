@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/clearwater-beach/dispensary/trulieve-clearwater", {data:[{}],fetch:{},mutations:[]});

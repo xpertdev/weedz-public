@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/henderson/doctor/dr-reefer", {data:[{}],fetch:{},mutations:[]});

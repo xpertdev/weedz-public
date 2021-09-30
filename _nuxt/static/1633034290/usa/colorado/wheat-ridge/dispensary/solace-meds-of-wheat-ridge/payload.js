@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/wheat-ridge/dispensary/solace-meds-of-wheat-ridge", {data:[{}],fetch:{},mutations:[]});

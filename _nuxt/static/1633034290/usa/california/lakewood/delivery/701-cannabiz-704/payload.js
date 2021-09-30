@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakewood/delivery/701-cannabiz-704", {data:[{}],fetch:{},mutations:[]});

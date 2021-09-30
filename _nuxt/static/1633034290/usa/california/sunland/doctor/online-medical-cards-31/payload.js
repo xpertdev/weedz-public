@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sunland/doctor/online-medical-cards-31", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lawrence/dispensary/golden-greens-provisioning-center", {data:[{}],fetch:{},mutations:[]});

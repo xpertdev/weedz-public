@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sayre/dispensary/rt-66-weedpatch", {data:[{}],fetch:{},mutations:[]});

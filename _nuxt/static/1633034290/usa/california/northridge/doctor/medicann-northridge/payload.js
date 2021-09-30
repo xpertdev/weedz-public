@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/doctor/medicann-northridge", {data:[{}],fetch:{},mutations:[]});

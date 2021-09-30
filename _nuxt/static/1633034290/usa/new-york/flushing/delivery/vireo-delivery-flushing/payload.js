@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/flushing/delivery/vireo-delivery-flushing", {data:[{}],fetch:{},mutations:[]});

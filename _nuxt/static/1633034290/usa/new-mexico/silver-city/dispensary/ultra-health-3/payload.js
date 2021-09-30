@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/silver-city/dispensary/ultra-health-3", {data:[{}],fetch:{},mutations:[]});

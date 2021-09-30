@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/greenville-junction/dispensary/moosehead-medicine-llc-1", {data:[{}],fetch:{},mutations:[]});

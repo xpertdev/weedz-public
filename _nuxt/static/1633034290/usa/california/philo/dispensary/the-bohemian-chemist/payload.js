@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/philo/dispensary/the-bohemian-chemist", {data:[{}],fetch:{},mutations:[]});

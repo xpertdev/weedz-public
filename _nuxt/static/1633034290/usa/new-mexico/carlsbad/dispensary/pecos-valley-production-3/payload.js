@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/carlsbad/dispensary/pecos-valley-production-3", {data:[{}],fetch:{},mutations:[]});

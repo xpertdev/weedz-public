@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/attitude-organics", {data:[{}],fetch:{},mutations:[]});

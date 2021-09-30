@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/barc-beverly-alternative-relief-delivery-2", {data:[{}],fetch:{},mutations:[]});

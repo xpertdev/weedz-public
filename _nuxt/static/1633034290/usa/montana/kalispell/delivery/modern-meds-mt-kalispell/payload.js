@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/kalispell/delivery/modern-meds-mt-kalispell", {data:[{}],fetch:{},mutations:[]});

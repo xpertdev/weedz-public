@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/colorado-best-budz-2-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/1841-el-camino", {data:[{}],fetch:{},mutations:[]});

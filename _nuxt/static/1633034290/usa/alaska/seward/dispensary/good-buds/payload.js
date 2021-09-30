@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/seward/dispensary/good-buds", {data:[{}],fetch:{},mutations:[]});

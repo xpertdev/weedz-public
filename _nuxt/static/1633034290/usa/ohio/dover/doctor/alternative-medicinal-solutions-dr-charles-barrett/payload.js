@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/dover/doctor/alternative-medicinal-solutions-dr-charles-barrett", {data:[{}],fetch:{},mutations:[]});

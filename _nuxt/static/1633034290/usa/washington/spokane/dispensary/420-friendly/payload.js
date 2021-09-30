@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane/dispensary/420-friendly", {data:[{}],fetch:{},mutations:[]});

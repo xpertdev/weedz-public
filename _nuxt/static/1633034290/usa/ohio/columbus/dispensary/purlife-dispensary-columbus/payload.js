@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/columbus/dispensary/purlife-dispensary-columbus", {data:[{}],fetch:{},mutations:[]});

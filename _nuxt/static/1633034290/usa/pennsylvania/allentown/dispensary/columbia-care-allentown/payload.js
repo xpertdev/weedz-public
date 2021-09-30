@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/allentown/dispensary/columbia-care-allentown", {data:[{}],fetch:{},mutations:[]});

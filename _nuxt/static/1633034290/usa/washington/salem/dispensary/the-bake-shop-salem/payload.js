@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/salem/dispensary/the-bake-shop-salem", {data:[{}],fetch:{},mutations:[]});

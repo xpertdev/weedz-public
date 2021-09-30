@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/dispensary/libra-crafted-by-hotn", {data:[{}],fetch:{},mutations:[]});

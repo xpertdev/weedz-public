@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/rio-rancho/dispensary/natural-rx-rio-rancho", {data:[{}],fetch:{},mutations:[]});

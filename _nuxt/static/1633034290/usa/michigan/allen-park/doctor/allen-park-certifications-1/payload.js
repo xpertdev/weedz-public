@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/allen-park/doctor/allen-park-certifications-1", {data:[{}],fetch:{},mutations:[]});

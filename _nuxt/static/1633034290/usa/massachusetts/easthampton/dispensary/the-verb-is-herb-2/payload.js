@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/easthampton/dispensary/the-verb-is-herb-2", {data:[{}],fetch:{},mutations:[]});

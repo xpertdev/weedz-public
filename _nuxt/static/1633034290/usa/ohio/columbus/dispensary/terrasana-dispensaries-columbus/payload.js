@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/columbus/dispensary/terrasana-dispensaries-columbus", {data:[{}],fetch:{},mutations:[]});

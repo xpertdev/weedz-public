@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/wayne/dispensary/nirvana-wayne", {data:[{}],fetch:{},mutations:[]});

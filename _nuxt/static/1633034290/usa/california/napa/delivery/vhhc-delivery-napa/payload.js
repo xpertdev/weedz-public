@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/napa/delivery/vhhc-delivery-napa", {data:[{}],fetch:{},mutations:[]});

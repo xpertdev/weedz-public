@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lapeer/dispensary/xplore", {data:[{}],fetch:{},mutations:[]});

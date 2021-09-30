@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/minerva-canna-of-stillwater", {data:[{}],fetch:{},mutations:[]});

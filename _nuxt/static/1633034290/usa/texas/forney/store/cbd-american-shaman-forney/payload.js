@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/forney/store/cbd-american-shaman-forney", {data:[{}],fetch:{},mutations:[]});

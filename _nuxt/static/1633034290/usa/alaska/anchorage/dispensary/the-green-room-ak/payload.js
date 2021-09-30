@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/anchorage/dispensary/the-green-room-ak", {data:[{}],fetch:{},mutations:[]});

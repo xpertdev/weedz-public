@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/capital-dank-edmond", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/newport/dispensary/the-medication-station-ii", {data:[{}],fetch:{},mutations:[]});

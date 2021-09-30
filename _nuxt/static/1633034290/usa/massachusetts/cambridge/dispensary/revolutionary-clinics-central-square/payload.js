@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/cambridge/dispensary/revolutionary-clinics-central-square", {data:[{}],fetch:{},mutations:[]});

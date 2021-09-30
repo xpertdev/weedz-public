@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/lafyette/dispensary/igadi-ltd-lafyette", {data:[{}],fetch:{},mutations:[]});

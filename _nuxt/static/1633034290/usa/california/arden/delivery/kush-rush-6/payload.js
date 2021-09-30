@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arden/delivery/kush-rush-6", {data:[{}],fetch:{},mutations:[]});

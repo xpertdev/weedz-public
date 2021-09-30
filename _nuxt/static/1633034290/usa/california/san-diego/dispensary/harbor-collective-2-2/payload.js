@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/harbor-collective-2-2", {data:[{}],fetch:{},mutations:[]});

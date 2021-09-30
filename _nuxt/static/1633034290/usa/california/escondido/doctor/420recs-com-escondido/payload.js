@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/escondido/doctor/420recs-com-escondido", {data:[{}],fetch:{},mutations:[]});

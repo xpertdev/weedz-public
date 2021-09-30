@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/scranton/doctor/compassionate-care-consultants-5", {data:[{}],fetch:{},mutations:[]});

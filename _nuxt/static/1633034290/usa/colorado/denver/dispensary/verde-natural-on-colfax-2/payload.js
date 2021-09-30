@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/verde-natural-on-colfax-2", {data:[{}],fetch:{},mutations:[]});

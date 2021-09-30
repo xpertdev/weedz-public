@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/davenport/dispensary/natural-green-cannabis", {data:[{}],fetch:{},mutations:[]});

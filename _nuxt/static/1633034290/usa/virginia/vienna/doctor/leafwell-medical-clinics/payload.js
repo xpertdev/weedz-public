@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/virginia/vienna/doctor/leafwell-medical-clinics", {data:[{}],fetch:{},mutations:[]});

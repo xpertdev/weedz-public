@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakdale/delivery/green-frog-delivery-14", {data:[{}],fetch:{},mutations:[]});

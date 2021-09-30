@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/dispensary/off-the-charts", {data:[{}],fetch:{},mutations:[]});

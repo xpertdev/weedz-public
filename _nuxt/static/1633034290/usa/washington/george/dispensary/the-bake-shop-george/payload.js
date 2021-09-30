@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/george/dispensary/the-bake-shop-george", {data:[{}],fetch:{},mutations:[]});

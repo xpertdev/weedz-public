@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-clemente/delivery/higher-planes-medical-group-10", {data:[{}],fetch:{},mutations:[]});

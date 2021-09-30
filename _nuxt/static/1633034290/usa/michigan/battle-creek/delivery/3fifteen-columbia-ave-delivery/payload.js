@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/battle-creek/delivery/3fifteen-columbia-ave-delivery", {data:[{}],fetch:{},mutations:[]});

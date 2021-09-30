@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/cleveland/doctor/ohio-cannabis-connection-4", {data:[{}],fetch:{},mutations:[]});

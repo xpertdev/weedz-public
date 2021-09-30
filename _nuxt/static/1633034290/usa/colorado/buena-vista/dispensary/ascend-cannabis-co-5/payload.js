@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/buena-vista/dispensary/ascend-cannabis-co-5", {data:[{}],fetch:{},mutations:[]});

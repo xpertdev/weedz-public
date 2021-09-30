@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/the-hidden-leaf-2", {data:[{}],fetch:{},mutations:[]});

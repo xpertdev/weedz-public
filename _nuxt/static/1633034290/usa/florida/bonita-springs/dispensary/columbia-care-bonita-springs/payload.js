@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/bonita-springs/dispensary/columbia-care-bonita-springs", {data:[{}],fetch:{},mutations:[]});

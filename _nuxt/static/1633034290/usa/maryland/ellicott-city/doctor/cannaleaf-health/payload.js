@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/ellicott-city/doctor/cannaleaf-health", {data:[{}],fetch:{},mutations:[]});

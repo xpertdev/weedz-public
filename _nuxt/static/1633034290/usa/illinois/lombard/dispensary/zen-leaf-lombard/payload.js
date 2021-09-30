@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/lombard/dispensary/zen-leaf-lombard", {data:[{}],fetch:{},mutations:[]});

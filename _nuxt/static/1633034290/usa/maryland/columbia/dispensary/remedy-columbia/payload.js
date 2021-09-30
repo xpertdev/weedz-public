@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/columbia/dispensary/remedy-columbia", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/fall-river/doctor/true-herbal-consults", {data:[{}],fetch:{},mutations:[]});

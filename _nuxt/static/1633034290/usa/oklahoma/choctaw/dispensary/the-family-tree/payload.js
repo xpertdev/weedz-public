@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/choctaw/dispensary/the-family-tree", {data:[{}],fetch:{},mutations:[]});

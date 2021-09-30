@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/flint/delivery/light-n-up-microbuddery", {data:[{}],fetch:{},mutations:[]});

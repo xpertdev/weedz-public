@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/beverly-hills/delivery/get-weed-la-7", {data:[{}],fetch:{},mutations:[]});

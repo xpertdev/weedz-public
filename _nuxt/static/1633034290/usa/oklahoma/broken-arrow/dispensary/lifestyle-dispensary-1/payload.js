@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/lifestyle-dispensary-1", {data:[{}],fetch:{},mutations:[]});

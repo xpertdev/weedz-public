@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/idaho-springs/dispensary/igadi-ltd-2", {data:[{}],fetch:{},mutations:[]});

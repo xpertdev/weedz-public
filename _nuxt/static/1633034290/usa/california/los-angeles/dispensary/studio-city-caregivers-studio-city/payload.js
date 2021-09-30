@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/studio-city-caregivers-studio-city", {data:[{}],fetch:{},mutations:[]});

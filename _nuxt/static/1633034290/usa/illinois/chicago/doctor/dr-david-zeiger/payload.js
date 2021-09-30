@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago/doctor/dr-david-zeiger", {data:[{}],fetch:{},mutations:[]});

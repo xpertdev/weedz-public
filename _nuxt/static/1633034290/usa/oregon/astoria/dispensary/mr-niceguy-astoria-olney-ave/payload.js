@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/astoria/dispensary/mr-niceguy-astoria-olney-ave", {data:[{}],fetch:{},mutations:[]});

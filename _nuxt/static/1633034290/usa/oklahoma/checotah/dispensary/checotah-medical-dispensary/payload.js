@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/checotah/dispensary/checotah-medical-dispensary", {data:[{}],fetch:{},mutations:[]});

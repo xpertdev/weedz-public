@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/union-gap/dispensary/the-bake-shop-3", {data:[{}],fetch:{},mutations:[]});

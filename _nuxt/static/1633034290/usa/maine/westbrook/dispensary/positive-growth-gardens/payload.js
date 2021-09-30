@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/westbrook/dispensary/positive-growth-gardens", {data:[{}],fetch:{},mutations:[]});

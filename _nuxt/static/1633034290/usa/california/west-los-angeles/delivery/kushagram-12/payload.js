@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-los-angeles/delivery/kushagram-12", {data:[{}],fetch:{},mutations:[]});

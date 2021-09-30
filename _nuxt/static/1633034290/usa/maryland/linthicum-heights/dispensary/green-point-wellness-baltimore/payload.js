@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/linthicum-heights/dispensary/green-point-wellness-baltimore", {data:[{}],fetch:{},mutations:[]});

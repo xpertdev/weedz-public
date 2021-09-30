@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/dispensary/fire-on-fore-1", {data:[{}],fetch:{},mutations:[]});

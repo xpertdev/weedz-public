@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/denton/store/artisan-vapor-cbd-denton", {data:[{}],fetch:{},mutations:[]});

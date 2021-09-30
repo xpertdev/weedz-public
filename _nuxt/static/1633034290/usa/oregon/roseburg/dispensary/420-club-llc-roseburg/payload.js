@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/roseburg/dispensary/420-club-llc-roseburg", {data:[{}],fetch:{},mutations:[]});

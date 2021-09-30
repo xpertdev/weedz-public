@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/shingle-springs/dispensary/highlands-health-and-wellness-collective", {data:[{}],fetch:{},mutations:[]});

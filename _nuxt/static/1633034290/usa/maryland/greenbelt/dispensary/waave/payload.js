@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/greenbelt/dispensary/waave", {data:[{}],fetch:{},mutations:[]});

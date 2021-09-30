@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/tyrone/doctor/green-bridge-society", {data:[{}],fetch:{},mutations:[]});

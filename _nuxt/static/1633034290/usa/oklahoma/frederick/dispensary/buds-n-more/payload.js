@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/frederick/dispensary/buds-n-more", {data:[{}],fetch:{},mutations:[]});

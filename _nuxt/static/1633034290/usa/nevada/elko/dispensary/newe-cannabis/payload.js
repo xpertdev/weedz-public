@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/elko/dispensary/newe-cannabis", {data:[{}],fetch:{},mutations:[]});

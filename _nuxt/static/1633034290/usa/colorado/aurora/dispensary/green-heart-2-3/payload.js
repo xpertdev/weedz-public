@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aurora/dispensary/green-heart-2-3", {data:[{}],fetch:{},mutations:[]});

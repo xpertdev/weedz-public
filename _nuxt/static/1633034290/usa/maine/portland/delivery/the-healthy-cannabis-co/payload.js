@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/delivery/the-healthy-cannabis-co", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/nature-s-cure-dispensary", {data:[{}],fetch:{},mutations:[]});

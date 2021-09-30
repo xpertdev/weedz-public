@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/store/your-cbd-store-burbank", {data:[{}],fetch:{},mutations:[]});

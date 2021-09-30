@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/mason/doctor/lotus-health-llc", {data:[{}],fetch:{},mutations:[]});

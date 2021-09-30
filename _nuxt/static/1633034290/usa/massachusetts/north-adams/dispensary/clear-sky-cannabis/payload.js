@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/north-adams/dispensary/clear-sky-cannabis", {data:[{}],fetch:{},mutations:[]});

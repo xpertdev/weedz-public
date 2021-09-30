@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/hazel-park/dispensary/new-standard-1", {data:[{}],fetch:{},mutations:[]});

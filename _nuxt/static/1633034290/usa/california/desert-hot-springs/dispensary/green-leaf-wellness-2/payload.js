@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/desert-hot-springs/dispensary/green-leaf-wellness-2", {data:[{}],fetch:{},mutations:[]});

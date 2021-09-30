@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/taste-buds-detroit-michigan", {data:[{}],fetch:{},mutations:[]});

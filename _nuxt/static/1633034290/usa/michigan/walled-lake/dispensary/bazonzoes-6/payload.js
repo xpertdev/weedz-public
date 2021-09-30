@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/walled-lake/dispensary/bazonzoes-6", {data:[{}],fetch:{},mutations:[]});

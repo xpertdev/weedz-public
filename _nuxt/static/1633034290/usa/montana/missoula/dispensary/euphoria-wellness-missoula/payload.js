@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/dispensary/euphoria-wellness-missoula", {data:[{}],fetch:{},mutations:[]});

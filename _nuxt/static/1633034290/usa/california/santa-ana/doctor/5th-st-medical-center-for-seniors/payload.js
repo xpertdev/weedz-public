@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-ana/doctor/5th-st-medical-center-for-seniors", {data:[{}],fetch:{},mutations:[]});

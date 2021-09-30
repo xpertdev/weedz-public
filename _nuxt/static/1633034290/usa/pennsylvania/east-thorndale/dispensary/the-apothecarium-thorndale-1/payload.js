@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/east-thorndale/dispensary/the-apothecarium-thorndale-1", {data:[{}],fetch:{},mutations:[]});

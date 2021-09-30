@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/mcec-2", {data:[{}],fetch:{},mutations:[]});

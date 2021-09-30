@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/big-cabin/dispensary/highborn-natural-meds", {data:[{}],fetch:{},mutations:[]});

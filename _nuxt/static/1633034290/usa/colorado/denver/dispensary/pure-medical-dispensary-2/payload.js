@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/pure-medical-dispensary-2", {data:[{}],fetch:{},mutations:[]});

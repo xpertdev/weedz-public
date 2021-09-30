@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/doctor/online-medical-cards-23", {data:[{}],fetch:{},mutations:[]});

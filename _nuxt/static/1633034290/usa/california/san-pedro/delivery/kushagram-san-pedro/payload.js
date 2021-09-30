@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-pedro/delivery/kushagram-san-pedro", {data:[{}],fetch:{},mutations:[]});

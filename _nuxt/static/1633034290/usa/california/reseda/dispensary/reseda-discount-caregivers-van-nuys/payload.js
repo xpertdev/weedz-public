@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/reseda/dispensary/reseda-discount-caregivers-van-nuys", {data:[{}],fetch:{},mutations:[]});

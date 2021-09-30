@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/joplin/dispensary/shango", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/seaside/dispensary/urbn-leaf-seaside", {data:[{}],fetch:{},mutations:[]});

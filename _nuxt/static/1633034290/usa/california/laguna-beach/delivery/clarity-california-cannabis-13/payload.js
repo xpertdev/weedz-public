@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/laguna-beach/delivery/clarity-california-cannabis-13", {data:[{}],fetch:{},mutations:[]});

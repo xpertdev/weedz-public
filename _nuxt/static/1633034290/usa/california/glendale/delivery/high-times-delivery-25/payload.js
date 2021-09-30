@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/glendale/delivery/high-times-delivery-25", {data:[{}],fetch:{},mutations:[]});

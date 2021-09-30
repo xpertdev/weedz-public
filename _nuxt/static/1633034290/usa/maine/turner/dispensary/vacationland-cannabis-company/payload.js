@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/turner/dispensary/vacationland-cannabis-company", {data:[{}],fetch:{},mutations:[]});

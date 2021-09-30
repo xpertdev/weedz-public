@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/urbana/dispensary/numed-urbana-il", {data:[{}],fetch:{},mutations:[]});

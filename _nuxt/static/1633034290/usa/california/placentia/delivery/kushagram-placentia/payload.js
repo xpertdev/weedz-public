@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/placentia/delivery/kushagram-placentia", {data:[{}],fetch:{},mutations:[]});

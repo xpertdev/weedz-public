@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/highland-park/doctor/the-healing-clinic-patient-advocacy-center-3", {data:[{}],fetch:{},mutations:[]});

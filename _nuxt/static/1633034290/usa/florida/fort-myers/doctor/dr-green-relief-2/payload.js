@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-myers/doctor/dr-green-relief-2", {data:[{}],fetch:{},mutations:[]});

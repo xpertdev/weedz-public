@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kirksville/doctor/missouri-cannabis-outreach-3", {data:[{}],fetch:{},mutations:[]});

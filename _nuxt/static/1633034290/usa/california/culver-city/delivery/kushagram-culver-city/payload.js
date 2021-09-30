@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/culver-city/delivery/kushagram-culver-city", {data:[{}],fetch:{},mutations:[]});

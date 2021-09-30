@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/madill/dispensary/texoma-house-of-cannabis", {data:[{}],fetch:{},mutations:[]});

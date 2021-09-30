@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manteca/delivery/juva-delivery-manteca", {data:[{}],fetch:{},mutations:[]});

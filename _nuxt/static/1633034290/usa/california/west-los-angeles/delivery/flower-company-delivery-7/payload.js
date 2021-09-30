@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-los-angeles/delivery/flower-company-delivery-7", {data:[{}],fetch:{},mutations:[]});

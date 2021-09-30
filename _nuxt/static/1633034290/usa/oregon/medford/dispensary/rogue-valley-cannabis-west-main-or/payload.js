@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/dispensary/rogue-valley-cannabis-west-main-or", {data:[{}],fetch:{},mutations:[]});

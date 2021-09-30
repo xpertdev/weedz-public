@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/queen-creek/dispensary/reef-dispensaries-queen-creek", {data:[{}],fetch:{},mutations:[]});

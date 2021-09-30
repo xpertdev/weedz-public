@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/the-artist-tree-marijuana-dispensary-and-weed-delivery-los-angeles", {data:[{}],fetch:{},mutations:[]});

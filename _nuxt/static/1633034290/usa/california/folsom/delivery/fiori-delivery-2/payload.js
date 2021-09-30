@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/fiori-delivery-2", {data:[{}],fetch:{},mutations:[]});

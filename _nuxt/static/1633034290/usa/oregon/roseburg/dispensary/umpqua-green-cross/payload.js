@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/roseburg/dispensary/umpqua-green-cross", {data:[{}],fetch:{},mutations:[]});

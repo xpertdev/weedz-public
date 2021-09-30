@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-leandro/delivery/california-patients-club-2", {data:[{}],fetch:{},mutations:[]});

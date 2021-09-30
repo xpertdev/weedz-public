@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/davis/delivery/canna-couriers-citrus-heights", {data:[{}],fetch:{},mutations:[]});

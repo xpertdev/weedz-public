@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/doctor/my-florida-green-2", {data:[{}],fetch:{},mutations:[]});

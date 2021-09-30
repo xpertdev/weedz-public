@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/herbal-phoenix-llc", {data:[{}],fetch:{},mutations:[]});

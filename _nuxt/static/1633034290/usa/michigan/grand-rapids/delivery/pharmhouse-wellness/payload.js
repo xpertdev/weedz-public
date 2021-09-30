@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/delivery/pharmhouse-wellness", {data:[{}],fetch:{},mutations:[]});

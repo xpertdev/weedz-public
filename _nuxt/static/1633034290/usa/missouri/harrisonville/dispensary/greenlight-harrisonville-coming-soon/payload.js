@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/harrisonville/dispensary/greenlight-harrisonville-coming-soon", {data:[{}],fetch:{},mutations:[]});

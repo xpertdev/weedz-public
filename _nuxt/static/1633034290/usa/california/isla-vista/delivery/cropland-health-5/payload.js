@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/isla-vista/delivery/cropland-health-5", {data:[{}],fetch:{},mutations:[]});

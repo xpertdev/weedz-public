@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/little-rock/dispensary/herbology-little-rock", {data:[{}],fetch:{},mutations:[]});

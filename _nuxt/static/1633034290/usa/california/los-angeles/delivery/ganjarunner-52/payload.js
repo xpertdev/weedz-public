@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/ganjarunner-52", {data:[{}],fetch:{},mutations:[]});

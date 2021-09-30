@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/arlington/store/purely-cbd-east-arlington", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/dispensary/us-bloom", {data:[{}],fetch:{},mutations:[]});

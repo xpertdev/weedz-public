@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/dispensary/muv-sarasota", {data:[{}],fetch:{},mutations:[]});

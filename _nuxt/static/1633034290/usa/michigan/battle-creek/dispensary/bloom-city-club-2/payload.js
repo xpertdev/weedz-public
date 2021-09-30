@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/battle-creek/dispensary/bloom-city-club-2", {data:[{}],fetch:{},mutations:[]});

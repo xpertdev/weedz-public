@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/plattsburgh/doctor/upstate-medicinal-alternatives", {data:[{}],fetch:{},mutations:[]});

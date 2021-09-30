@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/macomb-county/delivery/liv-delivery-3", {data:[{}],fetch:{},mutations:[]});

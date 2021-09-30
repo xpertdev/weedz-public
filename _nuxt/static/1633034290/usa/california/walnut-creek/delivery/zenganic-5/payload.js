@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/walnut-creek/delivery/zenganic-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/socal-green-meds-6", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vacaville/delivery/royal-greens-12", {data:[{}],fetch:{},mutations:[]});

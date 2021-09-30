@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/traverse-city/doctor/chronic-cert-center", {data:[{}],fetch:{},mutations:[]});

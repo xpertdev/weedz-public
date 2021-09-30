@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/good-karma-cannabis", {data:[{}],fetch:{},mutations:[]});

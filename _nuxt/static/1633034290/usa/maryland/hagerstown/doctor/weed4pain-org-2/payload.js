@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/hagerstown/doctor/weed4pain-org-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-puente/delivery/re-bud-south-long-beach", {data:[{}],fetch:{},mutations:[]});

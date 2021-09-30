@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/the-peak-rose-rock-dispensary", {data:[{}],fetch:{},mutations:[]});

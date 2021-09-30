@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/medijuana-5", {data:[{}],fetch:{},mutations:[]});

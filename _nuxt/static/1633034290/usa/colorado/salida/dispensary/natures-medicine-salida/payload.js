@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/salida/dispensary/natures-medicine-salida", {data:[{}],fetch:{},mutations:[]});

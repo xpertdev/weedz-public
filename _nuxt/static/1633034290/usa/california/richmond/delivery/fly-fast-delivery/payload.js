@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/richmond/delivery/fly-fast-delivery", {data:[{}],fetch:{},mutations:[]});

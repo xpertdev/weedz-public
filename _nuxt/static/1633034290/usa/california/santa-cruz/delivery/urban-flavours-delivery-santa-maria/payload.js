@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-cruz/delivery/urban-flavours-delivery-santa-maria", {data:[{}],fetch:{},mutations:[]});

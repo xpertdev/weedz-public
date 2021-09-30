@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-clara/delivery/amuse-cannabis-delivery-sunnyvale-santa-clara", {data:[{}],fetch:{},mutations:[]});

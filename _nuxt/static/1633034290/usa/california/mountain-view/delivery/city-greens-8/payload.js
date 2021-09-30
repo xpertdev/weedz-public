@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mountain-view/delivery/city-greens-8", {data:[{}],fetch:{},mutations:[]});

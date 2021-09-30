@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/petaluma/delivery/primetiming-cannabis-delivery-13", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/jurupa-valley/delivery/nug-avenue-41", {data:[{}],fetch:{},mutations:[]});

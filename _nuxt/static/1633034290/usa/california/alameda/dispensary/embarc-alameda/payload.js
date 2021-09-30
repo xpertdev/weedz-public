@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alameda/dispensary/embarc-alameda", {data:[{}],fetch:{},mutations:[]});

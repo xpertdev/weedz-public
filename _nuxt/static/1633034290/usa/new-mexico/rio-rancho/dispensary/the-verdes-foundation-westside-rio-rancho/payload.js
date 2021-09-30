@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/rio-rancho/dispensary/the-verdes-foundation-westside-rio-rancho", {data:[{}],fetch:{},mutations:[]});

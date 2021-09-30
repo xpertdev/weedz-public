@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/east-northport/doctor/east-northport-medical-care", {data:[{}],fetch:{},mutations:[]});

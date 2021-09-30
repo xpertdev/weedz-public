@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane/doctor/medical-green-spokane", {data:[{}],fetch:{},mutations:[]});

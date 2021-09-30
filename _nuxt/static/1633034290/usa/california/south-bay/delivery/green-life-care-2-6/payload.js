@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-bay/delivery/green-life-care-2-6", {data:[{}],fetch:{},mutations:[]});

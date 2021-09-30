@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/maysville/dispensary/the-kush-spot", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/garden-city/dispensary/natures-herbs-and-wellness-center-recreational", {data:[{}],fetch:{},mutations:[]});

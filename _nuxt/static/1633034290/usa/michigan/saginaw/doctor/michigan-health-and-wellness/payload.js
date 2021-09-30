@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/saginaw/doctor/michigan-health-and-wellness", {data:[{}],fetch:{},mutations:[]});

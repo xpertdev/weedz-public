@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista/delivery/herban-delivery-12", {data:[{}],fetch:{},mutations:[]});

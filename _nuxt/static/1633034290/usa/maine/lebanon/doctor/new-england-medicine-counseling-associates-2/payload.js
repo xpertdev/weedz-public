@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lebanon/doctor/new-england-medicine-counseling-associates-2", {data:[{}],fetch:{},mutations:[]});

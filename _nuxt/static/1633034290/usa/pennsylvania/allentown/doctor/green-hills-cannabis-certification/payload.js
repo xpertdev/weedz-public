@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/allentown/doctor/green-hills-cannabis-certification", {data:[{}],fetch:{},mutations:[]});

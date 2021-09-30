@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/coal-township/doctor/dr-ahmad-wardeh", {data:[{}],fetch:{},mutations:[]});

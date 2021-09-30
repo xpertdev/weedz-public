@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/willimantic/dispensary/fine-fettle-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fairfield/delivery/canna-car-6", {data:[{}],fetch:{},mutations:[]});

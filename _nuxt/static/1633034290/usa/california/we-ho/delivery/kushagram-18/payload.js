@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/we-ho/delivery/kushagram-18", {data:[{}],fetch:{},mutations:[]});

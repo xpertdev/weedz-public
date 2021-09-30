@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/roseville/delivery/kolas-delivery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/cape-coral/dispensary/trulieve-cape-coral", {data:[{}],fetch:{},mutations:[]});

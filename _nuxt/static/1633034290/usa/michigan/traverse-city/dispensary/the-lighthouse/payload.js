@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/traverse-city/dispensary/the-lighthouse", {data:[{}],fetch:{},mutations:[]});

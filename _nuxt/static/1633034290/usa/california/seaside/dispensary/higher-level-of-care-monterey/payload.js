@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/seaside/dispensary/higher-level-of-care-monterey", {data:[{}],fetch:{},mutations:[]});

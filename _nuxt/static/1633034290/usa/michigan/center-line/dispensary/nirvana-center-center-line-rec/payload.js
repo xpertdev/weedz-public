@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/center-line/dispensary/nirvana-center-center-line-rec", {data:[{}],fetch:{},mutations:[]});

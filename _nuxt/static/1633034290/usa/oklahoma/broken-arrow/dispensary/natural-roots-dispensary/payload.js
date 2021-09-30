@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/natural-roots-dispensary", {data:[{}],fetch:{},mutations:[]});

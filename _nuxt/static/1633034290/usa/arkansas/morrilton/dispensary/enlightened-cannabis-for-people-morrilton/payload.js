@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/morrilton/dispensary/enlightened-cannabis-for-people-morrilton", {data:[{}],fetch:{},mutations:[]});

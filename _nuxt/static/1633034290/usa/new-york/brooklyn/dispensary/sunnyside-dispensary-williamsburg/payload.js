@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/dispensary/sunnyside-dispensary-williamsburg", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/castroville/dispensary/higher-level-mmj", {data:[{}],fetch:{},mutations:[]});

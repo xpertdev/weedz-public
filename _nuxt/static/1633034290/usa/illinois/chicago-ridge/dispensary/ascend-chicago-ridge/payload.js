@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago-ridge/dispensary/ascend-chicago-ridge", {data:[{}],fetch:{},mutations:[]});

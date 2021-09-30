@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wagoner/dispensary/flower-to-the-people-5", {data:[{}],fetch:{},mutations:[]});

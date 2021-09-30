@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/negaunee/dispensary/the-fire-station", {data:[{}],fetch:{},mutations:[]});

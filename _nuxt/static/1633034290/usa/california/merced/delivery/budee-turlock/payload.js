@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/merced/delivery/budee-turlock", {data:[{}],fetch:{},mutations:[]});

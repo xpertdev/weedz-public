@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tecumseh/dispensary/local-leaf-rx", {data:[{}],fetch:{},mutations:[]});

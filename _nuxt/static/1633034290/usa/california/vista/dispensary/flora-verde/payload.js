@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/dispensary/flora-verde", {data:[{}],fetch:{},mutations:[]});

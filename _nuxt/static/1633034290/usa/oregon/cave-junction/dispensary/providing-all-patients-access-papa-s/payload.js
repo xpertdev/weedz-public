@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/cave-junction/dispensary/providing-all-patients-access-papa-s", {data:[{}],fetch:{},mutations:[]});

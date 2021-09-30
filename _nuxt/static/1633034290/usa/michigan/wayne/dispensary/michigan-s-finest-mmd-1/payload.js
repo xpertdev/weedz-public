@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/wayne/dispensary/michigan-s-finest-mmd-1", {data:[{}],fetch:{},mutations:[]});

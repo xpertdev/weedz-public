@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lehigh-acres/doctor/marijuana-doctor-lehigh-acres", {data:[{}],fetch:{},mutations:[]});

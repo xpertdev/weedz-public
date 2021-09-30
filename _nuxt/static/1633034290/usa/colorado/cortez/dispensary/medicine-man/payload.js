@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/cortez/dispensary/medicine-man", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/a-therapeutic-alternative-sacramento", {data:[{}],fetch:{},mutations:[]});

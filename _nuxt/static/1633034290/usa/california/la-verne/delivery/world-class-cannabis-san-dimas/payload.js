@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-verne/delivery/world-class-cannabis-san-dimas", {data:[{}],fetch:{},mutations:[]});

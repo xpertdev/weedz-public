@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/cannabis-express-26", {data:[{}],fetch:{},mutations:[]});

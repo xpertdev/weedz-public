@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-lake-tahoe/doctor/compassionate-health-options-south-lake-tahoe", {data:[{}],fetch:{},mutations:[]});

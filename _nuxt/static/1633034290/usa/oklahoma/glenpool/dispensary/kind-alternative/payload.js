@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/glenpool/dispensary/kind-alternative", {data:[{}],fetch:{},mutations:[]});

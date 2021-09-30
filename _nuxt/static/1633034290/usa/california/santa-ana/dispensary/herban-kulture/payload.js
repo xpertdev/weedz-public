@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-ana/dispensary/herban-kulture", {data:[{}],fetch:{},mutations:[]});

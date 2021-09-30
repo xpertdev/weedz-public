@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/steamboat-springs/dispensary/tumbleweed-steamboat", {data:[{}],fetch:{},mutations:[]});

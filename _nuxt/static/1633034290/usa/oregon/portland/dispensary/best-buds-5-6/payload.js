@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/best-buds-5-6", {data:[{}],fetch:{},mutations:[]});

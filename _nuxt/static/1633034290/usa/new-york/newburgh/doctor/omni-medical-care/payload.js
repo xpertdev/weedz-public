@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/newburgh/doctor/omni-medical-care", {data:[{}],fetch:{},mutations:[]});

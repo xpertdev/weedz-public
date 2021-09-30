@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/adrian/delivery/amazing-budz-delivery-recreational", {data:[{}],fetch:{},mutations:[]});

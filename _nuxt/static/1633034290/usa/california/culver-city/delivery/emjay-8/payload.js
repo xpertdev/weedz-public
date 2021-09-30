@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/culver-city/delivery/emjay-8", {data:[{}],fetch:{},mutations:[]});

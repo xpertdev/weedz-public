@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/dispensary/the-mericana", {data:[{}],fetch:{},mutations:[]});

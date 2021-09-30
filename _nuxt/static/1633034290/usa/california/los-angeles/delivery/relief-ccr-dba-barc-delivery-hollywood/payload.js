@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/relief-ccr-dba-barc-delivery-hollywood", {data:[{}],fetch:{},mutations:[]});

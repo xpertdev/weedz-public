@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rosemead/doctor/dr-weedy-clinic-online-7", {data:[{}],fetch:{},mutations:[]});

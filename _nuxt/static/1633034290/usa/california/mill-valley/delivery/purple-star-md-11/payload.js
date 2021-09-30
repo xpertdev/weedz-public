@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mill-valley/delivery/purple-star-md-11", {data:[{}],fetch:{},mutations:[]});

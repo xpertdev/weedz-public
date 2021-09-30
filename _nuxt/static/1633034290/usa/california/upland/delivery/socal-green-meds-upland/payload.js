@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/upland/delivery/socal-green-meds-upland", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cordova/delivery/alpaca-club-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/attleboro/dispensary/ashli-s-inc", {data:[{}],fetch:{},mutations:[]});

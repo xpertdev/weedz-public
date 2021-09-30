@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/fort-worth/doctor/dr-michael-s-perry", {data:[{}],fetch:{},mutations:[]});

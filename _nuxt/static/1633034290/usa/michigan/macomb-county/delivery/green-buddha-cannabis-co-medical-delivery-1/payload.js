@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/macomb-county/delivery/green-buddha-cannabis-co-medical-delivery-1", {data:[{}],fetch:{},mutations:[]});

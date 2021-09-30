@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/pure-green", {data:[{}],fetch:{},mutations:[]});

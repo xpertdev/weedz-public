@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/inola/dispensary/herbology-zone-medical-dispensary", {data:[{}],fetch:{},mutations:[]});

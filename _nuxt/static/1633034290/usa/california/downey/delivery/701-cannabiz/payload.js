@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downey/delivery/701-cannabiz", {data:[{}],fetch:{},mutations:[]});

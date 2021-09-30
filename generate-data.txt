@@ -1,0 +1,11 @@
+ cd D:\Projects\Github\xpertdev\freelancer-python-luminati-weedmaps
+
+ run the following command
+ python .\generateCleansedJson.py
+
+ move files from 
+ D:\Projects\Github\xpertdev\freelancer-python-luminati-weedmaps\dumps\cleansedjson
+
+ to
+
+ D:\Projects\Github\xpertdev\weedz\static\usa

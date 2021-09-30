@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/buddha-buds-dispensary", {data:[{}],fetch:{},mutations:[]});

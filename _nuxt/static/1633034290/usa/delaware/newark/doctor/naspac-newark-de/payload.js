@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/newark/doctor/naspac-newark-de", {data:[{}],fetch:{},mutations:[]});

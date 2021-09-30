@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/atoka/dispensary/kings-reserves-2", {data:[{}],fetch:{},mutations:[]});

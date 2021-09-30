@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oceanside/delivery/socal-green-meds-oceanside", {data:[{}],fetch:{},mutations:[]});

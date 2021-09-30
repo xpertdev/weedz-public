@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redding/dispensary/vibe-by-california-redding", {data:[{}],fetch:{},mutations:[]});

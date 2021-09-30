@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/ashby/dispensary/united-cultivation", {data:[{}],fetch:{},mutations:[]});

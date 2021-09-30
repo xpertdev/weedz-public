@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/utah/millcreek/doctor/utah-therapeutic-health-center", {data:[{}],fetch:{},mutations:[]});

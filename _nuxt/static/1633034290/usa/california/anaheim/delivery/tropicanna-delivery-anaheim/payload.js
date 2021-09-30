@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/tropicanna-delivery-anaheim", {data:[{}],fetch:{},mutations:[]});

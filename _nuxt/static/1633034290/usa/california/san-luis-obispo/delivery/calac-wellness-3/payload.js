@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-luis-obispo/delivery/calac-wellness-3", {data:[{}],fetch:{},mutations:[]});

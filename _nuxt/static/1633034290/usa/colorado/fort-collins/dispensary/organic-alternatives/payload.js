@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fort-collins/dispensary/organic-alternatives", {data:[{}],fetch:{},mutations:[]});

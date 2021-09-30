@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-lake-tahoe/doctor/heavenly-medicine-and-wellness", {data:[{}],fetch:{},mutations:[]});

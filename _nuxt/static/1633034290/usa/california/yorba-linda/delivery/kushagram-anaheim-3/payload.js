@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yorba-linda/delivery/kushagram-anaheim-3", {data:[{}],fetch:{},mutations:[]});

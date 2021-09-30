@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/bailey/dispensary/the-happy-camper-cannabis-company", {data:[{}],fetch:{},mutations:[]});

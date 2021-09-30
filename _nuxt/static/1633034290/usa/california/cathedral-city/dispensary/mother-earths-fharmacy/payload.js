@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cathedral-city/dispensary/mother-earths-fharmacy", {data:[{}],fetch:{},mutations:[]});

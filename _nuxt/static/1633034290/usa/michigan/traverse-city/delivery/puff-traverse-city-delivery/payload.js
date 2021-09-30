@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/traverse-city/delivery/puff-traverse-city-delivery", {data:[{}],fetch:{},mutations:[]});

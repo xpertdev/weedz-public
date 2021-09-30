@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/doctor/cannabis-doc-2", {data:[{}],fetch:{},mutations:[]});

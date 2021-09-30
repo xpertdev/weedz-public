@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tamarac/doctor/high-life-medical-center-2", {data:[{}],fetch:{},mutations:[]});

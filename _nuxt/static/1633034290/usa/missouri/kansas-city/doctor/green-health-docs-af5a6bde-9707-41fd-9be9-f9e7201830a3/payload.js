@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/doctor/green-health-docs-af5a6bde-9707-41fd-9be9-f9e7201830a3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/2nd-step-medical-marijuana-dispensary", {data:[{}],fetch:{},mutations:[]});

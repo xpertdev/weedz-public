@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/fairbanks/dispensary/green-life-supply", {data:[{}],fetch:{},mutations:[]});

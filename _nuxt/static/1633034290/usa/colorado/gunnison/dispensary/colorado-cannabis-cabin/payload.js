@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/gunnison/dispensary/colorado-cannabis-cabin", {data:[{}],fetch:{},mutations:[]});

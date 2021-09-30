@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/anchorage/dispensary/alaska-weeds", {data:[{}],fetch:{},mutations:[]});

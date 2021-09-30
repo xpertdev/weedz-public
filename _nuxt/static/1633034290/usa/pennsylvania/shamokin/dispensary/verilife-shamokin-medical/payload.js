@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/shamokin/dispensary/verilife-shamokin-medical", {data:[{}],fetch:{},mutations:[]});

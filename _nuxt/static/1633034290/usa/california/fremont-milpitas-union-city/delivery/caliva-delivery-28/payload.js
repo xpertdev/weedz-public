@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont-milpitas-union-city/delivery/caliva-delivery-28", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/inglewood/delivery/amuse-cannabis-delivery-inglewood", {data:[{}],fetch:{},mutations:[]});

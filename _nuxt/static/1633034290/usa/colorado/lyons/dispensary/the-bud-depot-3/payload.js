@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/lyons/dispensary/the-bud-depot-3", {data:[{}],fetch:{},mutations:[]});

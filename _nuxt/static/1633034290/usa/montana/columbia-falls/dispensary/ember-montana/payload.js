@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/columbia-falls/dispensary/ember-montana", {data:[{}],fetch:{},mutations:[]});

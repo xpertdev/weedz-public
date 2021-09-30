@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/anchorage/doctor/releaf-alaska", {data:[{}],fetch:{},mutations:[]});

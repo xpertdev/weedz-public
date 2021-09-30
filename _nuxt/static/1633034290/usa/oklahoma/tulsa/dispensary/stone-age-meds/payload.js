@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/stone-age-meds", {data:[{}],fetch:{},mutations:[]});

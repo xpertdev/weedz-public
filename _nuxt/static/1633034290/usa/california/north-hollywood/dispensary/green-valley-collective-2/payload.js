@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-hollywood/dispensary/green-valley-collective-2", {data:[{}],fetch:{},mutations:[]});

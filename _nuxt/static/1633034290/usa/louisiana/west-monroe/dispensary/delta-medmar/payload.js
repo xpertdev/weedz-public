@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/west-monroe/dispensary/delta-medmar", {data:[{}],fetch:{},mutations:[]});

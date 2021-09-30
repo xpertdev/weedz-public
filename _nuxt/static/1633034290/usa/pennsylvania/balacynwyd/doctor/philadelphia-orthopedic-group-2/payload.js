@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/balacynwyd/doctor/philadelphia-orthopedic-group-2", {data:[{}],fetch:{},mutations:[]});

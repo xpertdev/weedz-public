@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/central-point/dispensary/rogue-valley-cannabis-dispensary", {data:[{}],fetch:{},mutations:[]});

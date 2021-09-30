@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/poway/delivery/speedyweedydelivery", {data:[{}],fetch:{},mutations:[]});

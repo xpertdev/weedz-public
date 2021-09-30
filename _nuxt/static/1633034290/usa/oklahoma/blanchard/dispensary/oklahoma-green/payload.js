@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/blanchard/dispensary/oklahoma-green", {data:[{}],fetch:{},mutations:[]});

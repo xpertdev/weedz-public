@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/doctor/brooklyn-420-marijuana-doctor-dccb6843-23ae-4f5f-a051-0db42b6dee1b", {data:[{}],fetch:{},mutations:[]});

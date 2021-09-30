@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/the-re-up-folsom-granitebay", {data:[{}],fetch:{},mutations:[]});

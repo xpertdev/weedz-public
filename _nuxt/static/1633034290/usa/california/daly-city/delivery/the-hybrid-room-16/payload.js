@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/daly-city/delivery/the-hybrid-room-16", {data:[{}],fetch:{},mutations:[]});

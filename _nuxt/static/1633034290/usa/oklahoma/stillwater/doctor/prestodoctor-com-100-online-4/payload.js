@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/doctor/prestodoctor-com-100-online-4", {data:[{}],fetch:{},mutations:[]});

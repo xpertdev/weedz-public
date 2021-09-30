@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/canton/dispensary/rise-canton", {data:[{}],fetch:{},mutations:[]});

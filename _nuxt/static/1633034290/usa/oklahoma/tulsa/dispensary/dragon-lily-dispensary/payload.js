@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/dragon-lily-dispensary", {data:[{}],fetch:{},mutations:[]});

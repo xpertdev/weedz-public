@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/delivery/montana-cannabis-company", {data:[{}],fetch:{},mutations:[]});

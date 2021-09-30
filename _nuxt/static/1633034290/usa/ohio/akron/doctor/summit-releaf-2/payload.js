@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/akron/doctor/summit-releaf-2", {data:[{}],fetch:{},mutations:[]});

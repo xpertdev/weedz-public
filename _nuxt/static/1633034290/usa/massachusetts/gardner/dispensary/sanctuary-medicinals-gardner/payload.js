@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/gardner/dispensary/sanctuary-medicinals-gardner", {data:[{}],fetch:{},mutations:[]});

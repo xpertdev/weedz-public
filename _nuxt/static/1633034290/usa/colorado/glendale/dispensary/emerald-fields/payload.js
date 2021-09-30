@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/glendale/dispensary/emerald-fields", {data:[{}],fetch:{},mutations:[]});

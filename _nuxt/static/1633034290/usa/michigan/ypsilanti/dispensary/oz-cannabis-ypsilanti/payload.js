@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/dispensary/oz-cannabis-ypsilanti", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/westfield/dispensary/cannabis-connection-inc", {data:[{}],fetch:{},mutations:[]});

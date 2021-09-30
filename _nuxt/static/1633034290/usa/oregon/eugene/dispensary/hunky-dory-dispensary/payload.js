@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/hunky-dory-dispensary", {data:[{}],fetch:{},mutations:[]});

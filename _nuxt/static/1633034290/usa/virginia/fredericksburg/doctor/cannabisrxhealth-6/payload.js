@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/virginia/fredericksburg/doctor/cannabisrxhealth-6", {data:[{}],fetch:{},mutations:[]});

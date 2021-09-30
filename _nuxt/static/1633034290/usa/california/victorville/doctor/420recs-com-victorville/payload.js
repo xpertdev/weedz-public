@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/victorville/doctor/420recs-com-victorville", {data:[{}],fetch:{},mutations:[]});

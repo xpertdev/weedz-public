@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sunrise/doctor/my-florida-green-5", {data:[{}],fetch:{},mutations:[]});

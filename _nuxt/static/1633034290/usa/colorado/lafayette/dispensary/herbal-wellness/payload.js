@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/lafayette/dispensary/herbal-wellness", {data:[{}],fetch:{},mutations:[]});

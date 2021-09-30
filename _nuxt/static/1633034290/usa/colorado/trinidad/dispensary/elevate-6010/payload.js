@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/elevate-6010", {data:[{}],fetch:{},mutations:[]});

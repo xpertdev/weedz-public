@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/doctor/online-medical-cards", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/alternative-remedies-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/delivery/mmd-vannuys", {data:[{}],fetch:{},mutations:[]});

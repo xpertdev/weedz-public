@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-la/delivery/last-strain-20", {data:[{}],fetch:{},mutations:[]});

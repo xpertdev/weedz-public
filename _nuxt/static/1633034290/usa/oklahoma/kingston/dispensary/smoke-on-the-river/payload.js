@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/kingston/dispensary/smoke-on-the-river", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/kushagram-huntington-beach", {data:[{}],fetch:{},mutations:[]});

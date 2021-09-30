@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/wickenburg/dispensary/mmj-apothercary-az", {data:[{}],fetch:{},mutations:[]});

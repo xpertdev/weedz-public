@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/blue-grass-llc", {data:[{}],fetch:{},mutations:[]});

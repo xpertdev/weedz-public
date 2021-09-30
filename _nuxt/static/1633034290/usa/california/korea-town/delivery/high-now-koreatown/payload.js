@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town/delivery/high-now-koreatown", {data:[{}],fetch:{},mutations:[]});

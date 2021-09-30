@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/big-timber/dispensary/michael-shirleys-medical", {data:[{}],fetch:{},mutations:[]});

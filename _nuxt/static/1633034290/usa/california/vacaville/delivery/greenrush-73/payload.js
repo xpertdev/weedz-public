@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vacaville/delivery/greenrush-73", {data:[{}],fetch:{},mutations:[]});

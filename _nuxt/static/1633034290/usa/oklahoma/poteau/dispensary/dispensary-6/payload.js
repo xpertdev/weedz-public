@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/poteau/dispensary/dispensary-6", {data:[{}],fetch:{},mutations:[]});

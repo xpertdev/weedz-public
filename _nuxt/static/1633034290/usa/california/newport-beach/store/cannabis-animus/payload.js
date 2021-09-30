@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/newport-beach/store/cannabis-animus", {data:[{}],fetch:{},mutations:[]});

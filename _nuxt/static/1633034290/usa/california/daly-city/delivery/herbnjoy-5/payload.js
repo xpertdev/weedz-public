@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/daly-city/delivery/herbnjoy-5", {data:[{}],fetch:{},mutations:[]});

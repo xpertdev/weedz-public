@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/luzerne/dispensary/canna-klub-1", {data:[{}],fetch:{},mutations:[]});

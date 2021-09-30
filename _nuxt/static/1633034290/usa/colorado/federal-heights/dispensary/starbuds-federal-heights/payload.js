@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/federal-heights/dispensary/starbuds-federal-heights", {data:[{}],fetch:{},mutations:[]});

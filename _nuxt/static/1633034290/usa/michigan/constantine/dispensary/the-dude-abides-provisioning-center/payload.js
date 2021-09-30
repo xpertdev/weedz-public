@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/constantine/dispensary/the-dude-abides-provisioning-center", {data:[{}],fetch:{},mutations:[]});

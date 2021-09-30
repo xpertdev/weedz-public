@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/bentonville/doctor/ar-cannabis-clinic-4", {data:[{}],fetch:{},mutations:[]});

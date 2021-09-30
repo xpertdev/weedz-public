@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollywood/delivery/golden-leaf-5", {data:[{}],fetch:{},mutations:[]});

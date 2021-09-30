@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/frederick/doctor/weed4pain-org", {data:[{}],fetch:{},mutations:[]});

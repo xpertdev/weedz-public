@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/utica/delivery/detroit-herbal-center-1-delivery", {data:[{}],fetch:{},mutations:[]});

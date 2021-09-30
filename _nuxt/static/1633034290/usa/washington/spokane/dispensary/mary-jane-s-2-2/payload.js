@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane/dispensary/mary-jane-s-2-2", {data:[{}],fetch:{},mutations:[]});

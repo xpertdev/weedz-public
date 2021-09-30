@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/houston/dispensary/houston-grass-station", {data:[{}],fetch:{},mutations:[]});

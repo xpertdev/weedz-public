@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/re-bud-5", {data:[{}],fetch:{},mutations:[]});

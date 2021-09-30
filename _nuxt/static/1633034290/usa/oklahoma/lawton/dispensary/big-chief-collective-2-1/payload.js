@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/big-chief-collective-2-1", {data:[{}],fetch:{},mutations:[]});

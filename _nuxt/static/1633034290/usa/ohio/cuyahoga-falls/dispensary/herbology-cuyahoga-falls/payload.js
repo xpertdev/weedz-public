@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/cuyahoga-falls/dispensary/herbology-cuyahoga-falls", {data:[{}],fetch:{},mutations:[]});

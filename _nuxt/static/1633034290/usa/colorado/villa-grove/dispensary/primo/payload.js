@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/villa-grove/dispensary/primo", {data:[{}],fetch:{},mutations:[]});

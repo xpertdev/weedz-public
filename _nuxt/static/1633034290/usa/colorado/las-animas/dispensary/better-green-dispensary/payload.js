@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/las-animas/dispensary/better-green-dispensary", {data:[{}],fetch:{},mutations:[]});

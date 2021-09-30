@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/jefferson-city/dispensary/missouri-health-and-wellness-2", {data:[{}],fetch:{},mutations:[]});

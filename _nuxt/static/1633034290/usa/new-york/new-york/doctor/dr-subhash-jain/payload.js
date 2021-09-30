@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/doctor/dr-subhash-jain", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/methuen/doctor/delta-9-medical-consulting", {data:[{}],fetch:{},mutations:[]});

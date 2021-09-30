@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-rosa/dispensary/365-recreational-cannabis-367", {data:[{}],fetch:{},mutations:[]});

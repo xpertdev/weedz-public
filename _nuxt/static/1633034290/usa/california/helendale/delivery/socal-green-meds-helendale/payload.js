@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/helendale/delivery/socal-green-meds-helendale", {data:[{}],fetch:{},mutations:[]});

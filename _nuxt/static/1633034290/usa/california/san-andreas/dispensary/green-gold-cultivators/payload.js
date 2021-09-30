@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-andreas/dispensary/green-gold-cultivators", {data:[{}],fetch:{},mutations:[]});

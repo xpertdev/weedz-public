@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/guymon/dispensary/ctp-botanicals-plus-2", {data:[{}],fetch:{},mutations:[]});

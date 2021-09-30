@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/doctor/dr-randa-jaafar-md", {data:[{}],fetch:{},mutations:[]});

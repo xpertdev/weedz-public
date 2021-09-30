@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/dispensary/spark1-missoula", {data:[{}],fetch:{},mutations:[]});

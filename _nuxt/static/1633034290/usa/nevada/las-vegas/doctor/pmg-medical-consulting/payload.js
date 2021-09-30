@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/doctor/pmg-medical-consulting", {data:[{}],fetch:{},mutations:[]});

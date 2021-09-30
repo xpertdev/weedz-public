@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sebastian/doctor/alternative-medical-solutions", {data:[{}],fetch:{},mutations:[]});

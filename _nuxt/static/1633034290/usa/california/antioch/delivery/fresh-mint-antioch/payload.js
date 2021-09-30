@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/delivery/fresh-mint-antioch", {data:[{}],fetch:{},mutations:[]});

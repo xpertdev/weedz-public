@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/okarche/dispensary/blazin-okies", {data:[{}],fetch:{},mutations:[]});

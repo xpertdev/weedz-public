@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-leandro/delivery/the-diamond-bonzai", {data:[{}],fetch:{},mutations:[]});

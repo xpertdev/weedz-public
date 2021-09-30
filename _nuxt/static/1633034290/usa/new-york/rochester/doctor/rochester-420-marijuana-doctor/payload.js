@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rochester/doctor/rochester-420-marijuana-doctor", {data:[{}],fetch:{},mutations:[]});

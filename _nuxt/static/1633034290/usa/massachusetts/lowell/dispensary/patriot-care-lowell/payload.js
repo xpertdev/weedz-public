@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/lowell/dispensary/patriot-care-lowell", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/newark/doctor/dr-j-meer", {data:[{}],fetch:{},mutations:[]});

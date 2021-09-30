@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/clifton/doctor/american-therapeutics-llc", {data:[{}],fetch:{},mutations:[]});

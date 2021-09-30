@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/afton/dispensary/higher-health", {data:[{}],fetch:{},mutations:[]});

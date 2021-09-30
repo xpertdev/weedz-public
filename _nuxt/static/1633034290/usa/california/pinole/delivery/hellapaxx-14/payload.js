@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pinole/delivery/hellapaxx-14", {data:[{}],fetch:{},mutations:[]});

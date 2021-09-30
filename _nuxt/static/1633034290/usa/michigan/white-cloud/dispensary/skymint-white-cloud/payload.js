@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/white-cloud/dispensary/skymint-white-cloud", {data:[{}],fetch:{},mutations:[]});

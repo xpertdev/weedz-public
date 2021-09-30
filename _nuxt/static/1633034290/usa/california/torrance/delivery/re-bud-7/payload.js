@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/torrance/delivery/re-bud-7", {data:[{}],fetch:{},mutations:[]});

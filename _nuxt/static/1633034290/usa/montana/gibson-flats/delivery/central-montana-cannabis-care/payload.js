@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/gibson-flats/delivery/central-montana-cannabis-care", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista/delivery/canex-delivery-100", {data:[{}],fetch:{},mutations:[]});

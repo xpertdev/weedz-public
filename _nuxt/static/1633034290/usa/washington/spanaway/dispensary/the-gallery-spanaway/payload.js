@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spanaway/dispensary/the-gallery-spanaway", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/budeaze-1", {data:[{}],fetch:{},mutations:[]});

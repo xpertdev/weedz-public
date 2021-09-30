@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/corvallis/dispensary/the-agrestic-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/eastpointe/doctor/one-on-one-rehab", {data:[{}],fetch:{},mutations:[]});

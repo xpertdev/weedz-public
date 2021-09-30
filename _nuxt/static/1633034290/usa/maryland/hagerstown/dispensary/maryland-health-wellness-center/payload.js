@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/hagerstown/dispensary/maryland-health-wellness-center", {data:[{}],fetch:{},mutations:[]});

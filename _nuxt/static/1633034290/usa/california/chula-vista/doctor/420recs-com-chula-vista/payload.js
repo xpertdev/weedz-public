@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista/doctor/420recs-com-chula-vista", {data:[{}],fetch:{},mutations:[]});

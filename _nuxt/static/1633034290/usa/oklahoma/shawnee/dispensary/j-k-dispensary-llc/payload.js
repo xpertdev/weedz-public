@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/j-k-dispensary-llc", {data:[{}],fetch:{},mutations:[]});

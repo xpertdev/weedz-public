@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/ellicott-city/dispensary/trilogy-wellness", {data:[{}],fetch:{},mutations:[]});

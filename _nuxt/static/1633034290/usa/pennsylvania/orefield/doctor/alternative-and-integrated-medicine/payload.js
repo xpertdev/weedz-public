@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/orefield/doctor/alternative-and-integrated-medicine", {data:[{}],fetch:{},mutations:[]});

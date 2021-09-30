@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lake-forest/delivery/the-spot-lake-forest", {data:[{}],fetch:{},mutations:[]});

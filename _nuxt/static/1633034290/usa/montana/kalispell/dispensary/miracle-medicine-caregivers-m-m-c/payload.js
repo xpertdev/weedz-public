@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/kalispell/dispensary/miracle-medicine-caregivers-m-m-c", {data:[{}],fetch:{},mutations:[]});

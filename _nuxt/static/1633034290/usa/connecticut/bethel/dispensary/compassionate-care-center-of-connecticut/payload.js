@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/bethel/dispensary/compassionate-care-center-of-connecticut", {data:[{}],fetch:{},mutations:[]});

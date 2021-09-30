@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/delivery/kushagram-142", {data:[{}],fetch:{},mutations:[]});

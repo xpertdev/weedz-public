@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/bradenton/doctor/florida-medical-marijuana-doctors-inc", {data:[{}],fetch:{},mutations:[]});

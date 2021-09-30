@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mid-city/delivery/golden-leaf-mid-city", {data:[{}],fetch:{},mutations:[]});

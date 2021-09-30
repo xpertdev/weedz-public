@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/dispensary/nuleaf-clark-dispensary", {data:[{}],fetch:{},mutations:[]});

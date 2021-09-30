@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/columbus/delivery/rosebud-remedies-2", {data:[{}],fetch:{},mutations:[]});

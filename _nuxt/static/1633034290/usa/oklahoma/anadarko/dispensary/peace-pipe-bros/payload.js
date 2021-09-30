@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/anadarko/dispensary/peace-pipe-bros", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/washington/dispensary/missouri-health-and-wellness", {data:[{}],fetch:{},mutations:[]});

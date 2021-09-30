@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/mt-morris/dispensary/ez-medz", {data:[{}],fetch:{},mutations:[]});

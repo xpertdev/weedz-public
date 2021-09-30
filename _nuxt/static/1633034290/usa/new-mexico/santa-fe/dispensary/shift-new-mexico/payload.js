@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/santa-fe/dispensary/shift-new-mexico", {data:[{}],fetch:{},mutations:[]});

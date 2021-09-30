@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pomona/delivery/mcec-pomona", {data:[{}],fetch:{},mutations:[]});

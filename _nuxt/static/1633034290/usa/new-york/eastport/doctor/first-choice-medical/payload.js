@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/eastport/doctor/first-choice-medical", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/del-city/dispensary/greendoctor-420-se", {data:[{}],fetch:{},mutations:[]});

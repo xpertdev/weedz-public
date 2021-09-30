@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/doctor/mgn-medical-clinic-2", {data:[{}],fetch:{},mutations:[]});

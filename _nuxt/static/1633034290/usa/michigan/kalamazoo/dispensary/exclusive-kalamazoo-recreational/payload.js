@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/kalamazoo/dispensary/exclusive-kalamazoo-recreational", {data:[{}],fetch:{},mutations:[]});

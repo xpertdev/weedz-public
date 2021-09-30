@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/athol/dispensary/elev8-cannabis-athol-ma", {data:[{}],fetch:{},mutations:[]});

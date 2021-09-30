@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/mt-morris/dispensary/green-light-district-10", {data:[{}],fetch:{},mutations:[]});

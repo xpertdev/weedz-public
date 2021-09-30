@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/coos-bay/dispensary/rooted-coast-cannabis", {data:[{}],fetch:{},mutations:[]});

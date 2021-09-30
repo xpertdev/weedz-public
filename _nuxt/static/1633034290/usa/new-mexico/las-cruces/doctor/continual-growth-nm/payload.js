@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/las-cruces/doctor/continual-growth-nm", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/bloom-cannabis-co-3", {data:[{}],fetch:{},mutations:[]});

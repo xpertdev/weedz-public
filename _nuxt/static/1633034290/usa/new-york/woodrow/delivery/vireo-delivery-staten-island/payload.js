@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/woodrow/delivery/vireo-delivery-staten-island", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tempe/dispensary/sol-flower-3", {data:[{}],fetch:{},mutations:[]});

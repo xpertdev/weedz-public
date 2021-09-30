@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/altoona/dispensary/zen-leaf-altoona", {data:[{}],fetch:{},mutations:[]});

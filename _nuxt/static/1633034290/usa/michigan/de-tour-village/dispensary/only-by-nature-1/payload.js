@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/de-tour-village/dispensary/only-by-nature-1", {data:[{}],fetch:{},mutations:[]});

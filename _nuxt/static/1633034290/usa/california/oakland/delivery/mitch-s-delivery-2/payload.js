@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/mitch-s-delivery-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/copperropolis/delivery/empire-tuolumne-1", {data:[{}],fetch:{},mutations:[]});

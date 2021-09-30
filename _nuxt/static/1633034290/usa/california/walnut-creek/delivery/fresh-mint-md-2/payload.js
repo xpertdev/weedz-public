@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/walnut-creek/delivery/fresh-mint-md-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/venice/delivery/daze-24", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/goleta/delivery/budee-336c0ad6-ba34-43f9-84e3-fb0f1e8628ce", {data:[{}],fetch:{},mutations:[]});

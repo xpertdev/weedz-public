@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bakersfield/delivery/golden-state-canna-37", {data:[{}],fetch:{},mutations:[]});

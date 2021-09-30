@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lake-orion/delivery/ez-medz-delivery", {data:[{}],fetch:{},mutations:[]});

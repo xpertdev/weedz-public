@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/perris/dispensary/planet-budz-2", {data:[{}],fetch:{},mutations:[]});

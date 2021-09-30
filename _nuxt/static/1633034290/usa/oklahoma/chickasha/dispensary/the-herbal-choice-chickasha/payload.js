@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/chickasha/dispensary/the-herbal-choice-chickasha", {data:[{}],fetch:{},mutations:[]});

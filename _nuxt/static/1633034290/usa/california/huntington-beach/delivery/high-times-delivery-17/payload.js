@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/high-times-delivery-17", {data:[{}],fetch:{},mutations:[]});

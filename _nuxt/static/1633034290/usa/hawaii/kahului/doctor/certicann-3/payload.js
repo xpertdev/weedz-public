@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/hawaii/kahului/doctor/certicann-3", {data:[{}],fetch:{},mutations:[]});

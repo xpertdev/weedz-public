@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-barbara/dispensary/jushi", {data:[{}],fetch:{},mutations:[]});

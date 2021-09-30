@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/cottage-grove/dispensary/mandy-s-sugar-shack", {data:[{}],fetch:{},mutations:[]});

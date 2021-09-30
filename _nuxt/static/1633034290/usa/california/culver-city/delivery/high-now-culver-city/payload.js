@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/culver-city/delivery/high-now-culver-city", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/cumberland/dispensary/allegany-medical-marijuana-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/libby/dispensary/alternative-releaf-libby", {data:[{}],fetch:{},mutations:[]});

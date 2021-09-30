@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/pipers-holistic-essentials", {data:[{}],fetch:{},mutations:[]});

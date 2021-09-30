@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/downieville/dispensary/strawberry-fields-dumont", {data:[{}],fetch:{},mutations:[]});

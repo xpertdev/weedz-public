@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-cajon/doctor/420recs-com-el-cajon", {data:[{}],fetch:{},mutations:[]});

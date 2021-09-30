@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/pinconning/dispensary/high-quality-provisioning-center", {data:[{}],fetch:{},mutations:[]});

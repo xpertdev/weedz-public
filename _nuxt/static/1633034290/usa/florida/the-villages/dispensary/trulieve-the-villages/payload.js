@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/the-villages/dispensary/trulieve-the-villages", {data:[{}],fetch:{},mutations:[]});

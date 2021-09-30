@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-jolla/delivery/speedy-weedy-delivery-la-jolla", {data:[{}],fetch:{},mutations:[]});

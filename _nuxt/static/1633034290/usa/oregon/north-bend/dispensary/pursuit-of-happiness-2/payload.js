@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/north-bend/dispensary/pursuit-of-happiness-2", {data:[{}],fetch:{},mutations:[]});

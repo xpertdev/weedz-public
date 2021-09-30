@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/mosaic-2", {data:[{}],fetch:{},mutations:[]});

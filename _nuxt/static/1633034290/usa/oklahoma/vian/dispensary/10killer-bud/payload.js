@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vian/dispensary/10killer-bud", {data:[{}],fetch:{},mutations:[]});

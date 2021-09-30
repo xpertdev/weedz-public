@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/head-master-mmj", {data:[{}],fetch:{},mutations:[]});

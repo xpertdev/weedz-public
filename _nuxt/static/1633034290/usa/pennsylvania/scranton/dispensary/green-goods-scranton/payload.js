@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/scranton/dispensary/green-goods-scranton", {data:[{}],fetch:{},mutations:[]});

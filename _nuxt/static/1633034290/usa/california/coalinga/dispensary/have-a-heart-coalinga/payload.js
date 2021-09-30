@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/coalinga/dispensary/have-a-heart-coalinga", {data:[{}],fetch:{},mutations:[]});

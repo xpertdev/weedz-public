@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hesperia/delivery/quality-care-cannabis-10", {data:[{}],fetch:{},mutations:[]});

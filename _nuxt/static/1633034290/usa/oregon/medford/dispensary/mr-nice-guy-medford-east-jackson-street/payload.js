@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/dispensary/mr-nice-guy-medford-east-jackson-street", {data:[{}],fetch:{},mutations:[]});

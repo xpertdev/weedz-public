@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/meadville/dispensary/rise-dispensaries-meadville", {data:[{}],fetch:{},mutations:[]});

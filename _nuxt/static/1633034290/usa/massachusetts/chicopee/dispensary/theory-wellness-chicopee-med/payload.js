@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/chicopee/dispensary/theory-wellness-chicopee-med", {data:[{}],fetch:{},mutations:[]});

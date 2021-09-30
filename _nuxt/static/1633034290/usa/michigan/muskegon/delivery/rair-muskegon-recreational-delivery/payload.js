@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/muskegon/delivery/rair-muskegon-recreational-delivery", {data:[{}],fetch:{},mutations:[]});

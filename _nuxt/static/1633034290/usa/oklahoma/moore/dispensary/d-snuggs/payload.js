@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/d-snuggs", {data:[{}],fetch:{},mutations:[]});

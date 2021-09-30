@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/warr-acres/dispensary/kc-s-cannabis-company", {data:[{}],fetch:{},mutations:[]});

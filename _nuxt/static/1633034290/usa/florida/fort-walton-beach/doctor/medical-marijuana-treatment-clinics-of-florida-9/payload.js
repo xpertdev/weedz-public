@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-walton-beach/doctor/medical-marijuana-treatment-clinics-of-florida-9", {data:[{}],fetch:{},mutations:[]});

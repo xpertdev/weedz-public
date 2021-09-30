@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/east-rockaway/doctor/dr-leon-hodes", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/delivery/budee-69f132c9-04f4-4db4-91ec-46f212e1191f", {data:[{}],fetch:{},mutations:[]});

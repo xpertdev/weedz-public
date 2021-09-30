@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/doctor/natural-wellness-associates", {data:[{}],fetch:{},mutations:[]});

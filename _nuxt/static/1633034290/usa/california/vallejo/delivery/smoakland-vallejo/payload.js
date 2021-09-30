@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/delivery/smoakland-vallejo", {data:[{}],fetch:{},mutations:[]});

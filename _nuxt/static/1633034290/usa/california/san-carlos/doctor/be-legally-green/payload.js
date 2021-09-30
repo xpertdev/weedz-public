@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-carlos/doctor/be-legally-green", {data:[{}],fetch:{},mutations:[]});

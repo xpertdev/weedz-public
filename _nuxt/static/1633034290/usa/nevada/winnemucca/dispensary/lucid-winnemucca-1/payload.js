@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/winnemucca/dispensary/lucid-winnemucca-1", {data:[{}],fetch:{},mutations:[]});

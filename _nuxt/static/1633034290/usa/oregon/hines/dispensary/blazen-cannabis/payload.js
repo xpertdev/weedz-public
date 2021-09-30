@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/hines/dispensary/blazen-cannabis", {data:[{}],fetch:{},mutations:[]});

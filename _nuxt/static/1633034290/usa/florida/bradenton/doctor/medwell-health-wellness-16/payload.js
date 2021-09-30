@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/bradenton/doctor/medwell-health-wellness-16", {data:[{}],fetch:{},mutations:[]});

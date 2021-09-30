@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/jersey-city/doctor/dr-a-mehta", {data:[{}],fetch:{},mutations:[]});

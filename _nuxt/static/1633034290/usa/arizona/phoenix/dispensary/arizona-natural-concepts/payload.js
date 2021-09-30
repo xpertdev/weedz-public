@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/arizona-natural-concepts", {data:[{}],fetch:{},mutations:[]});

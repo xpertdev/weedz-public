@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/gainesville/doctor/john-bailey", {data:[{}],fetch:{},mutations:[]});

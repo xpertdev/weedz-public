@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wagoner/dispensary/green-life-dispensary-8", {data:[{}],fetch:{},mutations:[]});

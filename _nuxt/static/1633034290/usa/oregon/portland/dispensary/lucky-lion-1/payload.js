@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/lucky-lion-1", {data:[{}],fetch:{},mutations:[]});

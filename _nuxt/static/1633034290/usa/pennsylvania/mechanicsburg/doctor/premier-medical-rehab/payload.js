@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/mechanicsburg/doctor/premier-medical-rehab", {data:[{}],fetch:{},mutations:[]});

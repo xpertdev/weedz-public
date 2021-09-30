@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/organic-green-treatment-center", {data:[{}],fetch:{},mutations:[]});

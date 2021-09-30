@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/union-gap/dispensary/the-slow-burn-union-gap", {data:[{}],fetch:{},mutations:[]});

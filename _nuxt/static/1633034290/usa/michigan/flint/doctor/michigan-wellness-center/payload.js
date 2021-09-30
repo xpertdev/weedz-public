@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/flint/doctor/michigan-wellness-center", {data:[{}],fetch:{},mutations:[]});

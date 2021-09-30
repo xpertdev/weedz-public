@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/beachwood/doctor/patient-focus-4", {data:[{}],fetch:{},mutations:[]});

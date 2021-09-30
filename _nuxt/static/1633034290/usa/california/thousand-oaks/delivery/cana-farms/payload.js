@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/thousand-oaks/delivery/cana-farms", {data:[{}],fetch:{},mutations:[]});

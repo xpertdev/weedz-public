@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/newport-beach/delivery/kushagram-fashion-island", {data:[{}],fetch:{},mutations:[]});

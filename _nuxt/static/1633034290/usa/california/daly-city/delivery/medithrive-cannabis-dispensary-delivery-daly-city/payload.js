@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/daly-city/delivery/medithrive-cannabis-dispensary-delivery-daly-city", {data:[{}],fetch:{},mutations:[]});

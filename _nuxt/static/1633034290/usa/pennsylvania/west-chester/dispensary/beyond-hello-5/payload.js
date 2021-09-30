@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/west-chester/dispensary/beyond-hello-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/doctor/alternative-care-clinics-2", {data:[{}],fetch:{},mutations:[]});

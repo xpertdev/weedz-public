@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/southwest-patient-group", {data:[{}],fetch:{},mutations:[]});

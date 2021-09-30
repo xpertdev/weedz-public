@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/napa/dispensary/harvest-of-napa", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/doctor/new-york-pain-medicine-and-physical-therapy", {data:[{}],fetch:{},mutations:[]});

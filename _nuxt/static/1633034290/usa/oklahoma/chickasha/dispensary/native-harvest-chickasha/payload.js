@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/chickasha/dispensary/native-harvest-chickasha", {data:[{}],fetch:{},mutations:[]});

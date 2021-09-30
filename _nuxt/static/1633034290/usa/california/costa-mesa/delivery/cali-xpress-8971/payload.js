@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/cali-xpress-8971", {data:[{}],fetch:{},mutations:[]});

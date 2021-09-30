@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/monroeville/doctor/cannabis-care-certification-centers-2", {data:[{}],fetch:{},mutations:[]});

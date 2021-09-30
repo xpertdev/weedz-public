@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/aventura/doctor/aventura-spine-wellness-center", {data:[{}],fetch:{},mutations:[]});

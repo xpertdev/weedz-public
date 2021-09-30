@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/manitou-springs/dispensary/emerald-fields-2", {data:[{}],fetch:{},mutations:[]});

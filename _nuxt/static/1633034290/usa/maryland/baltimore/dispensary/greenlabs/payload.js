@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/baltimore/dispensary/greenlabs", {data:[{}],fetch:{},mutations:[]});

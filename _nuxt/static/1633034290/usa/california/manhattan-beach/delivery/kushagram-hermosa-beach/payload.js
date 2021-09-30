@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manhattan-beach/delivery/kushagram-hermosa-beach", {data:[{}],fetch:{},mutations:[]});

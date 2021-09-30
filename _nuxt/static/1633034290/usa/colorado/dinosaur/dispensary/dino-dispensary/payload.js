@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/dinosaur/dispensary/dino-dispensary", {data:[{}],fetch:{},mutations:[]});

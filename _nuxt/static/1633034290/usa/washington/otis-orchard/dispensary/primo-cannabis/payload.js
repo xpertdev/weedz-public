@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/otis-orchard/dispensary/primo-cannabis", {data:[{}],fetch:{},mutations:[]});

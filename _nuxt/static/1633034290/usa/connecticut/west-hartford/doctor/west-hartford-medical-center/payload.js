@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/west-hartford/doctor/west-hartford-medical-center", {data:[{}],fetch:{},mutations:[]});

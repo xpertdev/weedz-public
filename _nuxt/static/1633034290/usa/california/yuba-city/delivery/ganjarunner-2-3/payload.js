@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yuba-city/delivery/ganjarunner-2-3", {data:[{}],fetch:{},mutations:[]});

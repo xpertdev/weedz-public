@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/paoli/doctor/nature-s-pain-management-group", {data:[{}],fetch:{},mutations:[]});

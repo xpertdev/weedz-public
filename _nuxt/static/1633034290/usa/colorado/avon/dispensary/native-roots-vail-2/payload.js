@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/avon/dispensary/native-roots-vail-2", {data:[{}],fetch:{},mutations:[]});

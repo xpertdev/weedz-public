@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/st-petersburg/dispensary/surterra-wellness-center-st-petersburg", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/dispensary/besame-wellness-barry-road", {data:[{}],fetch:{},mutations:[]});

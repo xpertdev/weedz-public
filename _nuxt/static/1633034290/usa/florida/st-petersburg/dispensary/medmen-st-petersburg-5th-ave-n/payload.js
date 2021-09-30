@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/st-petersburg/dispensary/medmen-st-petersburg-5th-ave-n", {data:[{}],fetch:{},mutations:[]});

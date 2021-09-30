@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aurora/dispensary/livwell-buckley", {data:[{}],fetch:{},mutations:[]});

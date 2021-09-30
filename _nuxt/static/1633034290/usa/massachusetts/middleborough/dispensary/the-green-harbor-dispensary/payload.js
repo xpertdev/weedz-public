@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/middleborough/dispensary/the-green-harbor-dispensary", {data:[{}],fetch:{},mutations:[]});

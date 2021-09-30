@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/west-virginia/charleston/dispensary/west-virginia-medical-marijuana-dispensary", {data:[{}],fetch:{},mutations:[]});

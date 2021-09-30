@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/millis/dispensary/commcan-millis-coming-soon", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/store/adventure-cbd-hemp-dispensary", {data:[{}],fetch:{},mutations:[]});

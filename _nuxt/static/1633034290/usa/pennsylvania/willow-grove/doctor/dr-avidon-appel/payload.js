@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/willow-grove/doctor/dr-avidon-appel", {data:[{}],fetch:{},mutations:[]});

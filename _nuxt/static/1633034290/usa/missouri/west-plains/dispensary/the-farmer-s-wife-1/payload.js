@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/west-plains/dispensary/the-farmer-s-wife-1", {data:[{}],fetch:{},mutations:[]});

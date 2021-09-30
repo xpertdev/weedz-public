@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/rocky-mountain-high-denver", {data:[{}],fetch:{},mutations:[]});

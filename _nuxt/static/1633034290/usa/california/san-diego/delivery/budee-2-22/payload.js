@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/delivery/budee-2-22", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-mateo/delivery/sticky-thumb-delivery", {data:[{}],fetch:{},mutations:[]});

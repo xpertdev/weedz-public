@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/pensacola/dispensary/surterra-wellness-center-pensacola", {data:[{}],fetch:{},mutations:[]});

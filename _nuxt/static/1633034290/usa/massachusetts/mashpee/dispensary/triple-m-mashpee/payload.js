@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/mashpee/dispensary/triple-m-mashpee", {data:[{}],fetch:{},mutations:[]});

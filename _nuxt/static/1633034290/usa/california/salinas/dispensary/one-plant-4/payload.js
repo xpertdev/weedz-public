@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/salinas/dispensary/one-plant-4", {data:[{}],fetch:{},mutations:[]});

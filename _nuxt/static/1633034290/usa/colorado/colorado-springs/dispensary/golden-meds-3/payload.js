@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/golden-meds-3", {data:[{}],fetch:{},mutations:[]});

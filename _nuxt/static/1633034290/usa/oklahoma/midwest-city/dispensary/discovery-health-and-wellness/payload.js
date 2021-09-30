@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/discovery-health-and-wellness", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sunnyvale/delivery/proven-3", {data:[{}],fetch:{},mutations:[]});

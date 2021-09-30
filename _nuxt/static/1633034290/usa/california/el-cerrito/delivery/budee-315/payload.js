@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-cerrito/delivery/budee-315", {data:[{}],fetch:{},mutations:[]});

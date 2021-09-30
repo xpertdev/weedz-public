@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/bentonville/dispensary/the-source-bentonville", {data:[{}],fetch:{},mutations:[]});

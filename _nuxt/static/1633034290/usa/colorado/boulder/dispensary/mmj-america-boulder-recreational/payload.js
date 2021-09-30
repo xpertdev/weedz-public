@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/dispensary/mmj-america-boulder-recreational", {data:[{}],fetch:{},mutations:[]});

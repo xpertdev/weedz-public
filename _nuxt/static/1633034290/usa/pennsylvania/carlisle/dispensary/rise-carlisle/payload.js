@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/carlisle/dispensary/rise-carlisle", {data:[{}],fetch:{},mutations:[]});

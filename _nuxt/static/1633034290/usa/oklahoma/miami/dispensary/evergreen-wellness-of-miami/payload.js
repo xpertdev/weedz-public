@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/miami/dispensary/evergreen-wellness-of-miami", {data:[{}],fetch:{},mutations:[]});

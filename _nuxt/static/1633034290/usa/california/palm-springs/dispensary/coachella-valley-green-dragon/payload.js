@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/dispensary/coachella-valley-green-dragon", {data:[{}],fetch:{},mutations:[]});

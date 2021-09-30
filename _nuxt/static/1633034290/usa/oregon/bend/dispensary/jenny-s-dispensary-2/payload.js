@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bend/dispensary/jenny-s-dispensary-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sylmar/dispensary/san-fernando-valley-patients-group", {data:[{}],fetch:{},mutations:[]});

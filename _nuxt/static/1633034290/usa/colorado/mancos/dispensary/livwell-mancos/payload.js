@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/mancos/dispensary/livwell-mancos", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/grant-pharms", {data:[{}],fetch:{},mutations:[]});

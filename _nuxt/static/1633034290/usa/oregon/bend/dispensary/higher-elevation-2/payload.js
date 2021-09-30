@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bend/dispensary/higher-elevation-2", {data:[{}],fetch:{},mutations:[]});

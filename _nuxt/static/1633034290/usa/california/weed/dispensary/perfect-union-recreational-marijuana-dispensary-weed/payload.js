@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/weed/dispensary/perfect-union-recreational-marijuana-dispensary-weed", {data:[{}],fetch:{},mutations:[]});

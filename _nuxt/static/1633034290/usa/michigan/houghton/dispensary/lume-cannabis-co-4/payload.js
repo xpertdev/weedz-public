@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/houghton/dispensary/lume-cannabis-co-4", {data:[{}],fetch:{},mutations:[]});

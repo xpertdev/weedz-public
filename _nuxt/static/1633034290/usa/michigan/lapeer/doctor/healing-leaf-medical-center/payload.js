@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lapeer/doctor/healing-leaf-medical-center", {data:[{}],fetch:{},mutations:[]});

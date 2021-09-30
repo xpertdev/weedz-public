@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/nurses-station", {data:[{}],fetch:{},mutations:[]});

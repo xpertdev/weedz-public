@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/doctor/riseupmd-com-100-online-7", {data:[{}],fetch:{},mutations:[]});

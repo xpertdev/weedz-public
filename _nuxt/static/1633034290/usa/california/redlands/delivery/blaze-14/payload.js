@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redlands/delivery/blaze-14", {data:[{}],fetch:{},mutations:[]});

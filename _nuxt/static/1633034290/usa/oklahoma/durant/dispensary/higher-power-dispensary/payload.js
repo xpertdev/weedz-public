@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/durant/dispensary/higher-power-dispensary", {data:[{}],fetch:{},mutations:[]});

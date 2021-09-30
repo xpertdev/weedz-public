@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/saco/dispensary/the-farm-stand", {data:[{}],fetch:{},mutations:[]});

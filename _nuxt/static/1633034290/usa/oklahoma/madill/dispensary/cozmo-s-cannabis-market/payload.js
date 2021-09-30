@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/madill/dispensary/cozmo-s-cannabis-market", {data:[{}],fetch:{},mutations:[]});

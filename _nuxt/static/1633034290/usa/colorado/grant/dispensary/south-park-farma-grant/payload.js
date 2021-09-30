@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/grant/dispensary/south-park-farma-grant", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/delivery/h-a-i-holistic-alternative-inc-2", {data:[{}],fetch:{},mutations:[]});

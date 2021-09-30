@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/wellness-center-of-the-rockies", {data:[{}],fetch:{},mutations:[]});

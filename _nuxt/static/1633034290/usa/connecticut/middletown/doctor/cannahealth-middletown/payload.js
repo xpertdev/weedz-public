@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/middletown/doctor/cannahealth-middletown", {data:[{}],fetch:{},mutations:[]});

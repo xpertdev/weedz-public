@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-fernando/doctor/dr-weedy-3", {data:[{}],fetch:{},mutations:[]});

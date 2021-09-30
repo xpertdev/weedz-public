@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/jefferson-hills/doctor/dr-aleksandr-mikhaylovskiy", {data:[{}],fetch:{},mutations:[]});

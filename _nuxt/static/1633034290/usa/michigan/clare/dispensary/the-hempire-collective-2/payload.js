@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/clare/dispensary/the-hempire-collective-2", {data:[{}],fetch:{},mutations:[]});

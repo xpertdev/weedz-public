@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/delivery/hempire-inc", {data:[{}],fetch:{},mutations:[]});

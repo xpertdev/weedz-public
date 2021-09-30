@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/georgetown/doctor/natural-wellness-center-llc-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/doctor/kindhealth", {data:[{}],fetch:{},mutations:[]});

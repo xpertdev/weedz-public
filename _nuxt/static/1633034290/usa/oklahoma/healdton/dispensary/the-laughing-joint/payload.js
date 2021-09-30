@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/healdton/dispensary/the-laughing-joint", {data:[{}],fetch:{},mutations:[]});

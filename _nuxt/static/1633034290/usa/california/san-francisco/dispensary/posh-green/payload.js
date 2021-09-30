@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-francisco/dispensary/posh-green", {data:[{}],fetch:{},mutations:[]});

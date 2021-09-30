@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/greenway-dispensary-llc", {data:[{}],fetch:{},mutations:[]});

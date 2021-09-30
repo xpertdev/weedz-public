@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/owasso/dispensary/lokal-source-3", {data:[{}],fetch:{},mutations:[]});

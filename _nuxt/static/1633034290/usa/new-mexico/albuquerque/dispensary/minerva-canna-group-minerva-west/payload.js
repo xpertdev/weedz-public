@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/minerva-canna-group-minerva-west", {data:[{}],fetch:{},mutations:[]});

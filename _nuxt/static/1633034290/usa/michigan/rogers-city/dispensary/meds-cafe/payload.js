@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/rogers-city/dispensary/meds-cafe", {data:[{}],fetch:{},mutations:[]});

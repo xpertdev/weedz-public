@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/dispensary/cookies-hayward", {data:[{}],fetch:{},mutations:[]});

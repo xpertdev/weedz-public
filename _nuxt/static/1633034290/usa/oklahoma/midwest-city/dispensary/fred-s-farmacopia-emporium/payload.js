@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/fred-s-farmacopia-emporium", {data:[{}],fetch:{},mutations:[]});

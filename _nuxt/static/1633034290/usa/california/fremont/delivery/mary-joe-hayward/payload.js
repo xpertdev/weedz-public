@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/mary-joe-hayward", {data:[{}],fetch:{},mutations:[]});

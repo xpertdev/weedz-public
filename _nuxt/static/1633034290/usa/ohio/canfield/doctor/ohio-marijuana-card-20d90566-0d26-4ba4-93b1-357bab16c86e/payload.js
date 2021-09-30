@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/canfield/doctor/ohio-marijuana-card-20d90566-0d26-4ba4-93b1-357bab16c86e", {data:[{}],fetch:{},mutations:[]});

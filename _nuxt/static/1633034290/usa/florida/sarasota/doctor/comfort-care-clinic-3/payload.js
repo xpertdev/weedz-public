@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/doctor/comfort-care-clinic-3", {data:[{}],fetch:{},mutations:[]});

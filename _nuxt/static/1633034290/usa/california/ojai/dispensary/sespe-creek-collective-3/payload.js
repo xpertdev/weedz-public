@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ojai/dispensary/sespe-creek-collective-3", {data:[{}],fetch:{},mutations:[]});

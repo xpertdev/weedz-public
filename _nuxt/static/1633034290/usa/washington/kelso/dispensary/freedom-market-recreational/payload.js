@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/kelso/dispensary/freedom-market-recreational", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/battle-creek/dispensary/3fifteen-battle-creek-michigan-and-bedford-recreational", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/carsonville/doctor/greenpath-holistic-medicine-14619895-0074-4e9d-b829-796e61fca1e5", {data:[{}],fetch:{},mutations:[]});

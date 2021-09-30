@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/sprague/dispensary/2020-solutions-sprague", {data:[{}],fetch:{},mutations:[]});

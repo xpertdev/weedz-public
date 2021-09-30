@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/medmen-san-diego-kearny-mesa", {data:[{}],fetch:{},mutations:[]});

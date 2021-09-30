@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/glendale/delivery/get-weed-la-9", {data:[{}],fetch:{},mutations:[]});

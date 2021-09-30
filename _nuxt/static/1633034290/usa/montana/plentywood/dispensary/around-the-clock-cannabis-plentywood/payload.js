@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/plentywood/dispensary/around-the-clock-cannabis-plentywood", {data:[{}],fetch:{},mutations:[]});

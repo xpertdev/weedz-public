@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/doctor/chronic-care-inc", {data:[{}],fetch:{},mutations:[]});

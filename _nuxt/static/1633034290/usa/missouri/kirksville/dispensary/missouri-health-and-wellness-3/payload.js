@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kirksville/dispensary/missouri-health-and-wellness-3", {data:[{}],fetch:{},mutations:[]});

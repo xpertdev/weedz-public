@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/root-215-anaheim", {data:[{}],fetch:{},mutations:[]});

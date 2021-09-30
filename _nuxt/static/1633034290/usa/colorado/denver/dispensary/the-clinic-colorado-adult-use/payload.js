@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/the-clinic-colorado-adult-use", {data:[{}],fetch:{},mutations:[]});

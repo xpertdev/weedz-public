@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/goldsby/dispensary/the-highway-connection-2", {data:[{}],fetch:{},mutations:[]});

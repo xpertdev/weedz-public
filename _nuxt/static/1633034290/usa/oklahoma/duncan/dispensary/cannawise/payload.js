@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/duncan/dispensary/cannawise", {data:[{}],fetch:{},mutations:[]});

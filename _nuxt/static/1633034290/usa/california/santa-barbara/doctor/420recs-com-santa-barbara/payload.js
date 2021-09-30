@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-barbara/doctor/420recs-com-santa-barbara", {data:[{}],fetch:{},mutations:[]});

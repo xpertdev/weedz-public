@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/goleta/dispensary/one-plant-goleta-opening-5-28", {data:[{}],fetch:{},mutations:[]});

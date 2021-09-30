@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/divide/dispensary/mountain-medicals-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wellston/dispensary/paper-street-flower-company", {data:[{}],fetch:{},mutations:[]});

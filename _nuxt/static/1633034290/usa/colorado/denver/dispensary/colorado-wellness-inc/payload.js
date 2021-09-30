@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/colorado-wellness-inc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/delivery/house-of-dank-fort-st", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-gate/delivery/701-cannabiz-703", {data:[{}],fetch:{},mutations:[]});

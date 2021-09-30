@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/turpin/dispensary/npmg-dispensary-llc", {data:[{}],fetch:{},mutations:[]});

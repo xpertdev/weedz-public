@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/brandon/dispensary/trulieve-brandon", {data:[{}],fetch:{},mutations:[]});

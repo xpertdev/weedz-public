@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/carlisle/doctor/greenmd-1", {data:[{}],fetch:{},mutations:[]});

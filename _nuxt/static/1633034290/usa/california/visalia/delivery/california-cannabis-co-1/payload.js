@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/visalia/delivery/california-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

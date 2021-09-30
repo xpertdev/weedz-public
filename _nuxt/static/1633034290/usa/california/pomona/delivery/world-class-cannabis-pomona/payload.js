@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pomona/delivery/world-class-cannabis-pomona", {data:[{}],fetch:{},mutations:[]});

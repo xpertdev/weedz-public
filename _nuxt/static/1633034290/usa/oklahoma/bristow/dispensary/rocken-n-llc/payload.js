@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bristow/dispensary/rocken-n-llc", {data:[{}],fetch:{},mutations:[]});

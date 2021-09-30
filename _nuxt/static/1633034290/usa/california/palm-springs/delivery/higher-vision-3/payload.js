@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/delivery/higher-vision-3", {data:[{}],fetch:{},mutations:[]});

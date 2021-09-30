@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/carpinteria/delivery/group-health-clinic-coop-3", {data:[{}],fetch:{},mutations:[]});

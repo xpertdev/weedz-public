@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lompoc/delivery/the-roots-dispensary-1", {data:[{}],fetch:{},mutations:[]});

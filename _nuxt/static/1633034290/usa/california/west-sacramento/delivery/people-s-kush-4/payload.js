@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-sacramento/delivery/people-s-kush-4", {data:[{}],fetch:{},mutations:[]});

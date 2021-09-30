@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/adrian/dispensary/lume-adrian", {data:[{}],fetch:{},mutations:[]});

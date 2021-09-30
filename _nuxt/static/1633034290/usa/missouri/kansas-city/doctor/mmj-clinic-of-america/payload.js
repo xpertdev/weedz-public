@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/doctor/mmj-clinic-of-america", {data:[{}],fetch:{},mutations:[]});

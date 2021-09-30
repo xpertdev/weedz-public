@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/needham-heights/dispensary/sira-naturals", {data:[{}],fetch:{},mutations:[]});

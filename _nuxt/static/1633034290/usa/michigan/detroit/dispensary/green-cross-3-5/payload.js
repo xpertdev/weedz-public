@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/green-cross-3-5", {data:[{}],fetch:{},mutations:[]});

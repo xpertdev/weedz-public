@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/seward/dispensary/the-tufted-puffin", {data:[{}],fetch:{},mutations:[]});

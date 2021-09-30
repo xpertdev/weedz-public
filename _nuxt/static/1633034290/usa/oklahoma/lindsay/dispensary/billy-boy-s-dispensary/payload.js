@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lindsay/dispensary/billy-boy-s-dispensary", {data:[{}],fetch:{},mutations:[]});

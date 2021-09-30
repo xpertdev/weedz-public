@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollywood/delivery/organgeleaf-2", {data:[{}],fetch:{},mutations:[]});

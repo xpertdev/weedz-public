@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/brea/delivery/clarity-california-cannabis", {data:[{}],fetch:{},mutations:[]});

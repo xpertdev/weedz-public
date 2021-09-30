@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/evo-cannabis-company-3", {data:[{}],fetch:{},mutations:[]});

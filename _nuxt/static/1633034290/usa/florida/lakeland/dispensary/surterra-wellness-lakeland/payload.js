@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lakeland/dispensary/surterra-wellness-lakeland", {data:[{}],fetch:{},mutations:[]});

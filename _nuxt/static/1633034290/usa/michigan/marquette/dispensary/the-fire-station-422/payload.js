@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/marquette/dispensary/the-fire-station-422", {data:[{}],fetch:{},mutations:[]});

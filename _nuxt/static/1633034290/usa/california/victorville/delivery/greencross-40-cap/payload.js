@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/victorville/delivery/greencross-40-cap", {data:[{}],fetch:{},mutations:[]});

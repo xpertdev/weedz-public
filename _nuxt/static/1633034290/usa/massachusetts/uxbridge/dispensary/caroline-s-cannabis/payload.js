@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/uxbridge/dispensary/caroline-s-cannabis", {data:[{}],fetch:{},mutations:[]});

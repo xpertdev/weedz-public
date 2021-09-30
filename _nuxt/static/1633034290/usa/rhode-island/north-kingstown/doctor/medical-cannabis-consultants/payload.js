@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/north-kingstown/doctor/medical-cannabis-consultants", {data:[{}],fetch:{},mutations:[]});

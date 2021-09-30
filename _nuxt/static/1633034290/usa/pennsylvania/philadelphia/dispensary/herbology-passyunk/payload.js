@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/dispensary/herbology-passyunk", {data:[{}],fetch:{},mutations:[]});

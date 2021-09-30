@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/commerce-city/dispensary/south-park-farma-dispensary-north-denver", {data:[{}],fetch:{},mutations:[]});

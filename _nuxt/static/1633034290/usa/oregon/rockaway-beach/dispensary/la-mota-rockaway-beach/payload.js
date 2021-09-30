@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/rockaway-beach/dispensary/la-mota-rockaway-beach", {data:[{}],fetch:{},mutations:[]});

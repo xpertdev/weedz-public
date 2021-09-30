@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/doctor/420recs-com-east-bay", {data:[{}],fetch:{},mutations:[]});

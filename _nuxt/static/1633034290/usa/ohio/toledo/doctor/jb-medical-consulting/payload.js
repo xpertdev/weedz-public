@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/toledo/doctor/jb-medical-consulting", {data:[{}],fetch:{},mutations:[]});

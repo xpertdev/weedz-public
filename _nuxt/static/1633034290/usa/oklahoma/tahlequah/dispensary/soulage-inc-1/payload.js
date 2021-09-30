@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/soulage-inc-1", {data:[{}],fetch:{},mutations:[]});

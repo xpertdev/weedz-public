@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/store/gypsy-magic", {data:[{}],fetch:{},mutations:[]});

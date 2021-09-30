@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/ruidoso/dispensary/compassionate-distributors-inc-ruidoso", {data:[{}],fetch:{},mutations:[]});

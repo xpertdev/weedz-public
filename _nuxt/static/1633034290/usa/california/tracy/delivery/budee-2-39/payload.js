@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tracy/delivery/budee-2-39", {data:[{}],fetch:{},mutations:[]});

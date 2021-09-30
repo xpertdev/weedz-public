@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/doylestown/dispensary/restore-integrative-wellness-center", {data:[{}],fetch:{},mutations:[]});

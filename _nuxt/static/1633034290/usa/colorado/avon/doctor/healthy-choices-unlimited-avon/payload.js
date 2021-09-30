@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/avon/doctor/healthy-choices-unlimited-avon", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/columbia/dispensary/high-profile-46", {data:[{}],fetch:{},mutations:[]});

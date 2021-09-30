@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/springfield/doctor/elevate-holistics-28", {data:[{}],fetch:{},mutations:[]});

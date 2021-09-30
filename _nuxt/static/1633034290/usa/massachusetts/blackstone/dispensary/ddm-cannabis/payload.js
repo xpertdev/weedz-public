@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/blackstone/dispensary/ddm-cannabis", {data:[{}],fetch:{},mutations:[]});

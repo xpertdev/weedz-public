@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/deerfield-beach/dispensary/curaleaf-deerfield-beach", {data:[{}],fetch:{},mutations:[]});

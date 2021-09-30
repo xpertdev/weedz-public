@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/fulton/dispensary/the-dispensary-fulton", {data:[{}],fetch:{},mutations:[]});

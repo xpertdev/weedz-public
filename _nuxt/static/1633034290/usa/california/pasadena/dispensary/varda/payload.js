@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pasadena/dispensary/varda", {data:[{}],fetch:{},mutations:[]});

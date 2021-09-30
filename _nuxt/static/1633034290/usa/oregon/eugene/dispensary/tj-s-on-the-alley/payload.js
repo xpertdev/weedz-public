@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/tj-s-on-the-alley", {data:[{}],fetch:{},mutations:[]});

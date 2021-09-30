@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-long-beach/delivery/canex-delivery-32", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vinita/dispensary/natural-fine-herbs", {data:[{}],fetch:{},mutations:[]});

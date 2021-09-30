@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pryor/dispensary/cannabis-unlimited-1", {data:[{}],fetch:{},mutations:[]});

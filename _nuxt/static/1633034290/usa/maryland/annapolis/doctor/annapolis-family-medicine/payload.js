@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/annapolis/doctor/annapolis-family-medicine", {data:[{}],fetch:{},mutations:[]});

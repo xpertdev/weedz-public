@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/crested-butte/dispensary/durango-organics-crested-butte", {data:[{}],fetch:{},mutations:[]});

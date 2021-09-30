@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/antonito/dispensary/green-world-express", {data:[{}],fetch:{},mutations:[]});

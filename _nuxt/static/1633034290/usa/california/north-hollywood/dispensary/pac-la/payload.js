@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-hollywood/dispensary/pac-la", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/doctor/doctors-of-natural-medicine-3", {data:[{}],fetch:{},mutations:[]});

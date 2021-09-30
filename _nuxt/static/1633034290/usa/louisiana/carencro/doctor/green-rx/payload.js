@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/carencro/doctor/green-rx", {data:[{}],fetch:{},mutations:[]});

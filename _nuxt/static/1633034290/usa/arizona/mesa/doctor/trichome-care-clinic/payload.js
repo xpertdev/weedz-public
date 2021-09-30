@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/mesa/doctor/trichome-care-clinic", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/herb-213", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/chandler/doctor/green-leaf-mmj-clinic", {data:[{}],fetch:{},mutations:[]});

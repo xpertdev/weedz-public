@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/eufaula/doctor/elevate-holistics-9", {data:[{}],fetch:{},mutations:[]});

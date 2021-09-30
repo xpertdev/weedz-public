@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/clackamas/dispensary/oregon-bud-company-clackamas", {data:[{}],fetch:{},mutations:[]});

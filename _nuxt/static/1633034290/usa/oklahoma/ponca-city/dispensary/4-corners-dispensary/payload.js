@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ponca-city/dispensary/4-corners-dispensary", {data:[{}],fetch:{},mutations:[]});

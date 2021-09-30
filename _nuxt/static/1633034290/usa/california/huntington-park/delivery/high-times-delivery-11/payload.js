@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-park/delivery/high-times-delivery-11", {data:[{}],fetch:{},mutations:[]});

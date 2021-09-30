@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lapeer/dispensary/lapeer-pure-lapeer-provisioning-center-rec", {data:[{}],fetch:{},mutations:[]});

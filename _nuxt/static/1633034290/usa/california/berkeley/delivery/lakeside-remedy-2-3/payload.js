@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/lakeside-remedy-2-3", {data:[{}],fetch:{},mutations:[]});

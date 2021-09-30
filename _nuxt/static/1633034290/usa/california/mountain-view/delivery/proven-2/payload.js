@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mountain-view/delivery/proven-2", {data:[{}],fetch:{},mutations:[]});

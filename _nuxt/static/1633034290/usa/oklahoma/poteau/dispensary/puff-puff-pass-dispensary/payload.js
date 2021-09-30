@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/poteau/dispensary/puff-puff-pass-dispensary", {data:[{}],fetch:{},mutations:[]});

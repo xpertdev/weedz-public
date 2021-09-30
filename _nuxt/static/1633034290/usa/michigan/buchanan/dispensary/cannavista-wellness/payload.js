@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/buchanan/dispensary/cannavista-wellness", {data:[{}],fetch:{},mutations:[]});

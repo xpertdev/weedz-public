@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/longview/dispensary/longview-freedom-market-recreational", {data:[{}],fetch:{},mutations:[]});

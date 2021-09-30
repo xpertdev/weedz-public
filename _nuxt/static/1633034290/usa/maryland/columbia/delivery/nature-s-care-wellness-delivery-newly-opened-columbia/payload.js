@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/columbia/delivery/nature-s-care-wellness-delivery-newly-opened-columbia", {data:[{}],fetch:{},mutations:[]});

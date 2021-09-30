@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/anchorage/dispensary/anchorage-bowl-llc", {data:[{}],fetch:{},mutations:[]});

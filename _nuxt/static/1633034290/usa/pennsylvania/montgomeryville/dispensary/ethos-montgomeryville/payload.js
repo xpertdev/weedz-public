@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/montgomeryville/dispensary/ethos-montgomeryville", {data:[{}],fetch:{},mutations:[]});

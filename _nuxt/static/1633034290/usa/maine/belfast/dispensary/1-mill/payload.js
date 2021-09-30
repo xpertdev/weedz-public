@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/belfast/dispensary/1-mill", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/littleton/dispensary/native-roots-littleton", {data:[{}],fetch:{},mutations:[]});

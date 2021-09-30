@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/livewell-dispensary", {data:[{}],fetch:{},mutations:[]});

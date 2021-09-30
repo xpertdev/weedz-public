@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/san-antonio/doctor/texas-420-doctors", {data:[{}],fetch:{},mutations:[]});

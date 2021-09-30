@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/boca-raton/dispensary/liberty-health-sciences-cannabis-education-center-boca-raton", {data:[{}],fetch:{},mutations:[]});

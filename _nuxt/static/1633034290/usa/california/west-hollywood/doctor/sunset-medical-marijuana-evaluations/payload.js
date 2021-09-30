@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-hollywood/doctor/sunset-medical-marijuana-evaluations", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/lakewood/dispensary/mile-high-dispensary-recreational", {data:[{}],fetch:{},mutations:[]});

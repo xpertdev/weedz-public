@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-lake-tahoe/dispensary/embarc-tahoe", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/918-elevate", {data:[{}],fetch:{},mutations:[]});

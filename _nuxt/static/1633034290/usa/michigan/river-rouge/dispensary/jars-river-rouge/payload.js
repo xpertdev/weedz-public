@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/river-rouge/dispensary/jars-river-rouge", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/great-falls/dispensary/lionheart-caregiving-great-falls-herbal-bliss", {data:[{}],fetch:{},mutations:[]});

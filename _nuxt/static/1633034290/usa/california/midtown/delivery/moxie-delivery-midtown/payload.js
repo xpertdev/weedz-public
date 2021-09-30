@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/midtown/delivery/moxie-delivery-midtown", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/manteca/delivery/the-re-up-18", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/attleboro/dispensary/bcwc-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muskogee/dispensary/navigator-life-medical-marijuana-co", {data:[{}],fetch:{},mutations:[]});

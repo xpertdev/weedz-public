@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chatsworth/dispensary/strain-30-cap-selective", {data:[{}],fetch:{},mutations:[]});

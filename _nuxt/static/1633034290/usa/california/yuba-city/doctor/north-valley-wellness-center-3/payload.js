@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yuba-city/doctor/north-valley-wellness-center-3", {data:[{}],fetch:{},mutations:[]});

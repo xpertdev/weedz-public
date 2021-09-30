@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/leadville/dispensary/earl-s", {data:[{}],fetch:{},mutations:[]});

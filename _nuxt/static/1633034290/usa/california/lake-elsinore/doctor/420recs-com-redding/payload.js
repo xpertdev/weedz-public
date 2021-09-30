@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lake-elsinore/doctor/420recs-com-redding", {data:[{}],fetch:{},mutations:[]});

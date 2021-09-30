@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/owings-mills/doctor/primary-np-associates", {data:[{}],fetch:{},mutations:[]});

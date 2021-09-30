@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/405-releaf-edmond", {data:[{}],fetch:{},mutations:[]});

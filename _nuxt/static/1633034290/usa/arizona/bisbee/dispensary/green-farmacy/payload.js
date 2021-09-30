@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/bisbee/dispensary/green-farmacy", {data:[{}],fetch:{},mutations:[]});

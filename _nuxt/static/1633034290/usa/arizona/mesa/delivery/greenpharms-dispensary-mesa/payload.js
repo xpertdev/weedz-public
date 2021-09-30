@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/mesa/delivery/greenpharms-dispensary-mesa", {data:[{}],fetch:{},mutations:[]});

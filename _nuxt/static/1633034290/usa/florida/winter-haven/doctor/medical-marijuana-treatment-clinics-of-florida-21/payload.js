@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/winter-haven/doctor/medical-marijuana-treatment-clinics-of-florida-21", {data:[{}],fetch:{},mutations:[]});

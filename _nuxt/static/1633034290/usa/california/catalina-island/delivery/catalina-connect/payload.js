@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/catalina-island/delivery/catalina-connect", {data:[{}],fetch:{},mutations:[]});

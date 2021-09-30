@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/new-kensington/dispensary/cy-dispensaries-new-kensington", {data:[{}],fetch:{},mutations:[]});

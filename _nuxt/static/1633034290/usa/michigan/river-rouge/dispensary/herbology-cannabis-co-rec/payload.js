@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/river-rouge/dispensary/herbology-cannabis-co-rec", {data:[{}],fetch:{},mutations:[]});

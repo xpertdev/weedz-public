@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/doctor/dr-ramon-j-pesigan", {data:[{}],fetch:{},mutations:[]});

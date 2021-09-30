@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/frederick/dispensary/the-kush-kan", {data:[{}],fetch:{},mutations:[]});

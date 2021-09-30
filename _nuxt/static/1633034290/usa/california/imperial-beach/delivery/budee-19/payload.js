@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/imperial-beach/delivery/budee-19", {data:[{}],fetch:{},mutations:[]});

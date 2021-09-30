@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sapulpa/dispensary/the-sacred-herb-llc", {data:[{}],fetch:{},mutations:[]});

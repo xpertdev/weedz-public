@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/guadalupe/dispensary/the-mint-dispensary", {data:[{}],fetch:{},mutations:[]});

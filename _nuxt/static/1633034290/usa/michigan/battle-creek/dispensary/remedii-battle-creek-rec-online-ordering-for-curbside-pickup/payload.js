@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/battle-creek/dispensary/remedii-battle-creek-rec-online-ordering-for-curbside-pickup", {data:[{}],fetch:{},mutations:[]});

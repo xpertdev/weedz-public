@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lake-mary/doctor/greenstar-medical", {data:[{}],fetch:{},mutations:[]});

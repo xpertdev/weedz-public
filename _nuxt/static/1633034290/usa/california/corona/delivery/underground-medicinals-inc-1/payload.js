@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/corona/delivery/underground-medicinals-inc-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/scottsdale/doctor/affordable-evaluations-of-arizona-aeaz", {data:[{}],fetch:{},mutations:[]});

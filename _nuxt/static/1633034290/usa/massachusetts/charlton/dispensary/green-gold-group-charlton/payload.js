@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/charlton/dispensary/green-gold-group-charlton", {data:[{}],fetch:{},mutations:[]});

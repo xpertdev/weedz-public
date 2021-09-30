@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/cannago-4", {data:[{}],fetch:{},mutations:[]});

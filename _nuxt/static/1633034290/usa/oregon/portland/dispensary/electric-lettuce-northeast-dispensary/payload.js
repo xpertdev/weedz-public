@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/electric-lettuce-northeast-dispensary", {data:[{}],fetch:{},mutations:[]});

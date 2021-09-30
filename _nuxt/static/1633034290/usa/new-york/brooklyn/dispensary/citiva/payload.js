@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/brooklyn/dispensary/citiva", {data:[{}],fetch:{},mutations:[]});

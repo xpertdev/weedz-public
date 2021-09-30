@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/delivery/daze-10", {data:[{}],fetch:{},mutations:[]});

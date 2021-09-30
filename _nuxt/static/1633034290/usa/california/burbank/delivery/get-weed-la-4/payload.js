@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/delivery/get-weed-la-4", {data:[{}],fetch:{},mutations:[]});

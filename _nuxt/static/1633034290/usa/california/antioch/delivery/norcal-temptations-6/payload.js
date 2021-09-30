@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/delivery/norcal-temptations-6", {data:[{}],fetch:{},mutations:[]});

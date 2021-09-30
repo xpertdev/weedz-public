@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/fall-river/doctor/canna-care-docs-fall-river", {data:[{}],fetch:{},mutations:[]});

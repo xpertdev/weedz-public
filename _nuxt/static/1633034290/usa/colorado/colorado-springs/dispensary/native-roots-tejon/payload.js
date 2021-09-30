@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/native-roots-tejon", {data:[{}],fetch:{},mutations:[]});

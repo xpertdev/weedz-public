@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-sacramento/delivery/dubhub-19", {data:[{}],fetch:{},mutations:[]});

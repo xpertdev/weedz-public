@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/davis/delivery/kolas-6", {data:[{}],fetch:{},mutations:[]});

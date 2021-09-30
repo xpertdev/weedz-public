@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/gresham/dispensary/nectar-gresham", {data:[{}],fetch:{},mutations:[]});

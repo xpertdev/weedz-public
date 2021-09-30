@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/kalispell/dispensary/nectar-406", {data:[{}],fetch:{},mutations:[]});

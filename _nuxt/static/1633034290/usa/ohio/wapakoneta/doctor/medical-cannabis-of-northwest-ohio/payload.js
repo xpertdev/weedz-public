@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/wapakoneta/doctor/medical-cannabis-of-northwest-ohio", {data:[{}],fetch:{},mutations:[]});

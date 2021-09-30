@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stilwell/dispensary/green-acres", {data:[{}],fetch:{},mutations:[]});

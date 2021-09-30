@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-hollywood/dispensary/fountain-of-wellbeing", {data:[{}],fetch:{},mutations:[]});

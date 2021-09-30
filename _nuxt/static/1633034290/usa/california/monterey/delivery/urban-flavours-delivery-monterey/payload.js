@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/monterey/delivery/urban-flavours-delivery-monterey", {data:[{}],fetch:{},mutations:[]});

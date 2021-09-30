@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/goleta/doctor/riseupmd-com", {data:[{}],fetch:{},mutations:[]});

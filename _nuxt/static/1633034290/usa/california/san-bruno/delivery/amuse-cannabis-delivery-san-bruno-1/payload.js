@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-bruno/delivery/amuse-cannabis-delivery-san-bruno-1", {data:[{}],fetch:{},mutations:[]});

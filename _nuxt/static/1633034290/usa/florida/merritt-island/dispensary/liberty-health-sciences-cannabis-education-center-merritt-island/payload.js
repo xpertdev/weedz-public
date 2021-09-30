@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/merritt-island/dispensary/liberty-health-sciences-cannabis-education-center-merritt-island", {data:[{}],fetch:{},mutations:[]});

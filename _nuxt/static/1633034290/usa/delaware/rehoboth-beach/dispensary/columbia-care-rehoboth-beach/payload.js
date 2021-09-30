@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/rehoboth-beach/dispensary/columbia-care-rehoboth-beach", {data:[{}],fetch:{},mutations:[]});

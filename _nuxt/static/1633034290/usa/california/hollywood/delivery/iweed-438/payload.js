@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollywood/delivery/iweed-438", {data:[{}],fetch:{},mutations:[]});

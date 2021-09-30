@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/cincinnati/doctor/ohio-green-releaf", {data:[{}],fetch:{},mutations:[]});

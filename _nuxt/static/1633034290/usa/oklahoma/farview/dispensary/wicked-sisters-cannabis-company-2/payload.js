@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/farview/dispensary/wicked-sisters-cannabis-company-2", {data:[{}],fetch:{},mutations:[]});

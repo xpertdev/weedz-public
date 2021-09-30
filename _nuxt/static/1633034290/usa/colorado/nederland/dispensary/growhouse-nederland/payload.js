@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/nederland/dispensary/growhouse-nederland", {data:[{}],fetch:{},mutations:[]});

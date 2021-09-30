@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/farmington/dispensary/ultra-health-farmington", {data:[{}],fetch:{},mutations:[]});

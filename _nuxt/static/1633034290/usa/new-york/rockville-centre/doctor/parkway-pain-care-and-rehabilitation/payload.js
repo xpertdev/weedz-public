@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/rockville-centre/doctor/parkway-pain-care-and-rehabilitation", {data:[{}],fetch:{},mutations:[]});

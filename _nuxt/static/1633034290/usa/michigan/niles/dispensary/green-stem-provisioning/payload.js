@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/niles/dispensary/green-stem-provisioning", {data:[{}],fetch:{},mutations:[]});

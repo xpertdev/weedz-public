@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/cannabud-express-aa042ee1-ba46-40ff-ae25-e4f02534bb16", {data:[{}],fetch:{},mutations:[]});

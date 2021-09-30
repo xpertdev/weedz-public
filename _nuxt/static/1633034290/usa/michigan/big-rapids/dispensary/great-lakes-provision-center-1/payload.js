@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/big-rapids/dispensary/great-lakes-provision-center-1", {data:[{}],fetch:{},mutations:[]});

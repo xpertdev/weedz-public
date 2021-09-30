@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/del-city/dispensary/420-elevated", {data:[{}],fetch:{},mutations:[]});

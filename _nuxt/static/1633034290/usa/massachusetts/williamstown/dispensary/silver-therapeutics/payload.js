@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/williamstown/dispensary/silver-therapeutics", {data:[{}],fetch:{},mutations:[]});

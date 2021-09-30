@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/fort-lee/doctor/dr-a-kulik", {data:[{}],fetch:{},mutations:[]});

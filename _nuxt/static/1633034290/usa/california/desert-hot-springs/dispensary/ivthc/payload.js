@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/desert-hot-springs/dispensary/ivthc", {data:[{}],fetch:{},mutations:[]});

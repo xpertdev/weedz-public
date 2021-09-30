@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ridgecrest/delivery/whole-greens-california-m", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/eureka/doctor/medicann-15", {data:[{}],fetch:{},mutations:[]});

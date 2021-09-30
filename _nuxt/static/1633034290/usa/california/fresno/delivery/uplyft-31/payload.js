@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/delivery/uplyft-31", {data:[{}],fetch:{},mutations:[]});

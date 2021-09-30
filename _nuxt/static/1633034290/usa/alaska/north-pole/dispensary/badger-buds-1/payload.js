@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/north-pole/dispensary/badger-buds-1", {data:[{}],fetch:{},mutations:[]});

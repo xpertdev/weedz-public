@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/405-releaf-mlk", {data:[{}],fetch:{},mutations:[]});

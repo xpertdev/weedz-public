@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/elev8-cannabis", {data:[{}],fetch:{},mutations:[]});

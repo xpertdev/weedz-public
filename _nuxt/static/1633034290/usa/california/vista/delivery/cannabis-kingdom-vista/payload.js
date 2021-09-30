@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vista/delivery/cannabis-kingdom-vista", {data:[{}],fetch:{},mutations:[]});

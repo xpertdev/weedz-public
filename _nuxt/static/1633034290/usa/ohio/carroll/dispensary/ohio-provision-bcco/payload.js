@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/carroll/dispensary/ohio-provision-bcco", {data:[{}],fetch:{},mutations:[]});

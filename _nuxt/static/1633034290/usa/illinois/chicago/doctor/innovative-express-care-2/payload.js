@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago/doctor/innovative-express-care-2", {data:[{}],fetch:{},mutations:[]});

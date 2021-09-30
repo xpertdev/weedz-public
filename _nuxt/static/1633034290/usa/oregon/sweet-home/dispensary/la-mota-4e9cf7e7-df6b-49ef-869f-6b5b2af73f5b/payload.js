@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/sweet-home/dispensary/la-mota-4e9cf7e7-df6b-49ef-869f-6b5b2af73f5b", {data:[{}],fetch:{},mutations:[]});

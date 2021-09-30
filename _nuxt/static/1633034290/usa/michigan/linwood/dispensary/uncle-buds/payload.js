@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/linwood/dispensary/uncle-buds", {data:[{}],fetch:{},mutations:[]});

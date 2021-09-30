@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/dispensary/michigan-supply-provisions-078b6b02-a244-4554-89aa-eb458728a0da", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-bernardino/doctor/san-bernardino-420-evaluations", {data:[{}],fetch:{},mutations:[]});

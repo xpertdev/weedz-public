@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hanford/dispensary/herbnjoy-hanford", {data:[{}],fetch:{},mutations:[]});

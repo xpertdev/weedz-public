@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/buchanan/dispensary/7engines-dispensary", {data:[{}],fetch:{},mutations:[]});

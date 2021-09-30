@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/halethorpe/dispensary/amedicanna-dispensary", {data:[{}],fetch:{},mutations:[]});

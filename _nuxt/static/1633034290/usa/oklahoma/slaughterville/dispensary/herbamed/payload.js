@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/slaughterville/dispensary/herbamed", {data:[{}],fetch:{},mutations:[]});

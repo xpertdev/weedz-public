@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/calaveras-county/delivery/green-frog-delivery-13", {data:[{}],fetch:{},mutations:[]});

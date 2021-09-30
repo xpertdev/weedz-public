@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/doctor/420recs-com-mission-valley", {data:[{}],fetch:{},mutations:[]});

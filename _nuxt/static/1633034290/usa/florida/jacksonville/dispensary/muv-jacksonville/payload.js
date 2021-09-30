@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jacksonville/dispensary/muv-jacksonville", {data:[{}],fetch:{},mutations:[]});

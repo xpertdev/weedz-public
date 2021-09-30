@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/the-heal-365-and-cafe-heal", {data:[{}],fetch:{},mutations:[]});

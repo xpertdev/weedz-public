@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/north-dakota/dickinson/dispensary/herbology-dickinson", {data:[{}],fetch:{},mutations:[]});

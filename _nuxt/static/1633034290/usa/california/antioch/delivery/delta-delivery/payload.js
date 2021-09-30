@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/delivery/delta-delivery", {data:[{}],fetch:{},mutations:[]});

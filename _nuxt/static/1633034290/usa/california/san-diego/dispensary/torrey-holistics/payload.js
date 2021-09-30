@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/torrey-holistics", {data:[{}],fetch:{},mutations:[]});

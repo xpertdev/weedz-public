@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/bradenton/doctor/suncoast-family-medicine", {data:[{}],fetch:{},mutations:[]});

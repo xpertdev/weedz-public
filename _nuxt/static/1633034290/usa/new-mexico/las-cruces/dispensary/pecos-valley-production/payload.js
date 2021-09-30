@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/las-cruces/dispensary/pecos-valley-production", {data:[{}],fetch:{},mutations:[]});

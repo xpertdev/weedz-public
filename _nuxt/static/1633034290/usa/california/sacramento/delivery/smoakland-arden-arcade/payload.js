@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/smoakland-arden-arcade", {data:[{}],fetch:{},mutations:[]});

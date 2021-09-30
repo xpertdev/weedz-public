@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/amesbury/dispensary/alternative-therapies-group-amesbury", {data:[{}],fetch:{},mutations:[]});

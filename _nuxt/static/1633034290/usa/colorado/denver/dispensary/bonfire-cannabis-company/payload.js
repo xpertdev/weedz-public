@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/bonfire-cannabis-company", {data:[{}],fetch:{},mutations:[]});

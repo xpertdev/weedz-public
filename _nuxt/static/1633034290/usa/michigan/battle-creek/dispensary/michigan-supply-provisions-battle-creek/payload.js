@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/battle-creek/dispensary/michigan-supply-provisions-battle-creek", {data:[{}],fetch:{},mutations:[]});

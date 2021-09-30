@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/doctor/neurology-of-cannabis", {data:[{}],fetch:{},mutations:[]});

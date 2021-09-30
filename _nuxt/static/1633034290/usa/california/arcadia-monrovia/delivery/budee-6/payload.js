@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arcadia-monrovia/delivery/budee-6", {data:[{}],fetch:{},mutations:[]});

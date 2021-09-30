@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/biomeds", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/delivery/doobie-1", {data:[{}],fetch:{},mutations:[]});

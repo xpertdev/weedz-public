@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/high-hopes-north", {data:[{}],fetch:{},mutations:[]});

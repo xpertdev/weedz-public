@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/springfield-township/doctor/docmj-30", {data:[{}],fetch:{},mutations:[]});

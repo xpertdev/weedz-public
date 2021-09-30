@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oxnard/delivery/leaf-and-lion-delivery", {data:[{}],fetch:{},mutations:[]});

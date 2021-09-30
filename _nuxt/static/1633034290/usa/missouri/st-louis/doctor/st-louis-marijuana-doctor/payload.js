@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/st-louis/doctor/st-louis-marijuana-doctor", {data:[{}],fetch:{},mutations:[]});

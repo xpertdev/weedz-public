@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/amuse-cannabis-delivery-weho-1", {data:[{}],fetch:{},mutations:[]});

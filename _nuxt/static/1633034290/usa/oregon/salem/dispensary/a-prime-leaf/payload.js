@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/a-prime-leaf", {data:[{}],fetch:{},mutations:[]});

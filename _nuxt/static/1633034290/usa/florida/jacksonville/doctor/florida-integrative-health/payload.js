@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jacksonville/doctor/florida-integrative-health", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pinole/doctor/cali-rx", {data:[{}],fetch:{},mutations:[]});

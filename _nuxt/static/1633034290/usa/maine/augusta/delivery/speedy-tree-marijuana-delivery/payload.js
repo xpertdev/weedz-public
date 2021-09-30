@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/augusta/delivery/speedy-tree-marijuana-delivery", {data:[{}],fetch:{},mutations:[]});

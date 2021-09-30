@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/lebanon/dispensary/mr-nice-guy-lebanon", {data:[{}],fetch:{},mutations:[]});

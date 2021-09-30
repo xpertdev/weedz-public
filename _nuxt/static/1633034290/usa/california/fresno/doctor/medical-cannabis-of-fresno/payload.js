@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/doctor/medical-cannabis-of-fresno", {data:[{}],fetch:{},mutations:[]});

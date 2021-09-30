@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/california-city/dispensary/royal-apothecary-1", {data:[{}],fetch:{},mutations:[]});

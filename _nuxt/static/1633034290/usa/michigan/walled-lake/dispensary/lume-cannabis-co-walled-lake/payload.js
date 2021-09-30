@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/walled-lake/dispensary/lume-cannabis-co-walled-lake", {data:[{}],fetch:{},mutations:[]});

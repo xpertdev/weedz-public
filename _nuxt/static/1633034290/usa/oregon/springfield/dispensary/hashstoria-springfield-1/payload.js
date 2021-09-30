@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/springfield/dispensary/hashstoria-springfield-1", {data:[{}],fetch:{},mutations:[]});

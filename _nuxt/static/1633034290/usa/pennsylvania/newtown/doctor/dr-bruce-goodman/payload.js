@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/newtown/doctor/dr-bruce-goodman", {data:[{}],fetch:{},mutations:[]});

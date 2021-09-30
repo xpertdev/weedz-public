@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/farmingdale/dispensary/the-botanist-farmingdale", {data:[{}],fetch:{},mutations:[]});

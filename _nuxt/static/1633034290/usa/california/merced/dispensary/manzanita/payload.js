@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/merced/dispensary/manzanita", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/silverton/dispensary/cannafarmer-farm-store", {data:[{}],fetch:{},mutations:[]});

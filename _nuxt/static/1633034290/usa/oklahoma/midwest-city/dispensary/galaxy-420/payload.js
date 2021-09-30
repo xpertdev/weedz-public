@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/galaxy-420", {data:[{}],fetch:{},mutations:[]});

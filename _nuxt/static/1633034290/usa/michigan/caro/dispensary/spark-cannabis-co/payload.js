@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/caro/dispensary/spark-cannabis-co", {data:[{}],fetch:{},mutations:[]});

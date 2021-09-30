@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-covina/delivery/socal-green-meds-covina", {data:[{}],fetch:{},mutations:[]});

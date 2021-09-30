@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/northampton/dispensary/new-england-treatment-access", {data:[{}],fetch:{},mutations:[]});

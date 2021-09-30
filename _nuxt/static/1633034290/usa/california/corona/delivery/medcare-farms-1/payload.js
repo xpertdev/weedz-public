@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/corona/delivery/medcare-farms-1", {data:[{}],fetch:{},mutations:[]});

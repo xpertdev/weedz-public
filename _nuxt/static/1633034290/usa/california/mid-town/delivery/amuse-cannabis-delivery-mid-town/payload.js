@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mid-town/delivery/amuse-cannabis-delivery-mid-town", {data:[{}],fetch:{},mutations:[]});

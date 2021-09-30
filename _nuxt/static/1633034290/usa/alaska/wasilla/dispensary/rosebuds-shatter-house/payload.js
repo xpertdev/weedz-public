@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/wasilla/dispensary/rosebuds-shatter-house", {data:[{}],fetch:{},mutations:[]});

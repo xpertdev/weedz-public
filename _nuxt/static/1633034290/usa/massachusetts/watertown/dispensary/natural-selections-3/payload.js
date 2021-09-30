@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/watertown/dispensary/natural-selections-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/compton/delivery/mmd-compton-bellflower", {data:[{}],fetch:{},mutations:[]});

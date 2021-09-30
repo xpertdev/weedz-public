@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/oscoda/dispensary/northern-roots", {data:[{}],fetch:{},mutations:[]});

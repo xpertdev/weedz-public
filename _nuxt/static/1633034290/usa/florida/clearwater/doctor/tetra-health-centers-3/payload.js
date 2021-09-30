@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/clearwater/doctor/tetra-health-centers-3", {data:[{}],fetch:{},mutations:[]});

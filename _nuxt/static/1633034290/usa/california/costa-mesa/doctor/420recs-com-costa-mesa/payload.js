@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/doctor/420recs-com-costa-mesa", {data:[{}],fetch:{},mutations:[]});

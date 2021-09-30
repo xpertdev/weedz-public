@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/winter-springs/doctor/miracle-leaf-winter-springs", {data:[{}],fetch:{},mutations:[]});

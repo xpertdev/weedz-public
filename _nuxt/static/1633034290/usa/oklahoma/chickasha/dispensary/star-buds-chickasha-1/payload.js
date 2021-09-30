@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/chickasha/dispensary/star-buds-chickasha-1", {data:[{}],fetch:{},mutations:[]});

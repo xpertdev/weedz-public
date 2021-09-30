@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/effingham/dispensary/rise-effingham", {data:[{}],fetch:{},mutations:[]});

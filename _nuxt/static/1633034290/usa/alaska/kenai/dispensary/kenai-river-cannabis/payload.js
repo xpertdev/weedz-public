@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/kenai/dispensary/kenai-river-cannabis", {data:[{}],fetch:{},mutations:[]});

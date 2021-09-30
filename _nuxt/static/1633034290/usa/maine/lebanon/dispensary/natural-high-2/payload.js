@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lebanon/dispensary/natural-high-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-bernardino/dispensary/haven-6", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/turner/dispensary/curate-cannabis", {data:[{}],fetch:{},mutations:[]});

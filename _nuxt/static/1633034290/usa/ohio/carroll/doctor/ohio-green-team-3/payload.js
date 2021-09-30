@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/carroll/doctor/ohio-green-team-3", {data:[{}],fetch:{},mutations:[]});

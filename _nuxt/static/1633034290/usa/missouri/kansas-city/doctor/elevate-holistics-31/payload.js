@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/doctor/elevate-holistics-31", {data:[{}],fetch:{},mutations:[]});

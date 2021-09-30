@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/flagstaff/dispensary/greenpharms-flagstaff", {data:[{}],fetch:{},mutations:[]});

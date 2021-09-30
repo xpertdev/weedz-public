@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/doctor/420recs-com-downtown-san-diego", {data:[{}],fetch:{},mutations:[]});

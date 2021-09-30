@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/ordway/dispensary/wicked-weed", {data:[{}],fetch:{},mutations:[]});

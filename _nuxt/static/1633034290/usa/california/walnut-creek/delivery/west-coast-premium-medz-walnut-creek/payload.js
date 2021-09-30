@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/walnut-creek/delivery/west-coast-premium-medz-walnut-creek", {data:[{}],fetch:{},mutations:[]});

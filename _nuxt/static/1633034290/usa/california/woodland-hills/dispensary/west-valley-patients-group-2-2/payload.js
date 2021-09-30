@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/woodland-hills/dispensary/west-valley-patients-group-2-2", {data:[{}],fetch:{},mutations:[]});

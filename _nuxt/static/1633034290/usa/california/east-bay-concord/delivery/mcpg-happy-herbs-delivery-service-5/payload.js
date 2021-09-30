@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/east-bay-concord/delivery/mcpg-happy-herbs-delivery-service-5", {data:[{}],fetch:{},mutations:[]});

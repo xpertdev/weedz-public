@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/delivery/becky-s-buds-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/west-paris/dispensary/west-paris-provisions", {data:[{}],fetch:{},mutations:[]});

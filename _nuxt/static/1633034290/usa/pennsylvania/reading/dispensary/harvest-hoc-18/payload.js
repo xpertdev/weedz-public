@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/reading/dispensary/harvest-hoc-18", {data:[{}],fetch:{},mutations:[]});

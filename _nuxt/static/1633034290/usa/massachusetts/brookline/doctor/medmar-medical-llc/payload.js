@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/brookline/doctor/medmar-medical-llc", {data:[{}],fetch:{},mutations:[]});

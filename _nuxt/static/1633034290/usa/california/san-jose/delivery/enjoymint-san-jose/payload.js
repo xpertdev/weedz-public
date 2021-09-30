@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-jose/delivery/enjoymint-san-jose", {data:[{}],fetch:{},mutations:[]});

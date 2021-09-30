@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-ana/dispensary/medmen-orange-county-santa-ana", {data:[{}],fetch:{},mutations:[]});

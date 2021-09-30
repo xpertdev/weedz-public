@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/palmer/dispensary/country-cannabis-2", {data:[{}],fetch:{},mutations:[]});

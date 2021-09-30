@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/paramus/doctor/dr-r-iverson", {data:[{}],fetch:{},mutations:[]});

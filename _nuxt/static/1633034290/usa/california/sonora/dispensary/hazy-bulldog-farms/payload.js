@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sonora/dispensary/hazy-bulldog-farms", {data:[{}],fetch:{},mutations:[]});

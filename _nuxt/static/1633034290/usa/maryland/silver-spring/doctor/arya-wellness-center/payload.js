@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/silver-spring/doctor/arya-wellness-center", {data:[{}],fetch:{},mutations:[]});

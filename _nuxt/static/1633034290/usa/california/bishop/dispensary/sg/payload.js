@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bishop/dispensary/sg", {data:[{}],fetch:{},mutations:[]});

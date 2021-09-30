@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oroville/delivery/queen-of-dragons-express-4", {data:[{}],fetch:{},mutations:[]});

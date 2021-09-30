@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/floyd-s-fine-cannabis-slab-city", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/newtown-square/doctor/dr-jeffrey-pinsk", {data:[{}],fetch:{},mutations:[]});

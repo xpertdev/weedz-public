@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oxnard/delivery/from-the-earth-oxnard", {data:[{}],fetch:{},mutations:[]});

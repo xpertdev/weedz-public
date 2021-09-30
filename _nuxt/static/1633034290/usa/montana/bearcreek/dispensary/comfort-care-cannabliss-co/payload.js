@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/bearcreek/dispensary/comfort-care-cannabliss-co", {data:[{}],fetch:{},mutations:[]});

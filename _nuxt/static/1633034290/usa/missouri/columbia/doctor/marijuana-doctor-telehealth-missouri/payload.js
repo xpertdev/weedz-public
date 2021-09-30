@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/columbia/doctor/marijuana-doctor-telehealth-missouri", {data:[{}],fetch:{},mutations:[]});

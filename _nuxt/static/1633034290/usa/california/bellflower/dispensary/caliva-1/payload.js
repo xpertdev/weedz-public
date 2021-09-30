@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bellflower/dispensary/caliva-1", {data:[{}],fetch:{},mutations:[]});

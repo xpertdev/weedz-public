@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ft-towson/dispensary/extreme-earth-extracts", {data:[{}],fetch:{},mutations:[]});

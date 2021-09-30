@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chiacgo/dispensary/zen-leaf-west-loop", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/quincy/dispensary/herbal-remedies-il", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/cartwright/dispensary/sweet-leaf-farmacy-cartwright", {data:[{}],fetch:{},mutations:[]});

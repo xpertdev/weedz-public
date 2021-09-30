@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/montebello/delivery/nug-avenue-22", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/dispensary/the-dandelion-locally-owned-grown-best-of-boulder-county-2010-2011", {data:[{}],fetch:{},mutations:[]});

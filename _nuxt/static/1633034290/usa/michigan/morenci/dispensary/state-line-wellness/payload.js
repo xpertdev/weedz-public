@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/morenci/dispensary/state-line-wellness", {data:[{}],fetch:{},mutations:[]});

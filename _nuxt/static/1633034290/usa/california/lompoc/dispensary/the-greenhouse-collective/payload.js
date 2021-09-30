@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lompoc/dispensary/the-greenhouse-collective", {data:[{}],fetch:{},mutations:[]});

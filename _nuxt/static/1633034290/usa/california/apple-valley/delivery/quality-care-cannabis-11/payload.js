@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/apple-valley/delivery/quality-care-cannabis-11", {data:[{}],fetch:{},mutations:[]});

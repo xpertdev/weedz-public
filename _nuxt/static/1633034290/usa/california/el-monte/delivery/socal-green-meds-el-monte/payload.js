@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-monte/delivery/socal-green-meds-el-monte", {data:[{}],fetch:{},mutations:[]});

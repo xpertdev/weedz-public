@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/buxton/delivery/pickalily-herb-farm-apiary", {data:[{}],fetch:{},mutations:[]});

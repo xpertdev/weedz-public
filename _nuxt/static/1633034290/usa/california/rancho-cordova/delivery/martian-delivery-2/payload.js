@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cordova/delivery/martian-delivery-2", {data:[{}],fetch:{},mutations:[]});

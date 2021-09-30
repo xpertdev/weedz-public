@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yucaipa/delivery/mary-daze-yucaipa", {data:[{}],fetch:{},mutations:[]});

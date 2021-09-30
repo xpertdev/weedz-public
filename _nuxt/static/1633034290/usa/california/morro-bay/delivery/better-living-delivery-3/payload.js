@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/morro-bay/delivery/better-living-delivery-3", {data:[{}],fetch:{},mutations:[]});

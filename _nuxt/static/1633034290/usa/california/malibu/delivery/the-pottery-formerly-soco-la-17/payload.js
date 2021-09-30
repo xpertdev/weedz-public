@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/malibu/delivery/the-pottery-formerly-soco-la-17", {data:[{}],fetch:{},mutations:[]});

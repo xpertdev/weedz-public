@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/del-city/dispensary/freedom-cannabis-dispensary", {data:[{}],fetch:{},mutations:[]});

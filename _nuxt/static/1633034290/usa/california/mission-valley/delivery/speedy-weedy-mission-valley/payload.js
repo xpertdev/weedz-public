@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mission-valley/delivery/speedy-weedy-mission-valley", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/arapaho/dispensary/med-shed", {data:[{}],fetch:{},mutations:[]});

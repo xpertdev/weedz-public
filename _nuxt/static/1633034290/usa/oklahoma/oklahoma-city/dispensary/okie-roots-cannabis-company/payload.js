@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/okie-roots-cannabis-company", {data:[{}],fetch:{},mutations:[]});

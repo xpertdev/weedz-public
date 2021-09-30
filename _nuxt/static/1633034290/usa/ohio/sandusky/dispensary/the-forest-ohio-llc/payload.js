@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/sandusky/dispensary/the-forest-ohio-llc", {data:[{}],fetch:{},mutations:[]});

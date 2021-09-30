@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/waterbury/doctor/relief-medical-center-5", {data:[{}],fetch:{},mutations:[]});

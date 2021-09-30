@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/doctor/michigan-marijuana-institute", {data:[{}],fetch:{},mutations:[]});

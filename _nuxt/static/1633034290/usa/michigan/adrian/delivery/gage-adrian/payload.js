@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/adrian/delivery/gage-adrian", {data:[{}],fetch:{},mutations:[]});

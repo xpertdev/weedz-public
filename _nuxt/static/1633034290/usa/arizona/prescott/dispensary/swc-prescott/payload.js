@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/prescott/dispensary/swc-prescott", {data:[{}],fetch:{},mutations:[]});

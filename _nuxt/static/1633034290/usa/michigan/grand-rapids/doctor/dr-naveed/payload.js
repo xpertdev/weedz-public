@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/doctor/dr-naveed", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/bend/dispensary/tokyo-starfish-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/delivery/chalice-farms-powell", {data:[{}],fetch:{},mutations:[]});

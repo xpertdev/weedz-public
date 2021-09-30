@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/durango/dispensary/sante-alternative-wellness", {data:[{}],fetch:{},mutations:[]});

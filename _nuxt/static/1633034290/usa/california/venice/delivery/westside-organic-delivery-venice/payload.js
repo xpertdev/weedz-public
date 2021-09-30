@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/venice/delivery/westside-organic-delivery-venice", {data:[{}],fetch:{},mutations:[]});

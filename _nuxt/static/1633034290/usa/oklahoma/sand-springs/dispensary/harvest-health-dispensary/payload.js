@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sand-springs/dispensary/harvest-health-dispensary", {data:[{}],fetch:{},mutations:[]});

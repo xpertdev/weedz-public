@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mission-hills/dispensary/missionhillsorganic", {data:[{}],fetch:{},mutations:[]});

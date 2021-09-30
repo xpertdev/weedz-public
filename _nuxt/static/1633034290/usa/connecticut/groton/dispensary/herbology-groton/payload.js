@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/groton/dispensary/herbology-groton", {data:[{}],fetch:{},mutations:[]});

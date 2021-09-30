@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/littleton/dispensary/ascend-cannabis-co-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/fresh-mint-east-bay", {data:[{}],fetch:{},mutations:[]});

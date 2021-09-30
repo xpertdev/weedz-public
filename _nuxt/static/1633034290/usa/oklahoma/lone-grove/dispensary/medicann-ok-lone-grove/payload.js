@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lone-grove/dispensary/medicann-ok-lone-grove", {data:[{}],fetch:{},mutations:[]});

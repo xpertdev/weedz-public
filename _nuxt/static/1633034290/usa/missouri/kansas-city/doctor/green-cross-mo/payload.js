@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/doctor/green-cross-mo", {data:[{}],fetch:{},mutations:[]});

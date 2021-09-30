@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/alexandria/dispensary/the-medicine-cabinet-pharmacy", {data:[{}],fetch:{},mutations:[]});

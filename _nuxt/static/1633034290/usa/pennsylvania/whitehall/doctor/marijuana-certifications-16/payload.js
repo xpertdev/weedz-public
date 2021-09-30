@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/whitehall/doctor/marijuana-certifications-16", {data:[{}],fetch:{},mutations:[]});

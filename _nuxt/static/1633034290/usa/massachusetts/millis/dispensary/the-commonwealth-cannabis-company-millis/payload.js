@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/millis/dispensary/the-commonwealth-cannabis-company-millis", {data:[{}],fetch:{},mutations:[]});

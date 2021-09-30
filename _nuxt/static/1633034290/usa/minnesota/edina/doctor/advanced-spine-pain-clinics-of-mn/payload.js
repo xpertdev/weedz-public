@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/edina/doctor/advanced-spine-pain-clinics-of-mn", {data:[{}],fetch:{},mutations:[]});

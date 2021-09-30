@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/medicine-park/dispensary/good-medicine-etc", {data:[{}],fetch:{},mutations:[]});

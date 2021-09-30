@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/cottage-grove/dispensary/the-holistic-co-op-2", {data:[{}],fetch:{},mutations:[]});

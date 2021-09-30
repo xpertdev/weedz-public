@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane/dispensary/kush-21-spokane", {data:[{}],fetch:{},mutations:[]});

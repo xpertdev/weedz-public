@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/waterville/dispensary/greener-medical-waterville", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/mcminnville/dispensary/smooth-roots-cannabis", {data:[{}],fetch:{},mutations:[]});

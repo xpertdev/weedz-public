@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/college-park/doctor/releaf-life", {data:[{}],fetch:{},mutations:[]});

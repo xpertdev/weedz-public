@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/big-bear-lake/delivery/green-cross-delivery-big-bear", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/newport-beach/delivery/weden-7", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/kalispell/dispensary/flower-kalispell", {data:[{}],fetch:{},mutations:[]});

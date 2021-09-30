@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pagosa-springs/dispensary/san-juan-strains", {data:[{}],fetch:{},mutations:[]});

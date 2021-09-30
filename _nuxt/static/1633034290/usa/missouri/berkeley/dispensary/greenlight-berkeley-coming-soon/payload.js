@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/berkeley/dispensary/greenlight-berkeley-coming-soon", {data:[{}],fetch:{},mutations:[]});

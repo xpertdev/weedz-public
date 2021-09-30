@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/hamtramck/dispensary/3fifteen-detroit-metro-recreational", {data:[{}],fetch:{},mutations:[]});

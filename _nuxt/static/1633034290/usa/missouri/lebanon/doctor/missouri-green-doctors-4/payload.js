@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/lebanon/doctor/missouri-green-doctors-4", {data:[{}],fetch:{},mutations:[]});

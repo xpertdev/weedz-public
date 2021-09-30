@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/waldport/dispensary/waldport-cannabis", {data:[{}],fetch:{},mutations:[]});

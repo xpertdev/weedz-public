@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/pittsburgh/dispensary/ethos-pittsburgh", {data:[{}],fetch:{},mutations:[]});

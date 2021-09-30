@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/level420-2", {data:[{}],fetch:{},mutations:[]});

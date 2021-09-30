@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/eastham/dispensary/emerald-grove-1", {data:[{}],fetch:{},mutations:[]});

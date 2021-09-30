@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/edgewater/dispensary/the-green-solution-edgewater", {data:[{}],fetch:{},mutations:[]});

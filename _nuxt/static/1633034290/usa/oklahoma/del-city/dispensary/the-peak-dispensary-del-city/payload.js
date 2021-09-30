@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/del-city/dispensary/the-peak-dispensary-del-city", {data:[{}],fetch:{},mutations:[]});

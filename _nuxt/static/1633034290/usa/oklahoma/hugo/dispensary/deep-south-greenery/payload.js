@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hugo/dispensary/deep-south-greenery", {data:[{}],fetch:{},mutations:[]});

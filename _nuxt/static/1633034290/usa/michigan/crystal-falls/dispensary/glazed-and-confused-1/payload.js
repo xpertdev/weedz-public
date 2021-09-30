@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/crystal-falls/dispensary/glazed-and-confused-1", {data:[{}],fetch:{},mutations:[]});

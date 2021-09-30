@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fort-lauderdale/dispensary/vidacann-fort-lauderdale", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fontana/delivery/callweed-12", {data:[{}],fetch:{},mutations:[]});

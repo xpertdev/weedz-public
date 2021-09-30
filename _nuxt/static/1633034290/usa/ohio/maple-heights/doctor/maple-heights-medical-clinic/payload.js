@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/maple-heights/doctor/maple-heights-medical-clinic", {data:[{}],fetch:{},mutations:[]});

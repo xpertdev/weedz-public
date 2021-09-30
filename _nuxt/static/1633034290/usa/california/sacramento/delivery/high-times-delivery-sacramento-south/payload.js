@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/high-times-delivery-sacramento-south", {data:[{}],fetch:{},mutations:[]});

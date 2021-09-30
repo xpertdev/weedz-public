@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/gram-central-station-1", {data:[{}],fetch:{},mutations:[]});

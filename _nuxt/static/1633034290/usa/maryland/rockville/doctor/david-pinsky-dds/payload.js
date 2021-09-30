@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/rockville/doctor/david-pinsky-dds", {data:[{}],fetch:{},mutations:[]});

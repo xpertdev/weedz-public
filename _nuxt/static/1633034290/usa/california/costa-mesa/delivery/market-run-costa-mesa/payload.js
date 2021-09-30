@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/market-run-costa-mesa", {data:[{}],fetch:{},mutations:[]});

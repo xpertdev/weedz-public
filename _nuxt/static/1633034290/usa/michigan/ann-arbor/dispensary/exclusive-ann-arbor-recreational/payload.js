@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/dispensary/exclusive-ann-arbor-recreational", {data:[{}],fetch:{},mutations:[]});

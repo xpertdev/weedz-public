@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/aptos/dispensary/santacruzmountainnaturals-santa-cruz", {data:[{}],fetch:{},mutations:[]});

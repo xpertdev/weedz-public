@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/shreveport/doctor/marijuana-doctor-telehealth-louisiana", {data:[{}],fetch:{},mutations:[]});

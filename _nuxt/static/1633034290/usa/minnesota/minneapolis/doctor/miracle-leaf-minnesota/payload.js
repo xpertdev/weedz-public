@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/minneapolis/doctor/miracle-leaf-minnesota", {data:[{}],fetch:{},mutations:[]});

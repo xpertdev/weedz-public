@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/irvine/doctor/holistic-on-call-2", {data:[{}],fetch:{},mutations:[]});

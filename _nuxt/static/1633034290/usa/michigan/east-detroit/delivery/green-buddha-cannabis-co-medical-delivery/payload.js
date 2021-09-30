@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/east-detroit/delivery/green-buddha-cannabis-co-medical-delivery", {data:[{}],fetch:{},mutations:[]});

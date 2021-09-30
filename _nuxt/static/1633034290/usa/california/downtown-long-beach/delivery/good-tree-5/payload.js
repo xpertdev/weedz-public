@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-long-beach/delivery/good-tree-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/covina/delivery/world-class-cannabis-covina", {data:[{}],fetch:{},mutations:[]});

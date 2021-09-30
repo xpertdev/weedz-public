@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/evanston/dispensary/medmen-evanston-maple-ave", {data:[{}],fetch:{},mutations:[]});

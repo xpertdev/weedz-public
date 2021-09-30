@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/delivery/oasis-medical-cannabis", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/morton/dispensary/herbology-morton", {data:[{}],fetch:{},mutations:[]});

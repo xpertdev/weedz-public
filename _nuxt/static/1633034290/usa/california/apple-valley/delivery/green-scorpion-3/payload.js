@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/apple-valley/delivery/green-scorpion-3", {data:[{}],fetch:{},mutations:[]});

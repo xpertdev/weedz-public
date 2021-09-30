@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/shift-new-mexico-jefferson", {data:[{}],fetch:{},mutations:[]});

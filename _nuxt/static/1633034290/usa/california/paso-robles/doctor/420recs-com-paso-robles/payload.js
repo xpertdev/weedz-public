@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/paso-robles/doctor/420recs-com-paso-robles", {data:[{}],fetch:{},mutations:[]});

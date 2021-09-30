@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollywood/delivery/the-kind-center-inc-delivery-1", {data:[{}],fetch:{},mutations:[]});

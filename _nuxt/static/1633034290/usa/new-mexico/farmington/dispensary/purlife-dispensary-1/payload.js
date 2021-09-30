@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/farmington/dispensary/purlife-dispensary-1", {data:[{}],fetch:{},mutations:[]});

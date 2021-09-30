@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/scranton/dispensary/beyond-hello-scranton", {data:[{}],fetch:{},mutations:[]});

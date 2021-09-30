@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/elyria/dispensary/body-and-mind-cleveland", {data:[{}],fetch:{},mutations:[]});

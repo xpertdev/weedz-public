@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/n-kansas-city/dispensary/besame-wellness-3", {data:[{}],fetch:{},mutations:[]});

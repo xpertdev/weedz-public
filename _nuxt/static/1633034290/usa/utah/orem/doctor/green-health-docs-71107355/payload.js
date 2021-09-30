@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/utah/orem/doctor/green-health-docs-71107355", {data:[{}],fetch:{},mutations:[]});

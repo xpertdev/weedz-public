@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/youngstown/dispensary/leaf-relief", {data:[{}],fetch:{},mutations:[]});

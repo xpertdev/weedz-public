@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-francisco/delivery/indika-4", {data:[{}],fetch:{},mutations:[]});

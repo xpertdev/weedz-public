@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/mr-green-12th", {data:[{}],fetch:{},mutations:[]});

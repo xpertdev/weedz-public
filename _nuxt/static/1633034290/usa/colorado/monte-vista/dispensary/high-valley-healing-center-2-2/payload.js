@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/monte-vista/dispensary/high-valley-healing-center-2-2", {data:[{}],fetch:{},mutations:[]});

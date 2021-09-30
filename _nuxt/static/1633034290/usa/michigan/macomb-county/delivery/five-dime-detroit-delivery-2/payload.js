@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/macomb-county/delivery/five-dime-detroit-delivery-2", {data:[{}],fetch:{},mutations:[]});

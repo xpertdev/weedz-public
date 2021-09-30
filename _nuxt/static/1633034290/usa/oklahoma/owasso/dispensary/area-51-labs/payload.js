@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/owasso/dispensary/area-51-labs", {data:[{}],fetch:{},mutations:[]});

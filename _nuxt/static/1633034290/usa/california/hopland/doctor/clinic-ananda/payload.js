@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hopland/doctor/clinic-ananda", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/qualicanna-3", {data:[{}],fetch:{},mutations:[]});

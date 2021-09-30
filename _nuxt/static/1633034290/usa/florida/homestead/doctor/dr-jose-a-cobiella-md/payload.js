@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/homestead/doctor/dr-jose-a-cobiella-md", {data:[{}],fetch:{},mutations:[]});

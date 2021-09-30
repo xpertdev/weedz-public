@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/haskell/dispensary/green-comfort-medicinal-dispensary-llc", {data:[{}],fetch:{},mutations:[]});

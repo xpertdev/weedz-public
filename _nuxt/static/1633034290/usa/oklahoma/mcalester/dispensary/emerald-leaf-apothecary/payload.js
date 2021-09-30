@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mcalester/dispensary/emerald-leaf-apothecary", {data:[{}],fetch:{},mutations:[]});

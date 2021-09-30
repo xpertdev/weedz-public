@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/old-lyme/doctor/relief-medical-center-4", {data:[{}],fetch:{},mutations:[]});

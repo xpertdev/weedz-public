@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tallahassee/doctor/duncan-stephen-md", {data:[{}],fetch:{},mutations:[]});

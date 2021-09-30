@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/leadville/dispensary/roots-rx-leadville", {data:[{}],fetch:{},mutations:[]});

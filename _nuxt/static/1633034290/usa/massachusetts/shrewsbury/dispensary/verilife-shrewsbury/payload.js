@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/shrewsbury/dispensary/verilife-shrewsbury", {data:[{}],fetch:{},mutations:[]});

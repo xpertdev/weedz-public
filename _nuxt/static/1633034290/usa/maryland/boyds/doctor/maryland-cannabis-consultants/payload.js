@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/boyds/doctor/maryland-cannabis-consultants", {data:[{}],fetch:{},mutations:[]});

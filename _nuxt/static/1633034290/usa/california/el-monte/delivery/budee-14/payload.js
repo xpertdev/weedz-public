@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-monte/delivery/budee-14", {data:[{}],fetch:{},mutations:[]});

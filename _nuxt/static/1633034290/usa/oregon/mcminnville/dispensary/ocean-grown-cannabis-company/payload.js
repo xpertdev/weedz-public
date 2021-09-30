@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/mcminnville/dispensary/ocean-grown-cannabis-company", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/panama-city/dispensary/vidacann-panama-city", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/galena/dispensary/verilife-galena", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/doctor/mmjrecs-online-clinic-13", {data:[{}],fetch:{},mutations:[]});

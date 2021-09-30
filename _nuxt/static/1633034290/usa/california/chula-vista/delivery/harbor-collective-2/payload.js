@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista/delivery/harbor-collective-2", {data:[{}],fetch:{},mutations:[]});

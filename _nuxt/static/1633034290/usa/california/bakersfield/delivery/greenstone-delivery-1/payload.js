@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bakersfield/delivery/greenstone-delivery-1", {data:[{}],fetch:{},mutations:[]});

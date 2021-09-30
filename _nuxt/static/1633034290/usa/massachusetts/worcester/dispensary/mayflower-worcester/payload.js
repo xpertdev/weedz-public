@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/worcester/dispensary/mayflower-worcester", {data:[{}],fetch:{},mutations:[]});

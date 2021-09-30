@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/the-peninsula/delivery/ceas-collective-2", {data:[{}],fetch:{},mutations:[]});

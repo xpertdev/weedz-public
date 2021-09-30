@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/south-portland/dispensary/curaleaf-south-portland", {data:[{}],fetch:{},mutations:[]});

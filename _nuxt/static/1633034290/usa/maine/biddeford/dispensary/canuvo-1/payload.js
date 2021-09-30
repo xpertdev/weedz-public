@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/biddeford/dispensary/canuvo-1", {data:[{}],fetch:{},mutations:[]});

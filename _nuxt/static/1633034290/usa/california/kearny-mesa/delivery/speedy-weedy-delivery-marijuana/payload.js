@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/kearny-mesa/delivery/speedy-weedy-delivery-marijuana", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lyman/dispensary/headquarters-medical-cannabis", {data:[{}],fetch:{},mutations:[]});

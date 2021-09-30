@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/rose-district-dispensary", {data:[{}],fetch:{},mutations:[]});

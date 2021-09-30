@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/nunica/dispensary/skymint-nunica", {data:[{}],fetch:{},mutations:[]});

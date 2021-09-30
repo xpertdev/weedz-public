@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/dispensary/highway-29-health-care", {data:[{}],fetch:{},mutations:[]});

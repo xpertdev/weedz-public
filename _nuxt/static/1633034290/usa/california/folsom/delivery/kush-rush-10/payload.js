@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/kush-rush-10", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/dana-point/delivery/kushagram-dana-point", {data:[{}],fetch:{},mutations:[]});

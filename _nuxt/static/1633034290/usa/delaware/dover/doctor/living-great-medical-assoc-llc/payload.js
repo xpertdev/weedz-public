@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/dover/doctor/living-great-medical-assoc-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/southfield/doctor/integrity-medicine", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/710-factory-711", {data:[{}],fetch:{},mutations:[]});

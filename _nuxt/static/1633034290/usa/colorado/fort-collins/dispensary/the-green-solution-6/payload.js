@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fort-collins/dispensary/the-green-solution-6", {data:[{}],fetch:{},mutations:[]});

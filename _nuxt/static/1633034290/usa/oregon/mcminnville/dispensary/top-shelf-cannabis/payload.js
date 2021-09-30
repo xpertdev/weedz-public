@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/mcminnville/dispensary/top-shelf-cannabis", {data:[{}],fetch:{},mutations:[]});

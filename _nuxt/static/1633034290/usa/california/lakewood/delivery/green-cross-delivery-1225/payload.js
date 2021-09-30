@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakewood/delivery/green-cross-delivery-1225", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/beaverton/dispensary/greenways-provisioning-center", {data:[{}],fetch:{},mutations:[]});

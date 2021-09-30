@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/puyallup/dispensary/issaquah-cannabis-company-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/grover-beach/dispensary/natural-healing-center", {data:[{}],fetch:{},mutations:[]});

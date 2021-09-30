@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/roland/dispensary/state-line-dispensary-roland", {data:[{}],fetch:{},mutations:[]});

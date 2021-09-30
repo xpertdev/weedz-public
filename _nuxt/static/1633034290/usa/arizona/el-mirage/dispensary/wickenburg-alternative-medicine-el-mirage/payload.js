@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/el-mirage/dispensary/wickenburg-alternative-medicine-el-mirage", {data:[{}],fetch:{},mutations:[]});

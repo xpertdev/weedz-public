@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/marietta/dispensary/strawberry-fields-marietta", {data:[{}],fetch:{},mutations:[]});

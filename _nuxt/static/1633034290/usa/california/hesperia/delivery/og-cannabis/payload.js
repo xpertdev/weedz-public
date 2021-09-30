@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hesperia/delivery/og-cannabis", {data:[{}],fetch:{},mutations:[]});

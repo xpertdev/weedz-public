@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/merced/delivery/green-on-go-modesto", {data:[{}],fetch:{},mutations:[]});

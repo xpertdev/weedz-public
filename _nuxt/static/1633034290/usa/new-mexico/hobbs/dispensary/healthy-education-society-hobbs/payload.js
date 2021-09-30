@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/hobbs/dispensary/healthy-education-society-hobbs", {data:[{}],fetch:{},mutations:[]});

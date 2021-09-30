@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/toledo/dispensary/rise-toledo", {data:[{}],fetch:{},mutations:[]});

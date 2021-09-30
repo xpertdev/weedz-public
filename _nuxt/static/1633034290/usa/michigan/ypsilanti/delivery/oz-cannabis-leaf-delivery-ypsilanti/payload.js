@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/delivery/oz-cannabis-leaf-delivery-ypsilanti", {data:[{}],fetch:{},mutations:[]});

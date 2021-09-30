@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/minerva-canna-of-tahlequah", {data:[{}],fetch:{},mutations:[]});

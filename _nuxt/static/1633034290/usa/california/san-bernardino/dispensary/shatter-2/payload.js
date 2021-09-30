@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-bernardino/dispensary/shatter-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/smokin-okies-cannabis-company", {data:[{}],fetch:{},mutations:[]});

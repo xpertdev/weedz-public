@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/fryeburg/delivery/machhout-farms", {data:[{}],fetch:{},mutations:[]});

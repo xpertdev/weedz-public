@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/biddeford/delivery/doctors-choice", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/26550-liberal-st/delivery/m-dot-powered-by-joyology", {data:[{}],fetch:{},mutations:[]});

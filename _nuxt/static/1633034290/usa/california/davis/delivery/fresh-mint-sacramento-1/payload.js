@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/davis/delivery/fresh-mint-sacramento-1", {data:[{}],fetch:{},mutations:[]});

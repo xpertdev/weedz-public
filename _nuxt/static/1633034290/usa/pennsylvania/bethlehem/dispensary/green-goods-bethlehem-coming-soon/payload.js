@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/bethlehem/dispensary/green-goods-bethlehem-coming-soon", {data:[{}],fetch:{},mutations:[]});

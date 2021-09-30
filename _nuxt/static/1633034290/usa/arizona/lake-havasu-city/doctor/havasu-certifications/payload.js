@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/lake-havasu-city/doctor/havasu-certifications", {data:[{}],fetch:{},mutations:[]});

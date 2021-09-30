@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/rockledge/doctor/medmar-releaf-clinic-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/northampton/dispensary/jacks-cannabis-company-northampton", {data:[{}],fetch:{},mutations:[]});

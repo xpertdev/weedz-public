@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/anson/delivery/maine-cannabis-courier-4", {data:[{}],fetch:{},mutations:[]});

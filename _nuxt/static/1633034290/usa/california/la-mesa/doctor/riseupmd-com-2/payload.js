@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/doctor/riseupmd-com-2", {data:[{}],fetch:{},mutations:[]});

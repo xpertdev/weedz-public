@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/the-village/dispensary/fire-leaf-dispensary", {data:[{}],fetch:{},mutations:[]});

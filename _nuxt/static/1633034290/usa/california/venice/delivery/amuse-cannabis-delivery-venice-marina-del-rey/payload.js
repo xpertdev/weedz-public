@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/venice/delivery/amuse-cannabis-delivery-venice-marina-del-rey", {data:[{}],fetch:{},mutations:[]});

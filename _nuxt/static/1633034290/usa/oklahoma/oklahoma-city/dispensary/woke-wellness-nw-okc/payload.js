@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/woke-wellness-nw-okc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/gardiner/dispensary/the-bud-bar", {data:[{}],fetch:{},mutations:[]});

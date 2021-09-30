@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/lincoln-city/dispensary/attis-trading-lincoln-city", {data:[{}],fetch:{},mutations:[]});

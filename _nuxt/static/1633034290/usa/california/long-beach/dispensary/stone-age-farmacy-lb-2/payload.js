@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/dispensary/stone-age-farmacy-lb-2", {data:[{}],fetch:{},mutations:[]});

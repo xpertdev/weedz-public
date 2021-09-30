@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pryor/dispensary/affordable-medical-cannabis-2", {data:[{}],fetch:{},mutations:[]});

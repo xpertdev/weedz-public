@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/annapolis/doctor/turning-point-integrative-health-centers-2", {data:[{}],fetch:{},mutations:[]});

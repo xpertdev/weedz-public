@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/plattsburgh/doctor/heally-online-7", {data:[{}],fetch:{},mutations:[]});

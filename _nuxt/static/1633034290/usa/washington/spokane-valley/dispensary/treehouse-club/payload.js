@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/spokane-valley/dispensary/treehouse-club", {data:[{}],fetch:{},mutations:[]});

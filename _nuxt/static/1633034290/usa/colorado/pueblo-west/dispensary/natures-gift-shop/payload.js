@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo-west/dispensary/natures-gift-shop", {data:[{}],fetch:{},mutations:[]});

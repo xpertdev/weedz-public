@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orange-park/doctor/alternative-medical-centers-of-america", {data:[{}],fetch:{},mutations:[]});

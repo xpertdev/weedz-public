@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/st-augustine/doctor/cannabis-certification-clinic", {data:[{}],fetch:{},mutations:[]});

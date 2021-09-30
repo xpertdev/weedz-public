@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/delivery/3fifteen-8-mile-gratiot", {data:[{}],fetch:{},mutations:[]});

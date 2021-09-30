@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/mary-jane-dispensary", {data:[{}],fetch:{},mutations:[]});

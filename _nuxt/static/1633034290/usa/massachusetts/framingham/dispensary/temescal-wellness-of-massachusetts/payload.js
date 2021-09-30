@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/framingham/dispensary/temescal-wellness-of-massachusetts", {data:[{}],fetch:{},mutations:[]});

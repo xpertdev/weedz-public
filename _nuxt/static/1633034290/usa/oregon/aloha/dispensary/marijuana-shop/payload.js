@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/aloha/dispensary/marijuana-shop", {data:[{}],fetch:{},mutations:[]});

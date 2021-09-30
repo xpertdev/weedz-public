@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town-echo-park/delivery/barc-delivery-korea-town-echo-park", {data:[{}],fetch:{},mutations:[]});

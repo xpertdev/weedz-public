@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/lake-in-the-hills/dispensary/rise-dispensaries-lake-in-the-hills", {data:[{}],fetch:{},mutations:[]});

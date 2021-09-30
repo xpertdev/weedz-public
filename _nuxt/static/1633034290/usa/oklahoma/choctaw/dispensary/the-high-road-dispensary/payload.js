@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/choctaw/dispensary/the-high-road-dispensary", {data:[{}],fetch:{},mutations:[]});

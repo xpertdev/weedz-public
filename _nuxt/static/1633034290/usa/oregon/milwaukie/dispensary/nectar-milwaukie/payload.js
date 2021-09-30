@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/milwaukie/dispensary/nectar-milwaukie", {data:[{}],fetch:{},mutations:[]});

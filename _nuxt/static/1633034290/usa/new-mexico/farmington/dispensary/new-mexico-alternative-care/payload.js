@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/farmington/dispensary/new-mexico-alternative-care", {data:[{}],fetch:{},mutations:[]});

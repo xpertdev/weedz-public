@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/hazel-park/dispensary/breeze", {data:[{}],fetch:{},mutations:[]});

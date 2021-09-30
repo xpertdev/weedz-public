@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/south-portland/dispensary/wellness-connection-main-thomaston", {data:[{}],fetch:{},mutations:[]});

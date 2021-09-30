@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-highlands/doctor/medicann-north-highlands", {data:[{}],fetch:{},mutations:[]});

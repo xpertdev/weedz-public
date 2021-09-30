@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/green-gold-delivery-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/baltimore/doctor/green-relief-health-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/thomaston/dispensary/cannabis-cured-3", {data:[{}],fetch:{},mutations:[]});

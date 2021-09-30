@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/warrenton/dispensary/proper-cannabis-warrenton", {data:[{}],fetch:{},mutations:[]});

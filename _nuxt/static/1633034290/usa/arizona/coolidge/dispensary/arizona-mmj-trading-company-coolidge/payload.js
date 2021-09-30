@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/coolidge/dispensary/arizona-mmj-trading-company-coolidge", {data:[{}],fetch:{},mutations:[]});

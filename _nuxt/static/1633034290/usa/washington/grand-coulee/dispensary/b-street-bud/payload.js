@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/grand-coulee/dispensary/b-street-bud", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/danvers/dispensary/sanctuary-medicinals-danvers", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/wasilla/dispensary/laughing-salmon-cannabis", {data:[{}],fetch:{},mutations:[]});

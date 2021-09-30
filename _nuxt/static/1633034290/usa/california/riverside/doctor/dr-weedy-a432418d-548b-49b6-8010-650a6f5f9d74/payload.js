@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/doctor/dr-weedy-a432418d-548b-49b6-8010-650a6f5f9d74", {data:[{}],fetch:{},mutations:[]});

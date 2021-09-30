@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/west-coast-medical-finest", {data:[{}],fetch:{},mutations:[]});

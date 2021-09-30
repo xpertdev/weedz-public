@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/seaside/dispensary/oasis-cannabis", {data:[{}],fetch:{},mutations:[]});

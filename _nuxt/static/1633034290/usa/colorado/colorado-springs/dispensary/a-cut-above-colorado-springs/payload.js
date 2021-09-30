@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/a-cut-above-colorado-springs", {data:[{}],fetch:{},mutations:[]});

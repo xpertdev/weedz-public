@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/strawberry-fields-pueblo", {data:[{}],fetch:{},mutations:[]});

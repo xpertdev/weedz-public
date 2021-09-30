@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/longwood/dispensary/columbia-care-longwood-1", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/edwards/dispensary/the-tumbleweed-dispensary-edwards", {data:[{}],fetch:{},mutations:[]});

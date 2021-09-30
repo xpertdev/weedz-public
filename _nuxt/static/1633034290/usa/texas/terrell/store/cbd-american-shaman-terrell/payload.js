@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/terrell/store/cbd-american-shaman-terrell", {data:[{}],fetch:{},mutations:[]});

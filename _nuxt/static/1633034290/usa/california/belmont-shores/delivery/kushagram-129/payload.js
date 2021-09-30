@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/belmont-shores/delivery/kushagram-129", {data:[{}],fetch:{},mutations:[]});

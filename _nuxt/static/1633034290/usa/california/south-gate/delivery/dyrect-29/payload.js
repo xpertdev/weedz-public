@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-gate/delivery/dyrect-29", {data:[{}],fetch:{},mutations:[]});

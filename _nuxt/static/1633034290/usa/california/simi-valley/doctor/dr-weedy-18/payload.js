@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/simi-valley/doctor/dr-weedy-18", {data:[{}],fetch:{},mutations:[]});

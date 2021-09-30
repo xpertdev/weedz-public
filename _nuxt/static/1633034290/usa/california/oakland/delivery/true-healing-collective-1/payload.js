@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/true-healing-collective-1", {data:[{}],fetch:{},mutations:[]});

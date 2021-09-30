@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/pullman/dispensary/mj-s-pot-shop", {data:[{}],fetch:{},mutations:[]});

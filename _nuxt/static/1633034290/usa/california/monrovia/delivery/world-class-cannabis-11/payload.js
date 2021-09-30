@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/monrovia/delivery/world-class-cannabis-11", {data:[{}],fetch:{},mutations:[]});

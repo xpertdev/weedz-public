@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/the-green-team-cannabis-delivery-1", {data:[{}],fetch:{},mutations:[]});

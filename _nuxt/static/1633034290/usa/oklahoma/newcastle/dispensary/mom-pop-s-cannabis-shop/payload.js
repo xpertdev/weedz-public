@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/newcastle/dispensary/mom-pop-s-cannabis-shop", {data:[{}],fetch:{},mutations:[]});

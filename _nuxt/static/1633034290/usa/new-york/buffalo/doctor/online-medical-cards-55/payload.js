@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/buffalo/doctor/online-medical-cards-55", {data:[{}],fetch:{},mutations:[]});

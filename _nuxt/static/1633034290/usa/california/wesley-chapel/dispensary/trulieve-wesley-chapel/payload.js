@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/wesley-chapel/dispensary/trulieve-wesley-chapel", {data:[{}],fetch:{},mutations:[]});

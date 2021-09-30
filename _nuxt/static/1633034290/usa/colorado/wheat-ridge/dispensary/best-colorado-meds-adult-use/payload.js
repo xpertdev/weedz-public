@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/wheat-ridge/dispensary/best-colorado-meds-adult-use", {data:[{}],fetch:{},mutations:[]});

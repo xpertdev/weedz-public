@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/medford/doctor/southern-oregon-alternative-medicine", {data:[{}],fetch:{},mutations:[]});

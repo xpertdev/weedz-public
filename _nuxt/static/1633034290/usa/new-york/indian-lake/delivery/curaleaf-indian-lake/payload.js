@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/indian-lake/delivery/curaleaf-indian-lake", {data:[{}],fetch:{},mutations:[]});

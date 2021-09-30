@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/okc/dispensary/green-retail-sales-llc", {data:[{}],fetch:{},mutations:[]});

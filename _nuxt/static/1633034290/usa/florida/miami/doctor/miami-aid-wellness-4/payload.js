@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/miami/doctor/miami-aid-wellness-4", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/barstow/delivery/socal-green-meds-14", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/blaine/dispensary/green-goods-blaine", {data:[{}],fetch:{},mutations:[]});

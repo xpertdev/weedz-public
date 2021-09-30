@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sapulpa/dispensary/ounce-by-ounce", {data:[{}],fetch:{},mutations:[]});

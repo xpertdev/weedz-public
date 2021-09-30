@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-deigo/delivery/torrey-holistics-10", {data:[{}],fetch:{},mutations:[]});

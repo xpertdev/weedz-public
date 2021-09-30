@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/dispensary/curaleaf-sarasota", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/maywood/dispensary/rite-greens-maywood", {data:[{}],fetch:{},mutations:[]});

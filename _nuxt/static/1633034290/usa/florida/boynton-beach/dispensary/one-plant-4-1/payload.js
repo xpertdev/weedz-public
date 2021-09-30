@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/boynton-beach/dispensary/one-plant-4-1", {data:[{}],fetch:{},mutations:[]});

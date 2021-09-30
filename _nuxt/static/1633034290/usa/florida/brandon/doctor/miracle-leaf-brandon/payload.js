@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/brandon/doctor/miracle-leaf-brandon", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/doctor/420recs-com-antioch", {data:[{}],fetch:{},mutations:[]});

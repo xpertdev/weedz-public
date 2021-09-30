@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/the-leaf-healthy-living-llc", {data:[{}],fetch:{},mutations:[]});

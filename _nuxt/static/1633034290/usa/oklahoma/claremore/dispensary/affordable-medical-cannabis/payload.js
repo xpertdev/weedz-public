@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/claremore/dispensary/affordable-medical-cannabis", {data:[{}],fetch:{},mutations:[]});

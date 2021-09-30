@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/valley-stream/doctor/dr-jean-j-marcellus", {data:[{}],fetch:{},mutations:[]});

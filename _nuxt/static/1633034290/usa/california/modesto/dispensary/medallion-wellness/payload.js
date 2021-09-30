@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/modesto/dispensary/medallion-wellness", {data:[{}],fetch:{},mutations:[]});

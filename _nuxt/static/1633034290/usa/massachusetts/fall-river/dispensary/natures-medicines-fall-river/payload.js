@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/fall-river/dispensary/natures-medicines-fall-river", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/saginaw/doctor/grow-mart-medical-marijuana-certifications", {data:[{}],fetch:{},mutations:[]});

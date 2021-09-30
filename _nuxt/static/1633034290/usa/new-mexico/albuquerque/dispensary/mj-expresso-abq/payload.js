@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/mj-expresso-abq", {data:[{}],fetch:{},mutations:[]});

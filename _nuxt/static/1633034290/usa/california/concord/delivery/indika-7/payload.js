@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/indika-7", {data:[{}],fetch:{},mutations:[]});

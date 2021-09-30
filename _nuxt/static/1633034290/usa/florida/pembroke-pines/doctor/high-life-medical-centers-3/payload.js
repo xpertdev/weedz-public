@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/pembroke-pines/doctor/high-life-medical-centers-3", {data:[{}],fetch:{},mutations:[]});

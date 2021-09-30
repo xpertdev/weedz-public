@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/needles/dispensary/herbarium-66", {data:[{}],fetch:{},mutations:[]});

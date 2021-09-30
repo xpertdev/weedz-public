@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/anchorage/dispensary/great-northern-cannabis", {data:[{}],fetch:{},mutations:[]});

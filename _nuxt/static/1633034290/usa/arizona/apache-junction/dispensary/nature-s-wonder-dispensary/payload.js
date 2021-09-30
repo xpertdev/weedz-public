@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/apache-junction/dispensary/nature-s-wonder-dispensary", {data:[{}],fetch:{},mutations:[]});

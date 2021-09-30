@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakdale/dispensary/the-peoples-remedy-oakdale", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/canoga-park/dispensary/coast-to-coast-collective", {data:[{}],fetch:{},mutations:[]});

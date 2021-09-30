@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/springfield/dispensary/deep-roots-cannabis", {data:[{}],fetch:{},mutations:[]});

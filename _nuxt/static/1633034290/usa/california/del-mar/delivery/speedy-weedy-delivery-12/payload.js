@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/del-mar/delivery/speedy-weedy-delivery-12", {data:[{}],fetch:{},mutations:[]});

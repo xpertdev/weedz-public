@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/dispensary/the-source-2-3", {data:[{}],fetch:{},mutations:[]});

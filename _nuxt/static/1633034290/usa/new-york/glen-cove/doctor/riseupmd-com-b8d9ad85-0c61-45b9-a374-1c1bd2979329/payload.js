@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/glen-cove/doctor/riseupmd-com-b8d9ad85-0c61-45b9-a374-1c1bd2979329", {data:[{}],fetch:{},mutations:[]});

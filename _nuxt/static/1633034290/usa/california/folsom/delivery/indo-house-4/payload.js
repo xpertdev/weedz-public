@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/indo-house-4", {data:[{}],fetch:{},mutations:[]});

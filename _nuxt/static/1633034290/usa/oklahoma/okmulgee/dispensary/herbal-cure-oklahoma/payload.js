@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/okmulgee/dispensary/herbal-cure-oklahoma", {data:[{}],fetch:{},mutations:[]});

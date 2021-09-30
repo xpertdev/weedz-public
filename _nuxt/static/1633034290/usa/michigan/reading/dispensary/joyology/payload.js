@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/reading/dispensary/joyology", {data:[{}],fetch:{},mutations:[]});

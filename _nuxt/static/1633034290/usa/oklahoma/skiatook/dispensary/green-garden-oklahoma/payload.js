@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/skiatook/dispensary/green-garden-oklahoma", {data:[{}],fetch:{},mutations:[]});

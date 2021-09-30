@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bloomfield-twp/delivery/3fifteen-oakland-county-delivery", {data:[{}],fetch:{},mutations:[]});

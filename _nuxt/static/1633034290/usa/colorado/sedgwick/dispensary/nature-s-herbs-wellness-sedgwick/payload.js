@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/sedgwick/dispensary/nature-s-herbs-wellness-sedgwick", {data:[{}],fetch:{},mutations:[]});

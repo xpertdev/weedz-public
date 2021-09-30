@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/quincy/dispensary/rise-quincy", {data:[{}],fetch:{},mutations:[]});

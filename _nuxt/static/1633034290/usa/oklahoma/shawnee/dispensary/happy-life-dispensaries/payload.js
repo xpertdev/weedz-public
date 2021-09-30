@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/happy-life-dispensaries", {data:[{}],fetch:{},mutations:[]});

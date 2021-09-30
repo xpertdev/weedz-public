@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/treehouse-dispensary-1", {data:[{}],fetch:{},mutations:[]});

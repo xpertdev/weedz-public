@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/palmer/dispensary/mcc-flight", {data:[{}],fetch:{},mutations:[]});

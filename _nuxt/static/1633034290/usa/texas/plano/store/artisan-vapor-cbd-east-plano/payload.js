@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/plano/store/artisan-vapor-cbd-east-plano", {data:[{}],fetch:{},mutations:[]});

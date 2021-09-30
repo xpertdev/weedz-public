@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ocala/doctor/recharge-clinic", {data:[{}],fetch:{},mutations:[]});

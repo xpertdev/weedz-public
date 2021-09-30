@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/durant/dispensary/rvsb-enterprises-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/palm-bay/doctor/marijuana-doctor-27", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-luis-obispo/doctor/online-medical-cards-49", {data:[{}],fetch:{},mutations:[]});

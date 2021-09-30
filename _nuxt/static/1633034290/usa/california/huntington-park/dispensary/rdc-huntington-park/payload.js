@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-park/dispensary/rdc-huntington-park", {data:[{}],fetch:{},mutations:[]});

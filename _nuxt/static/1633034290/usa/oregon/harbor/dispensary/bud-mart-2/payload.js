@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/harbor/dispensary/bud-mart-2", {data:[{}],fetch:{},mutations:[]});

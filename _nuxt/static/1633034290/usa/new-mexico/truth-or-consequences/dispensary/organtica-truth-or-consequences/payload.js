@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/truth-or-consequences/dispensary/organtica-truth-or-consequences", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/elk-city/dispensary/the-natural-way-4", {data:[{}],fetch:{},mutations:[]});

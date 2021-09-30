@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/milan/dispensary/nature-s-treatment-of-illinois-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/waterville/dispensary/sweet-dirt-waterville", {data:[{}],fetch:{},mutations:[]});

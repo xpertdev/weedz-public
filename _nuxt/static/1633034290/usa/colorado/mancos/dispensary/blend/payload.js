@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/mancos/dispensary/blend", {data:[{}],fetch:{},mutations:[]});

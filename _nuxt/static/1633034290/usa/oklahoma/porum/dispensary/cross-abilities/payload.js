@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/porum/dispensary/cross-abilities", {data:[{}],fetch:{},mutations:[]});

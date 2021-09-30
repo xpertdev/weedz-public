@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/scottsdale/doctor/scottsdale-marijuana-card-exams", {data:[{}],fetch:{},mutations:[]});

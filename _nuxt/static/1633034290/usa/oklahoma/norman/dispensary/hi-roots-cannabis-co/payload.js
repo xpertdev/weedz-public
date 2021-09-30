@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/hi-roots-cannabis-co", {data:[{}],fetch:{},mutations:[]});

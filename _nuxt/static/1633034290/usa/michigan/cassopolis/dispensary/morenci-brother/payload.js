@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/cassopolis/dispensary/morenci-brother", {data:[{}],fetch:{},mutations:[]});

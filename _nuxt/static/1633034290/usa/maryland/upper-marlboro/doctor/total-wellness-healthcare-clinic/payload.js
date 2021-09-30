@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/upper-marlboro/doctor/total-wellness-healthcare-clinic", {data:[{}],fetch:{},mutations:[]});

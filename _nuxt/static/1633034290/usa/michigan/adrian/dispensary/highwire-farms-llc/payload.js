@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/adrian/dispensary/highwire-farms-llc", {data:[{}],fetch:{},mutations:[]});

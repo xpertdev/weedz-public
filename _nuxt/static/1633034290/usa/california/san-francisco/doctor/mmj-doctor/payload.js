@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-francisco/doctor/mmj-doctor", {data:[{}],fetch:{},mutations:[]});

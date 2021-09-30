@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/foster-city/delivery/green-on-the-go-7", {data:[{}],fetch:{},mutations:[]});

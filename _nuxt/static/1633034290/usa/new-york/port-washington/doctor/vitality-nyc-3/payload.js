@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/port-washington/doctor/vitality-nyc-3", {data:[{}],fetch:{},mutations:[]});

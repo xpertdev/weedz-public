@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/off-the-ridge-2", {data:[{}],fetch:{},mutations:[]});

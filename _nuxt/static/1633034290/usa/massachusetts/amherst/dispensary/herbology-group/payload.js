@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/amherst/dispensary/herbology-group", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-jose/delivery/irie-care-delivery", {data:[{}],fetch:{},mutations:[]});

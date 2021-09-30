@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/sedona/doctor/sedona-green-cross", {data:[{}],fetch:{},mutations:[]});

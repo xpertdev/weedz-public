@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/laguna-beach/delivery/the-medicine-woman-2-3-2", {data:[{}],fetch:{},mutations:[]});

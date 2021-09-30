@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/berwick/dispensary/kind-farms-reserve-1", {data:[{}],fetch:{},mutations:[]});

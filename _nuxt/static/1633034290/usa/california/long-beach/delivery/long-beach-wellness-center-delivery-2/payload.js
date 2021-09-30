@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/delivery/long-beach-wellness-center-delivery-2", {data:[{}],fetch:{},mutations:[]});

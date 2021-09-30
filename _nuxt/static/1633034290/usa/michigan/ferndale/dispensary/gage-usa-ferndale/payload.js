@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ferndale/dispensary/gage-usa-ferndale", {data:[{}],fetch:{},mutations:[]});

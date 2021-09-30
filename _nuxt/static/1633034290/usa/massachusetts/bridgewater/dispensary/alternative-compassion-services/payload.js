@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/bridgewater/dispensary/alternative-compassion-services", {data:[{}],fetch:{},mutations:[]});

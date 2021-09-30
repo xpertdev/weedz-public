@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/doctor/mmp-certifications", {data:[{}],fetch:{},mutations:[]});

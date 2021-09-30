@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/erie/doctor/marijuana-doctor-telehealth-pa", {data:[{}],fetch:{},mutations:[]});

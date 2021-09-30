@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/campbell/delivery/the-club-designer-weed-2", {data:[{}],fetch:{},mutations:[]});

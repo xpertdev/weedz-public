@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/wappingers-falls/delivery/curaleaf-wappingers-falls", {data:[{}],fetch:{},mutations:[]});

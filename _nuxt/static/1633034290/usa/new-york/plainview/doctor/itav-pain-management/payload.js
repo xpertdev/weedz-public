@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/plainview/doctor/itav-pain-management", {data:[{}],fetch:{},mutations:[]});

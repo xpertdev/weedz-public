@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/falmouth/doctor/integr8-health", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/albany/doctor/canna-care-docs-new-york", {data:[{}],fetch:{},mutations:[]});

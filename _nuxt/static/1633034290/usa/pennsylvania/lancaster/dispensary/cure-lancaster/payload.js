@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/lancaster/dispensary/cure-lancaster", {data:[{}],fetch:{},mutations:[]});

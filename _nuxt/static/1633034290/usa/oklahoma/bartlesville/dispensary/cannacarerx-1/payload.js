@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bartlesville/dispensary/cannacarerx-1", {data:[{}],fetch:{},mutations:[]});

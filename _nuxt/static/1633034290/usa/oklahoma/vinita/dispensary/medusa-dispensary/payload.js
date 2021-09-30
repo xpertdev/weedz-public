@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vinita/dispensary/medusa-dispensary", {data:[{}],fetch:{},mutations:[]});

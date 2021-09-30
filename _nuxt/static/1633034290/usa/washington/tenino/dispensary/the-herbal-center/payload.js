@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/tenino/dispensary/the-herbal-center", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/paso-robles/doctor/united-health-wellness-north-county", {data:[{}],fetch:{},mutations:[]});

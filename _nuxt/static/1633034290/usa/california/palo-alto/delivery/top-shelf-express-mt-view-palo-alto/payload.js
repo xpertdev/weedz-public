@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palo-alto/delivery/top-shelf-express-mt-view-palo-alto", {data:[{}],fetch:{},mutations:[]});

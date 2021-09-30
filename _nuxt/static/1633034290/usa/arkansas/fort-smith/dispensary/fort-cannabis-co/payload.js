@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/fort-smith/dispensary/fort-cannabis-co", {data:[{}],fetch:{},mutations:[]});

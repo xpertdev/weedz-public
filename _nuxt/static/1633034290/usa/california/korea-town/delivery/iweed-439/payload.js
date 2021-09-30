@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town/delivery/iweed-439", {data:[{}],fetch:{},mutations:[]});

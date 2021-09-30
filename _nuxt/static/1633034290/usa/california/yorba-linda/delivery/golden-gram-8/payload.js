@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yorba-linda/delivery/golden-gram-8", {data:[{}],fetch:{},mutations:[]});

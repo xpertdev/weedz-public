@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jacksonville-beach/dispensary/muv-jax-beach-now-open", {data:[{}],fetch:{},mutations:[]});

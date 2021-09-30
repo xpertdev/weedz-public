@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/doctor/dr-randolph-clarke-medical-spa", {data:[{}],fetch:{},mutations:[]});

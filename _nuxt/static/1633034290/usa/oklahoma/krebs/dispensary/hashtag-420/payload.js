@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/krebs/dispensary/hashtag-420", {data:[{}],fetch:{},mutations:[]});

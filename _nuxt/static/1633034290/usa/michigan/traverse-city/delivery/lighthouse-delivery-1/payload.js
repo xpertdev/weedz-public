@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/traverse-city/delivery/lighthouse-delivery-1", {data:[{}],fetch:{},mutations:[]});

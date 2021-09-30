@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/ca-on-city/dispensary/fremont-county-cannabis", {data:[{}],fetch:{},mutations:[]});

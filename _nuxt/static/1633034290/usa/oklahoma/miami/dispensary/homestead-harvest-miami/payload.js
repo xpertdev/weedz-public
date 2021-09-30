@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/miami/dispensary/homestead-harvest-miami", {data:[{}],fetch:{},mutations:[]});

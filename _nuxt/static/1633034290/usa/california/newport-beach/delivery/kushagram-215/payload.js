@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/newport-beach/delivery/kushagram-215", {data:[{}],fetch:{},mutations:[]});

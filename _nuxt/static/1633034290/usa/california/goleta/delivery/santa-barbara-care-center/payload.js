@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/goleta/delivery/santa-barbara-care-center", {data:[{}],fetch:{},mutations:[]});

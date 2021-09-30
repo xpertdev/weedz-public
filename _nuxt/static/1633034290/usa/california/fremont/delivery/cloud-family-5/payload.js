@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/cloud-family-5", {data:[{}],fetch:{},mutations:[]});

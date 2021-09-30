@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/deland/doctor/cannamd-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/garden-city/delivery/vireo-nassau-delivery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/wasilla/dispensary/high-mark-cannabis", {data:[{}],fetch:{},mutations:[]});

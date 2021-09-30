@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/corona/doctor/420recs-com-corona", {data:[{}],fetch:{},mutations:[]});

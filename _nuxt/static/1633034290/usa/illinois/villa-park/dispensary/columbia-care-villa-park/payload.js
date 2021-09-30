@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/villa-park/dispensary/columbia-care-villa-park", {data:[{}],fetch:{},mutations:[]});

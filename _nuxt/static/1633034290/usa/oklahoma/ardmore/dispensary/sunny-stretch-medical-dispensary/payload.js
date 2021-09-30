@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ardmore/dispensary/sunny-stretch-medical-dispensary", {data:[{}],fetch:{},mutations:[]});

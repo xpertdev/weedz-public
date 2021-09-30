@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/longview/dispensary/420-holiday", {data:[{}],fetch:{},mutations:[]});

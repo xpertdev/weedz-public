@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/dispensary/the-people-s-wellness-center-2", {data:[{}],fetch:{},mutations:[]});

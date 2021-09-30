@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/inkster/delivery/the-flower-bowl-recreational", {data:[{}],fetch:{},mutations:[]});

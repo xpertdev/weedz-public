@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/mount-dora/doctor/medmar-releaf-clinic", {data:[{}],fetch:{},mutations:[]});

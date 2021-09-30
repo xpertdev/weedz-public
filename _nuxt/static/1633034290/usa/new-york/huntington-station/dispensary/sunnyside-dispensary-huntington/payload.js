@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/huntington-station/dispensary/sunnyside-dispensary-huntington", {data:[{}],fetch:{},mutations:[]});

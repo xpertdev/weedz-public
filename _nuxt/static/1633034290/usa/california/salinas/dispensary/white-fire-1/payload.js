@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/salinas/dispensary/white-fire-1", {data:[{}],fetch:{},mutations:[]});

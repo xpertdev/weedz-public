@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/lake-success/dispensary/medmen-long-island-lake-success", {data:[{}],fetch:{},mutations:[]});

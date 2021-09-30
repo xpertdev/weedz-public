@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/williamsburg/doctor/drscottjay", {data:[{}],fetch:{},mutations:[]});

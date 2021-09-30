@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tracy/doctor/420-physicians-tracy", {data:[{}],fetch:{},mutations:[]});

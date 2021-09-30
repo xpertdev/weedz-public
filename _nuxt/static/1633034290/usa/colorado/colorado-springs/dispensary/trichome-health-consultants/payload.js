@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/trichome-health-consultants", {data:[{}],fetch:{},mutations:[]});

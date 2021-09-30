@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/diamond-bar/delivery/hyperwolf-diamond-bar", {data:[{}],fetch:{},mutations:[]});

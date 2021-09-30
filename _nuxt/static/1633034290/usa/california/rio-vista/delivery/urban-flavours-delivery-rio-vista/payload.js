@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rio-vista/delivery/urban-flavours-delivery-rio-vista", {data:[{}],fetch:{},mutations:[]});

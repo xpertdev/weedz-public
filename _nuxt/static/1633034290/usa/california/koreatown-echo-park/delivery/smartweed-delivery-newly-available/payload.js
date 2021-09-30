@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/koreatown-echo-park/delivery/smartweed-delivery-newly-available", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tahlequah/dispensary/abliss-buds-2", {data:[{}],fetch:{},mutations:[]});

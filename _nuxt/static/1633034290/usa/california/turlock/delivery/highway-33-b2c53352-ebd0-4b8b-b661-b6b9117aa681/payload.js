@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/turlock/delivery/highway-33-b2c53352-ebd0-4b8b-b661-b6b9117aa681", {data:[{}],fetch:{},mutations:[]});

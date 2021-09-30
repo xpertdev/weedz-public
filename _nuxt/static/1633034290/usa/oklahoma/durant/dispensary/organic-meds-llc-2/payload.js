@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/durant/dispensary/organic-meds-llc-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/green-cross-caregivers", {data:[{}],fetch:{},mutations:[]});

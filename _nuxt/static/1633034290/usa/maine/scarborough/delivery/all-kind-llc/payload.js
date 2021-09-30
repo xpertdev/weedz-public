@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/scarborough/delivery/all-kind-llc", {data:[{}],fetch:{},mutations:[]});

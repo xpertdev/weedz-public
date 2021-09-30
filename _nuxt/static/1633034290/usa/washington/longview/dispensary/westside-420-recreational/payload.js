@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/longview/dispensary/westside-420-recreational", {data:[{}],fetch:{},mutations:[]});

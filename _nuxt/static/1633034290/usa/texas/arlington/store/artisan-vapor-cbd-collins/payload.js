@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/arlington/store/artisan-vapor-cbd-collins", {data:[{}],fetch:{},mutations:[]});

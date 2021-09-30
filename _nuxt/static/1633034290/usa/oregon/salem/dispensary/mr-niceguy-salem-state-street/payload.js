@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/mr-niceguy-salem-state-street", {data:[{}],fetch:{},mutations:[]});

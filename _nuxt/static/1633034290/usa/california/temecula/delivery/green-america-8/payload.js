@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/temecula/delivery/green-america-8", {data:[{}],fetch:{},mutations:[]});

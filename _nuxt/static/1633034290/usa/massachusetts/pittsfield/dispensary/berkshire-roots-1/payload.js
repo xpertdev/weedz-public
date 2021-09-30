@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/pittsfield/dispensary/berkshire-roots-1", {data:[{}],fetch:{},mutations:[]});

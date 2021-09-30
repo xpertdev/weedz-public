@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/walsenburg/dispensary/medusa-co-dispensary", {data:[{}],fetch:{},mutations:[]});

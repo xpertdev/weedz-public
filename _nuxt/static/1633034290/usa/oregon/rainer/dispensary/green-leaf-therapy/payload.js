@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/rainer/dispensary/green-leaf-therapy", {data:[{}],fetch:{},mutations:[]});

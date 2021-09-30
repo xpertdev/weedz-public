@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/modesto/dispensary/patient-care-first", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/amherst/doctor/dent-cannabis-clinic", {data:[{}],fetch:{},mutations:[]});

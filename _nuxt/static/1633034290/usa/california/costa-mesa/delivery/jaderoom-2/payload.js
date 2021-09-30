@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/costa-mesa/delivery/jaderoom-2", {data:[{}],fetch:{},mutations:[]});

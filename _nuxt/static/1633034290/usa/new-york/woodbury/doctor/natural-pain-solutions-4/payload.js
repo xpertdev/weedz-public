@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/woodbury/doctor/natural-pain-solutions-4", {data:[{}],fetch:{},mutations:[]});

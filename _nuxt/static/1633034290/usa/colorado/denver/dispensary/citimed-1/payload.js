@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/citimed-1", {data:[{}],fetch:{},mutations:[]});

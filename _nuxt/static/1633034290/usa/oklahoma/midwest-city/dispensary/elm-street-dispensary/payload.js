@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/elm-street-dispensary", {data:[{}],fetch:{},mutations:[]});

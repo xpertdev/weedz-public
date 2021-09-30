@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/cannamedicine-3", {data:[{}],fetch:{},mutations:[]});

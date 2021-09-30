@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/doctor/green-medical-solutions-2", {data:[{}],fetch:{},mutations:[]});

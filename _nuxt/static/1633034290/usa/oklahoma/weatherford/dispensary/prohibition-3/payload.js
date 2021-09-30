@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/weatherford/dispensary/prohibition-3", {data:[{}],fetch:{},mutations:[]});

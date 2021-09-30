@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/imperial/dispensary/bkind-dispensary", {data:[{}],fetch:{},mutations:[]});

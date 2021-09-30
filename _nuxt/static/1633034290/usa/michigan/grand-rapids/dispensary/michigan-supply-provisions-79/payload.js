@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/dispensary/michigan-supply-provisions-79", {data:[{}],fetch:{},mutations:[]});

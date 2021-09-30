@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/yonkers/doctor/riseupmd-com-d227f814-ca76-45b2-b747-f76efcd25236", {data:[{}],fetch:{},mutations:[]});

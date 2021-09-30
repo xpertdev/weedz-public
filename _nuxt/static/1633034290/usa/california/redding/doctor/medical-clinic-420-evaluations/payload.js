@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redding/doctor/medical-clinic-420-evaluations", {data:[{}],fetch:{},mutations:[]});

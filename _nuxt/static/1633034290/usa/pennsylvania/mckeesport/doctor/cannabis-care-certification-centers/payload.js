@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/mckeesport/doctor/cannabis-care-certification-centers", {data:[{}],fetch:{},mutations:[]});

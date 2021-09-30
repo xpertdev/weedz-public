@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/dayton/doctor/serendipity-community-care-llc-4", {data:[{}],fetch:{},mutations:[]});

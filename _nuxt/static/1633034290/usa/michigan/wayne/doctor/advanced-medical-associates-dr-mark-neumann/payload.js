@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/wayne/doctor/advanced-medical-associates-dr-mark-neumann", {data:[{}],fetch:{},mutations:[]});

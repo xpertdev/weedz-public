@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/new-haven/dispensary/affinity-health-wellness-new-haven", {data:[{}],fetch:{},mutations:[]});

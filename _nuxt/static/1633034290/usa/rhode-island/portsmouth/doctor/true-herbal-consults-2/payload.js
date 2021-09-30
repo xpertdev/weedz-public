@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/portsmouth/doctor/true-herbal-consults-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/namah-cannabis-co", {data:[{}],fetch:{},mutations:[]});

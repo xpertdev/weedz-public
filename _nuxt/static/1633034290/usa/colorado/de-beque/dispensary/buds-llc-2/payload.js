@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/de-beque/dispensary/buds-llc-2", {data:[{}],fetch:{},mutations:[]});

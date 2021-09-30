@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/discovery-bay/delivery/golden-state-canna-24", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ocean-beach/delivery/cannabis-kingdom-ocean-beach", {data:[{}],fetch:{},mutations:[]});

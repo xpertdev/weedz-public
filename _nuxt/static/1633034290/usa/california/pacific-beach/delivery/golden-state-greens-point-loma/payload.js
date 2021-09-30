@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pacific-beach/delivery/golden-state-greens-point-loma", {data:[{}],fetch:{},mutations:[]});

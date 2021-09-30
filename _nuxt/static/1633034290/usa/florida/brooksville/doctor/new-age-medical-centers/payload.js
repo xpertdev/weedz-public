@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/brooksville/doctor/new-age-medical-centers", {data:[{}],fetch:{},mutations:[]});

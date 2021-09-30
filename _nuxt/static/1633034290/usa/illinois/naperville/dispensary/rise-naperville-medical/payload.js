@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/naperville/dispensary/rise-naperville-medical", {data:[{}],fetch:{},mutations:[]});

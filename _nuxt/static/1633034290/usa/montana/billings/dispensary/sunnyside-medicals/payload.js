@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/billings/dispensary/sunnyside-medicals", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/traverse-city/dispensary/green-pharm-tc", {data:[{}],fetch:{},mutations:[]});

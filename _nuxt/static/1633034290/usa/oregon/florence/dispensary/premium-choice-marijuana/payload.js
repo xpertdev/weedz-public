@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/florence/dispensary/premium-choice-marijuana", {data:[{}],fetch:{},mutations:[]});

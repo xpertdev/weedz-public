@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/rogue-river/dispensary/rogue-river-cannabis", {data:[{}],fetch:{},mutations:[]});

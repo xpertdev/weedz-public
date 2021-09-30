@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/the-green-team-cannabis-collective", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/original-green-boss-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/columbus/doctor/ohio-herbal-clinic", {data:[{}],fetch:{},mutations:[]});

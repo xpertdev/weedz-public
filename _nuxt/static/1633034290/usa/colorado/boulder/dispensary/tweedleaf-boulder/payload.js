@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/dispensary/tweedleaf-boulder", {data:[{}],fetch:{},mutations:[]});

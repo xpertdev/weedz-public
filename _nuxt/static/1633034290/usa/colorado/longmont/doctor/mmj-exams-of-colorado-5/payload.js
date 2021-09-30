@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/longmont/doctor/mmj-exams-of-colorado-5", {data:[{}],fetch:{},mutations:[]});

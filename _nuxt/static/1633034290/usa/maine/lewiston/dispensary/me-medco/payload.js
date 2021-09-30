@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lewiston/dispensary/me-medco", {data:[{}],fetch:{},mutations:[]});

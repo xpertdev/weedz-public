@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/dispensary/missoula-cannabis-caregivers", {data:[{}],fetch:{},mutations:[]});

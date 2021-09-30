@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/sarasota/dispensary/columbia-care-sarasota", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/novato/delivery/flowsent-novato", {data:[{}],fetch:{},mutations:[]});

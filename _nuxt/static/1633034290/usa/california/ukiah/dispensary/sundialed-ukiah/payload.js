@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ukiah/dispensary/sundialed-ukiah", {data:[{}],fetch:{},mutations:[]});

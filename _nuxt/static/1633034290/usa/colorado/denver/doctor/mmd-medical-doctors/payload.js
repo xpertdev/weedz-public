@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/doctor/mmd-medical-doctors", {data:[{}],fetch:{},mutations:[]});

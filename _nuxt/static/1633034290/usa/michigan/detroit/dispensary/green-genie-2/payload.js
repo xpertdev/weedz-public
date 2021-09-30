@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/green-genie-2", {data:[{}],fetch:{},mutations:[]});

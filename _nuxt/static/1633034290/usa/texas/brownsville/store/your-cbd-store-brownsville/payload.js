@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/brownsville/store/your-cbd-store-brownsville", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fairfield/delivery/us-bloom-delivery-1", {data:[{}],fetch:{},mutations:[]});

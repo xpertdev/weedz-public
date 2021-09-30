@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pocola/dispensary/4-kings-dispensary-5", {data:[{}],fetch:{},mutations:[]});

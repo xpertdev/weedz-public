@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/chelsea/dispensary/karma-therapeutics", {data:[{}],fetch:{},mutations:[]});

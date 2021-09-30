@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/cherokee/dispensary/cloverfields-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/pekin/doctor/medical-cannabis-outreach", {data:[{}],fetch:{},mutations:[]});

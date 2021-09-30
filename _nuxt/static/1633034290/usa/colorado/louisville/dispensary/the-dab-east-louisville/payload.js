@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/louisville/dispensary/the-dab-east-louisville", {data:[{}],fetch:{},mutations:[]});

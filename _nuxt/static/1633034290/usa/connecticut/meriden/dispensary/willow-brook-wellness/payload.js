@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/meriden/dispensary/willow-brook-wellness", {data:[{}],fetch:{},mutations:[]});

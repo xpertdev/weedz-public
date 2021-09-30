@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/dispensary/haven-3", {data:[{}],fetch:{},mutations:[]});

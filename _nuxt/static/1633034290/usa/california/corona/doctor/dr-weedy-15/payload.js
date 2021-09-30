@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/corona/doctor/dr-weedy-15", {data:[{}],fetch:{},mutations:[]});

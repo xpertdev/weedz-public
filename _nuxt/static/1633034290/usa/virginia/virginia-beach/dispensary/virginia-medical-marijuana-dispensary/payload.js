@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/virginia/virginia-beach/dispensary/virginia-medical-marijuana-dispensary", {data:[{}],fetch:{},mutations:[]});

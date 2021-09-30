@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/niagara-falls/doctor/dr-veronica-v-mason", {data:[{}],fetch:{},mutations:[]});

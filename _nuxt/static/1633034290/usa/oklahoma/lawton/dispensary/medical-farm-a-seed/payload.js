@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/medical-farm-a-seed", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/goleta-isla-vista/delivery/budee-82f3877d-a340-4264-ba52-da45fd336680", {data:[{}],fetch:{},mutations:[]});

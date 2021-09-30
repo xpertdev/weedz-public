@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-mesa/delivery/the-grove-delivery-11", {data:[{}],fetch:{},mutations:[]});

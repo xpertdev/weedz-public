@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollywood/dispensary/hollywood-high-grade-hollywood-los-angeles", {data:[{}],fetch:{},mutations:[]});

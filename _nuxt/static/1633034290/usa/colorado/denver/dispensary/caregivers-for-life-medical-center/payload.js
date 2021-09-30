@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/caregivers-for-life-medical-center", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/delivery/sugarbudz-2", {data:[{}],fetch:{},mutations:[]});

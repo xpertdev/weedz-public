@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/sun-city/dispensary/all-greens-dispensary", {data:[{}],fetch:{},mutations:[]});

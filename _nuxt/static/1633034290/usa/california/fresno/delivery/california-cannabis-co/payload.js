@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fresno/delivery/california-cannabis-co", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-jolla/delivery/hikei-delivery-28", {data:[{}],fetch:{},mutations:[]});

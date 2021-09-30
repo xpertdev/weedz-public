@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chatsworth/dispensary/purelife-alternative-wellness-center-2", {data:[{}],fetch:{},mutations:[]});

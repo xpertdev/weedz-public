@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/framingham/dispensary/cultivate-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/kittery/dispensary/your-green-thumb", {data:[{}],fetch:{},mutations:[]});

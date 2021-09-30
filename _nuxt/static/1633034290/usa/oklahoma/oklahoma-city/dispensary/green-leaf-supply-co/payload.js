@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/green-leaf-supply-co", {data:[{}],fetch:{},mutations:[]});

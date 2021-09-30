@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/lovelock/dispensary/nabodoka-dispensary", {data:[{}],fetch:{},mutations:[]});

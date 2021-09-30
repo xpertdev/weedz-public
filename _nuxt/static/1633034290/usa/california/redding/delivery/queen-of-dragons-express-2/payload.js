@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redding/delivery/queen-of-dragons-express-2", {data:[{}],fetch:{},mutations:[]});

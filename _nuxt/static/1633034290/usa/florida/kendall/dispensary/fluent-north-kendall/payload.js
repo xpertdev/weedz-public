@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/kendall/dispensary/fluent-north-kendall", {data:[{}],fetch:{},mutations:[]});

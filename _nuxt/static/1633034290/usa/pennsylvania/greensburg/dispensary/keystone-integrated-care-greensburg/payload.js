@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/greensburg/dispensary/keystone-integrated-care-greensburg", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/zanesville/doctor/family-healthcare-partners", {data:[{}],fetch:{},mutations:[]});

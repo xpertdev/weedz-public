@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/breedsville/dispensary/breedsville-provision-center-2", {data:[{}],fetch:{},mutations:[]});

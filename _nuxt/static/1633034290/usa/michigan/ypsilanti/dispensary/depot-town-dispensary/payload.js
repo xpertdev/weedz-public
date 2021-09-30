@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ypsilanti/dispensary/depot-town-dispensary", {data:[{}],fetch:{},mutations:[]});

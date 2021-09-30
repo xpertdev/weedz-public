@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bay-city/delivery/dispo-delivery-1", {data:[{}],fetch:{},mutations:[]});

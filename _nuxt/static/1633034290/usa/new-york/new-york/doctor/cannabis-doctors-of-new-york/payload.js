@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/doctor/cannabis-doctors-of-new-york", {data:[{}],fetch:{},mutations:[]});

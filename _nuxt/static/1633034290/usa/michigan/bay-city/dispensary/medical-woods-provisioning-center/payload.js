@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bay-city/dispensary/medical-woods-provisioning-center", {data:[{}],fetch:{},mutations:[]});

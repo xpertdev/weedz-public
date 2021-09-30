@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/cali-vibes", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollywood/delivery/mmd-hollywood", {data:[{}],fetch:{},mutations:[]});

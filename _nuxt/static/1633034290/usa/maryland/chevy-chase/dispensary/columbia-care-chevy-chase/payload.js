@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/chevy-chase/dispensary/columbia-care-chevy-chase", {data:[{}],fetch:{},mutations:[]});

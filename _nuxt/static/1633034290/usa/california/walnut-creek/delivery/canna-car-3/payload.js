@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/walnut-creek/delivery/canna-car-3", {data:[{}],fetch:{},mutations:[]});

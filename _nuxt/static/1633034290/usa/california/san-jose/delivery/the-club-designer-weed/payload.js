@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-jose/delivery/the-club-designer-weed", {data:[{}],fetch:{},mutations:[]});

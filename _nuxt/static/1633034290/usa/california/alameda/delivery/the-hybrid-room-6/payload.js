@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/alameda/delivery/the-hybrid-room-6", {data:[{}],fetch:{},mutations:[]});

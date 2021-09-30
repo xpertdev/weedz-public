@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/moore/dispensary/hardmoore-green", {data:[{}],fetch:{},mutations:[]});

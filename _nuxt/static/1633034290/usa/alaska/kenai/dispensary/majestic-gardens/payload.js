@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/kenai/dispensary/majestic-gardens", {data:[{}],fetch:{},mutations:[]});

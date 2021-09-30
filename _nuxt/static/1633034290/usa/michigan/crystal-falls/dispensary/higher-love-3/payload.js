@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/crystal-falls/dispensary/higher-love-3", {data:[{}],fetch:{},mutations:[]});

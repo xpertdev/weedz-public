@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/kalispell/doctor/western-path-healing-center", {data:[{}],fetch:{},mutations:[]});

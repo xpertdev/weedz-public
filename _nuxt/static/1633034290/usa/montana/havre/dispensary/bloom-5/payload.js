@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/havre/dispensary/bloom-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/homer/dispensary/uncle-herb-s", {data:[{}],fetch:{},mutations:[]});

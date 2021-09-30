@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/elmhurst/doctor/dr-alan-ng", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/crested-butte/dispensary/acme-dispensary", {data:[{}],fetch:{},mutations:[]});

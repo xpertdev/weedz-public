@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/grove/dispensary/green-culture-grove", {data:[{}],fetch:{},mutations:[]});

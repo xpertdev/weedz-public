@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/albany/doctor/serenity-medical-online-5", {data:[{}],fetch:{},mutations:[]});

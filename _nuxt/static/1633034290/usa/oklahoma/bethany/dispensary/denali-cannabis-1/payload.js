@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/bethany/dispensary/denali-cannabis-1", {data:[{}],fetch:{},mutations:[]});

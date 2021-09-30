@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/hochatown/dispensary/kanna-kures", {data:[{}],fetch:{},mutations:[]});

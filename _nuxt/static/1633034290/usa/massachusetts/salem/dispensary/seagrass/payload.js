@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/salem/dispensary/seagrass", {data:[{}],fetch:{},mutations:[]});

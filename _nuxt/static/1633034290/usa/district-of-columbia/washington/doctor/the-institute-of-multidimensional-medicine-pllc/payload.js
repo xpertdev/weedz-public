@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/district-of-columbia/washington/doctor/the-institute-of-multidimensional-medicine-pllc", {data:[{}],fetch:{},mutations:[]});

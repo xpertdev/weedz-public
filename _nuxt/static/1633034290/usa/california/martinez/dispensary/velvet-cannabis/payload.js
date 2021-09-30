@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/martinez/dispensary/velvet-cannabis", {data:[{}],fetch:{},mutations:[]});

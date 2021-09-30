@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/fox-cannabis-co-adult-use", {data:[{}],fetch:{},mutations:[]});

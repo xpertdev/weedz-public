@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hollywood/delivery/hollywood-high-grade", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redding/doctor/dr-philip-denney-and-dr-robert-sullivan", {data:[{}],fetch:{},mutations:[]});

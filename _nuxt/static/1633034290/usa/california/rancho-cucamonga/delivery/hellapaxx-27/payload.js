@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/hellapaxx-27", {data:[{}],fetch:{},mutations:[]});

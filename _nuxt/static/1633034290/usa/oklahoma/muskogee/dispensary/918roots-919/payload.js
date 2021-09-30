@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/muskogee/dispensary/918roots-919", {data:[{}],fetch:{},mutations:[]});

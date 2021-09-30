@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/milwaukie/dispensary/the-green-planet-clackamas", {data:[{}],fetch:{},mutations:[]});

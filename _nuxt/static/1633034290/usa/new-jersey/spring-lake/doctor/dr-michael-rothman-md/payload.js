@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/spring-lake/doctor/dr-michael-rothman-md", {data:[{}],fetch:{},mutations:[]});

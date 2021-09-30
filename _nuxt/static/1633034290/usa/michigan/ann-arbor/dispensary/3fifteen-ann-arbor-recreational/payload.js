@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/dispensary/3fifteen-ann-arbor-recreational", {data:[{}],fetch:{},mutations:[]});

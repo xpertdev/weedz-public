@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/318-inc", {data:[{}],fetch:{},mutations:[]});

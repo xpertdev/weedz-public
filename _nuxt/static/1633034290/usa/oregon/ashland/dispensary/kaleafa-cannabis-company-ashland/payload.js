@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/ashland/dispensary/kaleafa-cannabis-company-ashland", {data:[{}],fetch:{},mutations:[]});

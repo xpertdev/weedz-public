@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bay-city/dispensary/skymintbaycity", {data:[{}],fetch:{},mutations:[]});

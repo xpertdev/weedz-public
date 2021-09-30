@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fort-bragg/dispensary/the-bakery-by-e7-fort-bragg", {data:[{}],fetch:{},mutations:[]});

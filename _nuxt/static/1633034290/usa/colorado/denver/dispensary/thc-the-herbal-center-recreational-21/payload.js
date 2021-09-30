@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/thc-the-herbal-center-recreational-21", {data:[{}],fetch:{},mutations:[]});

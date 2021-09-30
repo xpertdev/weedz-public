@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/staten-island/delivery/vireo-delivery-21", {data:[{}],fetch:{},mutations:[]});

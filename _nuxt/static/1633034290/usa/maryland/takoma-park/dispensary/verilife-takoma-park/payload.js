@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/takoma-park/dispensary/verilife-takoma-park", {data:[{}],fetch:{},mutations:[]});

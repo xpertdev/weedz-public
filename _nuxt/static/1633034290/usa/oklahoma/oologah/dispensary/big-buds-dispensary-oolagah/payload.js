@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oologah/dispensary/big-buds-dispensary-oolagah", {data:[{}],fetch:{},mutations:[]});

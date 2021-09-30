@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/doctor/doctors-of-cannabis-stillwater", {data:[{}],fetch:{},mutations:[]});

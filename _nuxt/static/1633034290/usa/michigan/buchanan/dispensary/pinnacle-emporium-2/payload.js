@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/buchanan/dispensary/pinnacle-emporium-2", {data:[{}],fetch:{},mutations:[]});

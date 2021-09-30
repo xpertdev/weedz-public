@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-hollywood/delivery/get-weed-la-2", {data:[{}],fetch:{},mutations:[]});

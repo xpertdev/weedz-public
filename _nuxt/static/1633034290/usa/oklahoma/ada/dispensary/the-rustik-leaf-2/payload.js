@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ada/dispensary/the-rustik-leaf-2", {data:[{}],fetch:{},mutations:[]});

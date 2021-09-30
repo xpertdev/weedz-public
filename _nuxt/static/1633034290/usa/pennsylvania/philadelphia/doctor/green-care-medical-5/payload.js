@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/philadelphia/doctor/green-care-medical-5", {data:[{}],fetch:{},mutations:[]});

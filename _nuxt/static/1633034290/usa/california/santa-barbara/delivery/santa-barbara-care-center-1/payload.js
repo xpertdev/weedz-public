@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-barbara/delivery/santa-barbara-care-center-1", {data:[{}],fetch:{},mutations:[]});

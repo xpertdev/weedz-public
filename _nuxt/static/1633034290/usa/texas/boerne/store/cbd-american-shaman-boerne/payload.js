@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/boerne/store/cbd-american-shaman-boerne", {data:[{}],fetch:{},mutations:[]});

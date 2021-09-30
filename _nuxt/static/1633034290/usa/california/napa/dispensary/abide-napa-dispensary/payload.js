@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/napa/dispensary/abide-napa-dispensary", {data:[{}],fetch:{},mutations:[]});

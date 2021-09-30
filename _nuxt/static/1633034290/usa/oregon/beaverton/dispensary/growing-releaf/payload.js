@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/beaverton/dispensary/growing-releaf", {data:[{}],fetch:{},mutations:[]});

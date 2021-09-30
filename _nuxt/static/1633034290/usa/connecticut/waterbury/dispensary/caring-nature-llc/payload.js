@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/waterbury/dispensary/caring-nature-llc", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/winter-park/doctor/tetra-health-centers-7", {data:[{}],fetch:{},mutations:[]});

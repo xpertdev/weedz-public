@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/delivery/electric-lettuce-alberta-1", {data:[{}],fetch:{},mutations:[]});

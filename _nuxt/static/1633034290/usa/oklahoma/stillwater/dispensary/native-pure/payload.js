@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/stillwater/dispensary/native-pure", {data:[{}],fetch:{},mutations:[]});

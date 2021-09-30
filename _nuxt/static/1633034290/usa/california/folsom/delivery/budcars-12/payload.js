@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/folsom/delivery/budcars-12", {data:[{}],fetch:{},mutations:[]});

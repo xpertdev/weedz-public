@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/kalkaska/dispensary/green-pharm-kalkaska", {data:[{}],fetch:{},mutations:[]});

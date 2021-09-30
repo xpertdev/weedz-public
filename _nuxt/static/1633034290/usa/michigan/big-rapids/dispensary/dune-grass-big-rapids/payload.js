@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/big-rapids/dispensary/dune-grass-big-rapids", {data:[{}],fetch:{},mutations:[]});

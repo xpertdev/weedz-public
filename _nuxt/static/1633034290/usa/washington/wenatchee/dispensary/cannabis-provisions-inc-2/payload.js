@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/wenatchee/dispensary/cannabis-provisions-inc-2", {data:[{}],fetch:{},mutations:[]});

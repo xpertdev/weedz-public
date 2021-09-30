@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/maynard/dispensary/greenstar-herbals-inc", {data:[{}],fetch:{},mutations:[]});

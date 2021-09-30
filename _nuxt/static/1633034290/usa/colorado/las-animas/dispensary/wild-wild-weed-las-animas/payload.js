@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/las-animas/dispensary/wild-wild-weed-las-animas", {data:[{}],fetch:{},mutations:[]});

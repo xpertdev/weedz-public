@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/shoot-the-moon-8", {data:[{}],fetch:{},mutations:[]});

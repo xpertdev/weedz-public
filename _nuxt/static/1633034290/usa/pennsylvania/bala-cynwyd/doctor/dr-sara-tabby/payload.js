@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/bala-cynwyd/doctor/dr-sara-tabby", {data:[{}],fetch:{},mutations:[]});

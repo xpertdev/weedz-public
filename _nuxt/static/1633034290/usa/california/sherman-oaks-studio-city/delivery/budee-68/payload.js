@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sherman-oaks-studio-city/delivery/budee-68", {data:[{}],fetch:{},mutations:[]});

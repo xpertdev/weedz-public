@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vinita/dispensary/cbd-plus-usa-vinita", {data:[{}],fetch:{},mutations:[]});

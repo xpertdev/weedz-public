@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/dispensary/curaleaf-tampa", {data:[{}],fetch:{},mutations:[]});

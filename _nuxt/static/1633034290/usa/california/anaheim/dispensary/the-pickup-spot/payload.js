@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/dispensary/the-pickup-spot", {data:[{}],fetch:{},mutations:[]});

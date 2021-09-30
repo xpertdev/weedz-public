@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/pensacola/dispensary/curaleaf-pensacola", {data:[{}],fetch:{},mutations:[]});

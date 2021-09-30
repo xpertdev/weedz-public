@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/winter-garden/doctor/cannacare-wellness", {data:[{}],fetch:{},mutations:[]});

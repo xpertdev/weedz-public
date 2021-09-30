@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/tulsa-house-of-fire", {data:[{}],fetch:{},mutations:[]});

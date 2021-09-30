@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/hood-river/dispensary/farm-grass-table", {data:[{}],fetch:{},mutations:[]});

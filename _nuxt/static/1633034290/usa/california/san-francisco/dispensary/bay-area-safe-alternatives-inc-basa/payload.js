@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-francisco/dispensary/bay-area-safe-alternatives-inc-basa", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/the-house-of-mary-jane-2", {data:[{}],fetch:{},mutations:[]});

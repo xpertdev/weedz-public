@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/tabernash/dispensary/igadi-ltd", {data:[{}],fetch:{},mutations:[]});

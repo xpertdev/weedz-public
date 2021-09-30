@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/venice/dispensary/medmen-venice-beach-lincoln-blvd", {data:[{}],fetch:{},mutations:[]});

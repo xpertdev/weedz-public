@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/state-college/doctor/toftrees-family-medicine", {data:[{}],fetch:{},mutations:[]});

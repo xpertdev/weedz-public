@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/ann-arbor/dispensary/the-huron-view-center", {data:[{}],fetch:{},mutations:[]});

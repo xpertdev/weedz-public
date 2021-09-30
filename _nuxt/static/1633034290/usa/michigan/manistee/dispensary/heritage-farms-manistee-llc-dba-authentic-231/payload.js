@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/manistee/dispensary/heritage-farms-manistee-llc-dba-authentic-231", {data:[{}],fetch:{},mutations:[]});

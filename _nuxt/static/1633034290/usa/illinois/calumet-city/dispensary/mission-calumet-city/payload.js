@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/calumet-city/dispensary/mission-calumet-city", {data:[{}],fetch:{},mutations:[]});

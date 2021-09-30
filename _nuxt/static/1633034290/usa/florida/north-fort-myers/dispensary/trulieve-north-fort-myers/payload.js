@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/north-fort-myers/dispensary/trulieve-north-fort-myers", {data:[{}],fetch:{},mutations:[]});

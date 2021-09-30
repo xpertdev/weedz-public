@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/sapulpa/dispensary/zenbudz", {data:[{}],fetch:{},mutations:[]});

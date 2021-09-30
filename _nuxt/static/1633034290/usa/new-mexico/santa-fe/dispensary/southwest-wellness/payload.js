@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/santa-fe/dispensary/southwest-wellness", {data:[{}],fetch:{},mutations:[]});

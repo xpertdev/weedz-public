@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/negaunee/dispensary/lume-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

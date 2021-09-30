@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/cortez/dispensary/the-herbal-alternative", {data:[{}],fetch:{},mutations:[]});

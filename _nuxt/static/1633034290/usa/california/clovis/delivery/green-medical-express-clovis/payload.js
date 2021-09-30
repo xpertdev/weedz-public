@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/clovis/delivery/green-medical-express-clovis", {data:[{}],fetch:{},mutations:[]});

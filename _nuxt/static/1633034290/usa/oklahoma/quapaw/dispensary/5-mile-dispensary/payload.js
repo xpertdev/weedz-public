@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/quapaw/dispensary/5-mile-dispensary", {data:[{}],fetch:{},mutations:[]});

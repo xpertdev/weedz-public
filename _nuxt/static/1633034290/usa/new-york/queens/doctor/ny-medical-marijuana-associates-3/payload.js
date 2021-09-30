@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/queens/doctor/ny-medical-marijuana-associates-3", {data:[{}],fetch:{},mutations:[]});

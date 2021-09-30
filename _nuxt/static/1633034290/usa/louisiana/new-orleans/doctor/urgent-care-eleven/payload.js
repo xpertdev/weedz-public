@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/new-orleans/doctor/urgent-care-eleven", {data:[{}],fetch:{},mutations:[]});

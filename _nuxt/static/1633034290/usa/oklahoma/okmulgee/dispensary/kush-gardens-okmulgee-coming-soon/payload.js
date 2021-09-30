@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/okmulgee/dispensary/kush-gardens-okmulgee-coming-soon", {data:[{}],fetch:{},mutations:[]});

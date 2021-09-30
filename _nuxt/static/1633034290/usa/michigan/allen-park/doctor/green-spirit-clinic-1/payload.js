@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/allen-park/doctor/green-spirit-clinic-1", {data:[{}],fetch:{},mutations:[]});

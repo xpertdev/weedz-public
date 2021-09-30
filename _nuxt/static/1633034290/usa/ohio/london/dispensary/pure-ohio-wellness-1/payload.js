@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/london/dispensary/pure-ohio-wellness-1", {data:[{}],fetch:{},mutations:[]});

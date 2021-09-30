@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/north-hollywood/doctor/wellness-solutions", {data:[{}],fetch:{},mutations:[]});

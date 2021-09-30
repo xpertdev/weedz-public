@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/east-bay-meds-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/broken-arrow/dispensary/4-cs-shop-dispensary", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/chickasha/dispensary/the-higher-care", {data:[{}],fetch:{},mutations:[]});

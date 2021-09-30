@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/la-verne/delivery/fast-and-friendly-open-late-la-verne", {data:[{}],fetch:{},mutations:[]});

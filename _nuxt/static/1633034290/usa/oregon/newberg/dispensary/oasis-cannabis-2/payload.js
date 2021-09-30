@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/newberg/dispensary/oasis-cannabis-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/victorville/delivery/whole-greens-7", {data:[{}],fetch:{},mutations:[]});

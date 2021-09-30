@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/melbourne/dispensary/columbia-care-melbourne", {data:[{}],fetch:{},mutations:[]});

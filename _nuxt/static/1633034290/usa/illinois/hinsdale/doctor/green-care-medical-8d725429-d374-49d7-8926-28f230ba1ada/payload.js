@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/hinsdale/doctor/green-care-medical-8d725429-d374-49d7-8926-28f230ba1ada", {data:[{}],fetch:{},mutations:[]});

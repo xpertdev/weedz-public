@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/albany/dispensary/vireo-health-albany", {data:[{}],fetch:{},mutations:[]});

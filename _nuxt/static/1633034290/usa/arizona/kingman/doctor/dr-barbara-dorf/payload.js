@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/kingman/doctor/dr-barbara-dorf", {data:[{}],fetch:{},mutations:[]});

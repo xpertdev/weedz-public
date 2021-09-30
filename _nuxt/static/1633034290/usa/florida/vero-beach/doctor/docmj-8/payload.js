@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/vero-beach/doctor/docmj-8", {data:[{}],fetch:{},mutations:[]});

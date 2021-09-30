@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-diego/dispensary/balboa-ave-cooperative-2", {data:[{}],fetch:{},mutations:[]});

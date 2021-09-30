@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-la/delivery/socal-green-meds-39", {data:[{}],fetch:{},mutations:[]});

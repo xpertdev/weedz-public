@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/hazel-park/dispensary/skymint-hazel-park", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/bala-cynwyd/doctor/dr-dori-middleman", {data:[{}],fetch:{},mutations:[]});

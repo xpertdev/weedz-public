@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/the-holistic-center-3", {data:[{}],fetch:{},mutations:[]});

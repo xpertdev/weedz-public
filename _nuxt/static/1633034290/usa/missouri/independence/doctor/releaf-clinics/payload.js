@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/independence/doctor/releaf-clinics", {data:[{}],fetch:{},mutations:[]});

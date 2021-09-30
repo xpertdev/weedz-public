@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/moreno-valley/doctor/dr-weedy-1dad367c-4b54-4fab-ab28-0bc1921f5278", {data:[{}],fetch:{},mutations:[]});

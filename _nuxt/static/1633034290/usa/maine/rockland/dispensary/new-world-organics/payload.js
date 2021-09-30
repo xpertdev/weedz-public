@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/rockland/dispensary/new-world-organics", {data:[{}],fetch:{},mutations:[]});

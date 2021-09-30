@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/owosso/dispensary/jars-owosso", {data:[{}],fetch:{},mutations:[]});

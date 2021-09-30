@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/watsonville/dispensary/santa-cruz-naturals", {data:[{}],fetch:{},mutations:[]});

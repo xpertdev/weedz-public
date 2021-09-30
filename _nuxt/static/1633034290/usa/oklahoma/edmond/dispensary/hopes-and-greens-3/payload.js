@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/hopes-and-greens-3", {data:[{}],fetch:{},mutations:[]});

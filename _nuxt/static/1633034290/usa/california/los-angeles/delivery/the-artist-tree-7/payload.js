@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/the-artist-tree-7", {data:[{}],fetch:{},mutations:[]});

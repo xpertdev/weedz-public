@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/gold-river/delivery/primetiming-cannabis-delivery-6", {data:[{}],fetch:{},mutations:[]});

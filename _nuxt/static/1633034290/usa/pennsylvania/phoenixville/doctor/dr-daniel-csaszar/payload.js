@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/phoenixville/doctor/dr-daniel-csaszar", {data:[{}],fetch:{},mutations:[]});

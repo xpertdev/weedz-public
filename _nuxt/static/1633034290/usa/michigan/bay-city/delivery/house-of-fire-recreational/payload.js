@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/bay-city/delivery/house-of-fire-recreational", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/cortez/dispensary/doobie-sisters-2", {data:[{}],fetch:{},mutations:[]});

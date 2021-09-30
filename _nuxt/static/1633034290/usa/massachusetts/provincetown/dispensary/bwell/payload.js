@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/provincetown/dispensary/bwell", {data:[{}],fetch:{},mutations:[]});

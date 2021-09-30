@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/grand-rapids/dispensary/exclusive-grand-rapids-rec-marijuana", {data:[{}],fetch:{},mutations:[]});

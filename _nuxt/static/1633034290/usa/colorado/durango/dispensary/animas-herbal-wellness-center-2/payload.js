@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/durango/dispensary/animas-herbal-wellness-center-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ocala/doctor/certified-marijuana-doctors-a8837637-c429-48f7-91ad-df5d48c2bc9b", {data:[{}],fetch:{},mutations:[]});

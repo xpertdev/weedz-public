@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/dispensary/bridge-city-collective-2", {data:[{}],fetch:{},mutations:[]});

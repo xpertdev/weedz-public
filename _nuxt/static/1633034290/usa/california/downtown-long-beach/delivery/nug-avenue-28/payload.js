@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/downtown-long-beach/delivery/nug-avenue-28", {data:[{}],fetch:{},mutations:[]});

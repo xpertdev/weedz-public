@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/berkeley/delivery/true-healing-collective-hayward", {data:[{}],fetch:{},mutations:[]});

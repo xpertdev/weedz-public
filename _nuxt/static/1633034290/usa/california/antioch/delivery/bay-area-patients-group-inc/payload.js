@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/antioch/delivery/bay-area-patients-group-inc", {data:[{}],fetch:{},mutations:[]});

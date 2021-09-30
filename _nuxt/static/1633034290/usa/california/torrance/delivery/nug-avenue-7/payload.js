@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/torrance/delivery/nug-avenue-7", {data:[{}],fetch:{},mutations:[]});

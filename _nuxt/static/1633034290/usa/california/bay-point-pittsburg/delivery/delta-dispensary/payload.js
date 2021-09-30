@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bay-point-pittsburg/delivery/delta-dispensary", {data:[{}],fetch:{},mutations:[]});

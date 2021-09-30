@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/brookline/dispensary/neta-brookline", {data:[{}],fetch:{},mutations:[]});

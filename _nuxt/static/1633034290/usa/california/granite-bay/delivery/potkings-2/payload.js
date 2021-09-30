@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/granite-bay/delivery/potkings-2", {data:[{}],fetch:{},mutations:[]});

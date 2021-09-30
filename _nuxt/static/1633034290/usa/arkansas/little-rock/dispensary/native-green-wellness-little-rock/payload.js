@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/little-rock/dispensary/native-green-wellness-little-rock", {data:[{}],fetch:{},mutations:[]});

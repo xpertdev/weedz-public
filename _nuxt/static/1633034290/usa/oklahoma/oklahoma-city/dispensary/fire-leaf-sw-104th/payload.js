@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/fire-leaf-sw-104th", {data:[{}],fetch:{},mutations:[]});

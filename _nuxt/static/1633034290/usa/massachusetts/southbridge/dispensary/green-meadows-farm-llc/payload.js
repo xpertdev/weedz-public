@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/southbridge/dispensary/green-meadows-farm-llc", {data:[{}],fetch:{},mutations:[]});

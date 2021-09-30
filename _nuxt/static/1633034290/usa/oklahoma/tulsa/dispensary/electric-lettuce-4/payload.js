@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/electric-lettuce-4", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/inglewood/delivery/flower-company-delivery-2", {data:[{}],fetch:{},mutations:[]});

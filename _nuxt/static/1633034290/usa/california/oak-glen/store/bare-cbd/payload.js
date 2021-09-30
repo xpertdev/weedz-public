@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oak-glen/store/bare-cbd", {data:[{}],fetch:{},mutations:[]});

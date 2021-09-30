@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vacaville/delivery/green-ridge-organics-2", {data:[{}],fetch:{},mutations:[]});

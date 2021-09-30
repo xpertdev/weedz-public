@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/west-covina/store/your-cbd-store-west-covina", {data:[{}],fetch:{},mutations:[]});

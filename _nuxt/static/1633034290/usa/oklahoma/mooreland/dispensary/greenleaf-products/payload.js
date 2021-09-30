@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/mooreland/dispensary/greenleaf-products", {data:[{}],fetch:{},mutations:[]});

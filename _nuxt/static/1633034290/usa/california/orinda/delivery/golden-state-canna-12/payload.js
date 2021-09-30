@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/orinda/delivery/golden-state-canna-12", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/lansdale/doctor/dr-jay-mergarnan", {data:[{}],fetch:{},mutations:[]});

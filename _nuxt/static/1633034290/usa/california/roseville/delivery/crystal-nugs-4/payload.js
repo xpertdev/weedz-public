@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/roseville/delivery/crystal-nugs-4", {data:[{}],fetch:{},mutations:[]});

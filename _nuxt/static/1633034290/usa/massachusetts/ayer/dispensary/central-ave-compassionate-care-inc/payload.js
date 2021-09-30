@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/ayer/dispensary/central-ave-compassionate-care-inc", {data:[{}],fetch:{},mutations:[]});

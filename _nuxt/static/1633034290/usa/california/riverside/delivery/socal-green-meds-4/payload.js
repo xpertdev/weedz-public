@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/riverside/delivery/socal-green-meds-4", {data:[{}],fetch:{},mutations:[]});

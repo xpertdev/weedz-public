@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/usa/District%20of%20Columbia/all", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/boonville/delivery/curaleaf-boonville", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/store/cobo-wellness", {data:[{}],fetch:{},mutations:[]});

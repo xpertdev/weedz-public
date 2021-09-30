@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lathrop/delivery/gotreez-lathrop", {data:[{}],fetch:{},mutations:[]});

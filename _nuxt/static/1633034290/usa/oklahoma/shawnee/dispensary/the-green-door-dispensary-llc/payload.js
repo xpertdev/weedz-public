@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/shawnee/dispensary/the-green-door-dispensary-llc", {data:[{}],fetch:{},mutations:[]});

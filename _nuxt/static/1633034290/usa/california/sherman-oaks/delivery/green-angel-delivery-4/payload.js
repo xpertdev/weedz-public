@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sherman-oaks/delivery/green-angel-delivery-4", {data:[{}],fetch:{},mutations:[]});

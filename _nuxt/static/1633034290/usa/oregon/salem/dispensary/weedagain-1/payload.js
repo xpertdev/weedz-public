@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/salem/dispensary/weedagain-1", {data:[{}],fetch:{},mutations:[]});

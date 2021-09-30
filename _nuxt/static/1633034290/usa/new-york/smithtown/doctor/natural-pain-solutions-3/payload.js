@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/smithtown/doctor/natural-pain-solutions-3", {data:[{}],fetch:{},mutations:[]});

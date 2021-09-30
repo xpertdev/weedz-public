@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/ontario/dispensary/weedology-ontario", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/wagoner/dispensary/the-good-leaf-2", {data:[{}],fetch:{},mutations:[]});

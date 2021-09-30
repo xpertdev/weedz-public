@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/rogers/doctor/compassionate-care-and-wellness-pllc", {data:[{}],fetch:{},mutations:[]});

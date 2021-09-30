@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/phillipsburg/dispensary/the-apothecarium-phillipsburg-1", {data:[{}],fetch:{},mutations:[]});

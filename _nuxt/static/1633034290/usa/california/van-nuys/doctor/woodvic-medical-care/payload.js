@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/van-nuys/doctor/woodvic-medical-care", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vacaville/delivery/tree-for-life-inc", {data:[{}],fetch:{},mutations:[]});

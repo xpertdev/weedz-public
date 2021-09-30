@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/southfield/delivery/the-reef-delivery", {data:[{}],fetch:{},mutations:[]});

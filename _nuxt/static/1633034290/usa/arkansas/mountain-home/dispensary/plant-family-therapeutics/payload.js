@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/mountain-home/dispensary/plant-family-therapeutics", {data:[{}],fetch:{},mutations:[]});

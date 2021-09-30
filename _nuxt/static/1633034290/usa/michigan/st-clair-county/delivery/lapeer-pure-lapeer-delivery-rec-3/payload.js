@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/st-clair-county/delivery/lapeer-pure-lapeer-delivery-rec-3", {data:[{}],fetch:{},mutations:[]});

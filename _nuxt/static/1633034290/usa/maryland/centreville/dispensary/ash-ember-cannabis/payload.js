@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/centreville/dispensary/ash-ember-cannabis", {data:[{}],fetch:{},mutations:[]});

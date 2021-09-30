@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/playa-del-rey/delivery/kushagram-playa-del-rey-el-segundo", {data:[{}],fetch:{},mutations:[]});

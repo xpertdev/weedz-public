@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/cle-elum/dispensary/happy-trees-2-3", {data:[{}],fetch:{},mutations:[]});

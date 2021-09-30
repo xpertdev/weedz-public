@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/doctor/dr-karen-halliday", {data:[{}],fetch:{},mutations:[]});

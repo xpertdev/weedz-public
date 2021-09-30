@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/hubbard/dispensary/hierba-buena-4", {data:[{}],fetch:{},mutations:[]});

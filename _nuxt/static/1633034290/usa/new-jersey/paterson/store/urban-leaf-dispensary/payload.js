@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/paterson/store/urban-leaf-dispensary", {data:[{}],fetch:{},mutations:[]});

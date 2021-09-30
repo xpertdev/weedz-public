@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-barbara/delivery/greenbridge-patient-collective-santa-barbara-goleta", {data:[{}],fetch:{},mutations:[]});

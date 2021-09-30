@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/eureka/dispensary/humboldt-patient-resource-center-eureka", {data:[{}],fetch:{},mutations:[]});

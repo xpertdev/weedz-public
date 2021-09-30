@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/oro-valley/delivery/golden-leaf-delivery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/laurel/doctor/canna-care-docs-delaware", {data:[{}],fetch:{},mutations:[]});

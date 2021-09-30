@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lompoc/dispensary/lotus-river-2", {data:[{}],fetch:{},mutations:[]});

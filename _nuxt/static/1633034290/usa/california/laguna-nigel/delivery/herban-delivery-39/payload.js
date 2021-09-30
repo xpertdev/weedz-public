@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/laguna-nigel/delivery/herban-delivery-39", {data:[{}],fetch:{},mutations:[]});

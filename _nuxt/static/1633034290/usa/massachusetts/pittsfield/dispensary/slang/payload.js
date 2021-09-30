@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/pittsfield/dispensary/slang", {data:[{}],fetch:{},mutations:[]});

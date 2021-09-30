@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/cedar-springs/dispensary/lume-cannabis-co-5", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/westminster-sunset-beach-seal-beach/delivery/tropicanna-delivery-westminster-sunset-beach-seal-beach", {data:[{}],fetch:{},mutations:[]});

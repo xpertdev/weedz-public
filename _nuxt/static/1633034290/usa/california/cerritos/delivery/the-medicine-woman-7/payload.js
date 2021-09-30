@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/cerritos/delivery/the-medicine-woman-7", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ada/dispensary/flower-factory-fine-cannabis", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/elk-grove/delivery/off-the-ridge-1", {data:[{}],fetch:{},mutations:[]});

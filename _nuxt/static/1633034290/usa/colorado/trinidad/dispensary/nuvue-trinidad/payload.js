@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/nuvue-trinidad", {data:[{}],fetch:{},mutations:[]});

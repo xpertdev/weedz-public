@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/middletown/dispensary/the-botanist-middletown", {data:[{}],fetch:{},mutations:[]});

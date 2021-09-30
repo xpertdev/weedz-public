@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/alternative-medicine-on-capitol-hill", {data:[{}],fetch:{},mutations:[]});

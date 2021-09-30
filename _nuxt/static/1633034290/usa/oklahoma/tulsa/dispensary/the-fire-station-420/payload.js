@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/the-fire-station-420", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/springfield/dispensary/cannabis-llc", {data:[{}],fetch:{},mutations:[]});

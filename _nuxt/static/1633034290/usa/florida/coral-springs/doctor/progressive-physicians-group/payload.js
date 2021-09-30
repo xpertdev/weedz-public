@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/coral-springs/doctor/progressive-physicians-group", {data:[{}],fetch:{},mutations:[]});

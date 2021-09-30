@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jacksonville-beach/dispensary/trulieve-jacksonville-beach", {data:[{}],fetch:{},mutations:[]});

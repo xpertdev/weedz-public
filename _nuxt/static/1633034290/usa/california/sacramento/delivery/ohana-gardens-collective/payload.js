@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/delivery/ohana-gardens-collective", {data:[{}],fetch:{},mutations:[]});

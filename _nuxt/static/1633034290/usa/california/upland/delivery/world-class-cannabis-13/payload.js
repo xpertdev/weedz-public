@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/upland/delivery/world-class-cannabis-13", {data:[{}],fetch:{},mutations:[]});

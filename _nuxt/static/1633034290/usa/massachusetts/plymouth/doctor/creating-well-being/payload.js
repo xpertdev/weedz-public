@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/plymouth/doctor/creating-well-being", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/doctor/ok-mmj-care", {data:[{}],fetch:{},mutations:[]});

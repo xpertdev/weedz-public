@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/springfield/doctor/green-health-docs-springfield", {data:[{}],fetch:{},mutations:[]});

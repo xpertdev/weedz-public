@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jensen-beach/dispensary/curaleaf-jensen-beach", {data:[{}],fetch:{},mutations:[]});

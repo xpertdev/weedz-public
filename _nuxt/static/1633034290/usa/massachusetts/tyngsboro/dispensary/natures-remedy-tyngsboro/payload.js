@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/tyngsboro/dispensary/natures-remedy-tyngsboro", {data:[{}],fetch:{},mutations:[]});

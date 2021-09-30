@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/yukon/dispensary/cbd-plus-usa-yukon", {data:[{}],fetch:{},mutations:[]});

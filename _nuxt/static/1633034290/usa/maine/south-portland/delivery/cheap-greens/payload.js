@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/south-portland/delivery/cheap-greens", {data:[{}],fetch:{},mutations:[]});

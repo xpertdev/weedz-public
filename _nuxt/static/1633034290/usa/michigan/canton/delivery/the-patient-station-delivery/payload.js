@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/canton/delivery/the-patient-station-delivery", {data:[{}],fetch:{},mutations:[]});

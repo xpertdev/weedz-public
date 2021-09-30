@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/calexico/dispensary/mex-cal-factory", {data:[{}],fetch:{},mutations:[]});

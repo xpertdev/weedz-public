@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/allentown/doctor/dr-david-a-gordon-md", {data:[{}],fetch:{},mutations:[]});

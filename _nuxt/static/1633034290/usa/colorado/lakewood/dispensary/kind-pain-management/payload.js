@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/lakewood/dispensary/kind-pain-management", {data:[{}],fetch:{},mutations:[]});

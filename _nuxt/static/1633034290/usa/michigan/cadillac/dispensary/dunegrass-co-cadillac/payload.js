@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/cadillac/dispensary/dunegrass-co-cadillac", {data:[{}],fetch:{},mutations:[]});

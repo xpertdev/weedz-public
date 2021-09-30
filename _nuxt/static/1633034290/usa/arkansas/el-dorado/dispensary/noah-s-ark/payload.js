@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/el-dorado/dispensary/noah-s-ark", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/louisiana/lake-charles/dispensary/medicis", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/castro-valley/delivery/golden-state-canna-11", {data:[{}],fetch:{},mutations:[]});

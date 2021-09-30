@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakehead/delivery/queen-of-dragons-express-redding", {data:[{}],fetch:{},mutations:[]});

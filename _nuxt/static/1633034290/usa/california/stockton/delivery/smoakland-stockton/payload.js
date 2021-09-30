@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/stockton/delivery/smoakland-stockton", {data:[{}],fetch:{},mutations:[]});

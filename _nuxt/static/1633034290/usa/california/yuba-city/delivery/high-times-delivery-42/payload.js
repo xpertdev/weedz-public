@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/yuba-city/delivery/high-times-delivery-42", {data:[{}],fetch:{},mutations:[]});

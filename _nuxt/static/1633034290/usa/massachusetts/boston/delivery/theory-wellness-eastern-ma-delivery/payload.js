@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/boston/delivery/theory-wellness-eastern-ma-delivery", {data:[{}],fetch:{},mutations:[]});

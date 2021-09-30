@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/placerville/delivery/the-re-up-8", {data:[{}],fetch:{},mutations:[]});

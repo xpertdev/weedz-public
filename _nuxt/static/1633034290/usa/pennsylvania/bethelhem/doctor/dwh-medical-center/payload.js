@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/bethelhem/doctor/dwh-medical-center", {data:[{}],fetch:{},mutations:[]});

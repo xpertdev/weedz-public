@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/baltimore/doctor/mt-washington-cannabis-docs", {data:[{}],fetch:{},mutations:[]});

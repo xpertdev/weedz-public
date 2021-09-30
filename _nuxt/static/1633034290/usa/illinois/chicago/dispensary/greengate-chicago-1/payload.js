@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago/dispensary/greengate-chicago-1", {data:[{}],fetch:{},mutations:[]});

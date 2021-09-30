@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/dispensary/fluent-tampa", {data:[{}],fetch:{},mutations:[]});

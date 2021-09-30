@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/berthoud/dispensary/green-tree-medicinals-of-berthoud", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-fe-springs/delivery/socal-green-meds-santa-fe-springs", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/doctor/compassionate-health-options-6-2", {data:[{}],fetch:{},mutations:[]});

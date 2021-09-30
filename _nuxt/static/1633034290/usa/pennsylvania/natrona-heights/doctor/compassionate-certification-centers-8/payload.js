@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/natrona-heights/doctor/compassionate-certification-centers-8", {data:[{}],fetch:{},mutations:[]});

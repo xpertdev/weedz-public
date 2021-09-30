@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-desert/delivery/socalgreen-meds-tehachapi", {data:[{}],fetch:{},mutations:[]});

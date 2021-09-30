@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/kingston/dispensary/etain-kingston", {data:[{}],fetch:{},mutations:[]});

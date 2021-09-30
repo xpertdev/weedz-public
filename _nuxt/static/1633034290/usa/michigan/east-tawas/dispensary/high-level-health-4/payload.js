@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/east-tawas/dispensary/high-level-health-4", {data:[{}],fetch:{},mutations:[]});

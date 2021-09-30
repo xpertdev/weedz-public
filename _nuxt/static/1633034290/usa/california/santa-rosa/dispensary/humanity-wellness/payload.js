@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-rosa/dispensary/humanity-wellness", {data:[{}],fetch:{},mutations:[]});

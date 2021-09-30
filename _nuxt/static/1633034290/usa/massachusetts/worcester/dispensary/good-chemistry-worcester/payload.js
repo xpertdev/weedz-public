@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/worcester/dispensary/good-chemistry-worcester", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/happy-root-420-llc", {data:[{}],fetch:{},mutations:[]});

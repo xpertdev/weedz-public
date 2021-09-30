@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/east-providence/doctor/primary-walk-in-medical-center", {data:[{}],fetch:{},mutations:[]});

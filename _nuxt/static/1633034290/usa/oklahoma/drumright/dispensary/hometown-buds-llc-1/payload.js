@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/drumright/dispensary/hometown-buds-llc-1", {data:[{}],fetch:{},mutations:[]});

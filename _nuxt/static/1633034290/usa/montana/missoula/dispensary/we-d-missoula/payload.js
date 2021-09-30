@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/dispensary/we-d-missoula", {data:[{}],fetch:{},mutations:[]});

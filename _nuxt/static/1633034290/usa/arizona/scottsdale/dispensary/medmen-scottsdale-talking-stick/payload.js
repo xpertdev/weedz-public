@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/scottsdale/dispensary/medmen-scottsdale-talking-stick", {data:[{}],fetch:{},mutations:[]});

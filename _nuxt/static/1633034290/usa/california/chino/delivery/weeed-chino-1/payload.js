@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chino/delivery/weeed-chino-1", {data:[{}],fetch:{},mutations:[]});

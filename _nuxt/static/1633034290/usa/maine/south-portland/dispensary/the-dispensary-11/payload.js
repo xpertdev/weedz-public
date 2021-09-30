@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/south-portland/dispensary/the-dispensary-11", {data:[{}],fetch:{},mutations:[]});

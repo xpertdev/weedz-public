@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/culver-city/delivery/golden-leaf-13", {data:[{}],fetch:{},mutations:[]});

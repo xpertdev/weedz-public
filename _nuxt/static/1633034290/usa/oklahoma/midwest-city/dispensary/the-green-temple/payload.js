@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/midwest-city/dispensary/the-green-temple", {data:[{}],fetch:{},mutations:[]});

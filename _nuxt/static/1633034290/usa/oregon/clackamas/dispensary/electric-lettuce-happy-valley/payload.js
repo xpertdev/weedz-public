@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/clackamas/dispensary/electric-lettuce-happy-valley", {data:[{}],fetch:{},mutations:[]});

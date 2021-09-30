@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/doctor/herbal-aid-wellness-center-llc", {data:[{}],fetch:{},mutations:[]});

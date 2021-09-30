@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/boston/doctor/miracle-leaf-massachusetts", {data:[{}],fetch:{},mutations:[]});

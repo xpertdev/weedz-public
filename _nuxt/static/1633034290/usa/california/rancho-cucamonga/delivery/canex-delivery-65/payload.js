@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/canex-delivery-65", {data:[{}],fetch:{},mutations:[]});

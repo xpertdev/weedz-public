@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/el-cajon/dispensary/outliers-collective", {data:[{}],fetch:{},mutations:[]});

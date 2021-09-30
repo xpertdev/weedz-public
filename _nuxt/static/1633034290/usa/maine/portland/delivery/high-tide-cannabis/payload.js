@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/delivery/high-tide-cannabis", {data:[{}],fetch:{},mutations:[]});

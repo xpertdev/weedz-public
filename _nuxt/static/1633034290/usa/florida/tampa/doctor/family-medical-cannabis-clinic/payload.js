@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/tampa/doctor/family-medical-cannabis-clinic", {data:[{}],fetch:{},mutations:[]});

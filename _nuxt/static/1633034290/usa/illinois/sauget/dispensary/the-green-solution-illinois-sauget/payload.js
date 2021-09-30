@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/sauget/dispensary/the-green-solution-illinois-sauget", {data:[{}],fetch:{},mutations:[]});

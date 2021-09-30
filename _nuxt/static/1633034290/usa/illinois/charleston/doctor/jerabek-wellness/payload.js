@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/charleston/doctor/jerabek-wellness", {data:[{}],fetch:{},mutations:[]});

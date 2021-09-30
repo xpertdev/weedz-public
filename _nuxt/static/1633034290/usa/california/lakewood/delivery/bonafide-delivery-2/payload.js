@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lakewood/delivery/bonafide-delivery-2", {data:[{}],fetch:{},mutations:[]});

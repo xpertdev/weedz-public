@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/panama-city-beach/doctor/medical-marijuana-treatment-clinics-of-florida-19", {data:[{}],fetch:{},mutations:[]});

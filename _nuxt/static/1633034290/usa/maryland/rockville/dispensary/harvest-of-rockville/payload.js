@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/rockville/dispensary/harvest-of-rockville", {data:[{}],fetch:{},mutations:[]});

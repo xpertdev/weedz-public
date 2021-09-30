@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/waterville/dispensary/theory-wellness-waterville", {data:[{}],fetch:{},mutations:[]});

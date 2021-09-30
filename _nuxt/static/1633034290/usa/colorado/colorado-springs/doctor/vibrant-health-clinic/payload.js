@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/doctor/vibrant-health-clinic", {data:[{}],fetch:{},mutations:[]});

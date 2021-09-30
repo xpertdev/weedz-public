@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/doctor/medical-alternatives-clinic-2", {data:[{}],fetch:{},mutations:[]});

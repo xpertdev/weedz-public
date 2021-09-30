@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/the-medicine-woman-13", {data:[{}],fetch:{},mutations:[]});

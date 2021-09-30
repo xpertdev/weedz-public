@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/pueblo/dispensary/livwell-dispensary-pueblo", {data:[{}],fetch:{},mutations:[]});

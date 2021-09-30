@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/steamboat-springs/dispensary/rocky-mountain-remedies-adult-use", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/dr-z-leaf-harvard", {data:[{}],fetch:{},mutations:[]});

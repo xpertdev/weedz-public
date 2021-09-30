@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/daly-city/delivery/city-greens-10", {data:[{}],fetch:{},mutations:[]});

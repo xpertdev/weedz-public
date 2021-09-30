@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/east-austin/store/cbd-american-shaman-east-austin", {data:[{}],fetch:{},mutations:[]});

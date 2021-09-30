@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/lakeland/dispensary/trulieve-lakeland", {data:[{}],fetch:{},mutations:[]});

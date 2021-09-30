@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/bibi-2-go-1", {data:[{}],fetch:{},mutations:[]});

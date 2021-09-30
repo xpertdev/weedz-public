@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-maria/delivery/bleu-diamond", {data:[{}],fetch:{},mutations:[]});

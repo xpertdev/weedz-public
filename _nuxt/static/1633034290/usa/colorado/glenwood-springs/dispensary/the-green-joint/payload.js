@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/glenwood-springs/dispensary/the-green-joint", {data:[{}],fetch:{},mutations:[]});

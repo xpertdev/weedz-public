@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/liberty/doctor/green-health-docs-liberty", {data:[{}],fetch:{},mutations:[]});

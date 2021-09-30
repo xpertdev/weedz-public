@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/central-city/dispensary/golden-nugget-2", {data:[{}],fetch:{},mutations:[]});

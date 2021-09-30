@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/palm-springs/delivery/reefer-madness-1", {data:[{}],fetch:{},mutations:[]});

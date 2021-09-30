@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/grants/dispensary/grassroots-rx-grants", {data:[{}],fetch:{},mutations:[]});

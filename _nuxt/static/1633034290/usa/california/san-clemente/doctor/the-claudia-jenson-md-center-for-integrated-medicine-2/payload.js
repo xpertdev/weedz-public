@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-clemente/doctor/the-claudia-jenson-md-center-for-integrated-medicine-2", {data:[{}],fetch:{},mutations:[]});

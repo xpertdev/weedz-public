@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/logan/dispensary/strawberry-fields-logan", {data:[{}],fetch:{},mutations:[]});

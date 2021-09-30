@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/store/trinidad-s-higher-cbd-oxygen-bar", {data:[{}],fetch:{},mutations:[]});

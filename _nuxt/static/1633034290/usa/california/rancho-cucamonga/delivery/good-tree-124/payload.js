@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/rancho-cucamonga/delivery/good-tree-124", {data:[{}],fetch:{},mutations:[]});

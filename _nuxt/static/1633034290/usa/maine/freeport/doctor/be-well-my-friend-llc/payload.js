@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/freeport/doctor/be-well-my-friend-llc", {data:[{}],fetch:{},mutations:[]});

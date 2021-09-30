@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/utica/doctor/spinal-and-skeletal-pain-medicine", {data:[{}],fetch:{},mutations:[]});

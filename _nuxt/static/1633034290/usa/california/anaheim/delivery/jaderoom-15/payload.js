@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/delivery/jaderoom-15", {data:[{}],fetch:{},mutations:[]});

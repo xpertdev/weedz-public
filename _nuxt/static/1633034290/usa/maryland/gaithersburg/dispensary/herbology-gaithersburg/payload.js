@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/gaithersburg/dispensary/herbology-gaithersburg", {data:[{}],fetch:{},mutations:[]});

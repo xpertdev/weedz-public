@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/hampton-bays/doctor/hampton-house-calls-and-medi-spa", {data:[{}],fetch:{},mutations:[]});

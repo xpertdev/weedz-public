@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/clearwater/doctor/florida-family-medical-centers", {data:[{}],fetch:{},mutations:[]});

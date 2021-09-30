@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/vian/dispensary/green-med-dispensary", {data:[{}],fetch:{},mutations:[]});

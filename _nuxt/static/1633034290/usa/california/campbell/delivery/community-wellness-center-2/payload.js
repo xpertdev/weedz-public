@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/campbell/delivery/community-wellness-center-2", {data:[{}],fetch:{},mutations:[]});

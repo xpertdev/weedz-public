@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/anaheim/doctor/oc-420-evaluations", {data:[{}],fetch:{},mutations:[]});

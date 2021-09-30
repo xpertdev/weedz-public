@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chowchilla/delivery/empire-kerman", {data:[{}],fetch:{},mutations:[]});

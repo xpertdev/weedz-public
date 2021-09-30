@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/inglewood/doctor/dr-weedy-ee4f094b-e9c8-4bcf-839d-7d0e20d3ce96", {data:[{}],fetch:{},mutations:[]});

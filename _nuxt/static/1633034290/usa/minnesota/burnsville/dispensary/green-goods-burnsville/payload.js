@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/burnsville/dispensary/green-goods-burnsville", {data:[{}],fetch:{},mutations:[]});

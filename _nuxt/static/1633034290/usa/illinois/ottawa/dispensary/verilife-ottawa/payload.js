@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/ottawa/dispensary/verilife-ottawa", {data:[{}],fetch:{},mutations:[]});

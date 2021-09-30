@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/delivery/orangeleaf-13", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/green-cross-delivery-1204", {data:[{}],fetch:{},mutations:[]});

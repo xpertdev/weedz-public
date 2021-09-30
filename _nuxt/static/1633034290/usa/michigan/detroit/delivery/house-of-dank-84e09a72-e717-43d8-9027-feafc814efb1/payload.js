@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/delivery/house-of-dank-84e09a72-e717-43d8-9027-feafc814efb1", {data:[{}],fetch:{},mutations:[]});

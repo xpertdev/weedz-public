@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/redding/delivery/synergy-powered-by-high-times", {data:[{}],fetch:{},mutations:[]});

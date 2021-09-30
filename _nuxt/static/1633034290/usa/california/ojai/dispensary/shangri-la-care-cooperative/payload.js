@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/ojai/dispensary/shangri-la-care-cooperative", {data:[{}],fetch:{},mutations:[]});

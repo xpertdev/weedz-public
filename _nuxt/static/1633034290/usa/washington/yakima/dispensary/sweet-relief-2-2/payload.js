@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/yakima/dispensary/sweet-relief-2-2", {data:[{}],fetch:{},mutations:[]});

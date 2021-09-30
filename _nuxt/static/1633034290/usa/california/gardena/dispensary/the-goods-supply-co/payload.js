@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/gardena/dispensary/the-goods-supply-co", {data:[{}],fetch:{},mutations:[]});

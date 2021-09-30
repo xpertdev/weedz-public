@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-bernardino/delivery/budee-bb82c643-6c9d-4865-8c20-0a09d91bc0b0", {data:[{}],fetch:{},mutations:[]});

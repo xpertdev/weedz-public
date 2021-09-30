@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ft-lauderdale/dispensary/liberty-health-sciences-cannabis-education-center-ft-lauderdale", {data:[{}],fetch:{},mutations:[]});

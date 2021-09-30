@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/tolleson/dispensary/the-phoenix", {data:[{}],fetch:{},mutations:[]});

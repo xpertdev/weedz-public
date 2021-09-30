@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/texarkana/doctor/ar-cannabis-clinic-3", {data:[{}],fetch:{},mutations:[]});

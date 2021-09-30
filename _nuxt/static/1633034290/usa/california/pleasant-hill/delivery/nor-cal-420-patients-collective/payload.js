@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/pleasant-hill/delivery/nor-cal-420-patients-collective", {data:[{}],fetch:{},mutations:[]});

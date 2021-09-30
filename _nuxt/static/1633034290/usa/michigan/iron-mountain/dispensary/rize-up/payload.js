@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/iron-mountain/dispensary/rize-up", {data:[{}],fetch:{},mutations:[]});

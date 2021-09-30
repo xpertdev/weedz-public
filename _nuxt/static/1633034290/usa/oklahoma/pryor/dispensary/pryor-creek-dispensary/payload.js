@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/pryor/dispensary/pryor-creek-dispensary", {data:[{}],fetch:{},mutations:[]});

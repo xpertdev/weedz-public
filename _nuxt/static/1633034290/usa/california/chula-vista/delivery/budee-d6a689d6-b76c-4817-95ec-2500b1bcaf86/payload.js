@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/chula-vista/delivery/budee-d6a689d6-b76c-4817-95ec-2500b1bcaf86", {data:[{}],fetch:{},mutations:[]});

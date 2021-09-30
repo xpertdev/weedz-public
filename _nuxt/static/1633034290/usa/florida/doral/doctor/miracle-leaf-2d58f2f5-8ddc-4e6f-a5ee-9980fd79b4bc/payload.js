@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/doral/doctor/miracle-leaf-2d58f2f5-8ddc-4e6f-a5ee-9980fd79b4bc", {data:[{}],fetch:{},mutations:[]});

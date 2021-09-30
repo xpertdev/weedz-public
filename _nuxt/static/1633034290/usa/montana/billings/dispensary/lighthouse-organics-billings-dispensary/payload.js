@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/billings/dispensary/lighthouse-organics-billings-dispensary", {data:[{}],fetch:{},mutations:[]});

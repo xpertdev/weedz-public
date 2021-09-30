@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/wallingford/doctor/park-avenue-medical-llc", {data:[{}],fetch:{},mutations:[]});

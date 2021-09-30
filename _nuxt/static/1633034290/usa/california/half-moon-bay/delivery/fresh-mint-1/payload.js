@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/half-moon-bay/delivery/fresh-mint-1", {data:[{}],fetch:{},mutations:[]});

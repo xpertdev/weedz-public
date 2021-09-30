@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/niwot/dispensary/starbuds-niwot", {data:[{}],fetch:{},mutations:[]});

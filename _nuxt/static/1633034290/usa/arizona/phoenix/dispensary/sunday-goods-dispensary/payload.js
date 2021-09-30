@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/phoenix/dispensary/sunday-goods-dispensary", {data:[{}],fetch:{},mutations:[]});

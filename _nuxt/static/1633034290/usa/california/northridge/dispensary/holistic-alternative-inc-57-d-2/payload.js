@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/northridge/dispensary/holistic-alternative-inc-57-d-2", {data:[{}],fetch:{},mutations:[]});

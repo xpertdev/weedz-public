@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/district-of-columbia/washington/doctor/metro-best-clinic", {data:[{}],fetch:{},mutations:[]});

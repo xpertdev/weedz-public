@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/store/hi-fashion-cbd", {data:[{}],fetch:{},mutations:[]});

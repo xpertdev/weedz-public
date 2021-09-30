@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/highgarden-dispensary-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/boulder/doctor/grass-roots-medical-clinic-boulder", {data:[{}],fetch:{},mutations:[]});

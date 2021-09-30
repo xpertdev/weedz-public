@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/edmond/dispensary/green-health-clinic-and-dispensary", {data:[{}],fetch:{},mutations:[]});

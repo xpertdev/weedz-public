@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/oakland-park/doctor/the-neuro-well", {data:[{}],fetch:{},mutations:[]});

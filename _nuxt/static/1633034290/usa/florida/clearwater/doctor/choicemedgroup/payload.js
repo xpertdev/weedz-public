@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/clearwater/doctor/choicemedgroup", {data:[{}],fetch:{},mutations:[]});

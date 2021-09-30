@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/portland/delivery/zero-gravity-extracts", {data:[{}],fetch:{},mutations:[]});

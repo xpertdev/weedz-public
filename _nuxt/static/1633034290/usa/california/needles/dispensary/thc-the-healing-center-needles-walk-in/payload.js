@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/needles/dispensary/thc-the-healing-center-needles-walk-in", {data:[{}],fetch:{},mutations:[]});

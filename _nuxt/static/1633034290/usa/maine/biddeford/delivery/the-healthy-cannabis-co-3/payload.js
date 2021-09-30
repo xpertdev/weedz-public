@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/biddeford/delivery/the-healthy-cannabis-co-3", {data:[{}],fetch:{},mutations:[]});

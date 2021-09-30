@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/doctor/canna-care-md-4", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/los-angeles-valley-caregivers", {data:[{}],fetch:{},mutations:[]});

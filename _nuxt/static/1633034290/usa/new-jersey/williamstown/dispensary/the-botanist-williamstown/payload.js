@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-jersey/williamstown/dispensary/the-botanist-williamstown", {data:[{}],fetch:{},mutations:[]});

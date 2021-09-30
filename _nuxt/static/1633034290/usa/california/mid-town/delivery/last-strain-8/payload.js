@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/mid-town/delivery/last-strain-8", {data:[{}],fetch:{},mutations:[]});

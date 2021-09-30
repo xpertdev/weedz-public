@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/huntington/dispensary/420ville-421-422", {data:[{}],fetch:{},mutations:[]});

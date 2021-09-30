@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/springfield/dispensary/hci-alternatives-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/harleysville/doctor/collaborative-cannabis-care", {data:[{}],fetch:{},mutations:[]});

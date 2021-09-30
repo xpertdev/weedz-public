@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/menifee/delivery/kind-delivery-co-3", {data:[{}],fetch:{},mutations:[]});

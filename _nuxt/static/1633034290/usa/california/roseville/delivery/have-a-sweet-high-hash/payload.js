@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/roseville/delivery/have-a-sweet-high-hash", {data:[{}],fetch:{},mutations:[]});

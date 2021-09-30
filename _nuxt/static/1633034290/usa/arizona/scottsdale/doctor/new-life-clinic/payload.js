@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/scottsdale/doctor/new-life-clinic", {data:[{}],fetch:{},mutations:[]});

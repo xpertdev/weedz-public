@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/utah/provo/doctor/utah-therapeutic-health-center-2", {data:[{}],fetch:{},mutations:[]});

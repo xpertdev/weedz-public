@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/palm-bay/dispensary/surterra-wellness-center-palm-bay", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/tulsa/dispensary/eden-cannabis-co-tulsa-memorial", {data:[{}],fetch:{},mutations:[]});

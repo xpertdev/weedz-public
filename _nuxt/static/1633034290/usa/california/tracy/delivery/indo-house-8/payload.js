@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tracy/delivery/indo-house-8", {data:[{}],fetch:{},mutations:[]});

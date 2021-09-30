@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/mt-kisco/doctor/dr-marshall-kramer-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/detroit/dispensary/helping-hand-detroit", {data:[{}],fetch:{},mutations:[]});

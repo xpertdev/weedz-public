@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ada/dispensary/all-natural-solutions", {data:[{}],fetch:{},mutations:[]});

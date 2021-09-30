@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ocala/doctor/medical-marijuana-treatment-clinics-of-florida-89d1c3b0-7180-4968-bbb7-2eb8561db3fb", {data:[{}],fetch:{},mutations:[]});

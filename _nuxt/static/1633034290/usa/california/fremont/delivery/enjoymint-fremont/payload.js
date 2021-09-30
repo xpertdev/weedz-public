@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fremont/delivery/enjoymint-fremont", {data:[{}],fetch:{},mutations:[]});

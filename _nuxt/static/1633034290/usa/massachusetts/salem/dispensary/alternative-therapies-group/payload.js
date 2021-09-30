@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/salem/dispensary/alternative-therapies-group", {data:[{}],fetch:{},mutations:[]});

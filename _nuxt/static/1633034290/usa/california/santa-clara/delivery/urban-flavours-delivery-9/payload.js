@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-clara/delivery/urban-flavours-delivery-9", {data:[{}],fetch:{},mutations:[]});

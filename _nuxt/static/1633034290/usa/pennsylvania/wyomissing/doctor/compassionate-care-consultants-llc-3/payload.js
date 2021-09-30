@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/wyomissing/doctor/compassionate-care-consultants-llc-3", {data:[{}],fetch:{},mutations:[]});

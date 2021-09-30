@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/tracy/delivery/cannablue-1", {data:[{}],fetch:{},mutations:[]});

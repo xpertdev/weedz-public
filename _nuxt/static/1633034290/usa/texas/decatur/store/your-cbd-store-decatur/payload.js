@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/decatur/store/your-cbd-store-decatur", {data:[{}],fetch:{},mutations:[]});

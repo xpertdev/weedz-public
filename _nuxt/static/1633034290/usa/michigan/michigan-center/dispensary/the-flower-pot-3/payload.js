@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/michigan-center/dispensary/the-flower-pot-3", {data:[{}],fetch:{},mutations:[]});

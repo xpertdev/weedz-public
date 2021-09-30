@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/granite-bay-folsom/delivery/lucky-box-club-3", {data:[{}],fetch:{},mutations:[]});

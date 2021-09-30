@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/airway-heights/dispensary/the-top-shelf-2-9", {data:[{}],fetch:{},mutations:[]});

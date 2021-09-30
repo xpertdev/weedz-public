@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/noble/dispensary/rose-rock-dispensary", {data:[{}],fetch:{},mutations:[]});

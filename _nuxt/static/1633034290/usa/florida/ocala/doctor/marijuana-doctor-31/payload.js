@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/ocala/doctor/marijuana-doctor-31", {data:[{}],fetch:{},mutations:[]});

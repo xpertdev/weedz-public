@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/daytona-beach/doctor/comfort-care-clinic-4", {data:[{}],fetch:{},mutations:[]});

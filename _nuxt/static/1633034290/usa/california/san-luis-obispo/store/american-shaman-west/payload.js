@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/san-luis-obispo/store/american-shaman-west", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/fort-stockton/store/cbd-american-shaman-fort-stockton", {data:[{}],fetch:{},mutations:[]});

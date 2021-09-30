@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/kalispell/delivery/grizzly-creek-medical-cannabis-kalispell", {data:[{}],fetch:{},mutations:[]});

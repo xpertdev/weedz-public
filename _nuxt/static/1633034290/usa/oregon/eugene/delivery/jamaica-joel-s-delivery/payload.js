@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/eugene/delivery/jamaica-joel-s-delivery", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/mansfield/store/artisan-vapor-cbd-mansfield", {data:[{}],fetch:{},mutations:[]});

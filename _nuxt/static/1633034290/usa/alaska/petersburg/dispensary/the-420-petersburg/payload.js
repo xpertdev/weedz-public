@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/petersburg/dispensary/the-420-petersburg", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-hampshire/bedford/doctor/palliativity-medical-group-llc", {data:[{}],fetch:{},mutations:[]});

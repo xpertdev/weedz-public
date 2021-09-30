@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/straiin-oklahoma-city", {data:[{}],fetch:{},mutations:[]});

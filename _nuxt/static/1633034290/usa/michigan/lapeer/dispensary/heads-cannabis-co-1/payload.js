@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/lapeer/dispensary/heads-cannabis-co-1", {data:[{}],fetch:{},mutations:[]});

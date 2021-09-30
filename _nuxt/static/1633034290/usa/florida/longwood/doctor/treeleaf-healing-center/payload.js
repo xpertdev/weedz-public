@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/longwood/doctor/treeleaf-healing-center", {data:[{}],fetch:{},mutations:[]});

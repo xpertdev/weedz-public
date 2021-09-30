@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/waldoboro/dispensary/highbrow-waldoboro", {data:[{}],fetch:{},mutations:[]});

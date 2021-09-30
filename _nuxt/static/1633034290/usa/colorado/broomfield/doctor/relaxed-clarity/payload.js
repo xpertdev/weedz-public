@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/broomfield/doctor/relaxed-clarity", {data:[{}],fetch:{},mutations:[]});

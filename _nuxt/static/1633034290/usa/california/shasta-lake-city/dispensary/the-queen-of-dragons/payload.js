@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/shasta-lake-city/dispensary/the-queen-of-dragons", {data:[{}],fetch:{},mutations:[]});

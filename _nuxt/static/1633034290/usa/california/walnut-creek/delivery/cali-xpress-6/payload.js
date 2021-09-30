@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/walnut-creek/delivery/cali-xpress-6", {data:[{}],fetch:{},mutations:[]});

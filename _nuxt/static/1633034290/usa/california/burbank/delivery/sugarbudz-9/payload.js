@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/burbank/delivery/sugarbudz-9", {data:[{}],fetch:{},mutations:[]});

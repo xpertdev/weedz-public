@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/arcata/dispensary/humboldt-patient-resource-center", {data:[{}],fetch:{},mutations:[]});

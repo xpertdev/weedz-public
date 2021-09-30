@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-maria/delivery/terpie-van-winkle", {data:[{}],fetch:{},mutations:[]});

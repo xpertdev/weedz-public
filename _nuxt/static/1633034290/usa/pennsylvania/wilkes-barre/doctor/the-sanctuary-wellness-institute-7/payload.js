@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/wilkes-barre/doctor/the-sanctuary-wellness-institute-7", {data:[{}],fetch:{},mutations:[]});

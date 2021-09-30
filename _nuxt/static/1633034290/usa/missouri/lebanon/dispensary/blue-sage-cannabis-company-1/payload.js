@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/lebanon/dispensary/blue-sage-cannabis-company-1", {data:[{}],fetch:{},mutations:[]});

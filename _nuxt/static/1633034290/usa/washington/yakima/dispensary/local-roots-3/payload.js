@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/yakima/dispensary/local-roots-3", {data:[{}],fetch:{},mutations:[]});

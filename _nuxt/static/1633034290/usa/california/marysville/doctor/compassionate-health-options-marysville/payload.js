@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/marysville/doctor/compassionate-health-options-marysville", {data:[{}],fetch:{},mutations:[]});

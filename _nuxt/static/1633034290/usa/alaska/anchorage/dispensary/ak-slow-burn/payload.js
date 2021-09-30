@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/anchorage/dispensary/ak-slow-burn", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/cousins-cannabis", {data:[{}],fetch:{},mutations:[]});

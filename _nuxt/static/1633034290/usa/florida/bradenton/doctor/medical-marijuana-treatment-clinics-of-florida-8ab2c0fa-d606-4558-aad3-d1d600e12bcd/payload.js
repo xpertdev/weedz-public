@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/bradenton/doctor/medical-marijuana-treatment-clinics-of-florida-8ab2c0fa-d606-4558-aad3-d1d600e12bcd", {data:[{}],fetch:{},mutations:[]});

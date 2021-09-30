@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/connellsville/doctor/cannabis-care-center", {data:[{}],fetch:{},mutations:[]});

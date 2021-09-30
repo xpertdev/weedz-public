@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/cannabless-constitution", {data:[{}],fetch:{},mutations:[]});

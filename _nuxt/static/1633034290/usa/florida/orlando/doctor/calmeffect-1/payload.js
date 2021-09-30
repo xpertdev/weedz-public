@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/orlando/doctor/calmeffect-1", {data:[{}],fetch:{},mutations:[]});

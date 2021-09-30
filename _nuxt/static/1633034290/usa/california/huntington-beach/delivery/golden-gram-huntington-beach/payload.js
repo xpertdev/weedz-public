@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/huntington-beach/delivery/golden-gram-huntington-beach", {data:[{}],fetch:{},mutations:[]});

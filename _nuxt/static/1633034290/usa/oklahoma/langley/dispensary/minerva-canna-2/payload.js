@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/langley/dispensary/minerva-canna-2", {data:[{}],fetch:{},mutations:[]});

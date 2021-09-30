@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/humble/store/cbd-american-shaman-humble", {data:[{}],fetch:{},mutations:[]});

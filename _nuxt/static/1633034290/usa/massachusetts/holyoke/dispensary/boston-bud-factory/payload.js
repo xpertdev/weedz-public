@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/holyoke/dispensary/boston-bud-factory", {data:[{}],fetch:{},mutations:[]});

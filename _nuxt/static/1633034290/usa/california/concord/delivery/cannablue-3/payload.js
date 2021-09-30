@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/concord/delivery/cannablue-3", {data:[{}],fetch:{},mutations:[]});

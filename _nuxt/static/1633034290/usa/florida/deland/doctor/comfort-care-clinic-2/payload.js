@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/deland/doctor/comfort-care-clinic-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/cave-junction/dispensary/bud-bros-cave-junction", {data:[{}],fetch:{},mutations:[]});

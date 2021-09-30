@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/64-dispensary-65", {data:[{}],fetch:{},mutations:[]});

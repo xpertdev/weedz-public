@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/peshastin/dispensary/american-harvest", {data:[{}],fetch:{},mutations:[]});

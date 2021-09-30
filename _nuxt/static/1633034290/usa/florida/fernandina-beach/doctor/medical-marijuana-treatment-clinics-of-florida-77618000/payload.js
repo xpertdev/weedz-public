@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/fernandina-beach/doctor/medical-marijuana-treatment-clinics-of-florida-77618000", {data:[{}],fetch:{},mutations:[]});

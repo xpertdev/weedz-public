@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/okc/dispensary/cannabless-pennsylvania-ave", {data:[{}],fetch:{},mutations:[]});

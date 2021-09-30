@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/crestone/dispensary/higher-elevation-3", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/poway/doctor/online-medical-cards-20", {data:[{}],fetch:{},mutations:[]});

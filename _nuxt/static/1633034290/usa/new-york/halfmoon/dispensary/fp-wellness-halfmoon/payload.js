@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/halfmoon/dispensary/fp-wellness-halfmoon", {data:[{}],fetch:{},mutations:[]});

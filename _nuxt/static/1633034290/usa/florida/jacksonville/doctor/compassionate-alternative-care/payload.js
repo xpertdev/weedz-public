@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/jacksonville/doctor/compassionate-alternative-care", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/st-petersburg/dispensary/curaleaf-st-petersburg", {data:[{}],fetch:{},mutations:[]});

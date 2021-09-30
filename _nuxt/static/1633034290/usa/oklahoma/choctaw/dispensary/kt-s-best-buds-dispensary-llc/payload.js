@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/choctaw/dispensary/kt-s-best-buds-dispensary-llc", {data:[{}],fetch:{},mutations:[]});

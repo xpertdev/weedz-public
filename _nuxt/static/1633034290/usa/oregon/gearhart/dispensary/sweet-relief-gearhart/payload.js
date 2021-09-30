@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/gearhart/dispensary/sweet-relief-gearhart", {data:[{}],fetch:{},mutations:[]});

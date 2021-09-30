@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/connecticut/stamford/doctor/pain-management-associates-of-ct-pc", {data:[{}],fetch:{},mutations:[]});

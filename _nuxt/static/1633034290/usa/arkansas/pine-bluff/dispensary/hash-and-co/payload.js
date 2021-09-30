@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arkansas/pine-bluff/dispensary/hash-and-co", {data:[{}],fetch:{},mutations:[]});

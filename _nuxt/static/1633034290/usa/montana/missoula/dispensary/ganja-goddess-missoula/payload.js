@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/montana/missoula/dispensary/ganja-goddess-missoula", {data:[{}],fetch:{},mutations:[]});

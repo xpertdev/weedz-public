@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/norman/dispensary/meds-wares-2", {data:[{}],fetch:{},mutations:[]});

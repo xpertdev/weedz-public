@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/tabernash/dispensary/bonfire-cannabis-1", {data:[{}],fetch:{},mutations:[]});

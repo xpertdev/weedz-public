@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/airway-heights/dispensary/toker-friendly", {data:[{}],fetch:{},mutations:[]});

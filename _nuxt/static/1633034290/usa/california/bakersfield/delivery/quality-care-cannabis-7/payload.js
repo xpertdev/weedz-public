@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/bakersfield/delivery/quality-care-cannabis-7", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/hialeah/doctor/sol-medical-center", {data:[{}],fetch:{},mutations:[]});

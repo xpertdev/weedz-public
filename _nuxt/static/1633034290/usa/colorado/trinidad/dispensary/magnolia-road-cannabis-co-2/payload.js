@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/trinidad/dispensary/magnolia-road-cannabis-co-2", {data:[{}],fetch:{},mutations:[]});

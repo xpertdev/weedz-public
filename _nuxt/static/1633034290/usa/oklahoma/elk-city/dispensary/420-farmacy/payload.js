@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/elk-city/dispensary/420-farmacy", {data:[{}],fetch:{},mutations:[]});

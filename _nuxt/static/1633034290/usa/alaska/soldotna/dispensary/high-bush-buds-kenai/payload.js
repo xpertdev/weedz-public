@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/soldotna/dispensary/high-bush-buds-kenai", {data:[{}],fetch:{},mutations:[]});

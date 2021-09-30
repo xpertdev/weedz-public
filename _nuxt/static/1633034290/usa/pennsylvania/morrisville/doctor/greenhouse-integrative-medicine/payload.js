@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/morrisville/doctor/greenhouse-integrative-medicine", {data:[{}],fetch:{},mutations:[]});

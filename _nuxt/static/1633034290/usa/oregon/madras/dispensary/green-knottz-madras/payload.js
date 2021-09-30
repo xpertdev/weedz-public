@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/madras/dispensary/green-knottz-madras", {data:[{}],fetch:{},mutations:[]});

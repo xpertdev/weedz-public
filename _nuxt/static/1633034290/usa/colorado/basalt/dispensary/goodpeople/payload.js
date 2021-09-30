@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/basalt/dispensary/goodpeople", {data:[{}],fetch:{},mutations:[]});

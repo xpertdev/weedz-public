@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/timonium/doctor/dr-william-pawluk-md", {data:[{}],fetch:{},mutations:[]});

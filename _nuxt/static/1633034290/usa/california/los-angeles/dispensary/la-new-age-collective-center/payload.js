@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/los-angeles/dispensary/la-new-age-collective-center", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/colorado-springs/dispensary/the-chronic-boutique-pikes-peak", {data:[{}],fetch:{},mutations:[]});

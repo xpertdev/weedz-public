@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/azusa/doctor/online-medical-cards-28", {data:[{}],fetch:{},mutations:[]});

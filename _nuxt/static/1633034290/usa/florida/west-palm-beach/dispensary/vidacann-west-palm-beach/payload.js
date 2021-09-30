@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/west-palm-beach/dispensary/vidacann-west-palm-beach", {data:[{}],fetch:{},mutations:[]});

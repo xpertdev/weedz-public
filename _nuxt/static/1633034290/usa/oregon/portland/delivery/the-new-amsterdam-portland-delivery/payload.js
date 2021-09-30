@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/portland/delivery/the-new-amsterdam-portland-delivery", {data:[{}],fetch:{},mutations:[]});

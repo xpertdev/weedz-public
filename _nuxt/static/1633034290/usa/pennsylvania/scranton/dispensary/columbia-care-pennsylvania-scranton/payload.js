@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/scranton/dispensary/columbia-care-pennsylvania-scranton", {data:[{}],fetch:{},mutations:[]});

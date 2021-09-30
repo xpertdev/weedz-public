@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/rockville/doctor/my-np-health", {data:[{}],fetch:{},mutations:[]});

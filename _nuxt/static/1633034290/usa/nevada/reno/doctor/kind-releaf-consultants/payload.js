@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/reno/doctor/kind-releaf-consultants", {data:[{}],fetch:{},mutations:[]});

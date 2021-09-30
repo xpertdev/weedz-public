@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/las-vegas/doctor/wildflower-medical-consultants", {data:[{}],fetch:{},mutations:[]});

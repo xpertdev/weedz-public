@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/glendale/dispensary/life-flower-dispensary-recreational", {data:[{}],fetch:{},mutations:[]});

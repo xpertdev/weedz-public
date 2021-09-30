@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/missouri/kansas-city/dispensary/greenlight-prospect-coming-soon", {data:[{}],fetch:{},mutations:[]});

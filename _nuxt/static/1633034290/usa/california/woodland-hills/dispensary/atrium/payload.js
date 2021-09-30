@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/woodland-hills/dispensary/atrium", {data:[{}],fetch:{},mutations:[]});

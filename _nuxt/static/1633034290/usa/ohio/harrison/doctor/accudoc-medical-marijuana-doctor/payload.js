@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/harrison/doctor/accudoc-medical-marijuana-doctor", {data:[{}],fetch:{},mutations:[]});

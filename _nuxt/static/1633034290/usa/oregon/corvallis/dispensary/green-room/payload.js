@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/corvallis/dispensary/green-room", {data:[{}],fetch:{},mutations:[]});

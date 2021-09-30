@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/arizona/mesa/dispensary/health-for-life-az-east-mesa", {data:[{}],fetch:{},mutations:[]});

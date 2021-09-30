@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/hayward/doctor/online-medical-cards-6", {data:[{}],fetch:{},mutations:[]});

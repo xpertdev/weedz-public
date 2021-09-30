@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/glendale/delivery/pac-la-glendale", {data:[{}],fetch:{},mutations:[]});

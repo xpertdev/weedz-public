@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/middle-village/doctor/medicalmarijuanacard-nyc", {data:[{}],fetch:{},mutations:[]});

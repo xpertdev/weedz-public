@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/pennsylvania/easton/doctor/amazing-grace-medical-center", {data:[{}],fetch:{},mutations:[]});

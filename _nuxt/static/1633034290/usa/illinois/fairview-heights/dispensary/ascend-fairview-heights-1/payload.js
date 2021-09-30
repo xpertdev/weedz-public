@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/fairview-heights/dispensary/ascend-fairview-heights-1", {data:[{}],fetch:{},mutations:[]});

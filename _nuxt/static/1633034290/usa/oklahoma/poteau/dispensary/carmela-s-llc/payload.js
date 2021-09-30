@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/poteau/dispensary/carmela-s-llc", {data:[{}],fetch:{},mutations:[]});

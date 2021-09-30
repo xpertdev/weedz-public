@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/emeryville/dispensary/east-bay-therapeutic", {data:[{}],fetch:{},mutations:[]});

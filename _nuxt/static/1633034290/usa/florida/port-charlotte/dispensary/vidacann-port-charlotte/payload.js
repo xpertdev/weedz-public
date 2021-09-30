@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/port-charlotte/dispensary/vidacann-port-charlotte", {data:[{}],fetch:{},mutations:[]});

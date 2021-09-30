@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/idabel/dispensary/mccurtain-s-finest", {data:[{}],fetch:{},mutations:[]});

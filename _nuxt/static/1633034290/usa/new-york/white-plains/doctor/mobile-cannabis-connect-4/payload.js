@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/white-plains/doctor/mobile-cannabis-connect-4", {data:[{}],fetch:{},mutations:[]});

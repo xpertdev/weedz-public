@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/caprinteria/delivery/budee-b68d0d7d-f145-4aab-b7fb-3eb9140bb291", {data:[{}],fetch:{},mutations:[]});

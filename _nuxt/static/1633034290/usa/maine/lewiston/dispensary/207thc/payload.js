@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/lewiston/dispensary/207thc", {data:[{}],fetch:{},mutations:[]});

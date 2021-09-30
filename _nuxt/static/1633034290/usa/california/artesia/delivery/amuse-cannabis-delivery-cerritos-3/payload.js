@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/artesia/delivery/amuse-cannabis-delivery-cerritos-3", {data:[{}],fetch:{},mutations:[]});

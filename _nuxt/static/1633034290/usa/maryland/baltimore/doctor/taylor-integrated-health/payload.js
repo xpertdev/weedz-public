@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/baltimore/doctor/taylor-integrated-health", {data:[{}],fetch:{},mutations:[]});

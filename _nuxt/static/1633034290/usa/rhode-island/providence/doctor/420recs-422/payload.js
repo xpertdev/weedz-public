@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/rhode-island/providence/doctor/420recs-422", {data:[{}],fetch:{},mutations:[]});

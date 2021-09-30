@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/heavener/dispensary/native-grows-native-herb-from-native-land-llc", {data:[{}],fetch:{},mutations:[]});

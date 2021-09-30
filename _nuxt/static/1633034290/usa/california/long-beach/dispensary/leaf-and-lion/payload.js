@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/long-beach/dispensary/leaf-and-lion", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/denver/dispensary/groundswell-recreational", {data:[{}],fetch:{},mutations:[]});

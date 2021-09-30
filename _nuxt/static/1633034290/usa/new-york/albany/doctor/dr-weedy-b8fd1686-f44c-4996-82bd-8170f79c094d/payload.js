@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/albany/doctor/dr-weedy-b8fd1686-f44c-4996-82bd-8170f79c094d", {data:[{}],fetch:{},mutations:[]});

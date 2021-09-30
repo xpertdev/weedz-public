@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lake-forest/delivery/green-cross-delivery-lake-forest", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/new-york/doctor/dr-yuri-brosgol", {data:[{}],fetch:{},mutations:[]});

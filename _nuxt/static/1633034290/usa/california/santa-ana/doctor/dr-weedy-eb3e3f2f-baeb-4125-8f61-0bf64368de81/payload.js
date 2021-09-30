@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-ana/doctor/dr-weedy-eb3e3f2f-baeb-4125-8f61-0bf64368de81", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/davis/dispensary/the-kana-company", {data:[{}],fetch:{},mutations:[]});

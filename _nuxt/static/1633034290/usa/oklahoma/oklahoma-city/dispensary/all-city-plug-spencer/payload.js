@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/oklahoma-city/dispensary/all-city-plug-spencer", {data:[{}],fetch:{},mutations:[]});

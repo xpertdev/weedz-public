@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/albuquerque/dispensary/sacred-garden-san-mateo-blvd", {data:[{}],fetch:{},mutations:[]});

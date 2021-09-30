@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maryland/capitol-heights/dispensary/mary-and-main-capitol-heights", {data:[{}],fetch:{},mutations:[]});

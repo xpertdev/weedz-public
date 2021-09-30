@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/east-tawas/dispensary/the-botanical-co", {data:[{}],fetch:{},mutations:[]});

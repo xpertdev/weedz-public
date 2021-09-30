@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/massachusetts/webster/dispensary/the-vault-5", {data:[{}],fetch:{},mutations:[]});

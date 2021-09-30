@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/las-vegas/delivery/pisos-west-las-vegas-7", {data:[{}],fetch:{},mutations:[]});

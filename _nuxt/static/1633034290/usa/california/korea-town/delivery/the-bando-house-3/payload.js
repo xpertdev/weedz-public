@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/korea-town/delivery/the-bando-house-3", {data:[{}],fetch:{},mutations:[]});

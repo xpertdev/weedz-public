@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/fairfield/delivery/smoke-on-the-water-14", {data:[{}],fetch:{},mutations:[]});

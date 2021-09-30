@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/akron/dispensary/greenleaf-apothecary-akron", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oregon/veneta/dispensary/oregon-s-herbal-remedies-2", {data:[{}],fetch:{},mutations:[]});

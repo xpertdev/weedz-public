@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/washington/pullman/dispensary/satori", {data:[{}],fetch:{},mutations:[]});

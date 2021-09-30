@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sacramento/dispensary/the-florin-and-wellness-center", {data:[{}],fetch:{},mutations:[]});

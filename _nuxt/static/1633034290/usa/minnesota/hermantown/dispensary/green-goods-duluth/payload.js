@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/minnesota/hermantown/dispensary/green-goods-duluth", {data:[{}],fetch:{},mutations:[]});

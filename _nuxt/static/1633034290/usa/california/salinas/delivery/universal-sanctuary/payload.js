@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/salinas/delivery/universal-sanctuary", {data:[{}],fetch:{},mutations:[]});

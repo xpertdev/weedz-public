@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/dispensary/green-aid-society", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/oakland/delivery/mountain-remedy-oakland", {data:[{}],fetch:{},mutations:[]});

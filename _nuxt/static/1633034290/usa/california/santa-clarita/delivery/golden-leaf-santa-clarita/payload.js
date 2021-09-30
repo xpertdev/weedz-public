@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/santa-clarita/delivery/golden-leaf-santa-clarita", {data:[{}],fetch:{},mutations:[]});

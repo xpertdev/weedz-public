@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/florida/dania-beach/doctor/miracle-leaf-dania-beach", {data:[{}],fetch:{},mutations:[]});

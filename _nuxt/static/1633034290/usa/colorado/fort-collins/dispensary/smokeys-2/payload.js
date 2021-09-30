@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/fort-collins/dispensary/smokeys-2", {data:[{}],fetch:{},mutations:[]});

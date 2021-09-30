@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/freeland/delivery/elite-wellness-bay-city-delivery", {data:[{}],fetch:{},mutations:[]});

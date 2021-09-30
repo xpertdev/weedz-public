@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/sun-valley/delivery/get-weed-la-18", {data:[{}],fetch:{},mutations:[]});

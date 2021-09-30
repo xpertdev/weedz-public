@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/felton/dispensary/curb-stone-exchange", {data:[{}],fetch:{},mutations:[]});

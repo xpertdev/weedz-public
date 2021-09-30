@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/lawton/doctor/prestodoctor-com-100-online-2", {data:[{}],fetch:{},mutations:[]});

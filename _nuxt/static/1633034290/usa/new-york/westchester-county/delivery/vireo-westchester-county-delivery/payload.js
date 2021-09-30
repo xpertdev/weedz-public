@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-york/westchester-county/delivery/vireo-westchester-county-delivery", {data:[{}],fetch:{},mutations:[]});

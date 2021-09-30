@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/texas/grapevine/store/artisan-vapor-cbd-grapevine", {data:[{}],fetch:{},mutations:[]});

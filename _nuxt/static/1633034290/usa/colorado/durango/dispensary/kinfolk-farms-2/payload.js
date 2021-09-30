@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/durango/dispensary/kinfolk-farms-2", {data:[{}],fetch:{},mutations:[]});

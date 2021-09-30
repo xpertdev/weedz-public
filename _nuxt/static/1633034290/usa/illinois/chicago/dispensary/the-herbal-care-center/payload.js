@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/chicago/dispensary/the-herbal-care-center", {data:[{}],fetch:{},mutations:[]});

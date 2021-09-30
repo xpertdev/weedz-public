@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/alaska/fairbanks/dispensary/grass-station-49-2", {data:[{}],fetch:{},mutations:[]});

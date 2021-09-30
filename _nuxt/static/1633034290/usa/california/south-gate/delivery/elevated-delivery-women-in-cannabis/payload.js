@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/south-gate/delivery/elevated-delivery-women-in-cannabis", {data:[{}],fetch:{},mutations:[]});

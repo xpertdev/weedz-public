@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/oklahoma/ponca-city/dispensary/holy-smokes-dispensary", {data:[{}],fetch:{},mutations:[]});

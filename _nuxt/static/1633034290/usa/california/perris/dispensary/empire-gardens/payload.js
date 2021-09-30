@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/perris/dispensary/empire-gardens", {data:[{}],fetch:{},mutations:[]});

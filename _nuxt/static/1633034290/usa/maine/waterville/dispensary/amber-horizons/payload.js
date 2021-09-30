@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/maine/waterville/dispensary/amber-horizons", {data:[{}],fetch:{},mutations:[]});

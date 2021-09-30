@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/aurora/dispensary/terrapin-care-station-aurora", {data:[{}],fetch:{},mutations:[]});

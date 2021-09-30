@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/dumont/dispensary/sofa-king-medicinal-wellness-products", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/illinois/worth/dispensary/windy-city-cannabis-2-2", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/colorado/englewood/dispensary/bgood-englewood", {data:[{}],fetch:{},mutations:[]});

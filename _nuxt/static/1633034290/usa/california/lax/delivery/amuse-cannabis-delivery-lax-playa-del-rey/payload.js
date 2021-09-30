@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/lax/delivery/amuse-cannabis-delivery-lax-playa-del-rey", {data:[{}],fetch:{},mutations:[]});

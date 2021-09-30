@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/delaware/lewes/dispensary/first-state-compassion-center-lewes", {data:[{}],fetch:{},mutations:[]});

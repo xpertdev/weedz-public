@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/covina/delivery/cake-covina", {data:[{}],fetch:{},mutations:[]});

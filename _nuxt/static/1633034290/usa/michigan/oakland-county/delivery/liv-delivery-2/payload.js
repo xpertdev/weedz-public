@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/michigan/oakland-county/delivery/liv-delivery-2", {data:[{}],fetch:{},mutations:[]});

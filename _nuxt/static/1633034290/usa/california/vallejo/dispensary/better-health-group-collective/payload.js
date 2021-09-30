@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/vallejo/dispensary/better-health-group-collective", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/ohio/cuyahoga-falls/doctor/green-care-medical-8", {data:[{}],fetch:{},mutations:[]});

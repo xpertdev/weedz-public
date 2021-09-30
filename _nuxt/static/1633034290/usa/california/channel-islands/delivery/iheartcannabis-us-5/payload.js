@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/california/channel-islands/delivery/iheartcannabis-us-5", {data:[{}],fetch:{},mutations:[]});

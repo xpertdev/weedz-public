@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/new-mexico/los-lunas/dispensary/natural-rx-3", {data:[{}],fetch:{},mutations:[]});
