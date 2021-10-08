@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usa/nevada/delivery", {data:[{}],fetch:{},mutations:[]});
