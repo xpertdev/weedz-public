@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/usa/west-virginia/doctor", {data:[{}],fetch:{},mutations:[]});
